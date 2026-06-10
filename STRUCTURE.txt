@@ -1,0 +1,110 @@
+zidane-tim-setup/                          ← À CRÉER SUR GITHUB
+│
+├── 📄 QUICKSTART.md                       ← LIS-MOI EN PREMIER
+├── 📄 SETUP-GITHUB.md                     ← Étapes d'installation
+├── 📄 COMMENT-CA-MARCHE.md                ← Explication technique
+├── 📄 README.md                           ← Documentation du projet
+│
+├── 📄 mkdocs.yml                          ← ⚙️ Configuration MkDocs
+│   (Définit le thème, la nav, les plugins)
+│
+├── 📄 .gitignore                          ← Fichiers à ignorer dans Git
+│
+├── 📁 docs/                               ← 📚 TOUS LES MARKDOWN ICI
+│   │
+│   ├── 📄 index.md                        ← Page d'accueil
+│   │
+│   ├── 📁 cours/                          ← Organisé par filière
+│   │   │
+│   │   ├── 📁 sapat/
+│   │   │   ├── 📄 c12-numerique.md       ← Exemple : Cours C1.2
+│   │   │   └── 📄 mp8.md                 ← (À créer)
+│   │   │
+│   │   ├── 📁 cap-aepe/
+│   │   │   └── 📄 index.md               ← Hub CAP AEPE
+│   │   │
+│   │   ├── 📁 capasapver/
+│   │   │   └── 📄 index.md               ← Hub CAPa SAPVER
+│   │   │
+│   │   ├── 📁 college/
+│   │   │   └── 📄 index.md               ← Hub Collège
+│   │   │
+│   │   └── 📁 formations-ia/
+│   │       └── 📄 index.md               ← Hub Formations IA
+│   │
+│   └── 📁 ressources/
+│       └── 📄 index.md                   ← Hub Ressources
+│
+└── 📁 .github/
+    └── 📁 workflows/
+        └── 📄 build.yml                  ← 🤖 GitHub Actions (CI/CD)
+            (Lance automatiquement à chaque push)
+
+
+═══════════════════════════════════════════════════════════════
+
+ÉTAPES D'UTILISATION
+
+1️⃣  Lis QUICKSTART.md (2 min)
+2️⃣  Crée un repo "zidane-tim" sur GitHub
+3️⃣  Lance les 6 commandes Git dans PowerShell
+4️⃣  Attends 2 min
+5️⃣  Visite https://[TON_USERNAME].github.io/zidane-tim/
+6️⃣  C'est live ! ✅
+
+═══════════════════════════════════════════════════════════════
+
+AJOUTER DES COURS
+
+Après l'installation, pour ajouter un nouveau cours :
+
+1. Crée un fichier Markdown : docs/cours/[filière]/[mon-cours].md
+2. Ajoute l'entrée dans mkdocs.yml (section nav:)
+3. Fait un git push
+4. Attends 2 min → Site automatiquement mis à jour
+
+═══════════════════════════════════════════════════════════════
+
+FICHIERS CLÉS À CONNAÎTRE
+
+mkdocs.yml
+  ↳ Détermine la NAVIGATION du site
+  ↳ Thème, couleurs, plugins
+  ↳ À modifier si tu reorganises les cours
+
+.github/workflows/build.yml
+  ↳ Lance automatiquement à chaque push
+  ↳ Compile Markdown → HTML
+  ↳ Publie sur GitHub Pages
+  ↳ Généralement : NE PAS MODIFIER
+
+docs/
+  ↳ TOUS LES MARKDOWN (sources)
+  ↳ C'est là que tu travailles
+  ↳ À jour = site à jour
+
+═══════════════════════════════════════════════════════════════
+
+QUESTIONS COURANTES
+
+Q: Les élèves peuvent modifier le site ?
+R: Non, c'est public en lecture seule.
+
+Q: Combien ça coûte ?
+R: $0. GitHub Pages + Actions = gratuit.
+
+Q: Où sont hebergés les fichiers ?
+R: Sur GitHub (serveurs GitHub = serveurs Microsoft/Azure).
+
+Q: Peut-on avoir un domaine custom ?
+R: Oui, via les settings GitHub Pages (optionnel).
+
+Q: Ça marche hors ligne ?
+R: Non, c'est un site web. Besoin d'Internet.
+
+Q: Peut-on modifier les cours offline et synchroniser ?
+R: Oui avec "Obsidian Git" plugin (automatise les push).
+
+═══════════════════════════════════════════════════════════════
+
+Créé par Claude pour Driss ZIDANE - Juin 2026

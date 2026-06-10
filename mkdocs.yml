@@ -1,0 +1,61 @@
+site_name: Zidane TIM - Cours & Formations
+site_description: Cours et ressources pédagogiques pour les élèves du réseau CNEAP
+site_url: https://zidane.github.io/zidane-tim/
+repo_url: https://github.com/zidane/zidane-tim
+repo_name: zidane-tim
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: light
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Mode clair
+    - scheme: dark
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Mode sombre
+
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+nav:
+  - Accueil: index.md
+  - Cours:
+    - Bac Pro SAPAT:
+      - C1.2 Numérique: cours/sapat/c12-numerique.md
+      - MP8: cours/sapat/mp8.md
+    - CAP AEPE: cours/cap-aepe/index.md
+    - CAPa SAPVER: cours/capasapver/index.md
+    - Collège: cours/college/index.md
+  - Formations IA: cours/formations-ia/index.md
+  - Ressources: ressources/index.md
