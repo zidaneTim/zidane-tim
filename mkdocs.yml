@@ -51,11 +51,13 @@ markdown_extensions:
 nav:
   - Accueil: index.md
   - Cours:
+    - Collège (4e · 3e): cours/college/index.md
+    - CAPa SAPVER:
+      - Présentation: cours/capa-sapver/index.md
+      - SQ05 Phishing (MG1): cours/capa-sapver/activites/sq05-phishing.md
     - Bac Pro SAPAT:
-      - C1.2 Numérique: cours/sapat/c12-numerique.md
-      - MP8: cours/sapat/mp8.md
-    - CAP AEPE: cours/cap-aepe/index.md
-    - CAPa SAPVER: cours/capasapver/index.md
-    - Collège: cours/college/index.md
+      - Présentation: cours/sapat/index.md
+      - C1.2 Données numériques: cours/sapat/c12-donnees-numeriques.md
+      - C8.1/C8.2 Cadre de vie: cours/sapat/c81-c82-cadre-de-vie.md
   - Formations IA: cours/formations-ia/index.md
   - Ressources: ressources/index.md

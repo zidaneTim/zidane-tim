@@ -1,34 +1,17 @@
----
-titre: "Formations IA - CNEAP"
-date_creation: 2026-06-10
-date_modif: 2026-06-10
-type: domaine
-tags: [IA, formateur, formations]
-statut: actif
----
+# Formations IA — Réseau CNEAP
 
-# Formations IA pour le Réseau CNEAP
-
-## Présentation
-
-Formations spécialisées sur l'utilisation de l'intelligence artificielle en contexte pédagogique et professionnel.
-
-Interventions dans les établissements du réseau CNEAP (Kerguenec, Saint-Molf, Redon, Dinan, etc.)
+Formations sur l'utilisation de l'intelligence artificielle en contexte pédagogique et professionnel, à destination des enseignants et formateurs du réseau CNEAP.
 
 ## Thèmes couverts
 
-- Fondamentaux de l'IA
-- Utilisation de Claude AI en pédagogie
-- Outils IA pour l'enseignement
-- Intégration IA dans les pratiques professionnelles
-- Éthique et responsabilité
+- Fondamentaux de l'IA générative
+- Usage de l'IA en pédagogie (préparation, différenciation, évaluation)
+- Littératie du prompt : pourquoi la qualité de la demande change le résultat
+- Vérification des productions IA (hallucinations, sources)
+- Éthique, cadre réglementaire et responsabilité
 
-## Public
+## Interventions
 
-- Enseignants
-- Formateurs
-- Établissements du réseau CNEAP
+Interventions dans les établissements du réseau (Kerguenec, Saint-Molf, Redon…) et dispositif TUTAC avec l'IFEAP.
 
----
-
-**Animateur** : Driss ZIDANE, Formateur IA CNEAP
+**Animateur** : Driss Zidane, enseignant TIM, formateur IA IFEAP/CNEAP.

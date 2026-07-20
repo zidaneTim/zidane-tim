@@ -1,45 +1,16 @@
----
-titre: "Ressources Pédagogiques"
-date_creation: 2026-06-10
-date_modif: 2026-06-10
-type: ressource
-tags: [ressources, referentiel]
-statut: actif
----
+# Ressources
 
-# Ressources Pédagogiques
+## Liens officiels
 
-## Référentiels officiels
+- [Pix](https://pix.fr) — certification des compétences numériques (CRCN)
+- [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr) — assistance et prévention en sécurité numérique
+- [Signal Spam](https://www.signal-spam.fr) — signalement des courriels indésirables
+- [ChloroFil](https://chlorofil.fr) — référentiels de l'enseignement agricole (MASA)
+- [CNEAP](https://www.cneap.fr) — réseau de l'enseignement agricole privé
 
-- Référentiels Bac Pro SAPAT
-- Référentiels CAP AEPE
-- Référentiels CAPa SAPVER
-- Référentiels Collège
+## Réflexes numériques essentiels
 
-## Outils et templates
-
-- Templates Markdown pour les cours
-- Modèles d'évaluation
-- Grilles d'observation
-
-## Liens utiles
-
-### CNEAP
-- [Site officiel CNEAP](https://www.cneap.fr)
-- Ressources du réseau
-
-### Éducation Nationale
-- [Éduscol](https://eduscol.education.fr)
-- [Portail Pronote](https://www.index-education.com)
-
-### IA et Pédagogie
-- Claude AI
-- Outils IA pour l'éducation
-
----
-
-## Comment contribuer
-
-Vos suggestions et ressources supplémentaires sont bienvenues !
-
-Contactez l'équipe pédagogique pour ajouter vos propres ressources.
+- **33700** : numéro officiel de signalement des SMS frauduleux
+- Vérifier l'expéditeur et l'adresse réelle avant de cliquer sur un lien
+- Mettre à jour ses appareils et applications
+- Un mot de passe fort et différent par service

@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>L'eau du robinet en Bretagne Centre · C1.2 · 1ère SAPAT</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ============================================================
+       CHARTE GRAPHIQUE — FIXE — NE PAS MODIFIER
+    ============================================================ */
+    :root {
+      --marine:        #1a2e5c;
+      --marine-light:  #243d78;
+      --marine-pale:   #e8edf6;
+      --or:            #c8973a;
+      --or-light:      #e8b96a;
+      --or-pale:       #fdf6e8;
+      --creme:         #faf8f3;
+      --creme-dark:    #f0ece0;
+      --gris-clair:    #f4f4f4;
+      --gris-moyen:    #e0ddd5;
+      --gris-texte:    #555555;
+      --noir:          #1a1a1a;
+      --vert-doux:     #e8f4ea;
+      --vert-bord:     #4a8c5c;
+      --rouge-doux:    #fdecea;
+      --rouge-bord:    #c0392b;
+
+      --font-titre:    'DM Serif Display', Georgia, serif;
+      --font-corps:    'DM Sans', sans-serif;
+      --font-mono:     'JetBrains Mono', monospace;
+
+      --radius:        10px;
+      --radius-sm:     6px;
+      --shadow:        0 2px 12px rgba(26,46,92,.10);
+      --shadow-md:     0 4px 16px rgba(26,46,92,.13);
+      --shadow-lg:     0 6px 24px rgba(26,46,92,.16);
+      --max-width:     920px;
+      --section-gap:   2rem;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-corps);
+      background: var(--creme);
+      color: var(--noir);
+      font-size: 13.5px;
+      line-height: 1.65;
+    }
+
+    .tricolor-bar { display: flex; height: 5px; }
+    .tricolor-bar .bleu  { flex:1; background:#002395; }
+    .tricolor-bar .blanc { flex:1; background:#FFFFFF; }
+    .tricolor-bar .rouge { flex:1; background:#ED2939; }
+
+    .activity-header {
+      background: linear-gradient(135deg, var(--marine) 0%, #0f1f3d 100%);
+      color: var(--creme);
+      padding: 22px 32px 18px;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .header-icon {
+      font-size: 52px;
+      line-height: 1;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,.3));
+    }
+
+    .header-text {}
+
+    .header-label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--or-light);
+      margin-bottom: .4rem;
+    }
+
+    .header-title {
+      font-family: var(--font-titre);
+      font-size: clamp(1.3rem, 3vw, 1.9rem);
+      line-height: 1.2;
+      color: var(--creme);
+    }
+
+    .header-title span { color: var(--or-light); }
+
+    .header-subtitle {
+      font-size: .82rem;
+      color: rgba(250,248,243,.65);
+      margin-top: .3rem;
+    }
+
+    .header-meta {
+      background: rgba(255,255,255,.1);
+      border: 1px solid rgba(255,255,255,.15);
+      border-radius: var(--radius-sm);
+      padding: 10px 14px;
+      font-size: .8rem;
+      line-height: 2;
+      text-align: right;
+      color: rgba(250,248,243,.75);
+      min-width: 190px;
+    }
+    .header-meta strong { color: var(--creme); }
+
+    .competences-bar {
+      background: var(--or);
+      padding: 8px 32px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .comp-label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--marine);
+      margin-right: 2px;
+    }
+
+    .pill {
+      background: rgba(255,255,255,.25);
+      border: 1.5px solid rgba(255,255,255,.55);
+      color: var(--marine);
+      border-radius: 20px;
+      padding: 2px 11px;
+      font-size: .75rem;
+      font-weight: 600;
+      font-family: var(--font-corps);
+      white-space: nowrap;
+    }
+
+    main {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 24px 28px 40px;
+    }
+
+    section { margin-bottom: var(--section-gap); }
+
+    .section-title {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--creme);
+      background: var(--marine);
+      border-radius: 20px;
+      padding: .3rem .9rem;
+      margin-bottom: 1rem;
+    }
+
+    .situation {
+      background: var(--or-pale);
+      border: 2px solid #e8c87a;
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 16px;
+      align-items: start;
+      box-shadow: var(--shadow);
+    }
+
+    .situation-picto { font-size: 44px; line-height: 1; }
+
+    .situation p { font-size: .9rem; color: #4a3010; line-height: 1.7; }
+    .situation p + p { margin-top: .6rem; }
+    .situation strong { color: var(--or); }
+
+    .problematique-box {
+      border-left: 5px solid var(--or);
+      background: white;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 1rem 1.3rem;
+      box-shadow: var(--shadow);
+      margin-top: 1rem;
+    }
+    .problematique-box__label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--or);
+      margin-bottom: .35rem;
+    }
+    .problematique-box__text {
+      font-family: var(--font-titre);
+      font-size: 1.05rem;
+      color: var(--marine);
+      font-style: italic;
+      line-height: 1.5;
+    }
+
+    .objectives-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: .55rem;
+    }
+
+    .objectives-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: .7rem;
+      background: white;
+      border-radius: var(--radius-sm);
+      padding: .65rem .95rem;
+      box-shadow: var(--shadow);
+      border-left: 4px solid var(--or);
+      font-size: .88rem;
+    }
+
+    .objectives-list li .obj-icon { font-size: .95rem; flex-shrink: 0; margin-top: .1rem; }
+
+    .crcn-tag {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      background: var(--marine);
+      color: var(--or-light);
+      border-radius: 4px;
+      padding: .1rem .4rem;
+      white-space: nowrap;
+      margin-left: auto;
+      align-self: center;
+      flex-shrink: 0;
+    }
+
+    .table-wrapper {
+      border: 2px solid var(--gris-moyen);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .85rem;
+      background: white;
+    }
+
+    .data-table thead tr { background: var(--marine); color: var(--creme); }
+    .data-table thead th {
+      padding: 9px 10px;
+      text-align: left;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      letter-spacing: .04em;
+      font-weight: 500;
+      border-right: 1px solid rgba(255,255,255,.12);
+    }
+    .data-table thead th:last-child { border-right: none; }
+
+    .data-table tbody tr:nth-child(even)  { background: var(--marine-pale); }
+    .data-table tbody tr:nth-child(odd)   { background: white; }
+    .data-table tbody tr:hover            { background: var(--creme-dark); }
+    .data-table tbody td {
+      padding: 7px 10px;
+      border-right: 1px solid var(--gris-moyen);
+      border-bottom: 1px solid var(--gris-moyen);
+      vertical-align: middle;
+    }
+    .data-table tbody td:last-child { border-right: none; }
+    .data-table tfoot tr { background: var(--creme-dark); }
+    .data-table tfoot td {
+      padding: 8px 10px;
+      font-weight: 600;
+      color: var(--marine);
+      border-top: 2px solid var(--gris-moyen);
+      font-size: .82rem;
+    }
+
+    .td-activite { font-weight: 600; color: var(--marine); }
+    .td-formule  { font-family: var(--font-mono); font-size: .78rem; color: var(--gris-texte); font-style: italic; }
+    .td-num      { text-align: right; font-variant-numeric: tabular-nums; }
+
+    .table-note {
+      background: #fffde7;
+      border: 1px dashed #d4b820;
+      border-radius: var(--radius-sm);
+      padding: 8px 14px;
+      font-size: .82rem;
+      color: #6b5200;
+      margin-top: 10px;
+    }
+
+    .consignes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 11px;
+    }
+
+    .consigne-bloc {
+      margin-bottom: 1.3rem;
+    }
+
+    .consigne-bloc__label {
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--marine);
+      margin-bottom: .5rem;
+      display: block;
+    }
+
+    .consigne-item {
+      background: white;
+      border: 1.5px solid var(--gris-moyen);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 56px 1fr;
+      box-shadow: var(--shadow);
+      margin-bottom: 11px;
+    }
+
+    .consigne-num {
+      background: var(--marine);
+      color: var(--creme);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-titre);
+      font-size: 1.6rem;
+      flex-shrink: 0;
+    }
+
+    .consigne-item.or   .consigne-num { background: var(--or); color: var(--marine); }
+    .consigne-item.vert .consigne-num { background: var(--vert-bord); }
+
+    .consigne-content { padding: 12px 16px; }
+
+    .consigne-titre {
+      font-family: var(--font-titre);
+      font-size: .95rem;
+      color: var(--marine);
+      margin-bottom: 7px;
+    }
+    .consigne-item.or   .consigne-titre { color: var(--or); }
+    .consigne-item.vert .consigne-titre { color: var(--vert-bord); }
+
+    .consigne-content ol {
+      padding-left: 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .3rem;
+    }
+    .consigne-content li {
+      padding: .25rem 0;
+      border-bottom: 1px dotted var(--gris-moyen);
+      font-size: .88rem;
+      line-height: 1.55;
+    }
+    .consigne-content li:last-child { border-bottom: none; }
+
+    .formule {
+      display: inline-block;
+      background: var(--marine-pale);
+      border: 1px solid #b0bedd;
+      color: var(--marine);
+      font-family: var(--font-mono);
+      font-size: .78rem;
+      padding: .05rem .45rem;
+      border-radius: 3px;
+      font-weight: 500;
+    }
+    .formule.or { background: var(--or-pale); border-color: #e8c87a; color: #7a5010; }
+
+    .badge {
+      display: inline-block;
+      background: var(--or);
+      color: var(--marine);
+      font-family: var(--font-mono);
+      font-size: .65rem;
+      font-weight: 600;
+      padding: .1rem .5rem;
+      border-radius: 10px;
+      vertical-align: middle;
+      margin-left: .3rem;
+    }
+
+    .astuce {
+      background: var(--vert-doux);
+      border-left: 4px solid var(--vert-bord);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 8px 13px;
+      font-size: .82rem;
+      color: #1a4030;
+      margin-top: 9px;
+    }
+    .astuce strong { color: var(--vert-bord); }
+
+    .reponses-zone {
+      background: var(--gris-clair);
+      border-radius: var(--radius);
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .reponse-item {
+      background: white;
+      border: 1.5px solid var(--gris-moyen);
+      border-radius: var(--radius-sm);
+      padding: 9px 12px;
+    }
+
+    .reponse-label {
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      font-weight: 600;
+      color: var(--marine);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      margin-bottom: 4px;
+    }
+
+    .reponse-ligne {
+      border-bottom: 1.5px solid #ccc;
+      height: 22px;
+      margin-top: 4px;
+    }
+
+    .reponse-hint {
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      color: #aaa;
+      margin-top: 3px;
+    }
+
+    .resource-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: .85rem;
+    }
+
+    .resource-card {
+      background: white;
+      border-radius: var(--radius);
+      padding: 1rem;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: .4rem;
+      border-top: 3px solid var(--marine);
+    }
+    .resource-card.or    { border-top-color: var(--or); }
+    .resource-card.vert  { border-top-color: var(--vert-bord); }
+
+    .resource-card__icon  { font-size: 1.35rem; }
+    .resource-card__title { font-weight: 600; font-size: .88rem; color: var(--marine); line-height: 1.3; }
+    .resource-card__desc  { font-size: .8rem; color: var(--gris-texte); line-height: 1.5; flex: 1; }
+    .resource-card__link  {
+      display: inline-block;
+      margin-top: .25rem;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--or);
+      text-decoration: none;
+      font-family: var(--font-mono);
+    }
+    .resource-card__search {
+      font-size: .76rem;
+      font-family: var(--font-mono);
+      color: var(--gris-texte);
+      background: var(--gris-clair);
+      border-radius: var(--radius-sm);
+      padding: .28rem .5rem;
+      margin-top: .25rem;
+    }
+
+    .eval-table-wrapper {
+      overflow-x: auto;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    .evaluation-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .86rem;
+      background: white;
+    }
+    .evaluation-table thead { background: var(--marine); color: var(--creme); }
+    .evaluation-table thead th {
+      padding: 8px 10px;
+      text-align: left;
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      letter-spacing: .05em;
+      font-weight: 500;
+    }
+    .evaluation-table tbody tr:nth-child(even) { background: var(--gris-clair); }
+    .evaluation-table tbody td {
+      padding: 7px 10px;
+      vertical-align: top;
+      border-bottom: 1px solid var(--gris-moyen);
+      line-height: 1.5;
+    }
+    .evaluation-table tbody td:first-child { font-weight: 600; color: var(--marine); }
+
+    .eval-level {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      border-radius: 4px;
+      padding: .1rem .4rem;
+      margin: .1rem .1rem 0 0;
+    }
+    .eval-level--a { background:#d4edda; color:#1a5e30; }
+    .eval-level--b { background:#d1ecf1; color:#0c5460; }
+    .eval-level--c { background:#fff3cd; color:#856404; }
+    .eval-level--d { background:#f8d7da; color:#721c24; }
+
+    .activity-footer {
+      background: var(--marine);
+      color: rgba(250,248,243,.6);
+      text-align: center;
+      padding: 12px 24px;
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      letter-spacing: .05em;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 680px) {
+      .activity-header { grid-template-columns: auto 1fr; grid-template-rows: auto auto; }
+      .header-meta { grid-column: 1/-1; text-align: left; min-width: 0; }
+      .header-icon { font-size: 38px; }
+      .reponses-zone { grid-template-columns: 1fr; }
+      .consigne-item { grid-template-columns: 44px 1fr; }
+      .consigne-num { font-size: 1.3rem; }
+      main { padding: 16px 14px 30px; }
+    }
+
+    @media print {
+      body { background: white; font-size: .84rem; }
+      main { max-width: 100%; padding: 0; }
+      .tricolor-bar, .activity-header, .competences-bar, .consigne-num,
+      .evaluation-table thead, .data-table thead { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .resource-card, .consigne-item, .objectives-list li { box-shadow: none; border: 1px solid #ddd; }
+      section, .consigne-item, .data-table tr { break-inside: avoid; }
+      a[href]::after { content: " (" attr(href) ")"; font-size: .68rem; color: #777; }
+      .activity-footer { display: none; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="tricolor-bar" aria-hidden="true">
+    <span class="bleu"></span><span class="blanc"></span><span class="rouge"></span>
+  </div>
+
+  <header class="activity-header" role="banner">
+    <div class="header-icon" aria-hidden="true">💧</div>
+    <div class="header-text">
+      <p class="header-label">Fiche activité · Lycée Xavier Grall · Loudéac</p>
+      <h1 class="header-title">
+        L'eau du robinet en Bretagne Centre :<br>
+        <span>que disent les analyses sanitaires ?</span>
+      </h1>
+      <p class="header-subtitle">Thème eau · Données réelles du contrôle sanitaire (ARS) · Loudéac Communauté – Bretagne Centre</p>
+    </div>
+    <div class="header-meta" aria-label="Informations de l'activité">
+      <div><strong>Niveau :</strong> 1ère Bac Pro SAPAT</div>
+      <div><strong>Module :</strong> MG1 — C1.2</div>
+      <div><strong>Durée :</strong> 3 séances (45 min)</div>
+      <div><strong>Disciplines :</strong> TIM × Mathématiques</div>
+      <div><strong>Nom :</strong> _______________________</div>
+      <div><strong>Date :</strong> _______________________</div>
+    </div>
+  </header>
+
+  <div class="competences-bar" role="list" aria-label="Compétences et outils mobilisés">
+    <span class="comp-label">Capacité :</span>
+    <span class="pill" role="listitem">C1.2</span>
+    <span class="pill" role="listitem">CRCN 1.3</span>
+    <span class="pill" role="listitem">CRCN 4.2</span>
+    <span class="pill" role="listitem">Excel</span>
+    <span class="pill" role="listitem">Google MyMaps</span>
+  </div>
+
+  <main>
+
+    <section aria-labelledby="titre-situation">
+      <p class="section-title" id="titre-situation">🎯 Mise en situation</p>
+      <div class="situation">
+        <div class="situation-picto" aria-hidden="true">🚰</div>
+        <div>
+          <p>Dans un <strong>EHPAD de Loudéac</strong>, plusieurs familles de résidents s'interrogent sur la qualité de l'eau du robinet servie aux repas. La direction souhaite répondre avec des éléments factuels plutôt qu'avec des impressions, et préparer une note d'information affichée dans le hall.</p>
+          <p>Les <strong>Agences Régionales de Santé</strong> contrôlent l'eau distribuée : plus de 300 000 prélèvements et environ 12 millions d'analyses par an en France. Les résultats sont publiés commune par commune en open data sur data.gouv.fr.</p>
+          <p><strong>Ton rôle :</strong> tu es stagiaire à l'EHPAD, chargé par la direction d'étudier les résultats du contrôle sanitaire de l'eau sur le territoire et de produire une note d'information claire pour les familles.</p>
+        </div>
+      </div>
+      <div class="problematique-box" role="note">
+        <p class="problematique-box__label">❓ Problématique</p>
+        <p class="problematique-box__text">« Que révèlent les analyses du contrôle sanitaire sur la qualité de l'eau distribuée dans les communes de Loudéac Communauté – Bretagne Centre, et comment l'expliquer aux familles de résidents ? »</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-objectifs">
+      <p class="section-title" id="titre-objectifs">🎓 Objectifs</p>
+      <ul class="objectives-list" role="list">
+        <li><span class="obj-icon">🧠</span> Analyser la demande de la direction et reformuler la problématique avec ses propres mots</li>
+        <li><span class="obj-icon">🧹</span> Construire un sous-ensemble de travail propre à partir d'un fichier de résultats d'analyses volumineux <span class="crcn-tag">CRCN 1.2</span></li>
+        <li><span class="obj-icon">📊</span> Traiter les données avec NB.SI, NB.SI.ENS, MOYENNE.SI, mise en forme conditionnelle et tableau croisé dynamique <span class="crcn-tag">CRCN 1.3</span></li>
+        <li><span class="obj-icon">🗺️</span> Cartographier les communes et leurs résultats avec Google MyMaps <span class="crcn-tag">CRCN 2.2</span></li>
+        <li><span class="obj-icon">📣</span> Rédiger une note d'information factuelle et rassurante, sans déformer les données <span class="crcn-tag">CRCN 4.2</span></li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="titre-donnees">
+      <p class="section-title" id="titre-donnees">📂 Source de données</p>
+      <div class="astuce">
+        <strong>Jeu de données :</strong> Résultats du contrôle sanitaire de l'eau distribuée commune par commune<br>
+        <strong>Producteur :</strong> Ministère chargé de la Santé / ARS — via data.gouv.fr<br>
+        <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune" target="_blank" rel="noopener">https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune</a><br>
+        <strong>Format :</strong> CSV (fichiers annuels, un fichier par année depuis 2016) · <strong>Licence :</strong> Licence Ouverte / Open Licence<br>
+        <strong>Particularité à nettoyer :</strong> Le jeu est découpé en plusieurs fichiers (prélèvements, résultats d'analyses, lien communes ↔ unités de distribution) : il faut identifier le bon fichier avant de commencer. Les colonnes de résultat mélangent valeurs numériques et mentions textuelles (« < seuil de quantification ») : ces cellules doivent être traitées explicitement et non supprimées sans justification. Le fichier national comporte plusieurs centaines de milliers de lignes.
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-consignes">
+      <p class="section-title" id="titre-consignes">✏️ Travail à faire</p>
+      <div class="consignes-list">
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 1 · A — Analyse du contexte et de la problématique</span>
+          <div class="consigne-item" role="article">
+            <div class="consigne-num" aria-label="Étape A">A</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Comprendre la demande, récupérer et nettoyer les données</p>
+              <ol>
+                <li>Reformuler en 2-3 phrases la demande de la direction de l'EHPAD : qui s'interroge, sur quoi, et à quoi servira ta production ? Identifier le phénomène étudié et le territoire concerné.</li>
+                <li>Ouvrir la page du jeu de données sur data.gouv.fr, repérer les différents fichiers proposés et <strong>choisir celui qui contient les résultats d'analyses</strong>. Relever producteur, licence, année couverte et fréquence de mise à jour. Justifier en une phrase que ces données ne sont pas des données personnelles.</li>
+                <li>Télécharger le fichier de l'année la plus récente et l'importer dans Excel (séparateur adapté, encodage UTF-8). Noter le nombre total de lignes.</li>
+                <li>Construire le <strong>sous-ensemble de travail</strong> : filtrer sur les Côtes-d'Armor (code département 22 ou code INSEE commençant par 22), copier-coller <em>en valeurs</em> dans un onglet <span class="formule">Donnees-22</span>.</li>
+                <li>Nettoyer l'onglet : conserver les colonnes utiles (commune, code INSEE, paramètre analysé, valeur, unité, conclusion sanitaire, date de prélèvement), convertir la colonne date au bon format, et traiter explicitement les cellules « < seuil de quantification » (les repérer et écrire en une phrase la règle que tu appliques : les compter comme conformes, ou les exclure du calcul de moyenne).</li>
+                <li>À partir de la liste des communes de Loudéac Communauté – Bretagne Centre <strong>fournie par l'enseignant</strong>, créer un onglet <span class="formule">Donnees-LCBC</span> limité au territoire.</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés</span>
+          <div class="consigne-item or" role="article">
+            <div class="consigne-num" aria-label="Étape B">B</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Compter, mesurer, croiser les résultats</p>
+              <ol>
+                <li>Compter le nombre total de prélèvements sur le territoire avec <span class="formule">=NBVAL()</span>, puis le nombre de prélèvements sur une commune donnée avec <span class="formule">=NB.SI()</span>.</li>
+                <li>Compter avec <span class="formule">=NB.SI.ENS()</span> les analyses conformes puis non conformes pour une commune donnée (deux critères : commune <em>et</em> conclusion sanitaire).</li>
+                <li>Calculer avec <span class="formule">=MOYENNE.SI()</span> la valeur moyenne d'un paramètre précis (par exemple les nitrates) sur le territoire, en précisant l'unité de mesure.</li>
+                <li>Appliquer une <strong>mise en forme conditionnelle</strong> sur la colonne conclusion sanitaire : vert pour les analyses conformes, rouge pour les non conformes.</li>
+                <li>Construire un <strong>tableau croisé dynamique</strong> depuis <span class="formule">Donnees-LCBC</span> : nombre d'analyses par commune (lignes) croisé avec la conclusion sanitaire (colonnes), puis afficher les valeurs en <strong>pourcentage du total de la ligne</strong> pour comparer des communes de tailles différentes.</li>
+              </ol>
+              <div class="astuce">💡 <strong>Astuce :</strong> compter des analyses non conformes en valeur brute est trompeur : une grande commune a mécaniquement plus de prélèvements. C'est pour cela que le TCD doit être affiché en pourcentage (Paramètres des champs de valeurs → Afficher les valeurs → % du total de la ligne).</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée</span>
+          <div class="consigne-item vert" role="article">
+            <div class="consigne-num" aria-label="Étape C">C</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Représenter et informer les familles</p>
+              <ol>
+                <li>Créer depuis le TCD un <strong>graphique en barres empilées 100 %</strong> « Part d'analyses conformes par commune », complet : titre, axes légendés, source citée (contrôle sanitaire ARS via data.gouv.fr, année). Justifier en une phrase pourquoi les barres empilées 100 % conviennent mieux ici que des barres en valeurs brutes.</li>
+                <li>Préparer la <strong>carte</strong> : créer depuis <span class="formule">Donnees-LCBC</span> un fichier CSV (commune, code postal, nombre d'analyses, part de conformité), le convertir en KML avec le convertisseur, puis l'importer dans <strong>Google MyMaps</strong>. Titrer la carte et renseigner les pop-ups.</li>
+                <li>Rédiger la <strong>note d'information pour les familles</strong> (8-10 lignes, ton factuel et accessible) : nombre d'analyses réalisées, part de conformité, paramètres surveillés, ce que signifie concrètement une non-conformité, et qui contacter pour en savoir plus. Attention : ne pas affirmer plus que ce que les données montrent. Insérer le graphique et le lien de la carte.</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-reponses">
+      <p class="section-title" id="titre-reponses">📝 Zone de réponse</p>
+      <div class="reponses-zone">
+        <div class="reponse-item">
+          <p class="reponse-label">Part d'analyses conformes sur LCBC (%)</p>
+          <div class="reponse-ligne"></div>
+          <p class="reponse-hint">Résultat lu dans le TCD en pourcentage</p>
+        </div>
+        <div class="reponse-item">
+          <p class="reponse-label">Lien de ta carte MyMaps</p>
+          <div class="reponse-ligne"></div>
+          <p class="reponse-hint">URL de partage (lecture) de la carte publiée</p>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-ressources">
+      <p class="section-title" id="titre-ressources">🔗 Ressources et outils</p>
+      <div class="resource-grid">
+        <div class="resource-card" role="article">
+          <span class="resource-card__icon">📄</span>
+          <p class="resource-card__title">Jeu de données — Contrôle sanitaire de l'eau distribuée</p>
+          <p class="resource-card__desc">Page officielle data.gouv.fr : prélèvements et résultats d'analyses validés par les ARS, commune par commune.</p>
+          <a class="resource-card__link" href="https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune" target="_blank" rel="noopener">→ Consulter</a>
+        </div>
+        <div class="resource-card or" role="article">
+          <span class="resource-card__icon">🛠️</span>
+          <p class="resource-card__title">Convertisseur CSV → KML</p>
+          <p class="resource-card__desc">Pour transformer le fichier de points avant l'import dans MyMaps</p>
+          <a class="resource-card__link" href="https://scuttemery.fr/converter" target="_blank" rel="noopener">→ Ouvrir</a>
+        </div>
+        <div class="resource-card vert" role="article">
+          <span class="resource-card__icon">🗺️</span>
+          <p class="resource-card__title">Google MyMaps</p>
+          <p class="resource-card__desc">Pour créer la carte finale</p>
+          <a class="resource-card__link" href="https://www.google.com/mymaps" target="_blank" rel="noopener">→ Ouvrir</a>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-eval">
+      <p class="section-title" id="titre-eval">🎯 Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)</p>
+      <div class="eval-table-wrapper">
+        <table class="evaluation-table">
+          <thead>
+            <tr><th>Critère</th><th>Indicateurs observables</th><th>Niveau</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1 — Analyse du contexte et de la problématique</td>
+              <td>La demande de l'EHPAD est reformulée correctement ; le bon fichier est identifié parmi ceux proposés ; producteur, licence et année sont relevés ; le sous-ensemble Côtes-d'Armor puis LCBC est construit ; les cellules « < seuil de quantification » sont traitées avec une règle explicite et justifiée.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+            <tr>
+              <td>2 — Traitement des données adapté au contexte et à la problématique étudiés</td>
+              <td>NB.SI, NB.SI.ENS et MOYENNE.SI renvoient des résultats exacts avec unité précisée ; la mise en forme conditionnelle distingue conformes et non conformes ; le TCD croise commune et conclusion sanitaire et est bien affiché en pourcentage du total de la ligne.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+            <tr>
+              <td>3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée</td>
+              <td>Le graphique en barres empilées 100 % est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée et lisible ; la note d'information est factuelle, accessible aux familles, et n'affirme rien qui dépasse ce que montrent les données.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="activity-footer" role="contentinfo">
+    Lycée Xavier Grall · 1ère Bac Pro SAPAT · MG1 C1.2 · Activité Eau — Contrôle sanitaire de l'eau en Bretagne Centre · 2026-2027
+  </footer>
+
+</body>
+</html>

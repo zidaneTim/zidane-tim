@@ -1,27 +1,20 @@
----
-titre: "Collège - Classes 4e et 3e"
-date_creation: 2026-06-10
-date_modif: 2026-06-10
-type: domaine
-tags: [college, cours]
-statut: actif
----
+# Collège — 4e et 3e EA
 
-# Collège - Ressources pour 4e et 3e
+## 4e EA — Mathématiques
 
-## Présentation
+Programme de mathématiques adapté à l'enseignement agricole : nombres relatifs, calculs, proportionnalité, géométrie, gestion de données.
 
-Ressources pédagogiques pour les classes de 4e et 3e du collège.
+Séquences de l'année (supports distribués en classe) :
 
-## Disciplines
+- SQ01 — Nombres relatifs
+- SQ02 — Addition et soustraction
 
-- Français
-- Mathématiques
-- Sciences
-- Histoire-Géographie
-- Technologie
-- Éducation Civique
+## 3e EA — EPI STM
 
-## Ressources pédagogiques
+Enseignement pratique interdisciplinaire Sciences, Technologie, Matériaux :
 
-À compléter avec vos cours et évaluations spécifiques.
+- découverte des matériaux,
+- initiation à l'intelligence artificielle,
+- programmation avec Scratch.
+
+Les activités en ligne seront ajoutées ici au fil de l'année.

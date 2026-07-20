@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>C8.1 / C8.2 — Notions de l'aidant numérique</title>
+<style>
+  :root{
+    --c1:#2563eb; /* C8.1 - bleu */
+    --c2:#16a34a; /* C8.2 - vert */
+    --c3:#7c3aed; /* Transversal - violet */
+    --bg:#f4f6f9;
+    --card:#ffffff;
+    --text:#1f2937;
+    --muted:#6b7280;
+    --warn:#ea580c;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:"Segoe UI",Arial,sans-serif;background:var(--bg);color:var(--text);}
+  header{background:linear-gradient(135deg,#14532d,#16a34a);color:#fff;padding:28px 24px;text-align:center;}
+  header h1{margin:0 0 6px 0;font-size:1.6rem;}
+  header p{margin:0;opacity:.9;font-size:.95rem;}
+  main{max-width:1100px;margin:0 auto;padding:24px;}
+
+  .ccf-banner{background:#fff;border:2px solid #14532d;border-radius:10px;padding:16px 20px;margin-bottom:28px;}
+  .ccf-banner h2{margin:0 0 8px 0;font-size:1rem;color:#14532d;}
+  .ccf-banner ul{margin:0;padding-left:20px;font-size:.9rem;}
+  .ccf-banner li{margin-bottom:3px;}
+
+  .criterion{margin-bottom:34px;}
+  .criterion h2{font-size:1.1rem;padding:10px 16px;border-radius:8px 8px 0 0;color:#fff;margin:0;}
+  .crit-sub{font-size:.76rem;font-weight:400;opacity:.92;display:block;margin-top:3px;}
+  .crit-1 h2{background:var(--c1);}
+  .crit-2 h2{background:var(--c2);}
+  .crit-3 h2{background:var(--c3);}
+
+  .grid{
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;
+    background:var(--card);padding:16px;border-radius:0 0 8px 8px;
+    box-shadow:0 1px 4px rgba(0,0,0,.08);
+  }
+  .notion-btn{
+    border:2px solid transparent;background:#f1f5f9;border-radius:8px;
+    padding:14px 10px;text-align:center;font-weight:600;font-size:.9rem;
+    cursor:pointer;transition:.15s;color:var(--text);
+  }
+  .grid-sub{
+    grid-column:1/-1;
+    font-size:.8rem;font-weight:700;color:var(--muted);
+    text-transform:uppercase;letter-spacing:.05em;
+    border-bottom:1.5px solid #e2e8f0;padding:8px 2px 4px 2px;margin-top:4px;
+  }
+  .grid-sub:first-child{margin-top:0;}
+  .booklet-sub{
+    font-size:.95rem;font-weight:700;color:#334155;
+    border-bottom:2px solid #cbd5e1;padding:14px 2px 4px 2px;margin:10px 0 4px 0;
+    page-break-after:avoid;
+  }
+  .crit-1 .notion-btn:hover,.crit-1 .notion-btn.active{border-color:var(--c1);background:#eaf1fd;}
+  .crit-2 .notion-btn:hover,.crit-2 .notion-btn.active{border-color:var(--c2);background:#eaf9ee;}
+  .crit-3 .notion-btn:hover,.crit-3 .notion-btn.active{border-color:var(--c3);background:#f1eafd;}
+
+  #detail{
+    display:none;background:var(--card);border-radius:10px;padding:26px;margin-top:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,.12);border-top:6px solid var(--c1);
+  }
+  #detail.show{display:block;}
+  #detail h3{margin-top:0;font-size:1.35rem;}
+  #detail .def{background:#f8fafc;border-left:4px solid var(--c1);padding:12px 16px;border-radius:0 6px 6px 0;margin-bottom:18px;}
+  #detail .def b{display:block;margin-bottom:4px;color:var(--muted);text-transform:uppercase;font-size:.72rem;letter-spacing:.05em;}
+  #detail ol{padding-left:22px;}
+  #detail ol > li{margin-bottom:13px;}
+  #detail ol > li strong{display:block;margin-bottom:3px;}
+  #detail .note{margin-top:16px;background:#fff7ed;border-left:4px solid var(--warn);padding:10px 14px;border-radius:0 6px 6px 0;font-size:.9rem;}
+  .close-btn{float:right;border:none;background:#e5e7eb;border-radius:6px;padding:6px 12px;cursor:pointer;font-size:.85rem;}
+  footer{text-align:center;padding:20px;color:var(--muted);font-size:.8rem;}
+  #placeholder{text-align:center;color:var(--muted);padding:40px 20px;font-size:.95rem;}
+
+  /* Visuels */
+  .visual{background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:18px;margin-bottom:20px;}
+  .visual-title{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:10px;font-weight:700;}
+  .visual .hint{font-size:.75rem;color:var(--muted);margin:8px 0 0 0;}
+  .flow{display:flex;flex-wrap:wrap;align-items:center;gap:6px;}
+  .flow-step{background:#fff;border:2px solid #cbd5e1;border-radius:8px;padding:8px 12px;font-size:.85rem;font-weight:600;white-space:nowrap;}
+  .flow-arrow{color:#94a3b8;font-size:1.1rem;}
+  .method-box{background:#eff6ff;border:1px solid #bfdbfe;border-radius:8px;padding:12px 16px;margin:6px 0;font-size:.88rem;}
+  .method-box b{color:#1e40af;}
+  .law-cards{display:flex;flex-wrap:wrap;gap:12px;}
+  .law-card{flex:1 1 180px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;}
+  .law-card .icon{font-size:1.4rem;}
+  .law-card h4{margin:6px 0 4px 0;font-size:.85rem;}
+  .law-card p{margin:0;font-size:.75rem;color:var(--muted);}
+  table.sheet-table{border-collapse:collapse;width:100%;font-size:.8rem;background:#fff;}
+  table.sheet-table th,table.sheet-table td{border:1px solid #e5e7eb;padding:5px 10px;text-align:left;}
+  table.sheet-table th{background:#f1f5f9;}
+  .row-red{background:#fee2e2;color:#b91c1c;font-weight:600;}
+  .row-green{background:#dcfce7;color:#166534;font-weight:600;}
+  .alert-box{background:#fef2f2;border:1px solid #fecaca;border-radius:8px;padding:10px 14px;font-size:.85rem;margin:6px 0;}
+  .alert-box b{color:#b91c1c;}
+  kbd{display:inline-block;background:#1f2937;color:#fff;border-radius:5px;padding:3px 8px;font-family:Consolas,monospace;font-size:.78rem;box-shadow:0 2px 0 #0f172a;}
+
+  /* Mode livret */
+  .print-btn{display:inline-block;margin-top:14px;background:#fff;color:#14532d;border:none;border-radius:8px;padding:9px 18px;font-weight:700;font-size:.9rem;cursor:pointer;}
+  .booklet-notion{background:var(--card);border-radius:10px;padding:22px 26px;margin:14px 0;box-shadow:0 1px 4px rgba(0,0,0,.08);border-top:5px solid #ccc;page-break-inside:avoid;break-inside:avoid;}
+  .booklet-crit-title{color:#fff;padding:10px 16px;border-radius:8px;margin:26px 0 4px 0;font-size:1.05rem;page-break-after:avoid;}
+  .booklet-notion h3{margin-top:0;font-size:1.2rem;}
+  .booklet-notion .def{background:#f8fafc;border-left:4px solid #94a3b8;padding:10px 14px;border-radius:0 6px 6px 0;margin-bottom:14px;}
+  .booklet-notion .def b{display:block;margin-bottom:3px;color:var(--muted);text-transform:uppercase;font-size:.7rem;letter-spacing:.05em;}
+  .booklet-notion ol{padding-left:22px;}
+  .booklet-notion ol > li{margin-bottom:10px;}
+  .booklet-notion ol > li strong{display:block;margin-bottom:2px;}
+  .booklet-notion .note{margin-top:12px;background:#fff7ed;border-left:4px solid var(--warn);padding:9px 13px;border-radius:0 6px 6px 0;font-size:.88rem;}
+  #booklet{display:none;}
+  body.booklet-mode #interactive{display:none;}
+  body.booklet-mode #booklet{display:block;}
+  body.booklet-mode #placeholder{display:none;}
+
+  @media print{
+    body{background:#fff;}
+    header{background:#14532d !important;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+    .print-btn,.close-btn,footer{display:none !important;}
+    #interactive{display:none !important;}
+    #booklet{display:block !important;}
+    #placeholder{display:none !important;}
+    #detail{display:none !important;}
+    main{max-width:none;padding:10px;}
+    .booklet-notion{box-shadow:none;border:1px solid #d1d5db;border-top-width:5px;}
+    .visual,.method-box,.law-card,.alert-box,kbd,.booklet-crit-title{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>C8.1 / C8.2 — L'aidant numérique</h1>
+  <p>Bac Pro SAPAT · Cycle 1ère → Terminale (MP8) · Support de notions pour préparer les ECCF 3 et 4</p>
+  <button class="print-btn" onclick="toggleBooklet()" id="booklet-btn">🖨️ Version livret (tout afficher / imprimer)</button>
+</header>
+
+<main>
+
+  <div class="ccf-banner">
+    <h2>📋 Les ECCF 3 et 4 en bref</h2>
+    <ul>
+      <li>Épreuve <b>E7 « Pratiques professionnelles »</b> : <b>ECCF 3</b> évalue C8.1 (adapter le cadre de vie) et <b>ECCF 4</b> évalue C8.2 (démarches du quotidien) — <b>pratique explicitée</b>, coefficient 0,5 chacune.</li>
+      <li>« Pratique explicitée » = tu <b>fais</b> ET tu <b>expliques ce que tu fais et pourquoi</b> : le geste seul ne suffit pas.</li>
+      <li>Fil rouge du cycle : tu es <b>l'aidant numérique</b> d'un usager. Le numérique est un <b>moyen</b> d'accompagner la personne, jamais un but en soi.</li>
+      <li>Principe permanent : <b>« faire avec et non pour »</b> — l'objectif est l'autonomie de la personne, pas de faire à sa place.</li>
+    </ul>
+  </div>
+
+  <div id="interactive">
+  <div class="criterion crit-1">
+    <h2>C8.1 — Adapter le cadre de vie de la personne (ECCF 3)
+      <span class="crit-sub">Critères : relation interpersonnelle de proximité et distanciée · organisation de l'espace de vie · réalisation des opérations d'entretien en toute sécurité</span></h2>
+    <div class="grid" id="grid-1"></div>
+  </div>
+
+  <div class="criterion crit-2">
+    <h2>C8.2 — Effectuer les démarches courantes du quotidien (ECCF 4)
+      <span class="crit-sub">Critères : posture d'accompagnement (mobilisation des ressources de la personne) · relation avec distanciation professionnelle · anticipation et réalisation des démarches</span></h2>
+    <div class="grid" id="grid-2"></div>
+  </div>
+
+  <div class="criterion crit-3">
+    <h2>Transversal — Protection des données et compétences numériques
+      <span class="crit-sub">À mobiliser dans toutes les missions, quelle que soit la capacité</span></h2>
+    <div class="grid" id="grid-3"></div>
+  </div>
+
+  <div id="detail"></div>
+  </div><!-- /interactive -->
+  <p id="placeholder">👆 Clique sur une notion pour afficher sa définition et la méthode pas à pas.</p>
+
+  <div id="booklet"></div>
+
+</main>
+
+<footer>Ressource TIM — C8.1 / C8.2 (MP8) · Lycée Xavier Grall<br>
+Sources : référentiel Bac Pro SAPAT · DA MP8 · kit officiel de l'aidant numérique (kit-inclusion.societenumerique.gouv.fr)</footer>
+
+<script>
+const notions = {
+
+  /* ============ C8.1 — ECCF 3 ============ */
+
+  "communication-distance": {
+    crit:1, title:"Communiquer à distance, lutter contre l'isolement",
+    def:"Les outils de communication à distance (visioconférence, messageries, téléphonie adaptée) permettent de maintenir le lien entre une personne isolée et sa famille, ses amis, ses soignants.",
+    steps:[
+      {t:"1. Choisir l'outil selon l'usager", d:"Visio simple (l'appli déjà utilisée par la famille), messagerie, ou téléphone adapté (grosses touches, photos-contacts) : le bon outil est celui que la personne peut réellement utiliser."},
+      {t:"2. Installer et simplifier", d:"Créer le compte, enregistrer les contacts essentiels avec photo, placer l'icône sur l'écran d'accueil, régler le volume et la taille d'affichage."},
+      {t:"3. Faire le premier appel avec la personne", d:"Accompagner un appel réel : décrocher, raccrocher, rappeler. Répéter jusqu'à l'autonomie (« faire avec »)."},
+      {t:"4. Respecter le cadre", d:"Consentement de la personne pour créer le compte, pas de diffusion de son numéro ou de son image sans accord (RGPD)."}
+    ],
+    note:"Ce sont ces situations qui nourrissent le critère « relation interpersonnelle de proximité et distanciée » de l'ECCF 3."
+  },
+
+  "robots-jeux": {
+    crit:1, title:"Robots sociaux et serious games",
+    def:"Les robots sociaux (Paro, Nao, Cutii) apaisent, stimulent et favorisent la communication des personnes fragiles. Les serious games sont des jeux vidéo à but éducatif utilisés en formation et en accompagnement.",
+    steps:[
+      {t:"Robots sociaux — à quoi ça sert", d:"Paro (phoque, apaisement en EHPAD), Nao (humanoïde, stimulation), Cutii (compagnon, lien social), piluliers connectés. Toujours en complément de l'humain, jamais à sa place."},
+      {t:"Leurs limites", d:"Coût, entretien, risque de dépendance affective, questions éthiques (consentement de la personne, dignité). À savoir discuter au CCF."},
+      {t:"Serious games du secteur", d:"Ehpad'panic (gestes en EHPAD), Tsara (accompagnement autisme), Salvum (premiers secours), TousCaps (gestion des risques)."},
+      {t:"Simulation du handicap", d:"Lunettes de réalité virtuelle et logiciels simulant les troubles Dys : comprendre ce que vit la personne pour mieux adapter son accompagnement."}
+    ]
+  },
+
+  "amenagement-3d": {
+    crit:1, title:"Aménager l'espace : plans 2D/3D",
+    def:"Les logiciels d'aménagement (Sweet Home 3D, my3Dplanner, Dreamplan) permettent de dessiner un logement à l'échelle pour tester une adaptation avant de la réaliser : circulation en fauteuil, accès, mobilier.",
+    steps:[
+      {t:"1. Mesurer et relever", d:"Dimensions des pièces, portes, fenêtres, emplacement des prises. Sans mesures réelles, le plan ne sert à rien."},
+      {t:"2. Tracer les murs à l'échelle", d:"Reproduire le logement dans le logiciel en respectant les dimensions (réinvestissement des maths : échelle, proportions)."},
+      {t:"3. Placer le mobilier et tester", d:"Meubler puis vérifier les largeurs de passage (fauteuil roulant : 90 cm minimum pour une porte, aire de rotation 1,50 m)."},
+      {t:"4. Justifier l'aménagement", d:"Chaque choix doit répondre à un besoin de la personne : « j'ai élargi ce passage car l'usager est en fauteuil ». C'est la justification qui est évaluée."},
+      {t:"5. Soigner l'aspect", d:"La dimension esthétique compte aussi (couleurs, ambiance — inspiration Canva, Pinterest) : c'est le lieu de vie de la personne, pas un local technique."}
+    ],
+    note:"Critère « organisation de l'espace de vie » : le plan 3D est ta preuve — présente toujours un avant/après justifié."
+  },
+
+  "domotique": {
+    crit:1, title:"Domotique et objets connectés",
+    def:"La domotique automatise le logement (éclairage, volets, alarmes) pour sécuriser et faciliter le quotidien. Les objets connectés (bouton SOS, pilulier, téléassistance) surveillent et alertent.",
+    visual:`<div class="visual"><div class="visual-title">Mettre en service un objet connecté</div>
+      <div class="flow">
+        <div class="flow-step">Créer le compte</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Appairer (wifi/Bluetooth)</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Tester l'alerte</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Créer une routine</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Faire prendre en main</div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"1. Installer l'application", d:"Depuis le store officiel (Tuya, Alexa, Google Home...), créer le compte, connecter au wifi du logement."},
+      {t:"2. Appairer l'objet", d:"Mettre l'objet en mode appairage, le détecter dans l'appli, le nommer clairement (« lampe salon », pas « device_01 »)."},
+      {t:"3. Tester alertes et notifications", d:"Bouton SOS, rappel de prise de médicament, rappel d'entretien du logement, caméra : déclencher un test réel et vérifier qui reçoit l'alerte."},
+      {t:"4. Créer des routines utiles", d:"Minuterie d'éclairage, scénario « nuit » (tout éteindre), scénario « départ ». Une routine doit répondre à un besoin réel de l'usager."},
+      {t:"5. Connaître les limites", d:"Panne de wifi, piratage, coût, risque de dépendance : la téléassistance et la téléalarme complètent, mais ne remplacent jamais la visite humaine."},
+      {t:"6. Faire prendre en main", d:"L'objet ne sert à rien si l'usager ne sait pas l'utiliser : démonstration, essai accompagné, mini-tutoriel laissé sur place."}
+    ]
+  },
+
+  "accessibilite": {
+    crit:1, title:"Accessibilité numérique",
+    def:"Adapter un appareil aux capacités de la personne : vue, audition, motricité. Tous les systèmes (Windows, Android, iOS) intègrent des réglages d'accessibilité gratuits.",
+    steps:[
+      {t:"Pour une personne malvoyante", d:"Taille du texte, zoom, contraste élevé, lecture vocale (narrateur/TalkBack/VoiceOver), grandes icônes."},
+      {t:"Pour un handicap moteur", d:"Raccourcis clavier, commande vocale, temps d'appui allongé, taille des zones de clic."},
+      {t:"Pour une personne malentendante", d:"Notifications visuelles (flash), sous-titres automatiques, volume amplifié."},
+      {t:"Adapter un poste complet", d:"Partir du besoin de la personne (pas du catalogue de réglages), adapter, puis faire tester par la personne elle-même et ajuster."},
+      {t:"Le RGAA", d:"Référentiel Général d'Amélioration de l'Accessibilité : les sites publics français doivent être accessibles (navigation clavier, alternatives textuelles...). À connaître de nom."}
+    ],
+    note:"Au CCF, capture l'avant/après des réglages et justifie chaque adaptation par le besoin de l'usager."
+  },
+
+  "maintenance": {
+    crit:1, title:"Maintenance de premier niveau",
+    def:"La maintenance de premier niveau regroupe les gestes simples qui résolvent la majorité des pannes : brancher, redémarrer, mettre à jour, réinitialiser — sans être technicien.",
+    visual:`<div class="visual"><div class="visual-title">Réflexe panne : dans l'ordre</div>
+      <div class="flow">
+        <div class="flow-step">1. Vérifier les branchements</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">2. Redémarrer</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">3. Mettre à jour</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">4. Réinitialiser</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">5. Faire appel à un pro</div>
+      </div>
+      <p class="hint">80 % des pannes se règlent aux étapes 1 et 2. La réinitialisation efface les données : toujours sauvegarder avant.</p>
+    </div>`,
+    steps:[
+      {t:"1. Vérifier le matériel", d:"Câbles branchés, batterie chargée, wifi actif, imprimante allumée avec du papier : l'évidence d'abord."},
+      {t:"2. Redémarrer l'appareil", d:"Éteindre complètement, attendre 10 secondes, rallumer. Résout la plupart des blocages."},
+      {t:"3. Mettre à jour", d:"Système et applications : les mises à jour corrigent bugs et failles de sécurité. Les activer en automatique chez l'usager."},
+      {t:"4. Réinitialiser en dernier recours", d:"Retour aux réglages d'usine = perte des données. Sauvegarder avant, et seulement si tout le reste a échoué."},
+      {t:"5. Savoir passer la main", d:"Panne matérielle, écran cassé, virus avéré : orienter vers un professionnel. Connaître ses limites fait partie de la compétence."},
+      {t:"Sécurité électrique", d:"Mains sèches, multiprises non surchargées, câbles non dénudés : les gestes de base avant toute manipulation."}
+    ]
+  },
+
+  "tutoriel": {
+    crit:1, title:"Créer un mini-tutoriel pour l'usager",
+    def:"Un mini-tutoriel est un document simple (papier ou numérique) qui permet à l'usager de refaire seul une manipulation après ton passage. C'est l'outil clé du « faire avec » : il prolonge ton accompagnement.",
+    visual:`<div class="visual"><div class="visual-title">Les 4 règles d'un bon tutoriel</div>
+      <div class="method-box"><b>1 étape = 1 action = 1 image.</b> Jamais deux manipulations dans la même étape.</div>
+      <div class="method-box"><b>Phrases courtes, mots simples.</b> « Appuyez sur le bouton vert » — pas de jargon (« cliquez sur l'icône de validation »).</div>
+      <div class="method-box"><b>Des repères visuels.</b> Capture d'écran ou pictogramme avec la zone entourée en couleur.</div>
+      <div class="method-box"><b>Testé par l'usager.</b> Si la personne n'arrive pas à suivre le tutoriel seule, il est à refaire.</div>
+    </div>`,
+    steps:[
+      {t:"1. Choisir UNE action", d:"Un tutoriel = une tâche précise (« envoyer une photo par WhatsApp »), pas un mode d'emploi complet."},
+      {t:"2. Décomposer en étapes", d:"Refais la manipulation toi-même en notant chaque geste, même évident. Numérote."},
+      {t:"3. Illustrer", d:"Une capture d'écran ou un pictogramme par étape, zone à toucher entourée. Gros caractères (la vulgarisation de notices est un attendu du référentiel)."},
+      {t:"4. Tester avec la personne", d:"L'usager suit le tutoriel sous tes yeux sans ton aide. Chaque blocage = une étape à corriger."},
+      {t:"5. Laisser le tutoriel sur place", d:"Version papier près de l'appareil ou fichier sur le bureau : il doit être disponible au moment du besoin."}
+    ]
+  },
+
+  "installer-appli": {
+    crit:1, title:"Installer une application en sécurité",
+    def:"Installer, paramétrer et désinstaller un logiciel ou une application depuis une source fiable, en contrôlant les permissions demandées — pour soi et pour l'usager accompagné.",
+    steps:[
+      {t:"1. Choisir une source fiable", d:"Store officiel (Play Store, App Store, Microsoft Store) ou site officiel de l'éditeur. Jamais un site tiers de téléchargement : risque de version piégée."},
+      {t:"2. Lire les permissions demandées", d:"Une appli lampe de poche qui demande l'accès aux contacts et au micro = refus. N'accorder que les permissions cohérentes avec la fonction."},
+      {t:"3. Installer et paramétrer", d:"Installation, création de compte si nécessaire (adresse de l'usager, avec son accord), réglages de base adaptés à la personne."},
+      {t:"4. Désinstaller proprement", d:"Désinstallation via les paramètres (pas juste supprimer l'icône), suppression du compte associé si l'appli ne sera plus utilisée."},
+      {t:"5. Mini-dépannage", d:"Appli qui ne répond plus : fermer et rouvrir → redémarrer l'appareil → vérifier les mises à jour → réinstaller en dernier recours."}
+    ],
+    note:"Réflexe à transmettre à l'usager : ne jamais installer quoi que ce soit sous la pression d'un pop-up ou d'un appel téléphonique — c'est le mode opératoire des arnaques au faux support."
+  },
+
+  /* ============ C8.2 — ECCF 4 ============ */
+
+  "charte": {
+    crit:2, title:"La charte de l'accompagnement numérique",
+    def:"La charte est le document qui fixe les règles de l'aidant numérique : consentement, confidentialité, limites. Rédigée collectivement en début d'année, signée et affichée, elle sert de référence à chaque mission — et protège autant l'usager que l'aidant.",
+    visual:`<div class="visual"><div class="visual-title">Exemples d'engagements de la charte</div>
+      <div class="method-box"><b>« Je fais avec la personne, jamais à sa place. »</b></div>
+      <div class="method-box"><b>« Je demande son accord avant toute action sur ses comptes ou ses données. »</b></div>
+      <div class="method-box"><b>« Je ne divulgue rien de ce que je vois pendant l'accompagnement. »</b></div>
+      <div class="method-box"><b>« Je ne manipule jamais ses mots de passe ni ses comptes bancaires. »</b></div>
+    </div>`,
+    steps:[
+      {t:"1. Pourquoi une charte", d:"Elle crée un cadre de confiance avec l'usager et protège l'aidant : en cas de problème (erreur, litige), la charte prouve que tu as agi dans les règles."},
+      {t:"2. Ce qu'elle contient", d:"Le principe « faire avec et non pour », le consentement systématique, la confidentialité (RGPD, secret professionnel), les limites de l'aidant (mots de passe, banque), et ce qu'on fait en cas de doute (passer la main)."},
+      {t:"3. La rédiger collectivement", d:"Chaque engagement est discuté et reformulé par le groupe : une règle qu'on a écrite soi-même est une règle qu'on applique."},
+      {t:"4. La signer et l'afficher", d:"Signature de chacun, affichage en salle : la charte devient opposable — on peut s'y référer toute l'année."},
+      {t:"5. Ne pas s'engager à la place des organismes", d:"Jamais de promesse sur la recevabilité d'un dossier, un montant issu d'un simulateur ou un délai de réponse : ce n'est pas de ton ressort. Faire valider chaque étape par l'usager et lui remettre un récapitulatif (kit officiel de l'aidant : c'est aussi ce qui te protège juridiquement)."},
+      {t:"6. La réactiver à chaque mission", d:"Avant chaque situation d'accompagnement (et au CCF) : relire mentalement les engagements et les citer dans ta pratique explicitée."}
+    ],
+    note:"Au CCF, appuyer explicitement ta pratique sur la charte (« conformément à la charte, je demande d'abord son accord ») coche d'un coup les critères de posture et de distanciation professionnelle."
+  },
+
+
+  "illectronisme": {
+    crit:2, title:"Inclusion numérique et illectronisme",
+    def:"L'illectronisme est la difficulté ou l'incapacité à utiliser les outils numériques. Avec la dématérialisation des services publics, il prive des personnes de leurs droits (aides, santé, emploi). L'aidant numérique lutte contre cette exclusion.",
+    steps:[
+      {t:"Qui est concerné", d:"Personnes âgées, publics précaires, personnes en situation de handicap, zones mal couvertes... mais pas seulement : des jeunes très à l'aise sur les réseaux sociaux peuvent être perdus face à une démarche administrative."},
+      {t:"Les conséquences", d:"Non-recours aux droits (aides non demandées), isolement, dépendance à autrui, risque d'arnaques accru."},
+      {t:"Le rôle de l'aidant numérique", d:"Diagnostiquer les besoins, accompagner les démarches, former aux gestes de base, orienter vers les dispositifs d'aide (espaces France Services, médiateurs numériques)."},
+      {t:"L'objectif : l'autonomie", d:"Chaque accompagnement doit rendre la personne un peu plus autonome — jamais plus dépendante de toi."}
+    ],
+    note:"C'est le socle du critère « posture d'accompagnement » : montre que tu comprends pourquoi tu accompagnes, pas seulement comment."
+  },
+
+  "diagnostic": {
+    crit:2, title:"Le diagnostic numérique de l'usager",
+    def:"Avant d'accompagner, on évalue : quel équipement possède la personne, quels sont ses usages, ses freins, ses besoins. Le diagnostic guide tout l'accompagnement qui suit.",
+    visual:`<div class="visual"><div class="visual-title">Grille de diagnostic — les 4 volets</div>
+      <table class="sheet-table" style="max-width:520px;">
+        <tr><th>Volet</th><th>Exemples de questions</th></tr>
+        <tr><td><b>Équipement</b></td><td>Smartphone ? Ordinateur ? Connexion internet ? Imprimante ?</td></tr>
+        <tr><td><b>Usages</b></td><td>Que fait la personne déjà seule ? (appels, photos, mails...)</td></tr>
+        <tr><td><b>Freins</b></td><td>Peur de mal faire ? Vue ? Motricité ? Lecture ? Coût ?</td></tr>
+        <tr><td><b>Besoins</b></td><td>Quelles démarches doit-elle faire ? (CAF, santé, banque...)</td></tr>
+      </table>
+    </div>`,
+    steps:[
+      {t:"1. Primo-diagnostic sans écran", d:"Trois questions en discutant : avez-vous déjà essayé cette démarche sur internet ? avez-vous une adresse mail que vous consultez ? avez-vous un équipement connecté à la maison ? (méthode du kit officiel de l'aidant numérique)."},
+      {t:"2. Observer devant l'écran", d:"Si la personne est d'accord : observer ses premiers réflexes (souris, clavier, navigateur) sans la mettre en situation d'échec — pas de « test »."},
+      {t:"3. Repérer les points d'appui", d:"Ce que la personne sait déjà faire : on construit toujours sur l'existant."},
+      {t:"4. Synthétiser les besoins", d:"2 ou 3 priorités concrètes, pas une liste exhaustive. Ex. : « consulter ses remboursements Ameli » avant « maîtriser le cloud »."},
+      {t:"5. Approfondir avec les outils dédiés", d:"Les Bons Clics (lesbonsclics.fr, diagnostic et parcours adaptés), Pix (positionnement), questionnaires papier des organismes."}
+    ]
+  },
+
+  "faire-avec": {
+    crit:2, title:"La posture « faire avec et non pour »",
+    def:"Le principe central de l'aidant numérique : la personne fait, toi tu guides. Faire à sa place la rend dépendante ; faire avec elle la rend autonome. C'est LE critère de posture évalué à l'ECCF 4.",
+    visual:`<div class="visual"><div class="visual-title">Les phrases de l'aidant</div>
+      <div class="method-box">❌ « Donnez-moi la souris, je vais le faire, ça ira plus vite. »</div>
+      <div class="method-box">✅ « Cliquez sur le bouton bleu en haut... voilà, c'est vous qui l'avez fait. »</div>
+      <div class="method-box">✅ « On note ensemble les étapes pour que vous puissiez le refaire seul·e ? »</div>
+    </div>`,
+    steps:[
+      {t:"1. La personne garde la main", d:"C'est elle qui tient la souris, le téléphone, le clavier. Tu guides par la parole et le geste montré, tu ne prends l'appareil qu'en dernier recours."},
+      {t:"2. Demander le consentement", d:"Avant chaque action sur ses comptes ou ses données : « êtes-vous d'accord pour que... ». Rien sans accord explicite."},
+      {t:"3. Respecter la confidentialité", d:"Ce que tu vois (revenus, santé, situation familiale) relève du secret professionnel. Ne jamais en parler à l'extérieur."},
+      {t:"4. Connaître les limites de l'aidant", d:"JAMAIS manipuler les mots de passe ou les comptes bancaires à la place de l'usager. En cas de doute, passer la main (assistant social, France Services)."},
+      {t:"5. Mobiliser les ressources de la personne", d:"S'appuyer sur ce qu'elle sait, valoriser chaque réussite, viser qu'elle refasse seule — c'est le critère verbatim de l'ECCF 4."}
+    ],
+    note:"Au CCF, le jury observe autant ta posture que ta technique : verbalise (« je la laisse faire, je guide ») pendant la situation."
+  },
+
+  "mail": {
+    crit:2, title:"Communiquer par mail",
+    def:"Le courriel reste le canal officiel des administrations et employeurs. Savoir créer, sécuriser et bien utiliser une adresse mail est une compétence de base à transmettre à l'usager.",
+    visual:`<div class="visual"><div class="visual-title">À, CC ou CCI ?</div>
+      <table class="sheet-table" style="max-width:520px;">
+        <tr><th>Champ</th><th>Qui le voit ?</th><th>Quand l'utiliser</th></tr>
+        <tr><td><b>À</b></td><td>Tout le monde</td><td>Le ou les destinataires principaux</td></tr>
+        <tr><td><b>CC</b></td><td>Tout le monde</td><td>Personnes informées, pas concernées directement</td></tr>
+        <tr><td><b>CCI</b></td><td>Personne</td><td>Envoi groupé sans divulguer les adresses (obligatoire pour une liste d'usagers !)</td></tr>
+      </table>
+    </div>`,
+    steps:[
+      {t:"1. Créer l'adresse", d:"Adresse sobre (prenom.nom), mot de passe robuste noté en lieu sûr par l'usager, question de récupération configurée."},
+      {t:"2. Écrire un mail correct", d:"Objet clair, formule de politesse, message court, signature. La netiquette : pas de MAJUSCULES (= crier), relire avant d'envoyer."},
+      {t:"3. Joindre une pièce", d:"Bouton trombone, vérifier le bon fichier et sa taille, nommer le fichier proprement (Attestation-CAF-2026.pdf)."},
+      {t:"4. Sécuriser la boîte", d:"Ne jamais cliquer sur un lien inattendu, vérifier l'adresse de l'expéditeur, signaler le spam. La boîte mail donne accès à tous les autres comptes : c'est la clé de la maison."},
+      {t:"5. Listes de diffusion", d:"Pour écrire à plusieurs usagers : toujours en CCI — divulguer les adresses des autres est une faute (RGPD)."}
+    ]
+  },
+
+  "organiser-quotidien": {
+    crit:2, title:"Organiser le quotidien : agenda, plannings, pictogrammes",
+    def:"Les outils numériques d'organisation (agenda électronique, plannings, cahier de liaison, pictogrammes) aident la personne à structurer ses journées et permettent aux aidants de se coordonner.",
+    steps:[
+      {t:"1. Agenda électronique", d:"Saisir les RDV récurrents (médecin, kiné), activer des rappels adaptés (la veille + 1h avant), partager en lecture seule avec la famille si la personne y consent, exporter en PDF si besoin papier."},
+      {t:"2. Plannings visuels et EDT imagé", d:"Emploi du temps illustré (une image par activité) pour les personnes qui lisent difficilement. Tableaux électroniques simples (tableur)."},
+      {t:"3. Pictogrammes", d:"Signalétique par images (application Helpicto) : rendre l'information accessible sans lecture."},
+      {t:"4. Cahier de liaison numérique", d:"Transmissions entre aidants (famille, professionnels) : qui a fait quoi, quand, points de vigilance. Régler les droits d'accès et respecter la confidentialité — une transmission est factuelle, jamais un jugement."},
+      {t:"5. Gestion des stocks", d:"Liste de courses partagée, suivi des consommables (produits d'entretien, médicaments non sensibles) sur un tableur simple."}
+    ]
+  },
+
+  "demarches": {
+    crit:2, title:"Démarches administratives en ligne",
+    def:"Accompagner l'usager dans ses démarches dématérialisées (CAF, Ameli, impôts...) : simuler ses droits, remplir un dossier, télécharger et vérifier un justificatif. C'est le cœur du critère « anticipation et réalisation des démarches ».",
+    visual:`<div class="visual"><div class="visual-title">La chaîne d'une démarche accompagnée</div>
+      <div class="flow">
+        <div class="flow-step">Préparer les pièces</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Simuler les droits</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Saisir (l'usager tape)</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Télécharger le justificatif</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Archiver</div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"1. Anticiper : préparer les pièces", d:"Avant de commencer : identité, justificatif de domicile, avis d'imposition, RIB... Lister ce que demande la démarche pour ne pas bloquer en cours de saisie."},
+      {t:"2. Utiliser les simulateurs", d:"caf.fr (APL, prime d'activité), simulateurs service-public.fr : estimer les droits AVANT de faire la demande — c'est l'« anticipation » du critère."},
+      {t:"3. Se connecter avec FranceConnect", d:"Le bouton d'authentification unique de l'État : un seul identifiant (impots.gouv, Ameli...) pour accéder à la plupart des services publics en ligne — à connaître et à présenter à l'usager."},
+      {t:"4. Saisir avec la personne", d:"C'est l'usager qui tape et valide. Toi tu expliques chaque champ, l'écran placé de façon à être visible par vous deux (pas en barrière). Jamais de validation à sa place."},
+      {t:"5. Télécharger le justificatif", d:"Attestation CAF, Ameli, impots.gouv : télécharger, contrôler l'authenticité (site officiel en .gouv.fr ou .fr connu), nommer proprement."},
+      {t:"6. Archiver et tracer", d:"Ranger dans l'arborescence de l'usager, noter la démarche faite (date, numéro de dossier) pour le suivi."},
+      {t:"S'entraîner sans risque", d:"Le site de démonstration des impôts (copie officielle d'impots.gouv.fr) permet de simuler une déclaration sans manipuler de vraies données personnelles — l'outil idéal pour s'entraîner en classe."}
+    ],
+    note:"En formation comme au CCF : uniquement des profils fictifs et des bacs à sable — jamais de vraies données personnelles."
+  },
+
+  "archivage": {
+    crit:2, title:"Classer et archiver les documents numériques",
+    def:"Un document dématérialisé perdu = une démarche bloquée. Classer, nommer et conserver les documents de l'usager dans une arborescence claire est une mission de base de l'aidant.",
+    visual:`<div class="visual"><div class="visual-title">Exemple d'arborescence + durées de conservation</div>
+      <div class="method-box" style="font-family:Consolas,monospace;font-size:.8rem;">
+        📁 Documents-Usager/<br>
+        &nbsp;&nbsp;📁 Sante/ &nbsp;📁 CAF/ &nbsp;📁 Impots/ &nbsp;📁 Logement/ &nbsp;📁 Banque/
+      </div>
+      <table class="sheet-table" style="max-width:420px;margin-top:8px;">
+        <tr><th>Document</th><th>À conserver</th></tr>
+        <tr><td>Avis d'imposition</td><td>3 ans</td></tr>
+        <tr><td>Quittances de loyer</td><td>Durée de la location + 3 ans</td></tr>
+        <tr><td>Relevés bancaires</td><td>5 ans</td></tr>
+        <tr><td>Bulletins de salaire</td><td>Jusqu'à la retraite</td></tr>
+      </table>
+      <p class="hint">Référence complète : tableau officiel sur service-public.fr.</p>
+    </div>`,
+    steps:[
+      {t:"1. Créer une arborescence simple", d:"Un dossier par thème (Santé, CAF, Impôts, Logement, Banque), pas plus de 2 niveaux : l'usager doit s'y retrouver seul."},
+      {t:"2. Nommer clairement", d:"Type-Organisme-Date : « Attestation-CAF-2026-03.pdf ». Interdit : « Scan0001.pdf », « document (2).pdf »."},
+      {t:"3. Choisir le support", d:"USB : simple mais se perd. Cloud : accessible partout mais nécessite un compte sécurisé. Souvent les deux (copie de sécurité)."},
+      {t:"4. Protéger les documents sensibles", d:"Documents de santé, bancaires : accès protégé par mot de passe, jamais envoyés par mail non sécurisé, partage limité au strict nécessaire."},
+      {t:"5. Respecter les durées de conservation", d:"Ne pas tout supprimer : certains documents doivent être gardés des années (voir tableau). En cas de doute, on garde."}
+    ]
+  },
+
+  "esante": {
+    crit:2, title:"E-santé : Doctolib, téléconsultation",
+    def:"La santé se gère de plus en plus en ligne : prise de rendez-vous (Doctolib), téléconsultation, remboursements (Ameli). Les données de santé sont des données sensibles au sens du RGPD — vigilance maximale.",
+    steps:[
+      {t:"1. Créer le compte Doctolib", d:"Avec l'usager, sur son adresse mail à lui. Renseigner le strict nécessaire."},
+      {t:"2. Prendre un rendez-vous", d:"Rechercher le praticien (spécialité + ville), choisir un créneau, motif de consultation, confirmation par mail/SMS. Savoir aussi annuler ou déplacer proprement."},
+      {t:"3. Préparer une téléconsultation", d:"Vérifier connexion, caméra, micro ; pièce au calme ; carte Vitale et ordonnances à portée de main. Connaître les limites : pas d'examen physique, pas d'urgence vitale (→ 15)."},
+      {t:"4. Suivre ses remboursements", d:"Compte ameli.fr : relevés, carte Vitale, attestation de droits."},
+      {t:"5. Protéger les données de santé", d:"Données sensibles RGPD : jamais de compte de santé créé sans consentement, jamais de partage des informations médicales vues pendant l'accompagnement."}
+    ]
+  },
+
+  "securite": {
+    crit:2, title:"Sécuriser les comptes et repérer les arnaques",
+    def:"Protéger l'usager en ligne : mots de passe robustes, double authentification, détection du phishing et des arnaques. Les publics fragiles sont les premières cibles des fraudeurs.",
+    visual:`<div class="visual"><div class="visual-title">Les signaux d'alerte d'un message frauduleux</div>
+      <div class="alert-box"><b>🚩 Urgence artificielle</b> — « votre compte sera bloqué dans 24h »</div>
+      <div class="alert-box"><b>🚩 Demande de données</b> — mot de passe, code, numéro de carte (aucun organisme sérieux ne les demande par mail/SMS)</div>
+      <div class="alert-box"><b>🚩 Adresse d'expéditeur étrange</b> — service-caf@gmail.com, ameli-remboursement.xyz</div>
+      <div class="alert-box"><b>🚩 Trop beau pour être vrai</b> — colis gratuit, remboursement surprise, gain de loterie</div>
+    </div>`,
+    steps:[
+      {t:"1. Mot de passe robuste", d:"Long (12+ caractères), unique par compte, phrase de passe facile à retenir (« MonChatMange3Croquettes! »). Un gestionnaire de mots de passe peut aider."},
+      {t:"2. Double authentification (2FA)", d:"Activer la validation par SMS ou application sur les comptes importants (mail, banque, CAF) : même mot de passe volé, le compte reste protégé."},
+      {t:"3. Reconnaître le phishing", d:"Appliquer les 4 signaux d'alerte ci-dessus. Réflexe : ne jamais cliquer sur le lien — aller soi-même sur le site officiel."},
+      {t:"4. Réagir en cas de piratage", d:"Changer le mot de passe immédiatement, vérifier les autres comptes, consulter cybermalveillance.gouv.fr, signaler (signal-spam, 33700 pour les SMS)."},
+      {t:"5. Vigilance IA et deepfakes", d:"Images, voix et vidéos truquées de plus en plus crédibles : vérifier la source avant de croire ou partager."}
+    ],
+    note:"Mission type ECCF 4 : sécuriser les comptes d'un usager fictif et lui expliquer les réflexes — technique + pédagogie."
+  },
+
+  "achats-mobilite": {
+    crit:2, title:"Acheter en ligne et organiser ses déplacements",
+    def:"Aider l'usager à consommer en ligne en sécurité (repérer un site fiable, comparer) et à organiser ses déplacements (itinéraires, billets, mobilité solidaire) : deux démarches du quotidien à fort enjeu d'autonomie.",
+    steps:[
+      {t:"1. Vérifier la fiabilité d'un site marchand", d:"https + cadenas, mentions légales complètes, avis clients externes, prix cohérents. Un site sans mentions légales = on n'achète pas."},
+      {t:"2. Comparer avant d'acheter", d:"Comparateurs de prix, plusieurs offres, frais de port inclus. Penser consommation responsable et circuits courts (attendu du référentiel)."},
+      {t:"3. Payer en sécurité", d:"Jamais de carte bancaire enregistrée par défaut, vérifier le récapitulatif avant validation. En formation : simulation uniquement, jamais de vraie CB."},
+      {t:"4. Organiser un déplacement", d:"Itinéraire multimodal (SNCF Connect, BreizhGo, applis de cartographie) : horaires, correspondances, tarifs réduits (solidaires, seniors), achat du billet."},
+      {t:"5. Mobilité solidaire", d:"Pour un usager isolé (rural) : transport à la demande, plateformes de covoiturage solidaire locales, associations. Construire une solution complète porte-à-porte."}
+    ]
+  },
+
+  "insertion-pro": {
+    crit:2, title:"Insertion professionnelle : CV, candidature, entretien visio",
+    def:"Accompagner une personne vers l'emploi : rédiger CV et lettre, chercher des offres, candidater et se préparer à un entretien en visioconférence.",
+    steps:[
+      {t:"1. Rédiger le CV", d:"Structure claire (coordonnées, expériences, formation, compétences), sobriété, une page, export PDF nommé proprement (CV-Nom-Prenom.pdf). Version accessible : police lisible, bons contrastes."},
+      {t:"2. La lettre de motivation", d:"Personnalisée pour chaque offre : pourquoi cette structure, ce que la personne apporte. Modèles Canva ou traitement de texte."},
+      {t:"3. Chercher et lire les offres", d:"France Travail, Indeed, candidatures spontanées : repérer les mots-clés d'une offre et adapter CV/lettre en face."},
+      {t:"4. Candidater et suivre", d:"Mail de candidature conforme (objet clair, formule, pièces jointes nommées) + tableau de suivi des candidatures (date, structure, réponse, relance)."},
+      {t:"5. Préparer l'entretien visio", d:"Tester matériel et connexion avant, arrière-plan neutre, cadrage au niveau des yeux, ponctualité numérique (connecté 5 min avant), tenue correcte. S'entraîner en simulation enregistrée."}
+    ]
+  },
+
+  "accueillir-orienter": {
+    crit:2, title:"Accueillir et orienter",
+    def:"L'accompagnement commence par un accueil bienveillant (les difficultés numériques sont source de gêne et d'anxiété) et se termine parfois par une orientation : savoir passer la main vers un accompagnement plus adapté fait partie du métier d'aidant.",
+    visual:`<div class="visual"><div class="visual-title">Les 4 postures de l'aidant (kit officiel de l'aidant numérique)</div>
+      <div class="flow">
+        <div class="flow-step">J'accueille</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Je diagnostique</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">J'accompagne</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">J'oriente si besoin</div>
+      </div>
+      <p class="hint">Source : kit-inclusion.societenumerique.gouv.fr (programme Société Numérique de l'État).</p>
+    </div>`,
+    steps:[
+      {t:"1. Accueillir avec bienveillance", d:"Mettre la personne à l'aise : pas de jugement sur ce qu'elle ne sait pas faire. Déterminer pourquoi elle est là : quelle démarche ? besoin numérique ou administratif/social ?"},
+      {t:"2. Adapter selon le temps et l'autonomie", d:"Peu de temps + personne non autonome → faire la démarche avec elle immédiatement. Du temps → diagnostiquer puis accompagner vers l'autonomie."},
+      {t:"3. Reconnaître ses limites", d:"Besoin trop important, question sociale ou juridique hors de ton champ, dossier complexe : ne pas improviser, orienter."},
+      {t:"4. Savoir vers qui orienter", d:"Espaces France Services, conseillers numériques, médiateurs numériques (cartographie nationale de la médiation numérique), travailleurs sociaux, conseillers des organismes (CAF, France Travail...)."},
+      {t:"5. Motiver à se former", d:"Montrer à la personne l'intérêt de se former au numérique en partant de SES priorités : ses droits, sa recherche d'emploi, le contact avec ses proches."}
+    ],
+    note:"Orienter n'est pas un échec : c'est une preuve de professionnalisme. Au CCF, savoir dire « ceci dépasse mon rôle, j'oriente vers... » est valorisé."
+  },
+
+  "e-parentalite": {
+    crit:2, title:"E-parentalité : écrans et enfants",
+    def:"Conseiller une famille accompagnée sur l'usage des écrans par les enfants : repères d'âge, contrôle parental, réseaux sociaux. L'aidant outille les parents sans se substituer à eux.",
+    steps:[
+      {t:"1. Connaître les repères 3-6-9-12", d:"Pas d'écran avant 3 ans · pas de console personnelle avant 6 ans · internet accompagné à partir de 9 ans · réseaux sociaux et navigation seul à partir de 12 ans. Des repères de dialogue, pas des interdits rigides."},
+      {t:"2. Installer un contrôle parental", d:"Outils intégrés (Family Link sur Android, Temps d'écran sur iOS, contrôle parental des box opérateurs) : filtrage de contenus, limite de temps, rapport d'activité."},
+      {t:"3. Paramétrer avec la famille", d:"Ce sont les parents qui choisissent les règles (temps, horaires, applis autorisées) — l'aidant montre comment les mettre en œuvre (« faire avec » vaut aussi pour les familles)."},
+      {t:"4. Réseaux sociaux et mineurs", d:"Vérifier les âges minimums des plateformes, paramétrer les comptes en privé, expliquer les risques (contact d'inconnus, cyberharcèlement, exposition de données)."},
+      {t:"5. Rappeler que l'outil ne suffit pas", d:"Aucun contrôle parental ne remplace le dialogue : conseiller aux familles de parler des usages plutôt que de seulement surveiller."}
+    ]
+  },
+
+  /* ============ TRANSVERSAL ============ */
+
+  "rgpd-usager": {
+    crit:3, title:"RGPD et données de l'usager",
+    def:"L'aidant numérique manipule les données personnelles d'autrui : identité, revenus, santé, vie familiale. Le RGPD et le secret professionnel encadrent strictement ce que tu peux voir, faire et dire.",
+    visual:`<div class="visual"><div class="visual-title">Les 3 règles d'or de l'aidant</div>
+      <div class="law-cards">
+        <div class="law-card"><div class="icon">✋</div><h4>Consentement</h4><p>Rien sur les comptes ou données de la personne sans son accord explicite.</p></div>
+        <div class="law-card"><div class="icon">🤐</div><h4>Confidentialité</h4><p>Ce que tu vois pendant l'accompagnement ne sort pas de l'accompagnement.</p></div>
+        <div class="law-card"><div class="icon">⛔</div><h4>Limites</h4><p>Jamais les mots de passe ni les comptes bancaires à la place de l'usager.</p></div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"Données personnelles et sensibles", d:"Personnelles : nom, adresse, téléphone... Sensibles (protection renforcée) : santé, situation sociale, données bancaires. L'aidant croise les deux en permanence."},
+      {t:"Le consentement", d:"Avant chaque action : demander, expliquer, obtenir l'accord. La personne peut refuser ou retirer son accord à tout moment."},
+      {t:"Secret professionnel et partagé", d:"Ce que tu apprends reste confidentiel. Le partage d'informations entre professionnels est limité au strict nécessaire de l'accompagnement."},
+      {t:"Droits de la personne (RGPD)", d:"Accès, rectification, suppression de ses données ; la CNIL contrôle et sanctionne. L'usager peut exercer ces droits — l'aidant peut l'y aider."},
+      {t:"En formation", d:"Aucune donnée réelle : profils fictifs et bacs à sable pour tous les comptes créés en cours (mail, Doctolib, CAF, domotique...)."}
+    ],
+    note:"Cette règle traverse TOUTES les missions : au CCF, cite systématiquement consentement et confidentialité dans ta pratique explicitée."
+  },
+
+  "pix-crcn": {
+    crit:3, title:"Pix et le CRCN",
+    def:"Le CRCN (Cadre de Référence des Compétences Numériques) définit 5 domaines de compétences numériques. Pix est la plateforme nationale qui les évalue et les certifie — certification obligatoire en fin de Terminale.",
+    visual:`<div class="visual"><div class="visual-title">Les 5 domaines du CRCN</div>
+      <div class="law-cards">
+        <div class="law-card"><div class="icon">🔍</div><h4>1. Informations et données</h4><p>Rechercher, gérer, traiter des données.</p></div>
+        <div class="law-card"><div class="icon">💬</div><h4>2. Communication et collaboration</h4><p>Échanger, partager, s'insérer dans le monde numérique.</p></div>
+        <div class="law-card"><div class="icon">🎨</div><h4>3. Création de contenu</h4><p>Documents, images, tutoriels, programmation.</p></div>
+        <div class="law-card"><div class="icon">🛡️</div><h4>4. Protection et sécurité</h4><p>Sécuriser équipements, données et santé.</p></div>
+        <div class="law-card"><div class="icon">⚙️</div><h4>5. Environnement numérique</h4><p>Résoudre les problèmes, évoluer dans un environnement technique.</p></div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"À quoi servent les campagnes Pix", d:"Chaque mission de l'année est reliée à des compétences CRCN ; les campagnes Pix en cours d'année t'entraînent et préparent la certification."},
+      {t:"Le positionnement", d:"En Terminale, un parcours de positionnement identifie tes domaines faibles pour cibler les révisions."},
+      {t:"La certification", d:"En fin de Terminale, en conditions d'examen : elle valide officiellement ton profil de compétences numériques — valorisable sur un CV."},
+      {t:"Le lien avec le métier", d:"Les compétences certifiées sont exactement celles de l'aidant numérique : un atout pour l'insertion professionnelle en SAPAT."}
+    ]
+  }
+};
+
+const grids = {1:document.getElementById("grid-1"),2:document.getElementById("grid-2"),3:document.getElementById("grid-3")};
+const colors = {1:"#2563eb",2:"#16a34a",3:"#7c3aed"};
+
+/* Ordre et regroupement des notions — parcours logique de l'aidant */
+const structure = {
+  1:[
+    {s:"🏠 Adapter le logement", k:["amenagement-3d","domotique","accessibilite"]},
+    {s:"🔧 Équiper, installer, dépanner", k:["maintenance","installer-appli","tutoriel"]},
+    {s:"🤝 Garder le lien", k:["communication-distance","robots-jeux"]}
+  ],
+  2:[
+    {s:"🧭 La posture de l'aidant", k:["illectronisme","accueillir-orienter","diagnostic","charte","faire-avec"]},
+    {s:"📨 Communiquer et organiser", k:["mail","organiser-quotidien"]},
+    {s:"🗂️ Réaliser les démarches", k:["demarches","archivage","esante"]},
+    {s:"🛡️ Protéger et conseiller", k:["securite","e-parentalite"]},
+    {s:"🚀 Vers l'autonomie", k:["achats-mobilite","insertion-pro"]}
+  ],
+  3:[
+    {s:"", k:["rgpd-usager","pix-crcn"]}
+  ]
+};
+
+[1,2,3].forEach(c=>{
+  structure[c].forEach(group=>{
+    if(group.s){
+      const sub = document.createElement("div");
+      sub.className = "grid-sub";
+      sub.textContent = group.s;
+      grids[c].appendChild(sub);
+    }
+    group.k.forEach(key=>{
+      const n = notions[key];
+      if(!n) return;
+      const btn = document.createElement("button");
+      btn.className = "notion-btn";
+      btn.textContent = n.title;
+      btn.dataset.key = key;
+      btn.onclick = ()=>showDetail(key);
+      grids[c].appendChild(btn);
+    });
+  });
+});
+
+function showDetail(key){
+  document.querySelectorAll(".notion-btn").forEach(b=>b.classList.toggle("active", b.dataset.key===key));
+  const n = notions[key];
+  const detail = document.getElementById("detail");
+  detail.style.borderTopColor = colors[n.crit];
+  let html = `<button class="close-btn" onclick="closeDetail()">✕ Fermer</button>`;
+  html += `<h3>${n.title}</h3>`;
+  html += `<div class="def"><b>Définition</b>${n.def}</div>`;
+  if(n.visual){ html += n.visual; }
+  html += `<ol>`;
+  n.steps.forEach(s=>{ html += `<li><strong>${s.t}</strong>${s.d}</li>`; });
+  html += `</ol>`;
+  if(n.note){ html += `<div class="note">💡 ${n.note}</div>`; }
+  detail.innerHTML = html;
+  detail.classList.add("show");
+  document.getElementById("placeholder").style.display = "none";
+  detail.scrollIntoView({behavior:"smooth", block:"start"});
+}
+
+function closeDetail(){
+  document.getElementById("detail").classList.remove("show");
+  document.getElementById("placeholder").style.display = "block";
+  document.querySelectorAll(".notion-btn").forEach(b=>b.classList.remove("active"));
+}
+
+/* Mode livret */
+const critMeta = {
+  1:{label:"C8.1 — Adapter le cadre de vie de la personne (ECCF 3)", color:"#2563eb"},
+  2:{label:"C8.2 — Effectuer les démarches courantes du quotidien (ECCF 4)", color:"#16a34a"},
+  3:{label:"Transversal — Protection des données et compétences numériques", color:"#7c3aed"}
+};
+
+function buildBooklet(){
+  const booklet = document.getElementById("booklet");
+  if(booklet.dataset.built) return;
+  let html = "";
+  [1,2,3].forEach(c=>{
+    html += `<h2 class="booklet-crit-title" style="background:${critMeta[c].color};">${critMeta[c].label}</h2>`;
+    structure[c].forEach(group=>{
+      if(group.s){ html += `<div class="booklet-sub">${group.s}</div>`; }
+      group.k.forEach(key=>{
+        const n = notions[key];
+        if(!n) return;
+        html += `<div class="booklet-notion" style="border-top-color:${critMeta[c].color};">`;
+        html += `<h3>${n.title}</h3>`;
+        html += `<div class="def"><b>Définition</b>${n.def}</div>`;
+        if(n.visual){ html += n.visual; }
+        html += `<ol>`;
+        n.steps.forEach(s=>{ html += `<li><strong>${s.t}</strong>${s.d}</li>`; });
+        html += `</ol>`;
+        if(n.note){ html += `<div class="note">💡 ${n.note}</div>`; }
+        html += `</div>`;
+      });
+    });
+  });
+  booklet.innerHTML = html;
+  booklet.dataset.built = "1";
+}
+
+function toggleBooklet(){
+  buildBooklet();
+  const on = document.body.classList.toggle("booklet-mode");
+  document.getElementById("booklet-btn").textContent =
+    on ? "↩️ Revenir à la version cliquable" : "🖨️ Version livret (tout afficher / imprimer)";
+  window.scrollTo({top:0});
+}
+window.addEventListener("beforeprint", buildBooklet);
+</script>
+
+</body>
+</html>

@@ -1,45 +1,18 @@
----
-titre: "Accueil"
-date_creation: 2026-06-10
-date_modif: 2026-06-10
-type: ressource
-tags: [cours, formation]
-statut: actif
----
+# Zidane TIM — Plateforme pédagogique
 
-# Zidane TIM - Plateforme Pédagogique
+Bienvenue. Ce site regroupe les cours, activités et ressources numériques (TIM — Technologies de l'Informatique et du Multimédia) du Lycée Xavier Grall (Loudéac), réseau CNEAP.
 
-Bienvenue sur la plateforme de cours et formations pour les élèves du réseau CNEAP.
+## Filières — année scolaire 2026-2027
 
-Tous les cours sont disponibles **gratuitement** en ligne, structurés par filière et niveau.
+| Filière | Classes | Modules |
+|---|---|---|
+| [Collège](cours/college/index.md) | 4e EA · 3e EA | Mathématiques · EPI STM (matériaux, IA, Scratch) |
+| [CAPa SAPVER](cours/capa-sapver/index.md) | 1ère et 2e année | MG1 Vie sociale · MP2 Communication professionnelle |
+| [Bac Pro SAPAT](cours/sapat/index.md) | 2nde · 1ère · Terminale | EG1 · EG4 · C1.2 Données numériques · C8.1/C8.2 Cadre de vie |
+| [Formations IA](cours/formations-ia/index.md) | Enseignants CNEAP | Intelligence artificielle en contexte pédagogique |
 
-## 📚 Filières
+## Comment utiliser ce site
 
-### Bac Pro SAPAT
-- **C1.2 - Numérique & Tableur** : Compétences numériques, manipulation de données, création de graphiques
-- **MP8** : Module professionnel spécialisé
+Chaque filière a sa page d'entrée avec les modules travaillés dans l'année. Les activités s'ouvrent directement dans le navigateur et peuvent être imprimées si besoin.
 
-### CAP AEPE
-Formation pour Accompagnants Éducatifs Petite Enfance
-
-### CAPa SAPVER
-Services aux Personnes et Vente en Espace Rural
-
-### Collège
-Ressources pour les classes de 4e et 3e
-
-## 🤖 Formations IA
-Formations spécialisées sur l'utilisation de l'IA en pédagogie et en entreprise
-
----
-
-## Comment utiliser cette plateforme
-
-1. **Parcourir les cours** via le menu latéral
-2. **Télécharger les ressources** (PDF, fichiers, exemples)
-3. **Partager le lien** avec vos camarades
-4. **Contacter l'enseignant** pour des questions
-
----
-
-**Mise à jour** : Les contenus sont régulièrement actualisés. Dernière mise à jour : {{ last_update }}
+→ [Ressources générales](ressources/index.md) : liens officiels utiles (Pix, cybersécurité, référentiels).
