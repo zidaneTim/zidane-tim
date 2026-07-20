@@ -34,6 +34,12 @@
   --md-accent-fg-color--transparent: #e8b96a1a;
 }
 
+/* Zone de contenu un peu plus large : les cartes tiennent à 3 par ligne
+   au lieu de 2, ce qui raccourcit nettement la page d'accueil. */
+.md-grid {
+  max-width: 72rem;
+}
+
 /* Titres en serif — chaleur et caractère, contraste avec le corps de texte */
 .md-typeset h1,
 .md-typeset h2,
@@ -44,63 +50,106 @@
 }
 
 .md-typeset h1 {
-  font-size: 2.1rem;
+  font-size: 1.9rem;
   color: var(--md-primary-fg-color);
   margin-bottom: 0.3em;
 }
 
 .md-typeset h2 {
-  font-size: 1.5rem;
-  margin-top: 2em;
+  font-size: 1.4rem;
+  margin-top: 1.6em;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
-  padding-bottom: 0.3em;
+  padding-bottom: 0.25em;
 }
 
-/* Bandeau d'en-tête de la page d'accueil */
+.md-typeset h3 {
+  font-size: 1.1rem;
+  margin-top: 1.2em;
+}
+
+/* ---------- Page d'accueil ---------- */
+
+/* Bandeau d'en-tête : compact, sans espace mort */
 .zt-hero {
   background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-primary-fg-color--dark) 100%);
   color: #faf8f3;
-  border-radius: 0.8rem;
-  padding: 2.2rem 2rem;
-  margin: 0.5rem 0 2rem 0;
+  border-radius: 0.7rem;
+  padding: 1.4rem 1.7rem;
+  margin: 0 0 1.4rem 0;
 }
 
-.zt-hero h1 {
+.md-typeset .zt-hero h1 {
   color: #faf8f3;
-  margin: 0 0 0.5rem 0;
+  font-size: 1.75rem;
+  margin: 0 0 0.35rem 0;
 }
 
 .zt-hero p {
   color: rgba(250, 248, 243, 0.85);
-  font-size: 1.05rem;
+  font-size: 0.8rem;
+  line-height: 1.5;
   margin: 0;
   max-width: 46rem;
 }
 
-/* Intitulés de filière — repères visuels entre les groupes de cartes */
-.zt-filiere {
-  font-family: "DM Serif Display", Georgia, serif;
-  font-size: 1.2rem;
+/* Intitulés de filière — liseré or, sélecteur assez spécifique pour
+   l'emporter sur le style h2 par défaut de Material (trait gris pleine largeur) */
+.md-typeset h2.zt-filiere {
+  font-size: 1.05rem;
   color: var(--md-primary-fg-color);
-  margin: 2.2rem 0 0.4rem 0;
-  padding-bottom: 0.3rem;
+  margin: 1.5rem 0 0.7rem 0;
+  padding-bottom: 0.2rem;
   border-bottom: 2px solid var(--md-accent-fg-color);
   display: inline-block;
 }
 
-/* Cartes : plus douces, effet de survol discret */
+.md-typeset h2.zt-filiere:first-of-type {
+  margin-top: 0.6rem;
+}
+
+/* ---------- Cartes ---------- */
+
+/* Grille resserrée : colonnes plus étroites, gouttières réduites */
+.md-typeset .grid.cards {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 0.6rem;
+  margin: 0.4rem 0 0.2rem 0;
+}
+
+.md-typeset .grid.cards > ul {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 0.6rem;
+  margin: 0;
+}
+
 .md-typeset .grid.cards > ul > li {
-  border-radius: 0.7rem;
+  border-radius: 0.6rem;
   border-color: var(--md-default-fg-color--lightest);
   background-color: #ffffff;
-  padding: 1rem 1.1rem;
+  padding: 0.75rem 0.9rem;
+  margin: 0;
   transition: border-color 180ms, box-shadow 180ms, transform 180ms;
 }
 
 .md-typeset .grid.cards > ul > li:hover {
   border-color: var(--md-accent-fg-color);
-  box-shadow: 0 6px 18px rgba(26, 46, 92, 0.12);
+  box-shadow: 0 5px 14px rgba(26, 46, 92, 0.12);
   transform: translateY(-2px);
+}
+
+/* Contenu interne des cartes : plus dense */
+.md-typeset .grid.cards > ul > li > hr {
+  margin: 0.5rem 0;
+}
+
+.md-typeset .grid.cards > ul > li > p {
+  margin: 0.3rem 0;
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+.md-typeset .grid.cards > ul > li > p:last-child {
+  margin-bottom: 0;
 }
 
 /* Icônes de carte à la couleur d'accent (or) plutôt que primaire (marine) */
@@ -108,6 +157,8 @@
 .md-typeset .grid.cards svg {
   color: var(--md-accent-fg-color);
 }
+
+/* ---------- Éléments communs ---------- */
 
 /* Tableaux plus aérés et lisibles */
 .md-typeset table:not([class]) {
@@ -130,7 +181,7 @@
 /* Boutons : un peu plus généreux au clic (tablettes et mobiles), en or */
 .md-typeset .md-button {
   border-radius: 0.4rem;
-  padding: 0.55em 1.1em;
+  padding: 0.5em 1em;
 }
 
 .md-typeset .md-button--primary {
@@ -145,8 +196,10 @@
   color: #faf8f3;
 }
 
-/* Admonitions : liseré en or plutôt que la couleur générique du type */
+/* Admonitions : liseré en or, un peu plus compactes */
 .md-typeset .admonition,
 .md-typeset details {
   border-left-color: var(--md-accent-fg-color);
+  font-size: 0.72rem;
+  margin: 1rem 0;
 }
