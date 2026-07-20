@@ -1,8 +1,6 @@
 site_name: Zidane TIM
 site_description: Cours et activités numériques — Lycée Xavier Grall, Loudéac
 site_url: https://zidanetim.github.io/zidane-tim/
-repo_url: https://github.com/zidaneTim/zidane-tim
-repo_name: zidane-tim
 copyright: Lycée Xavier Grall — Loudéac · Réseau CNEAP
 
 theme:
