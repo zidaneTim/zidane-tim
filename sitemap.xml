@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://zidane.github.io/zidane-tim/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/capa-sapver/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/cours/capa-sapver/mg1-vie-sociale/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/capa-sapver/mg1-vie-sociale/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/cours/college/3e-epi-stm/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/capa-sapver/activites/sq05-phishing/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/cours/college/4e-maths/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/college/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/cours/sapat/c12-donnees-numeriques/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/formations-ia/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/cours/sapat/c81-c82-cadre-de-vie/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
     <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/sapat/c12-donnees-numeriques/</loc>
-         <lastmod>2026-07-20</lastmod>
-    </url>
-    <url>
-         <loc>https://zidane.github.io/zidane-tim/cours/sapat/c81-c82-cadre-de-vie/</loc>
-         <lastmod>2026-07-20</lastmod>
-    </url>
-    <url>
-         <loc>https://zidane.github.io/zidane-tim/ressources/</loc>
+         <loc>https://zidanetim.github.io/zidane-tim/ressources/</loc>
          <lastmod>2026-07-20</lastmod>
     </url>
 </urlset>
