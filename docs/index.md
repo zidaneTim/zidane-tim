@@ -94,17 +94,9 @@ Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia
 
 ## Ressources {: .zt-filiere }
 
-<div class="grid cards" markdown>
+Liens utiles, réflexes numériques, sites officiels.
 
--   :material-lifebuoy:{ .lg .middle } **Ressources**
-
-    ---
-
-    Liens utiles, réflexes numériques, sites officiels.
-
-    [:octicons-arrow-right-24: Voir les ressources](ressources/index.md)
-
-</div>
+[:material-lifebuoy: Voir les ressources](ressources/index.md){ .md-button .md-button--primary }
 
 !!! tip "Comment ça marche"
 
