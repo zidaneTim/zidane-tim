@@ -6,6 +6,18 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
 ## Activités
 
-!!! info "À venir"
+<div class="grid cards" markdown>
 
-    Les activités de ce module seront publiées au fil de l'année.
+-   :material-account-group-outline:{ .lg .middle } **Population et vieillissement**
+
+    ---
+
+    Que disent les chiffres du recensement sur le territoire de LCBC ?
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/population-age-lcbc.md)
+
+</div>
+
+!!! tip "Où répondre ?"
+
+    Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**.
