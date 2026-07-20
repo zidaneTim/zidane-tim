@@ -69,64 +69,67 @@
 
 /* ---------- Page d'accueil ---------- */
 
-/* Bandeau d'en-tête : compact, sans espace mort */
+/* Bandeau d'en-tête : compact, sans espace mort.
+   NB : Material fixe la racine à 20px, donc 1rem = 20px ici. */
 .zt-hero {
   background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-primary-fg-color--dark) 100%);
   color: #faf8f3;
-  border-radius: 0.7rem;
-  padding: 1.4rem 1.7rem;
-  margin: 0 0 1.4rem 0;
+  border-radius: 0.6rem;
+  padding: 0.9rem 1.2rem;
+  margin: 0 0 0.9rem 0;
 }
 
 .md-typeset .zt-hero h1 {
   color: #faf8f3;
-  font-size: 1.75rem;
-  margin: 0 0 0.35rem 0;
+  font-size: 1.4rem;
+  line-height: 1.2;
+  margin: 0 0 0.2rem 0;
 }
 
 .zt-hero p {
   color: rgba(250, 248, 243, 0.85);
-  font-size: 0.8rem;
-  line-height: 1.5;
+  font-size: 0.7rem;
+  line-height: 1.45;
   margin: 0;
-  max-width: 46rem;
+  max-width: 42rem;
 }
 
 /* Intitulés de filière — liseré or, sélecteur assez spécifique pour
    l'emporter sur le style h2 par défaut de Material (trait gris pleine largeur) */
 .md-typeset h2.zt-filiere {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   color: var(--md-primary-fg-color);
-  margin: 1.5rem 0 0.7rem 0;
-  padding-bottom: 0.2rem;
+  margin: 1rem 0 0.35rem 0;
+  padding-bottom: 0.12rem;
   border-bottom: 2px solid var(--md-accent-fg-color);
   display: inline-block;
 }
 
 .md-typeset h2.zt-filiere:first-of-type {
-  margin-top: 0.6rem;
+  margin-top: 0.2rem;
 }
 
 /* ---------- Cartes ---------- */
 
-/* Grille resserrée : colonnes plus étroites, gouttières réduites */
+/* Grille resserrée : colonnes plus étroites, gouttières réduites.
+   11rem ≈ 220px : 3 colonnes dès ~740px de large, 4 au-delà de ~980px. */
 .md-typeset .grid.cards {
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
-  gap: 0.6rem;
-  margin: 0.4rem 0 0.2rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  gap: 0.45rem;
+  margin: 0.1rem 0 0 0;
 }
 
 .md-typeset .grid.cards > ul {
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
-  gap: 0.6rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  gap: 0.45rem;
   margin: 0;
 }
 
 .md-typeset .grid.cards > ul > li {
-  border-radius: 0.6rem;
+  border-radius: 0.5rem;
   border-color: var(--md-default-fg-color--lightest);
   background-color: #ffffff;
-  padding: 0.75rem 0.9rem;
+  padding: 0.55rem 0.7rem;
   margin: 0;
   transition: border-color 180ms, box-shadow 180ms, transform 180ms;
 }
@@ -139,17 +142,28 @@
 
 /* Contenu interne des cartes : plus dense */
 .md-typeset .grid.cards > ul > li > hr {
-  margin: 0.5rem 0;
+  margin: 0.35rem 0;
 }
 
 .md-typeset .grid.cards > ul > li > p {
-  margin: 0.3rem 0;
+  margin: 0.2rem 0;
+  font-size: 0.68rem;
+  line-height: 1.4;
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child {
+  margin-top: 0;
   font-size: 0.75rem;
-  line-height: 1.5;
 }
 
 .md-typeset .grid.cards > ul > li > p:last-child {
   margin-bottom: 0;
+}
+
+/* Section Ressources : paragraphe + bouton, sans marges superflues */
+.md-typeset h2.zt-filiere + p {
+  margin: 0.3rem 0 0.4rem 0;
+  font-size: 0.7rem;
 }
 
 /* Icônes de carte à la couleur d'accent (or) plutôt que primaire (marine) */
@@ -200,6 +214,10 @@
 .md-typeset .admonition,
 .md-typeset details {
   border-left-color: var(--md-accent-fg-color);
-  font-size: 0.72rem;
-  margin: 1rem 0;
+  font-size: 0.68rem;
+  margin: 0.9rem 0;
+}
+
+.md-typeset .admonition > p:last-child {
+  margin-bottom: 0.5rem;
 }
