@@ -20,7 +20,7 @@ Chaque activité part de données réelles du territoire.
 
     D'où vient l'eau de Bretagne Centre, et que vaut-elle ?
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/Activite-C12-Eau-Bretagne-2026-2027.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/eau-bretagne.md)
 
 -   :material-food-apple-outline:{ .lg .middle } **Manger local**
 
@@ -28,7 +28,7 @@ Chaque activité part de données réelles du territoire.
 
     Circuits courts et alimentation sur le territoire.
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/Activite-C12-Alimentation-Bretagne-2026-2027.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
 
 -   :material-leaf:{ .lg .middle } **La biodiversité**
 
@@ -36,7 +36,7 @@ Chaque activité part de données réelles du territoire.
 
     Ce qui vit autour de l'établissement.
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/Activite-C12-Biodiversite-Bretagne-2026-2027.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
 
 -   :material-flash-outline:{ .lg .middle } **Précarité énergétique**
 
@@ -44,7 +44,7 @@ Chaque activité part de données réelles du territoire.
 
     Se chauffer à Loudéac Communauté Bretagne Centre.
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/Activite-C12-Energie-Bretagne-2026-2027.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/energie-lcbc.md)
 
 -   :material-account-heart-outline:{ .lg .middle } **Vieillir en Bretagne Centre**
 
@@ -52,10 +52,10 @@ Chaque activité part de données réelles du territoire.
 
     Population âgée et besoins d'accompagnement.
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/Activite-C12-Sante-Bretagne-2026-2027.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/sante-bretagne.md)
 
 </div>
 
-!!! info "Fiches imprimables"
+!!! tip "Où répondre ?"
 
-    Ces activités s'ouvrent dans un nouvel onglet et sont prévues pour l'impression.
+    Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**. Seule la fiche de notions ci-dessus est prévue pour l'impression.

@@ -14,7 +14,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     Reconnaître un message piégé (SMS, courriel), connaître les bons réflexes et les sites officiels de signalement.
 
-    [:octicons-arrow-right-24: Ouvrir le livret élève](activites/SQ05-Phishing-Livret-Eleve.html){ target="_blank" rel="noopener" }
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq05-phishing.md)
 
 </div>
 
@@ -27,6 +27,6 @@ Agir dans son environnement social et numérique de façon responsable.
 | Un doute sur un lien | Ne pas cliquer, vérifier l'adresse réelle |
 | Victime d'une arnaque | **cybermalveillance.gouv.fr** |
 
-!!! info "Fiche imprimable"
+!!! tip "Où répondre ?"
 
-    Le livret s'ouvre dans un nouvel onglet et est prévu pour l'impression.
+    L'activité se fait à l'écran : réponds et dépose ta trace dans ton bloc-notes **OneNote**.

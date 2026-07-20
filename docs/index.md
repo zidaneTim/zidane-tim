@@ -28,13 +28,37 @@ Choisis ta classe :
 
     [:octicons-arrow-right-24: Voir le cours](cours/college/3e-epi-stm.md)
 
--   :material-shield-account-outline:{ .lg .middle } **CAPa SAPVER — MG1**
+-   :material-shield-account-outline:{ .lg .middle } **CAPa SAPVER 1 — MG1**
 
     ---
 
     Vie sociale et numérique : se protéger en ligne, agir de façon responsable.
 
     [:octicons-arrow-right-24: Voir les activités](cours/capa-sapver/mg1-vie-sociale.md)
+
+-   :material-forum-outline:{ .lg .middle } **CAPa SAPVER 2 — MP2**
+
+    ---
+
+    Communication professionnelle : accueil, transmission, posture pro.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/capa-sapver/mp2-communication-pro.md)
+
+-   :material-flask-outline:{ .lg .middle } **2nde SAPAT — EG1**
+
+    ---
+
+    Sciences, maths et numérique : démarches et outils scientifiques.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/sapat/eg1-sciences-maths-numerique.md)
+
+-   :material-account-group-outline:{ .lg .middle } **2nde SAPAT — EG4**
+
+    ---
+
+    Vivre et agir ensemble dans le respect de l'autre.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/sapat/eg4-vivre-ensemble.md)
 
 -   :material-chart-box-outline:{ .lg .middle } **1ère SAPAT — C1.2**
 

@@ -70,8 +70,11 @@ nav:
       - 4e — Mathématiques: cours/college/4e-maths.md
       - 3e — EPI STM: cours/college/3e-epi-stm.md
   - CAPa SAPVER:
-      - MG1 — Vie sociale: cours/capa-sapver/mg1-vie-sociale.md
+      - MG1 — Vie sociale (1ère année): cours/capa-sapver/mg1-vie-sociale.md
+      - MP2 — Communication pro (2e année): cours/capa-sapver/mp2-communication-pro.md
   - Bac Pro SAPAT:
+      - EG1 — Sciences / Maths / Numérique (2nde): cours/sapat/eg1-sciences-maths-numerique.md
+      - EG4 — Vivre et agir ensemble (2nde): cours/sapat/eg4-vivre-ensemble.md
       - C1.2 — Données numériques (1ère): cours/sapat/c12-donnees-numeriques.md
       - C8.1 / C8.2 — Cadre de vie (1ère · Term): cours/sapat/c81-c82-cadre-de-vie.md
   - Ressources: ressources/index.md
