@@ -5,7 +5,7 @@
 <p class="zt-lede">Reconnaître un message piégé et connaître les bons réflexes de signalement.</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances (lundi · vendredi)</span>
+  <span>:material-clock-outline: 2 séances</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Sécurité numérique · CRCN 4.1</span>
 </div>
@@ -51,7 +51,7 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 3. **Je signale** : SMS → je le transfère au **33700** (numéro gratuit de signalement) · courriel → signal-spam.fr · en cas de doute → cybermalveillance.gouv.fr.
 4. **Je supprime** le message. Et si j'ai un doute, **j'en parle à un adulte**.
 
-## ✏️ Je m'entraîne (lundi)
+## ✏️ Je m'entraîne
 
 !!! example "Consigne 1 — en classe entière (10 min)"
     Reprendre le SMS « Chronopost » ci-dessus. Retrouver ensemble les indices de piège qu'il contient.
@@ -71,7 +71,7 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 !!! tip "Où répondre ?"
     Note tes réponses des consignes 1 à 3 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## 🕵️ Atelier : la chasse au phishing (vendredi)
+## 🕵️ Atelier : la chasse au phishing
 
 **Ta mission :** tu es le « détective anti-arnaque » de ta famille. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de la maison. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 

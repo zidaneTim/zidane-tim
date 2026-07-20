@@ -10,11 +10,11 @@ Collecter, traiter et présenter des données numériques avec le tableur, à pa
 
 ## Activités — Territoire Bretagne Centre
 
-Chaque activité part de données réelles du territoire.
+Chaque activité part de données réelles du territoire. **Fais-les dans l'ordre ci-dessous** — commence par la 1.
 
 <div class="grid cards" markdown>
 
--   :material-water:{ .lg .middle } **L'eau du robinet**
+-   :material-numeric-1-circle:{ .lg .middle } **L'eau du robinet**
 
     ---
 
@@ -22,7 +22,7 @@ Chaque activité part de données réelles du territoire.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/eau-bretagne.md)
 
--   :material-food-apple-outline:{ .lg .middle } **Manger local**
+-   :material-numeric-2-circle:{ .lg .middle } **Manger local**
 
     ---
 
@@ -30,7 +30,7 @@ Chaque activité part de données réelles du territoire.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
 
--   :material-leaf:{ .lg .middle } **La biodiversité**
+-   :material-numeric-3-circle:{ .lg .middle } **La biodiversité**
 
     ---
 
@@ -38,7 +38,7 @@ Chaque activité part de données réelles du territoire.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
 
--   :material-flash-outline:{ .lg .middle } **Précarité énergétique**
+-   :material-numeric-4-circle:{ .lg .middle } **Précarité énergétique**
 
     ---
 
@@ -46,7 +46,7 @@ Chaque activité part de données réelles du territoire.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/energie-lcbc.md)
 
--   :material-account-heart-outline:{ .lg .middle } **Vieillir en Bretagne Centre**
+-   :material-numeric-5-circle:{ .lg .middle } **Vieillir en Bretagne Centre**
 
     ---
 

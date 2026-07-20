@@ -38,7 +38,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Travail à faire
 
-### Séance 1 · A — Analyse du contexte et de la problématique
+### A — Analyse du contexte et de la problématique
 
 **Récupérer, comprendre et nettoyer les données**
 
@@ -48,7 +48,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 4. Ajouter une colonne « Donnée disponible » (Oui/Non) pour repérer les cellules masquées (« NC », vide) sans les remplacer par 0.
 5. Copier-coller (valeurs) le résultat filtré dans une nouvelle feuille nommée *Sous-ensemble de travail* : c'est elle qui sert de base à toute la suite.
 
-### Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiés
 
 **Calculer et classer un indicateur de vulnérabilité**
 
@@ -61,7 +61,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 !!! tip "Astuce"
     Vérifie que le nombre de points de livraison n'est jamais à 0 avant de diviser, sinon Excel renvoie une erreur `#DIV/0!`.
 
-### Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
+### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
 **Cartographier, représenter et communiquer**
 

@@ -38,7 +38,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 
 ## Travail à faire
 
-### Séance 1 · A — Analyse du contexte et de la problématique
+### A — Analyse du contexte et de la problématique
 
 **Comprendre la demande, récupérer et nettoyer les données**
 
@@ -49,7 +49,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 5. Nettoyer l'onglet `Donnees-22` : conserver uniquement les colonnes utiles (raison sociale, commune, code postal, catégorie d'établissement, adresse), supprimer les doublons (Données → Supprimer les doublons, sur le numéro FINESS), repérer et signaler les cellules vides d'adresse.
 6. À partir de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un onglet `Donnees-LCBC` ne contenant que les établissements du territoire, puis n'y conserver que les catégories relevant des personnes âgées (EHPAD, résidence autonomie, accueil de jour, SSIAD, SAAD).
 
-### Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiés
 
 **Compter, croiser, faire parler les données**
 
@@ -62,7 +62,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 !!! tip "Astuce"
     Si la colonne catégorie contient un code suivi d'un libellé, utilise un critère avec joker : `"*EHPAD*"` compte toutes les cellules contenant le mot, quelle que soit sa position dans le texte.
 
-### Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
+### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
 **Représenter et transmettre à la coordinatrice du CLIC**
 

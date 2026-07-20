@@ -38,7 +38,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 
 ## Travail à faire
 
-### Séance 1 · A — Analyse du contexte et de la problématique
+### A — Analyse du contexte et de la problématique
 
 **Comprendre la demande, récupérer et nettoyer les données**
 
@@ -49,7 +49,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 5. Nettoyer l'onglet `Donnees-22` : supprimer les colonnes inutiles à l'étude (conserver au minimum dénomination, commune, code postal, activités, date d'engagement), supprimer les doublons éventuels (Données → Supprimer les doublons, sur la colonne SIRET), vérifier le format de la colonne date.
 6. À l'aide de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un second onglet `Donnees-LCBC` ne contenant que les opérateurs du territoire.
 
-### Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiés
 
 **Compter, croiser, faire parler les données**
 
@@ -62,7 +62,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 !!! tip "Astuce"
     Si une cellule d'activités contient plusieurs valeurs séparées par des points-virgules, utilise un critère avec joker dans tes formules : `"*Production*"` compte toutes les cellules qui contiennent le mot, où qu'il soit placé.
 
-### Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
+### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
 **Représenter et transmettre à la responsable du CCAS**
 

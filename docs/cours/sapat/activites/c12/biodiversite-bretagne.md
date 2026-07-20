@@ -38,7 +38,7 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 
 ## Travail à faire
 
-### Séance 1 · A — Analyse du contexte et de la problématique
+### A — Analyse du contexte et de la problématique
 
 **Comprendre la demande, collecter et structurer les données**
 
@@ -49,7 +49,7 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 5. Nettoyer et contrôler le tableau : vérifier qu'aucune commune n'est en double, qu'aucune ligne n'est vide, que toutes les colonnes de nombres sont bien au format nombre (et non texte), et corriger les saisies aberrantes en revenant à la fiche INPN.
 6. Écrire en une phrase le **biais de pression d'observation** : pourquoi un nombre d'espèces plus élevé ne signifie pas forcément que la commune est plus riche en biodiversité ?
 
-### Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiés
 
 **Compter, comparer, croiser les données**
 
@@ -62,7 +62,7 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 !!! tip "Astuce"
     Si une colonne de nombres refuse de se calculer, c'est presque toujours qu'elle est au format texte après saisie ou copier-coller. Sélectionne la colonne, puis Données → Convertir, ou vérifie l'alignement : un nombre est aligné à droite, un texte à gauche.
 
-### Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
+### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
 **Représenter et transmettre à l'animatrice**
 

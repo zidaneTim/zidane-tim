@@ -38,7 +38,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 
 ## Travail à faire
 
-### Séance 1 · A — Analyse du contexte et de la problématique
+### A — Analyse du contexte et de la problématique
 
 **Comprendre la demande, récupérer et nettoyer les données**
 
@@ -49,7 +49,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 5. Nettoyer l'onglet : conserver les colonnes utiles (commune, code INSEE, paramètre analysé, valeur, unité, conclusion sanitaire, date de prélèvement), convertir la colonne date au bon format, et traiter explicitement les cellules « < seuil de quantification » (les repérer et écrire en une phrase la règle que tu appliques : les compter comme conformes, ou les exclure du calcul de moyenne).
 6. À partir de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un onglet `Donnees-LCBC` limité au territoire.
 
-### Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiés
 
 **Compter, mesurer, croiser les résultats**
 
@@ -62,7 +62,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 !!! tip "Astuce"
     Compter des analyses non conformes en valeur brute est trompeur : une grande commune a mécaniquement plus de prélèvements. C'est pour cela que le TCD doit être affiché en pourcentage (Paramètres des champs de valeurs → Afficher les valeurs → % du total de la ligne).
 
-### Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
+### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
 **Représenter et informer les familles**
 
