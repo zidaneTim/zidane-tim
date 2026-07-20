@@ -1,14 +1,10 @@
 # C1.2 — Données numériques (1ère SAPAT)
 
-Collecter, traiter et présenter des données numériques avec le tableur, dans des situations professionnelles et territoriales concrètes.
+Collecter, traiter et présenter des données numériques avec le tableur, à partir de situations réelles du territoire.
 
-## Notions à connaître
-
-→ [C1.2 — Notions à connaître pour le CCF](activites/c12/Notions-C12.html)
+**[Notions à connaître pour le CCF →](activites/c12/Notions-C12.html)**
 
 ## Activités « Territoire Bretagne Centre »
-
-Chaque activité part de données réelles du territoire, fournies par l'enseignant :
 
 - [L'eau du robinet en Bretagne Centre](activites/c12/Activite-C12-Eau-Bretagne-2026-2027.html)
 - [Manger local en Bretagne Centre](activites/c12/Activite-C12-Alimentation-Bretagne-2026-2027.html)
