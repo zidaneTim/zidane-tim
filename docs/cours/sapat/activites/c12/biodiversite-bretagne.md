@@ -1,14 +1,14 @@
 # 🦋 La biodiversité autour de nous
 
-**1ère Bac Pro SAPAT — C1.2 · Thème biodiversité**
+<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité</p>
 
-*Quelles espèces vivent dans nos communes ? — Données réelles INPN (MNHN), Loudéac Communauté – Bretagne Centre*
+<p class="zt-lede">Quelles espèces vivent dans nos communes ? — Données réelles INPN (MNHN), Loudéac Communauté – Bretagne Centre</p>
 
-| | |
-|---|---|
-| **Durée** | 3 séances (45 min) |
-| **Disciplines** | TIM × Mathématiques |
-| **Capacité / outils** | C1.2 · CRCN 1.1 · CRCN 1.3 · Excel · Google MyMaps |
+<div class="zt-meta" markdown>
+  <span>:material-clock-outline: 3 séances (45 min)</span>
+  <span>:material-school-outline: TIM × Mathématiques</span>
+  <span>:material-tag-outline: C1.2 · CRCN 1.1 · CRCN 1.3 · Excel · Google MyMaps</span>
+</div>
 
 ## Mise en situation
 

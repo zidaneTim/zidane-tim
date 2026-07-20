@@ -34,7 +34,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.tracking
     - navigation.footer
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tooltips

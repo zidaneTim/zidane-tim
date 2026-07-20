@@ -40,6 +40,23 @@
   max-width: 58rem;
 }
 
+/* Liens : bleu marine pour la lisibilité (l'or sur blanc manque de
+   contraste pour du texte courant), or au survol. */
+:root {
+  --md-typeset-a-color: #24457f;
+}
+
+.md-typeset a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Les liens d'action des cartes restent en or : ce sont des repères
+   visuels, pas du texte de lecture. */
+.md-typeset .grid.cards a {
+  color: var(--md-accent-fg-color);
+  font-weight: 600;
+}
+
 /* Titres en serif — chaleur et caractère, contraste avec le corps de texte */
 .md-typeset h1,
 .md-typeset h2,
@@ -50,9 +67,62 @@
 }
 
 .md-typeset h1 {
-  font-size: 1.9rem;
+  font-size: 1.6rem;
+  line-height: 1.15;
   color: var(--md-primary-fg-color);
-  margin-bottom: 0.3em;
+  margin-bottom: 0.25em;
+}
+
+/* ---------- En-tête de page d'activité ---------- */
+
+/* Surtitre : classe et module, en petites capitales or */
+.md-typeset .zt-kicker {
+  font-size: 0.6rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--md-accent-fg-color);
+  margin: 0 0 0.35rem 0;
+}
+
+/* Chapô : la phrase de présentation, en gris, sans italique */
+.md-typeset .zt-lede {
+  font-size: 0.78rem;
+  line-height: 1.55;
+  color: var(--md-default-fg-color--light);
+  margin: 0 0 0.75rem 0;
+  max-width: 44rem;
+}
+
+/* Bandeau d'informations pratiques : puces, plutôt qu'un tableau
+   à en-tête vide qui affichait une bande de couleur inutile. */
+.md-typeset .zt-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.35rem;
+  margin: 0 0 1.2rem 0;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset .zt-meta span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+  background: rgba(26, 46, 92, 0.045);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 2rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.62rem;
+  line-height: 1.4;
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .zt-meta span .twemoji {
+  width: 0.85rem;
+  height: 0.85rem;
+  color: var(--md-accent-fg-color);
+  flex-shrink: 0;
 }
 
 .md-typeset h2 {
@@ -183,16 +253,68 @@
 
 /* ---------- Éléments communs ---------- */
 
-/* Tableaux plus aérés et lisibles */
+/* Tableaux : lisibles, sans lourdeur */
 .md-typeset table:not([class]) {
-  font-size: 0.78rem;
+  font-size: 0.68rem;
   border-radius: 0.4rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
   overflow: hidden;
 }
 
 .md-typeset table:not([class]) th {
   background-color: var(--md-primary-fg-color);
   color: #faf8f3;
+  font-weight: 600;
+  font-size: 0.66rem;
+  letter-spacing: 0.02em;
+  padding: 0.5rem 0.65rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.45rem 0.65rem;
+  line-height: 1.5;
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background-color: rgba(26, 46, 92, 0.025);
+}
+
+/* Puces et numéros en or : repère visuel discret dans les consignes */
+.md-typeset ol > li::marker {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+.md-typeset ul > li::marker {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset ol > li,
+.md-typeset ul > li {
+  margin-bottom: 0.25rem;
+}
+
+/* Code inline (formules Excel, noms d'onglets) : teinte or discrète */
+.md-typeset code {
+  background-color: rgba(185, 130, 47, 0.09);
+  color: #7a5010;
+  font-size: 0.92em;
+  padding: 0.1em 0.35em;
+  border-radius: 0.2rem;
+}
+
+/* Navigation latérale : un cran plus discrète que le contenu */
+.md-nav {
+  font-size: 0.68rem;
+}
+
+.md-nav__title {
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+}
+
+.md-nav__link--active {
   font-weight: 600;
 }
 

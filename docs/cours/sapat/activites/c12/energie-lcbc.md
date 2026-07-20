@@ -1,14 +1,14 @@
 # 🏠 Repérer les foyers exposés à la précarité énergétique
 
-**1ère Bac Pro SAPAT — C1.2 · Thème énergie**
+<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème énergie</p>
 
-*Consommation électrique par commune sur le territoire de Loudéac Communauté – Bretagne Centre*
+<p class="zt-lede">Consommation électrique par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
 
-| | |
-|---|---|
-| **Durée** | 3 séances (45 min) |
-| **Disciplines** | TIM × Mathématiques |
-| **Capacité / outils** | C1.2 · CRCN 2.3 · CRCN 5.2 · Excel · Google MyMaps |
+<div class="zt-meta" markdown>
+  <span>:material-clock-outline: 3 séances (45 min)</span>
+  <span>:material-school-outline: TIM × Mathématiques</span>
+  <span>:material-tag-outline: C1.2 · CRCN 2.3 · CRCN 5.2 · Excel · Google MyMaps</span>
+</div>
 
 ## Mise en situation
 
