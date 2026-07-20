@@ -2,7 +2,8 @@
 
 Utiliser les outils numériques au service du cadre de vie et de la vie quotidienne des personnes.
 
-**[Notions à connaître →](activites/c81-c82/Notions-C81-C82.html)**
+**<a href="activites/c81-c82/Notions-C81-C82.html" target="_blank" rel="noopener">Notions à connaître ↗</a>**
+*(document imprimable, s'ouvre dans un nouvel onglet)*
 
 ## Activités
 

@@ -6,7 +6,8 @@ Savoir reconnaître un message piégé (SMS, courriel), connaître les bons réf
 
 ## Support élève
 
-→ [Ouvrir le livret élève](SQ05-Phishing-Livret-Eleve.html)
+<a href="SQ05-Phishing-Livret-Eleve.html" target="_blank" rel="noopener">→ Ouvrir le livret élève ↗</a>
+*(document imprimable, s'ouvre dans un nouvel onglet)*
 
 Le livret contient les deux temps de la séquence :
 
