@@ -114,13 +114,13 @@
 /* Grille resserrée : colonnes plus étroites, gouttières réduites.
    11rem ≈ 220px : 3 colonnes dès ~740px de large, 4 au-delà de ~980px. */
 .md-typeset .grid.cards {
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
   gap: 0.45rem;
   margin: 0.1rem 0 0 0;
 }
 
 .md-typeset .grid.cards > ul {
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
   gap: 0.45rem;
   margin: 0;
 }
