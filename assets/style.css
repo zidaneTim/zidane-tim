@@ -32,6 +32,23 @@
   --md-primary-fg-color--dark:  #c8973a;
   --md-accent-fg-color:         #e8b96a;
   --md-accent-fg-color--transparent: #e8b96a1a;
+  --md-typeset-a-color:         #9fc0f0;
+
+  /* Surfaces propres au mode sombre (sans quoi les cartes resteraient
+     blanches et les textes bruns illisibles). */
+  --zt-card-bg:    #262a33;
+  --zt-chip-bg:    rgba(255, 255, 255, 0.05);
+  --zt-code-color: #e8b96a;
+  --zt-tip-title:  #f0cb8d;
+}
+
+/* Surfaces du mode clair */
+:root,
+[data-md-color-scheme="default"] {
+  --zt-card-bg:    #ffffff;
+  --zt-chip-bg:    rgba(26, 46, 92, 0.045);
+  --zt-code-color: #7a5010;
+  --zt-tip-title:  #7a5010;
 }
 
 /* Largeur de contenu contenue : évite les lignes de texte à rallonge
@@ -122,7 +139,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  background: rgba(26, 46, 92, 0.045);
+  background: var(--zt-chip-bg);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 2rem;
   padding: 0.2rem 0.65rem;
@@ -231,7 +248,7 @@
 .md-typeset .grid.cards > ul > li {
   border-radius: 0.5rem;
   border-color: var(--md-default-fg-color--lightest);
-  background-color: #ffffff;
+  background-color: var(--zt-card-bg);
   padding: 0.55rem 0.7rem;
   margin: 0;
   transition: border-color 180ms, box-shadow 180ms, transform 180ms;
@@ -301,7 +318,7 @@
 }
 
 .md-typeset table:not([class]) tbody tr:nth-child(even) {
-  background-color: rgba(26, 46, 92, 0.025);
+  background-color: var(--zt-chip-bg);
 }
 
 /* Puces et numéros en or : repère visuel discret dans les consignes */
@@ -321,8 +338,8 @@
 
 /* Code inline (formules Excel, noms d'onglets) : teinte or discrète */
 .md-typeset code {
-  background-color: rgba(185, 130, 47, 0.09);
-  color: #7a5010;
+  background-color: var(--md-accent-fg-color--transparent);
+  color: var(--zt-code-color);
   font-size: 0.92em;
   padding: 0.1em 0.35em;
   border-radius: 0.2rem;
@@ -388,7 +405,7 @@
 .md-typeset .tip > .admonition-title,
 .md-typeset .tip > summary {
   background-color: var(--md-accent-fg-color--transparent);
-  color: #7a5010;
+  color: var(--zt-tip-title);
 }
 
 .md-typeset .tip > .admonition-title::before,
