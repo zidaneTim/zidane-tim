@@ -1,19 +1,67 @@
-# Zidane TIM — Plateforme pédagogique
+---
+hide:
+  - navigation
+  - toc
+---
 
-Bienvenue. Ce site regroupe les cours, activités et ressources numériques (TIM — Technologies de l'Informatique et du Multimédia) du Lycée Xavier Grall (Loudéac), réseau CNEAP.
+# Cours et activités numériques
 
-## Filières — année scolaire 2026-2027
+Bienvenue. Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia) au Lycée Xavier Grall.
 
-| Filière | Classes | Modules |
-|---|---|---|
-| [Collège](cours/college/index.md) | 4e EA · 3e EA | Mathématiques · EPI STM (matériaux, IA, Scratch) |
-| [CAPa SAPVER](cours/capa-sapver/index.md) | 1ère et 2e année | MG1 Vie sociale · MP2 Communication professionnelle |
-| [C1.2](cours/sapat/c12-donnees-numeriques.md) | 1ère Bac Pro SAPAT | Données numériques |
-| [C8.1 / C8.2](cours/sapat/c81-c82-cadre-de-vie.md) | 1ère · Terminale Bac Pro SAPAT | Cadre de vie et vie quotidienne |
-| [Formations IA](cours/formations-ia/index.md) | Enseignants CNEAP | Intelligence artificielle en contexte pédagogique |
+Choisis ta classe :
 
-## Comment utiliser ce site
+<div class="grid cards" markdown>
 
-Chaque filière a sa page d'entrée avec la liste des activités de l'année. Les activités s'ouvrent directement dans le navigateur et peuvent être imprimées si besoin.
+-   :material-calculator-variant:{ .lg .middle } **4e — Mathématiques**
 
-→ [Ressources générales](ressources/index.md) : liens officiels utiles (Pix, cybersécurité, référentiels).
+    ---
+
+    Nombres relatifs, calculs, proportionnalité, géométrie.
+
+    [:octicons-arrow-right-24: Voir le cours](cours/college/4e-maths.md)
+
+-   :material-robot-outline:{ .lg .middle } **3e — EPI STM**
+
+    ---
+
+    Matériaux, intelligence artificielle, programmation Scratch.
+
+    [:octicons-arrow-right-24: Voir le cours](cours/college/3e-epi-stm.md)
+
+-   :material-shield-account-outline:{ .lg .middle } **CAPa SAPVER — MG1**
+
+    ---
+
+    Vie sociale et numérique : se protéger en ligne, agir de façon responsable.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/capa-sapver/mg1-vie-sociale.md)
+
+-   :material-chart-box-outline:{ .lg .middle } **1ère SAPAT — C1.2**
+
+    ---
+
+    Données numériques : collecter, traiter et présenter avec le tableur.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/sapat/c12-donnees-numeriques.md)
+
+-   :material-home-heart:{ .lg .middle } **1ère · Terminale SAPAT — C8.1 / C8.2**
+
+    ---
+
+    Le numérique au service du cadre de vie et du quotidien.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/sapat/c81-c82-cadre-de-vie.md)
+
+-   :material-lifebuoy:{ .lg .middle } **Ressources**
+
+    ---
+
+    Liens utiles, réflexes numériques, sites officiels.
+
+    [:octicons-arrow-right-24: Voir les ressources](ressources/index.md)
+
+</div>
+
+!!! tip "Comment ça marche"
+
+    Les **fiches d'activité** s'ouvrent dans un nouvel onglet. Elles sont prévues pour être imprimées, donc leur présentation est différente de celle du site — c'est normal.

@@ -1,34 +1,39 @@
-site_name: Zidane TIM - Cours & Formations
-site_description: Cours et ressources pédagogiques pour les élèves du réseau CNEAP
-site_url: https://zidane.github.io/zidane-tim/
-repo_url: https://github.com/zidane/zidane-tim
+site_name: Zidane TIM
+site_description: Cours et activités numériques — Lycée Xavier Grall, Loudéac
+site_url: https://zidanetim.github.io/zidane-tim/
+repo_url: https://github.com/zidaneTim/zidane-tim
 repo_name: zidane-tim
+copyright: Lycée Xavier Grall — Loudéac · Réseau CNEAP
 
 theme:
   name: material
   language: fr
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
   palette:
-    - scheme: light
-      primary: blue
-      accent: indigo
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
       toggle:
-        icon: material/brightness-7
-        name: Mode clair
-    - scheme: dark
-      primary: blue
-      accent: indigo
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
       toggle:
-        icon: material/brightness-4
-        name: Mode sombre
-
+        icon: material/weather-sunny
+        name: Passer en mode clair
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
+    - navigation.footer
     - search.suggest
     - search.highlight
-    - content.code.copy
     - content.tooltips
 
 plugins:
@@ -36,25 +41,37 @@ plugins:
       lang: fr
 
 markdown_extensions:
-  - pymdownx.emoji
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      use_pygments: true
-  - pymdownx.inlinehilite
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - attr_list
+  - md_in_html
   - tables
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
+      title: Sur cette page
+
+extra_css:
+  - assets/style.css
+
+extra:
+  social:
+    - icon: material/school
+      link: https://zidanetim.github.io/zidane-tim/
+      name: Accueil du site
 
 nav:
   - Accueil: index.md
-  - Collège (4e · 3e): cours/college/index.md
+  - Collège:
+      - 4e — Mathématiques: cours/college/4e-maths.md
+      - 3e — EPI STM: cours/college/3e-epi-stm.md
   - CAPa SAPVER:
-      - Vue d'ensemble: cours/capa-sapver/index.md
       - MG1 — Vie sociale: cours/capa-sapver/mg1-vie-sociale.md
-  - C1.2 (1ère SAPAT): cours/sapat/c12-donnees-numeriques.md
-  - C8.1 / C8.2 (1ère · Term SAPAT): cours/sapat/c81-c82-cadre-de-vie.md
-  - Formations IA: cours/formations-ia/index.md
+  - Bac Pro SAPAT:
+      - C1.2 — Données numériques (1ère): cours/sapat/c12-donnees-numeriques.md
+      - C8.1 / C8.2 — Cadre de vie (1ère · Term): cours/sapat/c81-c82-cadre-de-vie.md
   - Ressources: ressources/index.md
