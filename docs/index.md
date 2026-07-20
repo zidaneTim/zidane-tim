@@ -88,4 +88,4 @@ Choisis ta classe :
 
 !!! tip "Comment ça marche"
 
-    Les **fiches d'activité** s'ouvrent dans un nouvel onglet. Elles sont prévues pour être imprimées, donc leur présentation est différente de celle du site — c'est normal.
+    Les activités se font directement sur cette page : lis la consigne, puis dépose tes réponses dans ton bloc-notes **OneNote**. Seules les fiches « Notions » (révision pour le CCF) s'ouvrent dans un nouvel onglet — elles sont prévues pour être imprimées.
