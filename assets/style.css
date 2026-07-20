@@ -97,43 +97,67 @@
 /* Bandeau d'informations pratiques : puces, plutôt qu'un tableau
    à en-tête vide qui affichait une bande de couleur inutile. */
 .md-typeset .zt-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem 0.35rem;
-  margin: 0 0 1.2rem 0;
-  padding-bottom: 0.9rem;
+  margin: 0 0 1.1rem 0;
+  padding-bottom: 0.85rem;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.md-typeset .zt-meta span {
+/* L'extension markdown enveloppe le contenu dans un <p> : c'est lui
+   qui doit porter le flex, sinon les puces restent en ligne de texte. */
+.md-typeset .zt-meta,
+.md-typeset .zt-meta > p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.35rem;
+}
+
+.md-typeset .zt-meta > p {
+  margin: 0;
+}
+
+/* :not(.twemoji) — sans quoi le <span> de l'icône hérite lui aussi du
+   style de puce et s'affiche comme un ovale gris vide. */
+.md-typeset .zt-meta span:not(.twemoji) {
   display: inline-flex;
   align-items: center;
-  gap: 0.28rem;
+  gap: 0.3rem;
   background: rgba(26, 46, 92, 0.045);
   border: 1px solid var(--md-default-fg-color--lightest);
   border-radius: 2rem;
-  padding: 0.2rem 0.6rem;
+  padding: 0.2rem 0.65rem;
   font-size: 0.62rem;
-  line-height: 1.4;
+  line-height: 1.45;
   color: var(--md-default-fg-color--light);
 }
 
-.md-typeset .zt-meta span .twemoji {
-  width: 0.85rem;
-  height: 0.85rem;
+.md-typeset .zt-meta .twemoji {
+  display: inline-flex;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: 0;
   color: var(--md-accent-fg-color);
   flex-shrink: 0;
 }
 
+.md-typeset .zt-meta .twemoji svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  fill: currentcolor;
+}
+
 .md-typeset h2 {
-  font-size: 1.4rem;
-  margin-top: 1.6em;
+  font-size: 1.2rem;
+  color: var(--md-primary-fg-color);
+  margin-top: 1.5em;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
-  padding-bottom: 0.25em;
+  padding-bottom: 0.22em;
 }
 
 .md-typeset h3 {
-  font-size: 1.1rem;
+  font-size: 0.98rem;
+  color: var(--md-primary-fg-color--light);
   margin-top: 1.2em;
 }
 
