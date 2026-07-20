@@ -1,41 +1,112 @@
-/* Zidane TIM — ajustements de lisibilité pour un public élève */
+/* ============================================================
+   Zidane TIM — charte graphique
+   Marine / or — reprise de l'identité des anciennes fiches
+   d'activité, appliquée cette fois à l'ensemble du site
+   (plus de teal générique "docs techniques").
+============================================================ */
 
-:root {
-  --md-text-font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+:root,
+[data-md-color-scheme="default"] {
+  /* Marine — couleur principale */
+  --md-primary-fg-color:        #1a2e5c;
+  --md-primary-fg-color--light: #243d78;
+  --md-primary-fg-color--dark:  #0f1f3d;
+  --md-primary-bg-color:        #faf8f3;
+  --md-primary-bg-color--light: #faf8f3;
+
+  /* Or — couleur d'accent (liens, survols, mise en avant) */
+  --md-accent-fg-color:         #b9822f;
+  --md-accent-fg-color--transparent: #b9822f1a;
+  --md-accent-bg-color:         #faf8f3;
+  --md-accent-bg-color--light:  #faf8f3;
+
+  /* Fond légèrement crème plutôt que blanc pur */
+  --md-default-bg-color: #faf8f3;
 }
 
-/* Titres un peu plus affirmés, hiérarchie plus lisible */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #e8b96a;
+  --md-primary-fg-color--light: #f0cb8d;
+  --md-primary-fg-color--dark:  #c8973a;
+  --md-accent-fg-color:         #e8b96a;
+  --md-accent-fg-color--transparent: #e8b96a1a;
+}
+
+/* Titres en serif — chaleur et caractère, contraste avec le corps de texte */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: "DM Serif Display", Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
 .md-typeset h1 {
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin-bottom: 0.4em;
+  font-size: 2.1rem;
+  color: var(--md-primary-fg-color);
+  margin-bottom: 0.3em;
 }
 
 .md-typeset h2 {
-  font-weight: 600;
+  font-size: 1.5rem;
   margin-top: 2em;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   padding-bottom: 0.3em;
 }
 
+/* Bandeau d'en-tête de la page d'accueil */
+.zt-hero {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-primary-fg-color--dark) 100%);
+  color: #faf8f3;
+  border-radius: 0.8rem;
+  padding: 2.2rem 2rem;
+  margin: 0.5rem 0 2rem 0;
+}
+
+.zt-hero h1 {
+  color: #faf8f3;
+  margin: 0 0 0.5rem 0;
+}
+
+.zt-hero p {
+  color: rgba(250, 248, 243, 0.85);
+  font-size: 1.05rem;
+  margin: 0;
+  max-width: 46rem;
+}
+
+/* Intitulés de filière — repères visuels entre les groupes de cartes */
+.zt-filiere {
+  font-family: "DM Serif Display", Georgia, serif;
+  font-size: 1.2rem;
+  color: var(--md-primary-fg-color);
+  margin: 2.2rem 0 0.4rem 0;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--md-accent-fg-color);
+  display: inline-block;
+}
+
 /* Cartes : plus douces, effet de survol discret */
 .md-typeset .grid.cards > ul > li {
-  border-radius: 0.6rem;
+  border-radius: 0.7rem;
   border-color: var(--md-default-fg-color--lightest);
+  background-color: #ffffff;
   padding: 1rem 1.1rem;
   transition: border-color 180ms, box-shadow 180ms, transform 180ms;
 }
 
 .md-typeset .grid.cards > ul > li:hover {
-  border-color: var(--md-primary-fg-color);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 6px 18px rgba(26, 46, 92, 0.12);
   transform: translateY(-2px);
 }
 
-/* Icônes de carte à la couleur du thème */
+/* Icônes de carte à la couleur d'accent (or) plutôt que primaire (marine) */
 .md-typeset .grid.cards .twemoji,
 .md-typeset .grid.cards svg {
-  color: var(--md-primary-fg-color);
+  color: var(--md-accent-fg-color);
 }
 
 /* Tableaux plus aérés et lisibles */
@@ -47,7 +118,7 @@
 
 .md-typeset table:not([class]) th {
   background-color: var(--md-primary-fg-color);
-  color: var(--md-primary-bg-color);
+  color: #faf8f3;
   font-weight: 600;
 }
 
@@ -56,8 +127,26 @@
   line-height: 1.7;
 }
 
-/* Boutons : un peu plus généreux au clic (tablettes et mobiles) */
+/* Boutons : un peu plus généreux au clic (tablettes et mobiles), en or */
 .md-typeset .md-button {
   border-radius: 0.4rem;
   padding: 0.55em 1.1em;
+}
+
+.md-typeset .md-button--primary {
+  background-color: var(--md-accent-fg-color);
+  border-color: var(--md-accent-fg-color);
+  color: #1a2e5c;
+}
+
+.md-typeset .md-button--primary:hover {
+  background-color: #a3781f;
+  border-color: #a3781f;
+  color: #faf8f3;
+}
+
+/* Admonitions : liseré en or plutôt que la couleur générique du type */
+.md-typeset .admonition,
+.md-typeset details {
+  border-left-color: var(--md-accent-fg-color);
 }

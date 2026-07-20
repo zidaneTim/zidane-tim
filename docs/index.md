@@ -4,11 +4,13 @@ hide:
   - toc
 ---
 
+<div class="zt-hero" markdown>
 # Cours et activités numériques
 
-Bienvenue. Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia) au Lycée Xavier Grall.
+Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia) au Lycée Xavier Grall. Choisis ta classe ci-dessous.
+</div>
 
-Choisis ta classe :
+## Collège {: .zt-filiere }
 
 <div class="grid cards" markdown>
 
@@ -28,6 +30,12 @@ Choisis ta classe :
 
     [:octicons-arrow-right-24: Voir le cours](cours/college/3e-epi-stm.md)
 
+</div>
+
+## CAPa SAPVER {: .zt-filiere }
+
+<div class="grid cards" markdown>
+
 -   :material-shield-account-outline:{ .lg .middle } **CAPa SAPVER 1 — MG1**
 
     ---
@@ -43,6 +51,12 @@ Choisis ta classe :
     Communication professionnelle : accueil, transmission, posture pro.
 
     [:octicons-arrow-right-24: Voir les activités](cours/capa-sapver/mp2-communication-pro.md)
+
+</div>
+
+## Bac Pro SAPAT {: .zt-filiere }
+
+<div class="grid cards" markdown>
 
 -   :material-flask-outline:{ .lg .middle } **2nde SAPAT — EG1**
 
@@ -75,6 +89,12 @@ Choisis ta classe :
     Le numérique au service du cadre de vie et du quotidien.
 
     [:octicons-arrow-right-24: Voir les activités](cours/sapat/c81-c82-cadre-de-vie.md)
+
+</div>
+
+## Ressources {: .zt-filiere }
+
+<div class="grid cards" markdown>
 
 -   :material-lifebuoy:{ .lg .middle } **Ressources**
 
