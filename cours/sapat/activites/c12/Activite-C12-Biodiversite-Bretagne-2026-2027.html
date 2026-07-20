@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>La biodiversité autour de l'établissement · C1.2 · 1ère SAPAT</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ============================================================
+       CHARTE GRAPHIQUE — FIXE — NE PAS MODIFIER
+    ============================================================ */
+    :root {
+      --marine:        #1a2e5c;
+      --marine-light:  #243d78;
+      --marine-pale:   #e8edf6;
+      --or:            #c8973a;
+      --or-light:      #e8b96a;
+      --or-pale:       #fdf6e8;
+      --creme:         #faf8f3;
+      --creme-dark:    #f0ece0;
+      --gris-clair:    #f4f4f4;
+      --gris-moyen:    #e0ddd5;
+      --gris-texte:    #555555;
+      --noir:          #1a1a1a;
+      --vert-doux:     #e8f4ea;
+      --vert-bord:     #4a8c5c;
+      --rouge-doux:    #fdecea;
+      --rouge-bord:    #c0392b;
+
+      --font-titre:    'DM Serif Display', Georgia, serif;
+      --font-corps:    'DM Sans', sans-serif;
+      --font-mono:     'JetBrains Mono', monospace;
+
+      --radius:        10px;
+      --radius-sm:     6px;
+      --shadow:        0 2px 12px rgba(26,46,92,.10);
+      --shadow-md:     0 4px 16px rgba(26,46,92,.13);
+      --shadow-lg:     0 6px 24px rgba(26,46,92,.16);
+      --max-width:     920px;
+      --section-gap:   2rem;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-corps);
+      background: var(--creme);
+      color: var(--noir);
+      font-size: 13.5px;
+      line-height: 1.65;
+    }
+
+    .tricolor-bar { display: flex; height: 5px; }
+    .tricolor-bar .bleu  { flex:1; background:#002395; }
+    .tricolor-bar .blanc { flex:1; background:#FFFFFF; }
+    .tricolor-bar .rouge { flex:1; background:#ED2939; }
+
+    .activity-header {
+      background: linear-gradient(135deg, var(--marine) 0%, #0f1f3d 100%);
+      color: var(--creme);
+      padding: 22px 32px 18px;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .header-icon {
+      font-size: 52px;
+      line-height: 1;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,.3));
+    }
+
+    .header-text {}
+
+    .header-label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--or-light);
+      margin-bottom: .4rem;
+    }
+
+    .header-title {
+      font-family: var(--font-titre);
+      font-size: clamp(1.3rem, 3vw, 1.9rem);
+      line-height: 1.2;
+      color: var(--creme);
+    }
+
+    .header-title span { color: var(--or-light); }
+
+    .header-subtitle {
+      font-size: .82rem;
+      color: rgba(250,248,243,.65);
+      margin-top: .3rem;
+    }
+
+    .header-meta {
+      background: rgba(255,255,255,.1);
+      border: 1px solid rgba(255,255,255,.15);
+      border-radius: var(--radius-sm);
+      padding: 10px 14px;
+      font-size: .8rem;
+      line-height: 2;
+      text-align: right;
+      color: rgba(250,248,243,.75);
+      min-width: 190px;
+    }
+    .header-meta strong { color: var(--creme); }
+
+    .competences-bar {
+      background: var(--or);
+      padding: 8px 32px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .comp-label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--marine);
+      margin-right: 2px;
+    }
+
+    .pill {
+      background: rgba(255,255,255,.25);
+      border: 1.5px solid rgba(255,255,255,.55);
+      color: var(--marine);
+      border-radius: 20px;
+      padding: 2px 11px;
+      font-size: .75rem;
+      font-weight: 600;
+      font-family: var(--font-corps);
+      white-space: nowrap;
+    }
+
+    main {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 24px 28px 40px;
+    }
+
+    section { margin-bottom: var(--section-gap); }
+
+    .section-title {
+      display: inline-flex;
+      align-items: center;
+      gap: .5rem;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--creme);
+      background: var(--marine);
+      border-radius: 20px;
+      padding: .3rem .9rem;
+      margin-bottom: 1rem;
+    }
+
+    .situation {
+      background: var(--or-pale);
+      border: 2px solid #e8c87a;
+      border-radius: var(--radius);
+      padding: 16px 20px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 16px;
+      align-items: start;
+      box-shadow: var(--shadow);
+    }
+
+    .situation-picto { font-size: 44px; line-height: 1; }
+
+    .situation p { font-size: .9rem; color: #4a3010; line-height: 1.7; }
+    .situation p + p { margin-top: .6rem; }
+    .situation strong { color: var(--or); }
+
+    .problematique-box {
+      border-left: 5px solid var(--or);
+      background: white;
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 1rem 1.3rem;
+      box-shadow: var(--shadow);
+      margin-top: 1rem;
+    }
+    .problematique-box__label {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--or);
+      margin-bottom: .35rem;
+    }
+    .problematique-box__text {
+      font-family: var(--font-titre);
+      font-size: 1.05rem;
+      color: var(--marine);
+      font-style: italic;
+      line-height: 1.5;
+    }
+
+    .objectives-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: .55rem;
+    }
+
+    .objectives-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: .7rem;
+      background: white;
+      border-radius: var(--radius-sm);
+      padding: .65rem .95rem;
+      box-shadow: var(--shadow);
+      border-left: 4px solid var(--or);
+      font-size: .88rem;
+    }
+
+    .objectives-list li .obj-icon { font-size: .95rem; flex-shrink: 0; margin-top: .1rem; }
+
+    .crcn-tag {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      background: var(--marine);
+      color: var(--or-light);
+      border-radius: 4px;
+      padding: .1rem .4rem;
+      white-space: nowrap;
+      margin-left: auto;
+      align-self: center;
+      flex-shrink: 0;
+    }
+
+    .table-wrapper {
+      border: 2px solid var(--gris-moyen);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .85rem;
+      background: white;
+    }
+
+    .data-table thead tr { background: var(--marine); color: var(--creme); }
+    .data-table thead th {
+      padding: 9px 10px;
+      text-align: left;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      letter-spacing: .04em;
+      font-weight: 500;
+      border-right: 1px solid rgba(255,255,255,.12);
+    }
+    .data-table thead th:last-child { border-right: none; }
+
+    .data-table tbody tr:nth-child(even)  { background: var(--marine-pale); }
+    .data-table tbody tr:nth-child(odd)   { background: white; }
+    .data-table tbody tr:hover            { background: var(--creme-dark); }
+    .data-table tbody td {
+      padding: 7px 10px;
+      border-right: 1px solid var(--gris-moyen);
+      border-bottom: 1px solid var(--gris-moyen);
+      vertical-align: middle;
+    }
+    .data-table tbody td:last-child { border-right: none; }
+    .data-table tfoot tr { background: var(--creme-dark); }
+    .data-table tfoot td {
+      padding: 8px 10px;
+      font-weight: 600;
+      color: var(--marine);
+      border-top: 2px solid var(--gris-moyen);
+      font-size: .82rem;
+    }
+
+    .td-activite { font-weight: 600; color: var(--marine); }
+    .td-formule  { font-family: var(--font-mono); font-size: .78rem; color: var(--gris-texte); font-style: italic; }
+    .td-num      { text-align: right; font-variant-numeric: tabular-nums; }
+
+    .table-note {
+      background: #fffde7;
+      border: 1px dashed #d4b820;
+      border-radius: var(--radius-sm);
+      padding: 8px 14px;
+      font-size: .82rem;
+      color: #6b5200;
+      margin-top: 10px;
+    }
+
+    .consignes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 11px;
+    }
+
+    .consigne-bloc {
+      margin-bottom: 1.3rem;
+    }
+
+    .consigne-bloc__label {
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--marine);
+      margin-bottom: .5rem;
+      display: block;
+    }
+
+    .consigne-item {
+      background: white;
+      border: 1.5px solid var(--gris-moyen);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 56px 1fr;
+      box-shadow: var(--shadow);
+      margin-bottom: 11px;
+    }
+
+    .consigne-num {
+      background: var(--marine);
+      color: var(--creme);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-titre);
+      font-size: 1.6rem;
+      flex-shrink: 0;
+    }
+
+    .consigne-item.or   .consigne-num { background: var(--or); color: var(--marine); }
+    .consigne-item.vert .consigne-num { background: var(--vert-bord); }
+
+    .consigne-content { padding: 12px 16px; }
+
+    .consigne-titre {
+      font-family: var(--font-titre);
+      font-size: .95rem;
+      color: var(--marine);
+      margin-bottom: 7px;
+    }
+    .consigne-item.or   .consigne-titre { color: var(--or); }
+    .consigne-item.vert .consigne-titre { color: var(--vert-bord); }
+
+    .consigne-content ol {
+      padding-left: 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .3rem;
+    }
+    .consigne-content li {
+      padding: .25rem 0;
+      border-bottom: 1px dotted var(--gris-moyen);
+      font-size: .88rem;
+      line-height: 1.55;
+    }
+    .consigne-content li:last-child { border-bottom: none; }
+
+    .formule {
+      display: inline-block;
+      background: var(--marine-pale);
+      border: 1px solid #b0bedd;
+      color: var(--marine);
+      font-family: var(--font-mono);
+      font-size: .78rem;
+      padding: .05rem .45rem;
+      border-radius: 3px;
+      font-weight: 500;
+    }
+    .formule.or { background: var(--or-pale); border-color: #e8c87a; color: #7a5010; }
+
+    .badge {
+      display: inline-block;
+      background: var(--or);
+      color: var(--marine);
+      font-family: var(--font-mono);
+      font-size: .65rem;
+      font-weight: 600;
+      padding: .1rem .5rem;
+      border-radius: 10px;
+      vertical-align: middle;
+      margin-left: .3rem;
+    }
+
+    .astuce {
+      background: var(--vert-doux);
+      border-left: 4px solid var(--vert-bord);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 8px 13px;
+      font-size: .82rem;
+      color: #1a4030;
+      margin-top: 9px;
+    }
+    .astuce strong { color: var(--vert-bord); }
+
+    .reponses-zone {
+      background: var(--gris-clair);
+      border-radius: var(--radius);
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .reponse-item {
+      background: white;
+      border: 1.5px solid var(--gris-moyen);
+      border-radius: var(--radius-sm);
+      padding: 9px 12px;
+    }
+
+    .reponse-label {
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      font-weight: 600;
+      color: var(--marine);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      margin-bottom: 4px;
+    }
+
+    .reponse-ligne {
+      border-bottom: 1.5px solid #ccc;
+      height: 22px;
+      margin-top: 4px;
+    }
+
+    .reponse-hint {
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      color: #aaa;
+      margin-top: 3px;
+    }
+
+    .resource-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: .85rem;
+    }
+
+    .resource-card {
+      background: white;
+      border-radius: var(--radius);
+      padding: 1rem;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      gap: .4rem;
+      border-top: 3px solid var(--marine);
+    }
+    .resource-card.or    { border-top-color: var(--or); }
+    .resource-card.vert  { border-top-color: var(--vert-bord); }
+
+    .resource-card__icon  { font-size: 1.35rem; }
+    .resource-card__title { font-weight: 600; font-size: .88rem; color: var(--marine); line-height: 1.3; }
+    .resource-card__desc  { font-size: .8rem; color: var(--gris-texte); line-height: 1.5; flex: 1; }
+    .resource-card__link  {
+      display: inline-block;
+      margin-top: .25rem;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--or);
+      text-decoration: none;
+      font-family: var(--font-mono);
+    }
+    .resource-card__search {
+      font-size: .76rem;
+      font-family: var(--font-mono);
+      color: var(--gris-texte);
+      background: var(--gris-clair);
+      border-radius: var(--radius-sm);
+      padding: .28rem .5rem;
+      margin-top: .25rem;
+    }
+
+    .eval-table-wrapper {
+      overflow-x: auto;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+    .evaluation-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .86rem;
+      background: white;
+    }
+    .evaluation-table thead { background: var(--marine); color: var(--creme); }
+    .evaluation-table thead th {
+      padding: 8px 10px;
+      text-align: left;
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      letter-spacing: .05em;
+      font-weight: 500;
+    }
+    .evaluation-table tbody tr:nth-child(even) { background: var(--gris-clair); }
+    .evaluation-table tbody td {
+      padding: 7px 10px;
+      vertical-align: top;
+      border-bottom: 1px solid var(--gris-moyen);
+      line-height: 1.5;
+    }
+    .evaluation-table tbody td:first-child { font-weight: 600; color: var(--marine); }
+
+    .eval-level {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: .72rem;
+      font-weight: 600;
+      border-radius: 4px;
+      padding: .1rem .4rem;
+      margin: .1rem .1rem 0 0;
+    }
+    .eval-level--a { background:#d4edda; color:#1a5e30; }
+    .eval-level--b { background:#d1ecf1; color:#0c5460; }
+    .eval-level--c { background:#fff3cd; color:#856404; }
+    .eval-level--d { background:#f8d7da; color:#721c24; }
+
+    .activity-footer {
+      background: var(--marine);
+      color: rgba(250,248,243,.6);
+      text-align: center;
+      padding: 12px 24px;
+      font-family: var(--font-mono);
+      font-size: .7rem;
+      letter-spacing: .05em;
+      margin-top: 24px;
+    }
+
+    @media (max-width: 680px) {
+      .activity-header { grid-template-columns: auto 1fr; grid-template-rows: auto auto; }
+      .header-meta { grid-column: 1/-1; text-align: left; min-width: 0; }
+      .header-icon { font-size: 38px; }
+      .reponses-zone { grid-template-columns: 1fr; }
+      .consigne-item { grid-template-columns: 44px 1fr; }
+      .consigne-num { font-size: 1.3rem; }
+      main { padding: 16px 14px 30px; }
+    }
+
+    @media print {
+      body { background: white; font-size: .84rem; }
+      main { max-width: 100%; padding: 0; }
+      .tricolor-bar, .activity-header, .competences-bar, .consigne-num,
+      .evaluation-table thead, .data-table thead { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .resource-card, .consigne-item, .objectives-list li { box-shadow: none; border: 1px solid #ddd; }
+      section, .consigne-item, .data-table tr { break-inside: avoid; }
+      a[href]::after { content: " (" attr(href) ")"; font-size: .68rem; color: #777; }
+      .activity-footer { display: none; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="tricolor-bar" aria-hidden="true">
+    <span class="bleu"></span><span class="blanc"></span><span class="rouge"></span>
+  </div>
+
+  <header class="activity-header" role="banner">
+    <div class="header-icon" aria-hidden="true">🦋</div>
+    <div class="header-text">
+      <p class="header-label">Fiche activité · Lycée Xavier Grall · Loudéac</p>
+      <h1 class="header-title">
+        La biodiversité autour de nous :<br>
+        <span>quelles espèces vivent dans nos communes ?</span>
+      </h1>
+      <p class="header-subtitle">Thème biodiversité · Données réelles INPN (MNHN) · Loudéac Communauté – Bretagne Centre</p>
+    </div>
+    <div class="header-meta" aria-label="Informations de l'activité">
+      <div><strong>Niveau :</strong> 1ère Bac Pro SAPAT</div>
+      <div><strong>Module :</strong> MG1 — C1.2</div>
+      <div><strong>Durée :</strong> 3 séances (45 min)</div>
+      <div><strong>Disciplines :</strong> TIM × Mathématiques</div>
+      <div><strong>Nom :</strong> _______________________</div>
+      <div><strong>Date :</strong> _______________________</div>
+    </div>
+  </header>
+
+  <div class="competences-bar" role="list" aria-label="Compétences et outils mobilisés">
+    <span class="comp-label">Capacité :</span>
+    <span class="pill" role="listitem">C1.2</span>
+    <span class="pill" role="listitem">CRCN 1.1</span>
+    <span class="pill" role="listitem">CRCN 1.3</span>
+    <span class="pill" role="listitem">Excel</span>
+    <span class="pill" role="listitem">Google MyMaps</span>
+  </div>
+
+  <main>
+
+    <section aria-labelledby="titre-situation">
+      <p class="section-title" id="titre-situation">🎯 Mise en situation</p>
+      <div class="situation">
+        <div class="situation-picto" aria-hidden="true">🌿</div>
+        <div>
+          <p>Un <strong>accueil de loisirs</strong> de Loudéac prépare un cycle d'animations nature pour les enfants pendant les vacances. L'animatrice veut construire ses activités à partir des espèces réellement présentes autour de l'établissement, et non d'espèces génériques trouvées dans un livre.</p>
+          <p>L'<strong>INPN (Inventaire National du Patrimoine Naturel)</strong>, porté par le Muséum national d'Histoire naturelle, recense les observations d'espèces sur tout le territoire français, commune par commune. On y trouve en moyenne environ 250 espèces recensées par commune, dont certaines protégées ou menacées.</p>
+          <p><strong>Ton rôle :</strong> tu es stagiaire à l'accueil de loisirs. L'animatrice te demande de constituer, à partir des données de l'INPN, un inventaire chiffré des espèces des communes du territoire et de lui remettre une synthèse avec carte pour bâtir ses animations.</p>
+        </div>
+      </div>
+      <div class="problematique-box" role="note">
+        <p class="problematique-box__label">❓ Problématique</p>
+        <p class="problematique-box__text">« Quelles espèces sont recensées dans les communes de Loudéac Communauté – Bretagne Centre, et comment présenter cet inventaire pour construire des animations nature adaptées au territoire ? »</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-objectifs">
+      <p class="section-title" id="titre-objectifs">🎓 Objectifs</p>
+      <ul class="objectives-list" role="list">
+        <li><span class="obj-icon">🧠</span> Analyser la demande de l'animatrice et reformuler la problématique avec ses propres mots <span class="crcn-tag">CRCN 1.1</span></li>
+        <li><span class="obj-icon">🧹</span> Extraire et structurer des données d'observation à partir d'un outil de consultation en ligne <span class="crcn-tag">CRCN 1.2</span></li>
+        <li><span class="obj-icon">📊</span> Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique <span class="crcn-tag">CRCN 1.3</span></li>
+        <li><span class="obj-icon">🗺️</span> Cartographier les communes et leur richesse en espèces avec Google MyMaps <span class="crcn-tag">CRCN 2.2</span></li>
+        <li><span class="obj-icon">📣</span> Rédiger une synthèse exploitable par l'animatrice pour construire ses activités</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="titre-donnees">
+      <p class="section-title" id="titre-donnees">📂 Source de données</p>
+      <div class="astuce">
+        <strong>Jeu de données :</strong> INPN — Données d'observation et de suivi sur les espèces (consultation par commune)<br>
+        <strong>Producteur :</strong> Muséum national d'Histoire naturelle (MNHN) / OFB — INPN, via data.gouv.fr<br>
+        <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/inpn-donnees-dobservation-et-de-suivi-sur-les-especes" target="_blank" rel="noopener">https://www.data.gouv.fr/datasets/inpn-donnees-dobservation-et-de-suivi-sur-les-especes</a><br>
+        <strong>Format :</strong> Consultation par commune sur inpn.mnhn.fr (listes d'espèces) + jeu de données national sur data.gouv.fr · <strong>Licence :</strong> Licence Ouverte / Open Licence (vérifier sur la fiche du jeu de données)<br>
+        <strong>Particularité à nettoyer :</strong> <strong>Avertissement méthodologique important</strong> — contrairement aux autres activités de l'année, l'INPN ne propose pas un simple CSV « une ligne par commune » directement téléchargeable : les listes s'obtiennent commune par commune via l'outil de consultation en ligne. Le tableau de travail est donc <strong>construit à la main</strong> par la classe (une ligne par commune, saisie répartie entre les élèves), ce qui introduit un risque d'erreur de saisie à contrôler. Le nombre d'espèces recensées dépend aussi de la <strong>pression d'observation</strong> : une commune très visitée paraît plus riche qu'une commune peu prospectée — ce biais doit être signalé dans la synthèse.
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-consignes">
+      <p class="section-title" id="titre-consignes">✏️ Travail à faire</p>
+      <div class="consignes-list">
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 1 · A — Analyse du contexte et de la problématique</span>
+          <div class="consigne-item" role="article">
+            <div class="consigne-num" aria-label="Étape A">A</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Comprendre la demande, collecter et structurer les données</p>
+              <ol>
+                <li>Reformuler en 2-3 phrases la demande de l'animatrice : pour qui, pour quoi faire, et pourquoi des données locales valent mieux qu'un livre généraliste ? Identifier le phénomène étudié et le territoire.</li>
+                <li>Ouvrir la fiche du jeu de données INPN sur data.gouv.fr et relever : le producteur, la licence, la date de mise à jour. Repérer également l'outil de consultation par commune sur inpn.mnhn.fr.</li>
+                <li>Consulter sur l'INPN la fiche d'<strong>une commune attribuée par l'enseignant</strong> et relever : nombre total d'espèces recensées, nombre d'espèces protégées, nombre d'espèces menacées, et 3 espèces facilement observables.</li>
+                <li>Construire dans Excel le <strong>tableau de travail commun</strong> (une ligne par commune de Loudéac Communauté – Bretagne Centre, liste des communes <strong>fournie par l'enseignant</strong>) avec les colonnes : commune, code postal, nombre total d'espèces, espèces protégées, espèces menacées. Saisir la ligne de sa commune, puis mettre en commun les lignes de la classe.</li>
+                <li>Nettoyer et contrôler le tableau : vérifier qu'aucune commune n'est en double, qu'aucune ligne n'est vide, que toutes les colonnes de nombres sont bien au format nombre (et non texte), et corriger les saisies aberrantes en revenant à la fiche INPN.</li>
+                <li>Écrire en une phrase le <strong>biais de pression d'observation</strong> : pourquoi un nombre d'espèces plus élevé ne signifie pas forcément que la commune est plus riche en biodiversité ?</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 2 · B — Traitement des données adapté au contexte et à la problématique étudiés</span>
+          <div class="consigne-item or" role="article">
+            <div class="consigne-num" aria-label="Étape B">B</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Compter, comparer, croiser les données</p>
+              <ol>
+                <li>Calculer le nombre total d'espèces recensées sur l'ensemble du territoire avec <span class="formule">=SOMME()</span>, et la moyenne par commune avec <span class="formule">=MOYENNE()</span>.</li>
+                <li>Compter avec <span class="formule">=NB.SI()</span> le nombre de communes dépassant un seuil que tu choisis et justifies (par exemple plus de 250 espèces recensées).</li>
+                <li>Compter avec <span class="formule">=NB.SI.ENS()</span> les communes répondant à deux critères simultanés (par exemple : plus de 250 espèces <em>et</em> au moins une espèce menacée).</li>
+                <li>Ajouter une colonne calculée « part d'espèces protégées » (espèces protégées ÷ total, format pourcentage), puis appliquer une <strong>mise en forme conditionnelle</strong> en nuances de couleur pour visualiser d'un coup d'œil les communes les plus concernées.</li>
+                <li>Construire un <strong>tableau croisé dynamique</strong> à partir du tableau : communes en lignes, nombre d'espèces en valeurs, tri décroissant ; puis regrouper les communes par tranches (Regrouper : moins de 150, 150-250, plus de 250 espèces) pour obtenir une répartition.</li>
+              </ol>
+              <div class="astuce">💡 <strong>Astuce :</strong> si une colonne de nombres refuse de se calculer, c'est presque toujours qu'elle est au format texte après saisie ou copier-coller. Sélectionne la colonne, puis Données → Convertir, ou vérifie l'alignement : un nombre est aligné à droite, un texte à gauche.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="consigne-bloc">
+          <span class="consigne-bloc__label">Séance 3 · C — Exposition des données adaptée au contexte et représentative de la problématique étudiée</span>
+          <div class="consigne-item vert" role="article">
+            <div class="consigne-num" aria-label="Étape C">C</div>
+            <div class="consigne-content">
+              <p class="consigne-titre">Représenter et transmettre à l'animatrice</p>
+              <ol>
+                <li>Créer depuis le TCD un <strong>graphique en barres</strong> « Nombre d'espèces recensées par commune » complet : titre, axes légendés, source citée (INPN – MNHN, année de consultation). Justifier en une phrase le choix du type de graphique.</li>
+                <li>Préparer la <strong>carte</strong> : créer depuis le tableau un fichier CSV (commune, code postal, nombre d'espèces, espèces protégées), le convertir en KML avec le convertisseur, puis l'importer dans <strong>Google MyMaps</strong>. Titrer la carte et renseigner les pop-ups avec le nombre d'espèces.</li>
+                <li>Rédiger la <strong>synthèse pour l'animatrice</strong> (8-10 lignes) : nombre d'espèces sur le territoire, communes les plus riches, espèces protégées à connaître, <strong>rappel du biais de pression d'observation</strong>, et une proposition concrète de sortie nature (commune, espèces à chercher). Insérer le graphique et le lien de la carte.</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-reponses">
+      <p class="section-title" id="titre-reponses">📝 Zone de réponse</p>
+      <div class="reponses-zone">
+        <div class="reponse-item">
+          <p class="reponse-label">Nombre total d'espèces recensées sur LCBC</p>
+          <div class="reponse-ligne"></div>
+          <p class="reponse-hint">Résultat de la formule SOMME sur le tableau de classe</p>
+        </div>
+        <div class="reponse-item">
+          <p class="reponse-label">Lien de ta carte MyMaps</p>
+          <div class="reponse-ligne"></div>
+          <p class="reponse-hint">URL de partage (lecture) de la carte publiée</p>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-ressources">
+      <p class="section-title" id="titre-ressources">🔗 Ressources et outils</p>
+      <div class="resource-grid">
+        <div class="resource-card" role="article">
+          <span class="resource-card__icon">📄</span>
+          <p class="resource-card__title">INPN — Données d'observation et de suivi sur les espèces</p>
+          <p class="resource-card__desc">Fiche data.gouv.fr du jeu de données INPN. La consultation par commune se fait sur inpn.mnhn.fr (recherche par collectivité).</p>
+          <a class="resource-card__link" href="https://www.data.gouv.fr/datasets/inpn-donnees-dobservation-et-de-suivi-sur-les-especes" target="_blank" rel="noopener">→ Consulter</a>
+        </div>
+        <div class="resource-card or" role="article">
+          <span class="resource-card__icon">🛠️</span>
+          <p class="resource-card__title">Convertisseur CSV → KML</p>
+          <p class="resource-card__desc">Pour transformer le fichier de points avant l'import dans MyMaps</p>
+          <a class="resource-card__link" href="https://scuttemery.fr/converter" target="_blank" rel="noopener">→ Ouvrir</a>
+        </div>
+        <div class="resource-card vert" role="article">
+          <span class="resource-card__icon">🗺️</span>
+          <p class="resource-card__title">Google MyMaps</p>
+          <p class="resource-card__desc">Pour créer la carte finale</p>
+          <a class="resource-card__link" href="https://www.google.com/mymaps" target="_blank" rel="noopener">→ Ouvrir</a>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="titre-eval">
+      <p class="section-title" id="titre-eval">🎯 Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)</p>
+      <div class="eval-table-wrapper">
+        <table class="evaluation-table">
+          <thead>
+            <tr><th>Critère</th><th>Indicateurs observables</th><th>Niveau</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1 — Analyse du contexte et de la problématique</td>
+              <td>La demande de l'animatrice est reformulée correctement ; la source INPN est identifiée (producteur, licence, date) ; la fiche commune est correctement lue ; le tableau de travail est structuré, contrôlé (doublons, lignes vides, formats) ; le biais de pression d'observation est énoncé avec ses mots.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+            <tr>
+              <td>2 — Traitement des données adapté au contexte et à la problématique étudiés</td>
+              <td>SOMME, MOYENNE, NB.SI et NB.SI.ENS renvoient des résultats exacts ; le seuil choisi est justifié ; la colonne calculée en pourcentage est correcte ; la mise en forme conditionnelle est fonctionnelle ; le TCD est trié et le regroupement par tranches est correct.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+            <tr>
+              <td>3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée</td>
+              <td>Le graphique est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, rappelle explicitement la limite de pression d'observation, et se conclut par une proposition de sortie exploitable par l'animatrice.</td>
+              <td>-- / - / + / ++</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="activity-footer" role="contentinfo">
+    Lycée Xavier Grall · 1ère Bac Pro SAPAT · MG1 C1.2 · Activité Biodiversité — Espèces recensées en Bretagne Centre · 2026-2027
+  </footer>
+
+</body>
+</html>

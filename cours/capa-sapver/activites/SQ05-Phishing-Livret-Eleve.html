@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>SQ05 — Phishing et arnaques en ligne — Livret élève</title>
+<style>
+  @page { size: A4; margin: 1cm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 10.5pt;
+    line-height: 1.35;
+    color: #000;
+    margin: 0;
+    background: #fff;
+  }
+  .page {
+    width: 19cm;
+    margin: 0 auto;
+    padding: 0;
+    break-after: page;
+    position: relative;
+  }
+  .page:last-child { break-after: auto; }
+  h1 {
+    font-size: 15pt;
+    border-bottom: 3px solid #000;
+    padding-bottom: 3px;
+    margin: 0 0 8px 0;
+  }
+  h2 {
+    font-size: 12pt;
+    background: #000;
+    color: #fff;
+    padding: 3px 8px;
+    margin: 10px 0 6px 0;
+  }
+  h3 { font-size: 11pt; margin: 8px 0 4px 0; text-decoration: underline; }
+  p { margin: 4px 0; }
+  .encadre {
+    border: 2px solid #000;
+    padding: 6px 8px;
+    margin: 6px 0;
+    break-inside: avoid;
+  }
+  .encadre-gris {
+    border: 1px solid #000;
+    background: #eee;
+    padding: 6px 8px;
+    margin: 6px 0;
+    break-inside: avoid;
+  }
+  .consigne {
+    border-left: 4px solid #000;
+    padding: 4px 8px;
+    margin: 8px 0;
+    break-inside: avoid;
+  }
+  .consigne .titre-consigne { font-weight: bold; }
+  .aide {
+    border: 1px dashed #000;
+    padding: 5px 8px;
+    margin: 5px 0 5px 15px;
+    font-size: 10pt;
+    break-inside: avoid;
+  }
+  .message {
+    border: 1px solid #000;
+    padding: 6px 8px;
+    margin: 6px 0;
+    font-size: 10pt;
+    break-inside: avoid;
+  }
+  .message .entete-msg {
+    font-family: "Courier New", monospace;
+    font-size: 9.5pt;
+    border-bottom: 1px dotted #000;
+    padding-bottom: 3px;
+    margin-bottom: 4px;
+  }
+  .message .num { font-weight: bold; font-size: 10.5pt; }
+  table { border-collapse: collapse; width: 100%; margin: 6px 0; break-inside: avoid; }
+  th, td { border: 1px solid #000; padding: 3px 5px; text-align: left; vertical-align: top; }
+  th { background: #ddd; font-size: 10pt; }
+  .ligne-ecrire { border-bottom: 1px dotted #000; display: inline-block; min-width: 4cm; }
+  .lignes p { border-bottom: 1px dotted #000; height: 14px; margin: 8px 0 0 0; }
+  .case { font-size: 12pt; }
+  .footer {
+    border-top: 1px solid #000;
+    font-size: 8.5pt;
+    padding-top: 2px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  .pictos { font-size: 10pt; }
+  ul { margin: 4px 0; padding-left: 18px; }
+  li { margin: 2px 0; }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1 — LUNDI : NOTION ============ -->
+<div class="page">
+  <h1>SQ05 — Phishing et arnaques en ligne</h1>
+  <p style="font-size:10pt;"><strong>Partie 1 — Lundi : je découvre</strong></p>
+
+  <h2>📱 La situation</h2>
+  <div class="encadre-gris">
+    <p>Samedi matin, tu reçois ce SMS sur ton téléphone :</p>
+    <div class="message" style="margin:4px 0;">
+      <div class="entete-msg">De : +33 7 44 XX XX XX</div>
+      <p style="margin:2px 0;">« Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour :<br>chrono-livraison-fr.info/colis »</p>
+    </div>
+    <p>Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, ta voisine raconte qu'elle a reçu le même message et qu'elle a cliqué : 240 € ont disparu de son compte.</p>
+  </div>
+
+  <div class="encadre">
+    <p><strong>❓ Problématique :</strong> comment reconnaître un message piège, et que faire quand on en reçoit un ?</p>
+  </div>
+
+  <h2>🎯 Objectifs de la semaine</h2>
+  <ul>
+    <li>Être capable de <strong>reconnaître</strong> un message frauduleux grâce à 5 indices.</li>
+    <li>Être capable d'<strong>appliquer</strong> les 4 réflexes face à un message piège (dont le signalement).</li>
+  </ul>
+
+  <h2>📖 La notion : le phishing (hameçonnage)</h2>
+  <div class="encadre">
+    <p>Le <strong>phishing</strong> (en français : <strong>hameçonnage</strong>) est une arnaque : un fraudeur envoie un faux message (SMS, courriel, message sur un réseau) pour te faire « mordre à l'hameçon », comme à la pêche.</p>
+    <p><strong>Son but :</strong> te voler tes mots de passe, ton numéro de carte bancaire ou ton argent.</p>
+  </div>
+
+  <h3>Les 5 indices d'un message piège</h3>
+  <table>
+    <tr><th style="width:15%;">Indice</th><th>Ce qu'il faut regarder</th></tr>
+    <tr><td><strong>1. L'expéditeur</strong></td><td>Adresse bizarre, à rallonge, numéro inconnu (l'expéditeur = celui qui envoie le message).</td></tr>
+    <tr><td><strong>2. L'urgence</strong></td><td>« Sous 24 h », « immédiatement », « dernier rappel » : on te presse pour t'empêcher de réfléchir.</td></tr>
+    <tr><td><strong>3. Les fautes</strong></td><td>Fautes d'orthographe, phrases étranges, mélange de langues.</td></tr>
+    <tr><td><strong>4. Le lien</strong></td><td>Adresse du site qui ne ressemble pas au site officiel (ex. : chrono-livraison-fr.info au lieu de chronopost.fr).</td></tr>
+    <tr><td><strong>5. La demande</strong></td><td>On te demande de payer, ou de donner un mot de passe, un code, un numéro de carte. <strong>Un organisme sérieux ne demande jamais ça par message.</strong></td></tr>
+  </table>
+
+  <div class="footer">SQ05 · Séquence 2 — Se protéger en ligne · Objectifs : reconnaître un message frauduleux · appliquer les réflexes de signalement</div>
+</div>
+
+<!-- ============ PAGE 2 — LUNDI : ENTRAINEMENT ============ -->
+<div class="page">
+  <h3>Les 4 réflexes face à un message piège</h3>
+  <div class="encadre">
+    <ol style="margin:4px 0; padding-left:20px;">
+      <li><strong>Je ne clique pas</strong> sur le lien, je ne réponds pas.</li>
+      <li><strong>Je vérifie</strong> par le vrai canal : je vais moi-même sur le site officiel ou j'appelle le vrai numéro.</li>
+      <li><strong>Je signale</strong> : SMS → je le transfère au <strong>33700</strong> (numéro gratuit de signalement) · courriel → signal-spam.fr · en cas de doute → cybermalveillance.gouv.fr.</li>
+      <li><strong>Je supprime</strong> le message. Et si j'ai un doute, <strong>j'en parle à un adulte</strong>.</li>
+    </ol>
+  </div>
+
+  <h2>✏️ Je m'entraîne (lundi)</h2>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 1 <span class="pictos">👥 (en classe entière — 10 min)</span></p>
+    <p>Reprendre le SMS « Chronopost » de la page 1. Retrouver ensemble les indices de piège qu'il contient, puis les écrire ci-dessous.</p>
+    <p>Indices trouvés : <span class="ligne-ecrire" style="min-width:12cm;">&nbsp;</span></p>
+    <p><span class="ligne-ecrire" style="min-width:16cm;">&nbsp;</span></p>
+  </div>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 2 <span class="pictos">👥 (en binôme — 10 min)</span></p>
+    <p>Lire le message ci-dessous. Entourer les indices de piège directement dans le message, puis compléter la phrase.</p>
+    <div class="message">
+      <div class="entete-msg">De : service-clients@caf-remboursement.net<br>Objet : URGENT — Remboursement en attente</div>
+      <p style="margin:2px 0;">« Chère allocatère, vous avez droit à un remboursement de 128,40 €. Cliquez ici avant ce soir et saisissez vos coordonées bancaire pour recevoir votre virement. »</p>
+    </div>
+    <p>Ce message est un piège car : <span class="ligne-ecrire" style="min-width:9cm;">&nbsp;</span></p>
+    <p><span class="ligne-ecrire" style="min-width:16cm;">&nbsp;</span></p>
+  </div>
+
+  <div class="aide">
+    <p><strong>🆘 Coup de pouce :</strong> compare l'adresse de l'expéditeur avec le vrai site de la CAF : <strong>caf.fr</strong>. Compte les fautes d'orthographe. Regarde ce qu'on te demande de donner.</p>
+  </div>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 3 <span class="pictos">👤 (seul — 10 min)</span></p>
+    <p>Compléter le mémo avec tes mots, puis le recopier dans ta trace ENT (page OneNote de la classe).</p>
+    <div class="encadre-gris">
+      <p>Le phishing sert à : <span class="ligne-ecrire" style="min-width:9cm;">&nbsp;</span></p>
+      <p>Deux indices qui doivent m'alerter : <span class="ligne-ecrire" style="min-width:7.5cm;">&nbsp;</span></p>
+      <p>Si je reçois un SMS piège, je le transfère au : <span class="ligne-ecrire" style="min-width:3cm;">&nbsp;</span> puis je le : <span class="ligne-ecrire" style="min-width:3cm;">&nbsp;</span></p>
+    </div>
+  </div>
+
+  <div class="footer">SQ05 · Séquence 2 — Se protéger en ligne · Objectifs : reconnaître un message frauduleux · appliquer les réflexes de signalement</div>
+</div>
+
+<!-- ============ PAGE 3 — VENDREDI : ATELIER ============ -->
+<div class="page">
+  <h1>SQ05 — Atelier : la chasse au phishing</h1>
+  <p style="font-size:10pt;"><strong>Partie 2 — Vendredi : j'applique</strong></p>
+
+  <div class="encadre-gris">
+    <p><strong>Ta mission :</strong> tu es le « détective anti-arnaque » de ta famille. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de la maison. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?</p>
+  </div>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 1 <span class="pictos">👤 (seul — 10 min)</span></p>
+    <p>Lire les 6 messages. Pour chacun, cocher ton premier avis : PIÈGE ou FIABLE.</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 1 — SMS</p>
+    <div class="entete-msg">De : +33 6 51 XX XX XX</div>
+    <p style="margin:2px 0;">« Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 2 — Courriel</p>
+    <div class="entete-msg">De : vie-scolaire@mon-lycee.fr<br>Objet : Rappel — réunion parents-professeurs</div>
+    <p style="margin:2px 0;">« Bonjour, nous vous rappelons que la réunion parents-professeurs aura lieu vendredi de 17 h à 20 h en salle polyvalente. Cordialement, le secrétariat. »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 3 — Courriel</p>
+    <div class="entete-msg">De : service-clients@caf-remboursement.net<br>Objet : URGENT — Remboursement en attente</div>
+    <p style="margin:2px 0;">« Chère allocatère, vous avez droit à un remboursement de 128,40 €. Cliquez ici avant ce soir et saisissez vos coordonées bancaire pour recevoir votre virement. »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 4 — SMS</p>
+    <div class="entete-msg">De : CABINET MEDICAL</div>
+    <p style="margin:2px 0;">« Rappel : rendez-vous avec le Dr Martin lundi à 14 h. En cas d'empêchement, merci d'appeler le cabinet au numéro habituel. »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 5 — Message sur un réseau social</p>
+    <div class="entete-msg">De : concours.officiel.2027</div>
+    <p style="margin:2px 0;">« 🎉 FÉLICITATIONS !! Tu as été tiré au sort : tu as gagné un iPhone 16 !! Pour le recevoir, envoie juste 2 € de frais de port avec ta carte bancaire. Vite, offre valable 1 h !! »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="message">
+    <p class="num">Message 6 — Courriel</p>
+    <div class="entete-msg">De : facturation@compte-verification-video.com<br>Objet : Votre abonnement est suspendu</div>
+    <p style="margin:2px 0;">« Votre paiement n'a pas pu être prélevé. Votre compte de streaming sera supprimé sous 48 h. Mettez à jour votre carte bancaire ici : compte-verification-video.com/maj »</p>
+    <p class="case">☐ PIÈGE &nbsp;&nbsp; ☐ FIABLE</p>
+  </div>
+
+  <div class="footer">SQ05 · Séquence 2 — Se protéger en ligne · Objectifs : reconnaître un message frauduleux · appliquer les réflexes de signalement</div>
+</div>
+
+<!-- ============ PAGE 4 — VENDREDI : VERDICT + CHECKLIST ============ -->
+<div class="page">
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 2 <span class="pictos">👥 (en binôme — 15 min)</span></p>
+    <p>Comparer vos réponses. Pour chaque message, compléter le tableau : verdict + au moins 1 indice (numéro de l'indice de la page 1, ou le mot qui t'a alerté).</p>
+  </div>
+
+  <table>
+    <tr><th style="width:12%;">Message</th><th style="width:20%;">Verdict</th><th>Indice(s) repéré(s)</th></tr>
+    <tr><td>1</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+    <tr><td>2</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+    <tr><td>3</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+    <tr><td>4</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+    <tr><td>5</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+    <tr><td>6</td><td>☐ Piège ☐ Fiable</td><td>&nbsp;</td></tr>
+  </table>
+
+  <div class="aide">
+    <p><strong>🆘 Coup de pouce :</strong> pose-toi 3 questions dans l'ordre. 1) Qui envoie ce message (adresse exacte) ? 2) Est-ce qu'on me presse ? 3) Est-ce qu'on me demande de payer ou de donner une information secrète ? Un seul « oui » à la question 3 = très mauvais signe.</p>
+  </div>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 3 <span class="pictos">👤 (seul — 10 min)</span></p>
+    <p>Rédiger ta checklist personnelle anti-arnaque : les 4 vérifications que tu feras désormais avant de cliquer. La déposer dans ta trace ENT (elle servira à la mini-évaluation).</p>
+    <div class="lignes">
+      <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+    </div>
+  </div>
+
+  <div class="consigne">
+    <p class="titre-consigne">Consigne 4 <span class="pictos">👥 (mise en commun — 10 min)</span></p>
+    <p>Mise en commun au vidéoprojecteur : verdicts de la classe, indices retenus, rappel des numéros et sites de signalement.</p>
+  </div>
+
+  <div class="encadre">
+    <p><strong>⭐ Défi (pour les détectives rapides) :</strong> écrire 3 conseils anti-arnaque simples pour un membre de ta famille qui se ferait facilement piéger (grand-parent, petit frère…). Format libre : carte mémo, mini-affiche… à déposer sur l'ENT.</p>
+  </div>
+
+  <div class="encadre-gris">
+    <p><strong>📌 À retenir — les bons numéros :</strong> SMS frauduleux → transfert au <strong>33700</strong> · courriel frauduleux → <strong>signal-spam.fr</strong> · victime ou doute → <strong>cybermalveillance.gouv.fr</strong> (site officiel du gouvernement, avec un adulte).</p>
+  </div>
+
+  <div class="footer">SQ05 · Séquence 2 — Se protéger en ligne · Objectifs : reconnaître un message frauduleux · appliquer les réflexes de signalement</div>
+</div>
+
+</body>
+</html>

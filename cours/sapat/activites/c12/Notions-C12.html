@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>C1.2 — Notions à connaître pour le CCF</title>
+<style>
+  :root{
+    --c1:#2563eb; /* Analyse - bleu */
+    --c2:#16a34a; /* Traitement - vert */
+    --c3:#ea580c; /* Exposition - orange */
+    --c4:#7c3aed; /* Bonus - violet */
+    --bg:#f4f6f9;
+    --card:#ffffff;
+    --text:#1f2937;
+    --muted:#6b7280;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:"Segoe UI",Arial,sans-serif;background:var(--bg);color:var(--text);}
+  header{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;padding:28px 24px;text-align:center;}
+  header h1{margin:0 0 6px 0;font-size:1.6rem;}
+  header p{margin:0;opacity:.9;font-size:.95rem;}
+  main{max-width:1100px;margin:0 auto;padding:24px;}
+
+  /* Bandeau CCF */
+  .ccf-banner{
+    background:#fff;border:2px solid #1e3a8a;border-radius:10px;
+    padding:16px 20px;margin-bottom:28px;
+  }
+  .ccf-banner h2{margin:0 0 8px 0;font-size:1rem;color:#1e3a8a;}
+  .ccf-banner ul{margin:0;padding-left:20px;font-size:.9rem;}
+  .ccf-banner li{margin-bottom:3px;}
+
+  .criterion{margin-bottom:34px;}
+  .criterion h2{font-size:1.1rem;padding:10px 16px;border-radius:8px 8px 0 0;color:#fff;margin:0;}
+  .crit-sub{font-size:.78rem;font-weight:400;opacity:.9;display:block;margin-top:2px;}
+  .crit-1 h2{background:var(--c1);}
+  .crit-2 h2{background:var(--c2);}
+  .crit-3 h2{background:var(--c3);}
+  .crit-4 h2{background:var(--c4);}
+
+  .grid{
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px;
+    background:var(--card);padding:16px;border-radius:0 0 8px 8px;
+    box-shadow:0 1px 4px rgba(0,0,0,.08);
+  }
+  .notion-btn{
+    border:2px solid transparent;background:#f1f5f9;border-radius:8px;
+    padding:14px 10px;text-align:center;font-weight:600;font-size:.9rem;
+    cursor:pointer;transition:.15s;color:var(--text);
+  }
+  .crit-1 .notion-btn:hover,.crit-1 .notion-btn.active{border-color:var(--c1);background:#eaf1fd;}
+  .crit-2 .notion-btn:hover,.crit-2 .notion-btn.active{border-color:var(--c2);background:#eaf9ee;}
+  .crit-3 .notion-btn:hover,.crit-3 .notion-btn.active{border-color:var(--c3);background:#fdeee2;}
+  .crit-4 .notion-btn:hover,.crit-4 .notion-btn.active{border-color:var(--c4);background:#f1eafd;}
+
+  #detail{
+    display:none;background:var(--card);border-radius:10px;padding:26px;margin-top:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,.12);border-top:6px solid var(--c1);
+  }
+  #detail.show{display:block;}
+  #detail h3{margin-top:0;font-size:1.35rem;}
+  #detail .def{
+    background:#f8fafc;border-left:4px solid var(--c1);padding:12px 16px;
+    border-radius:0 6px 6px 0;margin-bottom:18px;
+  }
+  #detail .def b{display:block;margin-bottom:4px;color:var(--muted);text-transform:uppercase;font-size:.72rem;letter-spacing:.05em;}
+  #detail ol{padding-left:22px;}
+  #detail ol > li{margin-bottom:13px;}
+  #detail ol > li strong{display:block;margin-bottom:3px;}
+  #detail .note{
+    margin-top:16px;background:#fff7ed;border-left:4px solid var(--c3);
+    padding:10px 14px;border-radius:0 6px 6px 0;font-size:.9rem;
+  }
+  .close-btn{float:right;border:none;background:#e5e7eb;border-radius:6px;padding:6px 12px;cursor:pointer;font-size:.85rem;}
+  footer{text-align:center;padding:20px;color:var(--muted);font-size:.8rem;}
+  #placeholder{text-align:center;color:var(--muted);padding:40px 20px;font-size:.95rem;}
+
+  /* ===== Visuels ===== */
+  .visual{background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:18px;margin-bottom:20px;}
+  .visual-title{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:10px;font-weight:700;}
+  .visual .hint{font-size:.75rem;color:var(--muted);margin:8px 0 0 0;}
+
+  .flow{display:flex;flex-wrap:wrap;align-items:center;gap:6px;}
+  .flow-step{background:#fff;border:2px solid #cbd5e1;border-radius:8px;padding:8px 12px;font-size:.85rem;font-weight:600;white-space:nowrap;}
+  .flow-arrow{color:#94a3b8;font-size:1.1rem;}
+
+  .file-badges{display:flex;flex-wrap:wrap;gap:12px;}
+  .file-badge{width:110px;text-align:center;background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:12px 8px;}
+  .file-badge .ext{display:inline-block;color:#fff;font-weight:700;font-size:.75rem;padding:4px 10px;border-radius:5px;margin-bottom:6px;}
+  .file-badge .desc{font-size:.72rem;color:var(--muted);}
+  .ext-xlsx{background:#16a34a;}.ext-csv{background:#2563eb;}.ext-json{background:#ea580c;}.ext-xml{background:#7c3aed;}
+
+  .law-cards{display:flex;flex-wrap:wrap;gap:12px;}
+  .law-card{flex:1 1 180px;background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:12px 14px;}
+  .law-card .icon{font-size:1.4rem;}
+  .law-card h4{margin:6px 0 4px 0;font-size:.85rem;}
+  .law-card p{margin:0;font-size:.75rem;color:var(--muted);}
+
+  .sheet-mock{border:1px solid #d1d5db;border-radius:8px;overflow:hidden;font-size:.78rem;background:#fff;}
+  .sheet-ribbon{background:#eef2ff;border-bottom:1px solid #d1d5db;padding:6px 10px;display:flex;gap:8px;flex-wrap:wrap;}
+  .ribbon-btn{background:#fff;border:1px solid #c7d2fe;border-radius:5px;padding:3px 9px;font-size:.72rem;color:#3730a3;font-weight:600;}
+  .ribbon-btn.active{background:#4f46e5;color:#fff;border-color:#4f46e5;}
+  table.sheet-table{border-collapse:collapse;width:100%;}
+  table.sheet-table th,table.sheet-table td{border:1px solid #e5e7eb;padding:5px 10px;text-align:left;}
+  table.sheet-table th{background:#f1f5f9;}
+  .th-arrow{float:right;color:#4f46e5;font-weight:700;}
+  .row-red{background:#fee2e2;color:#b91c1c;font-weight:600;}
+  .row-green{background:#dcfce7;color:#166534;font-weight:600;}
+  .cell-dup{background:#fef3c7;}
+
+  .dropdown-mock{display:inline-block;margin-top:8px;background:#fff;border:1px solid #cbd5e1;border-radius:6px;padding:8px 10px;font-size:.75rem;box-shadow:0 2px 6px rgba(0,0,0,.08);}
+  .func-box{background:#0f172a;color:#e2e8f0;border-radius:8px;padding:10px 14px;font-family:Consolas,monospace;font-size:.82rem;margin:4px 0;}
+  .func-box .fn{color:#38bdf8;}.func-box .res{color:#4ade80;}
+
+  .tcd-panel{display:grid;grid-template-columns:1fr 1fr;gap:8px;max-width:420px;}
+  .tcd-zone{background:#fff;border:1.5px dashed #94a3b8;border-radius:8px;padding:8px 10px;font-size:.75rem;}
+  .tcd-zone b{display:block;font-size:.72rem;color:#334155;margin-bottom:4px;}
+  .tcd-zone span{display:inline-block;background:#e0e7ff;color:#3730a3;border-radius:4px;padding:2px 6px;font-size:.7rem;margin:2px 2px 0 0;}
+
+  .mfc-scale{height:18px;border-radius:4px;background:linear-gradient(90deg,#fecaca,#fef08a,#bbf7d0);margin-top:6px;}
+
+  /* Tableau de choix de graphique */
+  table.choice-table{border-collapse:collapse;width:100%;font-size:.85rem;background:#fff;border-radius:8px;overflow:hidden;}
+  table.choice-table th{background:#ea580c;color:#fff;padding:8px 10px;text-align:left;font-size:.8rem;}
+  table.choice-table td{border-bottom:1px solid #e5e7eb;padding:8px 10px;vertical-align:middle;}
+  table.choice-table tr:last-child td{border-bottom:none;}
+  .q-cell{font-weight:600;}
+  .ex-cell{font-size:.76rem;color:var(--muted);}
+
+  kbd{display:inline-block;background:#1f2937;color:#fff;border-radius:5px;padding:3px 8px;font-family:Consolas,monospace;font-size:.78rem;box-shadow:0 2px 0 #0f172a;}
+
+  .method-box{background:#eff6ff;border:1px solid #bfdbfe;border-radius:8px;padding:12px 16px;margin:6px 0;font-size:.88rem;}
+  .method-box b{color:#1e40af;}
+
+  /* ===== Mode livret ===== */
+  .print-btn{
+    display:inline-block;margin-top:14px;background:#fff;color:#1e3a8a;
+    border:none;border-radius:8px;padding:9px 18px;font-weight:700;
+    font-size:.9rem;cursor:pointer;
+  }
+  .booklet-notion{
+    background:var(--card);border-radius:10px;padding:22px 26px;margin:14px 0;
+    box-shadow:0 1px 4px rgba(0,0,0,.08);border-top:5px solid #ccc;
+    page-break-inside:avoid;break-inside:avoid;
+  }
+  .booklet-crit-title{
+    color:#fff;padding:10px 16px;border-radius:8px;margin:26px 0 4px 0;
+    font-size:1.05rem;page-break-after:avoid;
+  }
+  .booklet-notion h3{margin-top:0;font-size:1.2rem;}
+  .booklet-notion .def{background:#f8fafc;border-left:4px solid #94a3b8;padding:10px 14px;border-radius:0 6px 6px 0;margin-bottom:14px;}
+  .booklet-notion .def b{display:block;margin-bottom:3px;color:var(--muted);text-transform:uppercase;font-size:.7rem;letter-spacing:.05em;}
+  .booklet-notion ol{padding-left:22px;}
+  .booklet-notion ol > li{margin-bottom:10px;}
+  .booklet-notion ol > li strong{display:block;margin-bottom:2px;}
+  .booklet-notion .note{margin-top:12px;background:#fff7ed;border-left:4px solid var(--c3);padding:9px 13px;border-radius:0 6px 6px 0;font-size:.88rem;}
+  #booklet{display:none;}
+  body.booklet-mode #interactive{display:none;}
+  body.booklet-mode #booklet{display:block;}
+  body.booklet-mode #placeholder{display:none;}
+
+  @media print{
+    body{background:#fff;}
+    header{background:#1e3a8a !important;-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+    .print-btn, .close-btn, footer{display:none !important;}
+    /* si l'utilisateur imprime sans passer en mode livret, on force le livret */
+    #interactive{display:none !important;}
+    #booklet{display:block !important;}
+    #placeholder{display:none !important;}
+    #detail{display:none !important;}
+    main{max-width:none;padding:10px;}
+    .booklet-notion{box-shadow:none;border:1px solid #d1d5db;border-top-width:5px;}
+    .visual, .method-box, .func-box, .law-card, .file-badge{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+    .booklet-crit-title{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+    table.choice-table th{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+    kbd{-webkit-print-color-adjust:exact;print-color-adjust:exact;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>C1.2 — Étudier un phénomène à l'aide de données</h1>
+  <p>Bac Pro SAPAT · Support de notions pour préparer le CCF E1.2</p>
+  <button class="print-btn" onclick="toggleBooklet()" id="booklet-btn">🖨️ Version livret (tout afficher / imprimer)</button>
+</header>
+
+<main>
+
+  <div class="ccf-banner">
+    <h2>📋 Le CCF E1.2 en bref</h2>
+    <ul>
+      <li><b>Épreuve individuelle</b>, pratique et écrite, <b>1h30 minimum</b>, sur poste informatique.</li>
+      <li>Un <b>cas concret</b> avec des <b>données fournies par l'enseignant</b> : tu dois les analyser, les traiter, puis présenter tes résultats.</li>
+      <li>Tu es évalué·e sur <b>3 critères</b> : ① analyser le contexte et la problématique — ② traiter les données de façon adaptée — ③ exposer les résultats de façon claire et en lien avec la problématique.</li>
+      <li>⚠️ Un calcul juste ne suffit pas : il faut toujours <b>expliquer et justifier tes choix</b> par rapport à la question posée.</li>
+    </ul>
+  </div>
+
+  <div id="interactive">
+  <div class="criterion crit-1">
+    <h2>Critère 1 — Analyse du contexte et de la problématique
+      <span class="crit-sub">Comprendre la question posée, connaître les données et le cadre légal</span></h2>
+    <div class="grid" id="grid-1"></div>
+  </div>
+
+  <div class="criterion crit-2">
+    <h2>Critère 2 — Traitement des données
+      <span class="crit-sub">Nettoyer, trier, filtrer, calculer avec le tableur</span></h2>
+    <div class="grid" id="grid-2"></div>
+  </div>
+
+  <div class="criterion crit-3">
+    <h2>Critère 3 — Exposition des données
+      <span class="crit-sub">Représenter, expliquer et conclure en lien avec la problématique</span></h2>
+    <div class="grid" id="grid-3"></div>
+  </div>
+
+  <div class="criterion crit-4">
+    <h2>Bonus — Outils transversaux</h2>
+    <div class="grid" id="grid-4"></div>
+  </div>
+
+  <div id="detail"></div>
+  </div><!-- /interactive -->
+  <p id="placeholder">👆 Clique sur une notion pour afficher sa définition et la méthode pas à pas.</p>
+
+  <div id="booklet"></div>
+
+</main>
+
+<footer>Ressource TIM — C1.2 · Lycée Xavier Grall</footer>
+
+<script>
+const notions = {
+
+  /* ============ CRITÈRE 1 ============ */
+
+  "problematique": {
+    crit:1, title:"Comprendre la problématique",
+    def:"La problématique est la question à laquelle tes données doivent répondre. Tout ton travail (tri, calculs, graphique) doit servir à y répondre — c'est le premier critère évalué au CCF.",
+    visual:`<div class="visual"><div class="visual-title">Méthode en 3 questions</div>
+      <div class="method-box"><b>1. Quelle est la question posée ?</b><br>Reformule-la avec tes mots. Ex. : « La consommation d'énergie augmente-t-elle dans ma commune ? »</div>
+      <div class="method-box"><b>2. De quelles données ai-je besoin ?</b><br>Repère les colonnes utiles dans le fichier fourni (dates ? lieux ? quantités ?). Ignore le reste.</div>
+      <div class="method-box"><b>3. Quel traitement va m'aider à répondre ?</b><br>Comparer → calculs et tri · Évolution → dates + courbe · Répartition → pourcentages + secteurs.</div>
+    </div>`,
+    steps:[
+      {t:"Lire le sujet en entier", d:"Avant de toucher au tableur, lis tout le sujet et repère la question principale."},
+      {t:"Reformuler la problématique", d:"Écris-la avec tes propres mots en une phrase. Si tu n'y arrives pas, relis le contexte."},
+      {t:"Identifier les données utiles", d:"Ouvre le fichier fourni : quelles colonnes servent à répondre ? Lesquelles sont inutiles ?"},
+      {t:"Prévoir la démarche", d:"Note dans l'ordre ce que tu vas faire : nettoyer → trier/filtrer → calculer → représenter → conclure."}
+    ],
+    note:"Au CCF, annonce ta démarche par écrit : c'est exactement ce que mesure le critère « analyse du contexte et de la problématique »."
+  },
+
+  "donnees-brutes": {
+    crit:1, title:"Les types de données",
+    def:"Une donnée brute est une donnée dans sa forme originale, non transformée ni organisée. Elle doit être traitée pour devenir une information exploitable.",
+    visual:`<div class="visual"><div class="visual-title">De la donnée brute à la décision</div>
+      <div class="flow">
+        <div class="flow-step">Donnée brute</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Nettoyage</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Traitement (calculs)</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Représentation</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Décision</div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"Données brutes", d:"Forme originale, non transformée. Ex. : une liste de ventes sans tri ni analyse."},
+      {t:"Données en nombre", d:"Données quantitatives (chiffres) utilisées pour des calculs ou des statistiques. Ex. : ventes mensuelles d'un magasin."},
+      {t:"Données qualitatives", d:"Données non chiffrées : texte (nom de commune), date, catégorie (oui/non). On les utilise pour classer et regrouper."},
+      {t:"Données ouvertes (Open Data)", d:"Accessibles publiquement et réutilisables par tous. Sources officielles françaises : data.gouv.fr, Insee, Agreste (statistiques agricoles)."},
+      {t:"Données propriétaires", d:"Données privées appartenant à une entreprise ou organisation, protégées par des droits d'accès ou licences. Ex. : fichier clients d'une entreprise."}
+    ],
+    note:"Réflexe : avant d'utiliser une source, demande-toi qui l'a produite, si elle est fiable, et si tu as le droit de l'utiliser."
+  },
+
+  "formats-donnees": {
+    crit:1, title:"Formats de fichiers",
+    def:"Les formats (.xlsx, .csv, .json, .xml) servent à enregistrer et échanger des données de manière structurée entre différents logiciels.",
+    visual:`<div class="visual"><div class="visual-title">Comparatif des formats</div>
+      <div class="file-badges">
+        <div class="file-badge"><span class="ext ext-xlsx">.xlsx</span><div class="desc">Tableaux, formules, mise en forme</div></div>
+        <div class="file-badge"><span class="ext ext-csv">.csv</span><div class="desc">Texte simple, léger, universel</div></div>
+        <div class="file-badge"><span class="ext ext-json">.json</span><div class="desc">Clé/valeur, pour applis et API</div></div>
+        <div class="file-badge"><span class="ext ext-xml">.xml</span><div class="desc">Hiérarchique, systèmes complexes</div></div>
+      </div>
+    </div>`,
+    steps:[
+      {t:".xlsx", d:"Format standard d'Excel. Stocke tableaux, formules, graphiques et mises en forme. Pour analyser et présenter."},
+      {t:".csv", d:"Fichier texte, données séparées par des virgules ou points-virgules. Compatible avec presque tout, mais sans formules ni mise en forme."},
+      {t:".json", d:"Format structuré en paires clé-valeur, utilisé pour échanger des données entre applications (bases de données, API)."},
+      {t:".xml", d:"Format hiérarchique proche du JSON mais plus verbeux, pour échanger des données complexes entre systèmes."}
+    ],
+    note:"Réflexe CCF : si le fichier fourni est en .csv, importe-le puis enregistre-le en .xlsx pour conserver tes formules et ta mise en forme."
+  },
+
+  "loi-rgpd": {
+    crit:1, title:"Cadre légal : RGPD, CNIL, données personnelles",
+    def:"Les données personnelles permettent d'identifier une personne directement ou indirectement (nom, adresse, email, adresse IP...). Leur collecte et leur usage sont encadrés par la loi.",
+    visual:`<div class="visual"><div class="visual-title">Les 3 piliers du cadre légal</div>
+      <div class="law-cards">
+        <div class="law-card"><div class="icon">📜</div><h4>Loi République numérique</h4><p>Portabilité des données, transparence des plateformes, ouverture des données publiques.</p></div>
+        <div class="law-card"><div class="icon">🏛️</div><h4>CNIL</h4><p>Autorité française : conseille, contrôle, sanctionne.</p></div>
+        <div class="law-card"><div class="icon">🔒</div><h4>RGPD</h4><p>Règlement européen : consentement, droit d'accès/rectification/suppression, sécurisation.</p></div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"Données personnelles", d:"Nom, prénom, adresse, téléphone, email, numéro de carte d'identité, adresse IP, habitudes de navigation."},
+      {t:"RGPD (Règlement Général sur la Protection des Données)", d:"Règlement européen. Principes : consentement clair pour collecter, droit d'accès/rectification/suppression, obligation de protéger les données."},
+      {t:"CNIL", d:"Commission Nationale de l'Informatique et des Libertés : autorité indépendante qui conseille les organismes, contrôle les pratiques et sanctionne les abus."},
+      {t:"Loi République numérique (loi Le Maire)", d:"Renforce les droits des citoyens sur leurs données : portabilité (récupérer ses données dans un format exploitable), transparence des plateformes."}
+    ],
+    note:"Réflexe : avant d'utiliser des données réelles (ex. données d'une structure de stage), vérifier le consentement du producteur des données et l'absence de données personnelles identifiables."
+  },
+
+  /* ============ CRITÈRE 2 ============ */
+
+  "nettoyer": {
+    crit:2, title:"Nettoyer les données",
+    def:"Nettoyer, c'est corriger le fichier avant tout calcul : supprimer les doublons, gérer les cases vides, corriger les erreurs de saisie. Un calcul sur des données sales donne un résultat faux.",
+    visual:`<div class="visual"><div class="visual-title">Ce qu'il faut repérer</div>
+      <table class="sheet-table" style="max-width:360px;">
+        <tr><th>Commune</th><th>Habitants</th></tr>
+        <tr><td>Loudéac</td><td>9 500</td></tr>
+        <tr class="cell-dup"><td>Loudéac</td><td>9 500</td></tr>
+        <tr><td>Pontivy</td><td class="row-red"></td></tr>
+        <tr><td>St-Brieuc</td><td class="row-red">-44000</td></tr>
+      </table>
+      <p class="hint">🟡 doublon à supprimer · 🔴 valeur manquante ou aberrante (un nombre d'habitants négatif est impossible).</p>
+    </div>`,
+    steps:[
+      {t:"1. Supprimer les doublons", d:"Onglet « Données » → « Supprimer les doublons ». Le tableur repère les lignes identiques et les enlève."},
+      {t:"2. Repérer les valeurs manquantes", d:"Trie ou filtre la colonne : les cases vides remontent. Décide quoi faire (compléter si possible, sinon exclure la ligne du calcul)."},
+      {t:"3. Repérer les valeurs aberrantes", d:"Une valeur impossible (âge de 250 ans, quantité négative) fausse les moyennes. Utilise MIN et MAX pour les détecter rapidement."},
+      {t:"4. Corriger avec Rechercher/Remplacer", d:"Ctrl+H pour corriger d'un coup les erreurs répétées (ex. « st brieuc » → « Saint-Brieuc »)."},
+      {t:"5. Supprimer lignes/colonnes inutiles", d:"Clic droit sur le numéro de ligne ou la lettre de colonne → Supprimer. Ne garde que ce qui sert à la problématique."}
+    ],
+    note:"Au CCF, le nettoyage fait partie du « traitement adapté » : signale par écrit les anomalies trouvées et ce que tu as fait."
+  },
+
+  "trier": {
+    crit:2, title:"Trier les données",
+    def:"Le tri réorganise les lignes d'un tableau selon un ordre précis : alphabétique, croissant, décroissant. Les lignes restent complètes, seul l'ordre change.",
+    steps:[
+      {t:"1. Sélectionner", d:"Clique sur une cellule dans la colonne à trier."},
+      {t:"2. Trier", d:"Onglet « Données » → « A→Z » (croissant) ou « Z→A » (décroissant)."},
+      {t:"3. Tri multi-colonnes", d:"« Données » → « Trier » → choisir la 1ère colonne et l'ordre, puis « Ajouter un niveau » pour une 2ème colonne (ex. trier par région PUIS par ventes)."},
+      {t:"4. Vérifier", d:"Contrôle que les lignes sont restées complètes : chaque valeur doit toujours être en face de la bonne ligne."}
+    ],
+    note:"Quand l'utiliser : pour classer (du plus grand au plus petit) et repérer rapidement les extrêmes — « quelles sont les 3 communes les plus peuplées ? »"
+  },
+
+  "filtrer": {
+    crit:2, title:"Filtrer les données",
+    def:"Le filtre affiche uniquement les lignes qui répondent à un critère (une région, une date, une valeur seuil). Les autres lignes sont masquées, pas supprimées.",
+    visual:`<div class="visual"><div class="visual-title">Avant / après un filtre sur « Bretagne »</div>
+      <div class="sheet-mock" style="max-width:340px;">
+        <div class="sheet-ribbon"><span class="ribbon-btn active">Données ▸ Filtrer</span></div>
+        <table class="sheet-table">
+          <tr><th>Région <span class="th-arrow">▾</span></th><th>Ventes <span class="th-arrow">▾</span></th></tr>
+          <tr><td>Bretagne</td><td>120</td></tr>
+          <tr style="opacity:.3;text-decoration:line-through;"><td>Occitanie</td><td>45</td></tr>
+          <tr><td>Bretagne</td><td>98</td></tr>
+          <tr style="opacity:.3;text-decoration:line-through;"><td>Normandie</td><td>30</td></tr>
+        </table>
+      </div>
+      <div class="dropdown-mock">☑ Bretagne<br>☐ Occitanie<br>☐ Normandie</div>
+    </div>`,
+    steps:[
+      {t:"1. Sélectionner", d:"Clique sur une cellule du tableau (il doit avoir des en-têtes de colonnes)."},
+      {t:"2. Activer le filtre", d:"Onglet « Données » → « Filtrer ». Des flèches ▾ apparaissent dans les en-têtes."},
+      {t:"3. Choisir le critère", d:"Clique sur la flèche → décoche « Tout sélectionner » → coche les valeurs à garder. Pour un seuil : « Filtres de nombre » → « Supérieur à... »."},
+      {t:"4. Valider", d:"OK. Pour tout réafficher : reclique sur la flèche → « Effacer le filtre »."}
+    ],
+    note:"Quand l'utiliser : pour se concentrer sur une partie des données — « uniquement les données de 2024 », « uniquement ma commune »."
+  },
+
+  "fonctions": {
+    crit:2, title:"Fonctions et calculs",
+    def:"Les fonctions effectuent des calculs automatiques sur des plages de cellules. Une formule commence toujours par le signe =.",
+    visual:`<div class="visual"><div class="visual-title">Anatomie d'une formule</div>
+      <div class="func-box">=<span class="fn">SOMME</span>(A1:A5) <span class="res">→ additionne A1 à A5</span></div>
+      <div class="func-box">=<span class="fn">MOYENNE</span>(A1:A5) <span class="res">→ moyenne de A1 à A5</span></div>
+      <div class="func-box">=<span class="fn">NB.SI</span>(A1:A5;"&gt;50") <span class="res">→ compte les valeurs &gt; 50</span></div>
+      <p class="hint">= puis nom de la fonction, puis la plage entre parenthèses, puis un critère éventuel entre guillemets.</p>
+    </div>`,
+    steps:[
+      {t:"SOMME / MOYENNE", d:"=SOMME(A1:A5) additionne. =MOYENNE(A1:A5) fait la moyenne."},
+      {t:"MIN / MAX", d:"=MIN(A1:A5) et =MAX(A1:A5) donnent la plus petite et la plus grande valeur — utiles aussi pour repérer les valeurs aberrantes."},
+      {t:"NB / NB.SI", d:"=NB(A1:A5) compte les cellules contenant un nombre. =NB.SI(A1:A5;\">50\") compte celles qui respectent un critère."},
+      {t:"SOMME.SI", d:"=SOMME.SI(plage;critère) additionne seulement les valeurs qui respectent le critère."},
+      {t:"SI", d:"=SI(A1>100;\"élevé\";\"faible\") affiche un résultat différent selon une condition. ET() et OU() combinent plusieurs conditions."},
+      {t:"Opérateurs", d:"+ - * / pour les calculs · = <> < > <= >= pour les comparaisons · & pour coller deux textes."},
+      {t:"Recopier une formule", d:"Tire la petite poignée en bas à droite de la cellule pour appliquer la formule aux lignes suivantes."}
+    ],
+    note:"Réflexe : après chaque calcul, vérifie l'ordre de grandeur. Une moyenne de 4 500 habitants pour des communes qui vont de 200 à 9 000 est plausible ; 45 000 ne l'est pas."
+  },
+
+  "indicateurs": {
+    crit:2, title:"Indicateurs statistiques",
+    def:"Un indicateur statistique résume une série de données en un seul nombre pour aider à répondre à la problématique : moyenne, médiane, minimum, maximum, pourcentage, évolution.",
+    visual:`<div class="visual"><div class="visual-title">Moyenne ou médiane ?</div>
+      <div class="method-box">Salaires : 1500 · 1600 · 1700 · 1800 · <b>9000</b><br>
+      <b>Moyenne = 3120 €</b> (tirée vers le haut par la valeur extrême)<br>
+      <b>Médiane = 1700 €</b> (la valeur du milieu — plus représentative ici)</div>
+      <p class="hint">Quand une série contient des valeurs extrêmes, la médiane décrit mieux la réalité que la moyenne.</p>
+    </div>`,
+    steps:[
+      {t:"Moyenne", d:"Somme divisée par le nombre de valeurs : =MOYENNE(plage). Sensible aux valeurs extrêmes."},
+      {t:"Médiane", d:"Valeur du milieu quand les données sont classées : =MEDIANE(plage). Résiste aux valeurs extrêmes."},
+      {t:"Minimum / Maximum", d:"=MIN(plage) et =MAX(plage) : les deux extrêmes de la série. L'écart entre les deux donne l'étendue."},
+      {t:"Pourcentage", d:"Part = valeur / total, puis format « % » (bouton % de l'onglet Accueil). Ex. : 30 femmes sur 120 personnes = 30/120 = 25 %."},
+      {t:"Évolution en %", d:"(valeur finale − valeur initiale) / valeur initiale, en format %. Ex. : de 200 à 250 → (250−200)/200 = +25 %."}
+    ],
+    note:"Au CCF, choisis l'indicateur adapté à la question et dis pourquoi : c'est exactement ce que le jury attend derrière « traitement adapté à la problématique »."
+  },
+
+  "tcd": {
+    crit:2, title:"Tableau croisé dynamique (TCD)",
+    def:"Un TCD résume automatiquement un grand tableau : il regroupe les données par catégorie et calcule des totaux ou moyennes, sans écrire de formule.",
+    visual:`<div class="visual"><div class="visual-title">Le panneau « Champs de tableau croisé dynamique »</div>
+      <div class="tcd-panel">
+        <div class="tcd-zone"><b>Lignes</b><span>Produit</span></div>
+        <div class="tcd-zone"><b>Colonnes</b><span>Région</span></div>
+        <div class="tcd-zone"><b>Valeurs</b><span>Somme de Ventes</span></div>
+        <div class="tcd-zone"><b>Filtres</b><span>Année</span></div>
+      </div>
+      <p class="hint">Glisser un champ dans une zone détermine son rôle : Lignes = catégories, Valeurs = calcul, Filtres = restriction.</p>
+    </div>`,
+    steps:[
+      {t:"1. Préparer les données", d:"Tableau propre : une seule ligne d'en-tête, pas de ligne/colonne vide, pas de cellules fusionnées, pas de sous-totaux."},
+      {t:"2. Insérer le TCD", d:"Clique dans le tableau → onglet « Insertion » → « Tableau croisé dynamique » → nouvelle feuille → OK."},
+      {t:"3. Glisser les champs", d:"Lignes : la catégorie à comparer (ex. commune). Valeurs : le nombre à calculer (ex. somme des consommations). Colonnes et Filtres si besoin."},
+      {t:"4. Changer le calcul", d:"Dans « Valeurs », clique sur la flèche → « Paramètres des champs de valeur » → somme, moyenne, nombre..."},
+      {t:"5. Actualiser", d:"Si les données sources changent : clic droit sur le TCD → « Actualiser »."}
+    ],
+    note:"Quand l'utiliser : dès que la question demande de regrouper (« par commune », « par mois », « par catégorie »). C'est l'outil central du CCF."
+  },
+
+  "mfc": {
+    crit:2, title:"Mise en forme conditionnelle (MFC)",
+    def:"La MFC colore automatiquement les cellules selon une règle (seuil, doublon, dégradé). Elle sert à repérer visuellement les valeurs importantes ou anormales.",
+    visual:`<div class="visual"><div class="visual-title">Exemple : notes < 10 en rouge</div>
+      <table class="sheet-table" style="max-width:220px;">
+        <tr><th>Élève</th><th>Note</th></tr>
+        <tr><td>Léo</td><td class="row-red">8</td></tr>
+        <tr><td>Nina</td><td class="row-green">14</td></tr>
+        <tr><td>Sami</td><td class="row-red">6</td></tr>
+      </table>
+      <div class="visual-title" style="margin-top:12px;">Nuances de couleurs (dégradé)</div>
+      <div class="mfc-scale" style="max-width:220px;"></div>
+      <p class="hint">rouge = faible → vert = élevé</p>
+    </div>`,
+    steps:[
+      {t:"1. Sélectionner la plage", d:"Les cellules à surveiller (ex. la colonne des valeurs)."},
+      {t:"2. Ouvrir le menu", d:"Onglet « Accueil » → « Mise en forme conditionnelle »."},
+      {t:"3. Choisir la règle", d:"« Mettre en surbrillance » pour un seuil (supérieur/inférieur à...) · « Barres de données » pour comparer d'un coup d'œil · « Nuances de couleurs » pour un dégradé · « Valeurs en double » pour repérer les doublons."},
+      {t:"4. Définir la condition et valider", d:"Ex. : « Inférieur à » → 10 → rouge. La mise en forme s'applique automatiquement, même si les valeurs changent."}
+    ],
+    note:"Quand l'utiliser : en phase de nettoyage (repérer doublons et anomalies) et dans un tableau final (faire ressortir les valeurs clés)."
+  },
+
+  /* ============ CRITÈRE 3 ============ */
+
+  "choisir-graphique": {
+    crit:3, title:"Choisir le bon graphique",
+    def:"Chaque type de graphique répond à un type de question. Choisir le mauvais graphique rend le résultat illisible — et le choix doit être justifié au CCF.",
+    visual:`<div class="visual"><div class="visual-title">Quelle question → quel graphique ?</div>
+      <table class="choice-table">
+        <tr><th>Ta question</th><th>Graphique</th><th>Exemple</th></tr>
+        <tr><td class="q-cell">Comparer des catégories entre elles</td><td>📊 Barres / colonnes</td><td class="ex-cell">Population de 5 communes</td></tr>
+        <tr><td class="q-cell">Suivre une évolution dans le temps</td><td>📈 Courbe</td><td class="ex-cell">Consommation d'énergie de 2015 à 2025</td></tr>
+        <tr><td class="q-cell">Montrer la répartition d'un tout (en %)</td><td>🥧 Circulaire (camembert)</td><td class="ex-cell">Répartition du budget d'une famille</td></tr>
+        <tr><td class="q-cell">Chercher un lien entre 2 variables</td><td>⚬ Nuage de points</td><td class="ex-cell">Revenu et facture d'énergie des ménages</td></tr>
+        <tr><td class="q-cell">Localiser des données dans l'espace</td><td>🗺️ Carte (SIG)</td><td class="ex-cell">Précarité énergétique par commune</td></tr>
+      </table>
+    </div>`,
+    steps:[
+      {t:"Barres / colonnes — pour COMPARER", d:"Des catégories sans ordre chronologique : communes, produits, classes. La plus lisible dans la plupart des cas."},
+      {t:"Courbe — pour une ÉVOLUTION", d:"Uniquement quand l'axe horizontal est le temps (années, mois, jours). Une courbe sur des catégories (ex. des communes) n'a pas de sens."},
+      {t:"Circulaire — pour une RÉPARTITION", d:"Les parts d'un tout, en pourcentage. Règle : 6 parts maximum, sinon c'est illisible → repasse en barres."},
+      {t:"Nuage de points — pour une RELATION", d:"Deux variables chiffrées : si les points s'alignent, les variables sont liées."},
+      {t:"Carte — pour LOCALISER", d:"Quand la dimension géographique est au cœur de la question (voir la notion SIG)."}
+    ],
+    note:"Phrase type à écrire au CCF : « J'ai choisi un graphique en courbe car la question porte sur une évolution dans le temps. » Le jury attend cette justification."
+  },
+
+  "graphique": {
+    crit:3, title:"Créer un graphique",
+    def:"Un graphique traduit un tableau de données en image pour rendre les tendances et comparaisons visibles immédiatement.",
+    steps:[
+      {t:"1. Sélectionner les données", d:"Mets en surbrillance la plage à représenter, en-têtes compris (ils deviendront les étiquettes)."},
+      {t:"2. Insérer", d:"Onglet « Insertion » → groupe « Graphiques » → choisis le type adapté à ta question (voir la notion « Choisir le bon graphique »)."},
+      {t:"3. Ajouter le titre", d:"Clique sur « Titre du graphique » et écris un titre qui reprend la question. Ex. : « Évolution de la consommation d'énergie à Loudéac (2015-2025) »."},
+      {t:"4. Étiqueter", d:"Bouton + du graphique (ou onglet « Création ») : titres des axes, légende, étiquettes de données si utile."},
+      {t:"5. Vérifier la lisibilité", d:"Quelqu'un qui n'a pas vu tes données doit comprendre le graphique sans explication orale."}
+    ],
+    note:"Un graphique complet = titre + axes nommés (avec les unités !) + légende. Un graphique sans titre ni unités perd des points au critère 3."
+  },
+
+  "gcd": {
+    crit:3, title:"Graphique croisé dynamique (GCD)",
+    def:"Un GCD est un graphique branché directement sur un TCD : quand tu modifies les champs du TCD, le graphique se met à jour automatiquement.",
+    visual:`<div class="visual"><div class="visual-title">Du TCD au graphique interactif</div>
+      <div class="flow">
+        <div class="flow-step">Tableau croisé dynamique</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Insertion ▸ Graphique croisé dynamique</div><span class="flow-arrow">➜</span>
+        <div class="flow-step">Graphique relié aux champs</div>
+      </div>
+    </div>`,
+    steps:[
+      {t:"1. Partir d'un TCD", d:"Le tableau croisé dynamique doit exister d'abord."},
+      {t:"2. Insérer", d:"Clique dans le TCD → onglet « Insertion » → « Graphique croisé dynamique »."},
+      {t:"3. Choisir le type", d:"Colonnes, barres, courbes, secteurs — mêmes règles de choix que pour un graphique classique."},
+      {t:"4. Personnaliser", d:"Titre, couleurs, axes, étiquettes — comme un graphique normal."},
+      {t:"5. Exploiter l'interactivité", d:"Modifier les champs (Lignes, Valeurs, Filtres) dans le panneau actualise le graphique automatiquement."}
+    ]
+  },
+
+  "sig": {
+    crit:3, title:"SIG et cartes (Google My Maps, KML)",
+    def:"Un SIG (Système d'Information Géographique) associe des données à des positions sur une carte. Il sert à visualiser, analyser et décider quand la question a une dimension géographique.",
+    steps:[
+      {t:"À quoi ça sert", d:"Visualiser des données sur une carte · analyser leur répartition dans l'espace · aider à décider (ex. : où implanter un service ?). Logiciels : Google My Maps (simple), QGIS, ArcGIS (professionnels)."},
+      {t:"1. Créer une carte My Maps", d:"Connecte-toi à ton compte Google → Google My Maps → « Créer une nouvelle carte »."},
+      {t:"2. Ajouter des repères", d:"Icône épingle → clique sur la carte → nomme le point, ajoute une description ou une photo → enregistre."},
+      {t:"3. Importer des données", d:"Bouton « Importer » dans un calque → fichier CSV (avec une colonne adresse ou coordonnées) ou KML → les points se placent automatiquement."},
+      {t:"4. Organiser en calques", d:"Un calque par type de donnée (ex. : un calque « services », un calque « transports ») pour activer/désactiver l'affichage."},
+      {t:"5. Partager", d:"Bouton « Partager » → régler la confidentialité → envoyer le lien."},
+      {t:"Le format KML", d:"Format de fichier (basé sur XML) qui décrit des objets géographiques : points, lignes, zones. C'est le format d'échange entre Google Earth, My Maps et les logiciels SIG."}
+    ],
+    note:"Quand l'utiliser : uniquement si la localisation est au cœur de la problématique. Une carte n'est pas un « plus joli graphique » — c'est une réponse à la question « où ? »."
+  },
+
+  "conclure": {
+    crit:3, title:"Analyser et conclure",
+    def:"La conclusion relie tes résultats à la problématique de départ. C'est la partie la plus regardée du critère 3 : sans conclusion, le traitement ne « répond » à rien.",
+    visual:`<div class="visual"><div class="visual-title">Méthode : Je constate → Je compare → J'en conclus</div>
+      <div class="method-box"><b>Je constate</b> : « Le graphique montre que la consommation a augmenté de 25 % entre 2015 et 2025. »</div>
+      <div class="method-box"><b>Je compare</b> : « Cette hausse est plus forte dans les communes rurales (+40 %) que dans les villes (+10 %). »</div>
+      <div class="method-box"><b>J'en conclus</b> : « La précarité énergétique risque donc de toucher d'abord les zones rurales : c'est là qu'une aide serait prioritaire. »</div>
+    </div>`,
+    steps:[
+      {t:"1. Décrire le résultat", d:"Ce que montrent le tableau et le graphique, avec des chiffres précis (valeurs, pourcentages). Pas d'impression vague."},
+      {t:"2. Comparer", d:"Entre catégories, entre périodes, entre zones. C'est la comparaison qui crée l'information."},
+      {t:"3. Répondre à la problématique", d:"Reprends la question de départ et réponds-y explicitement en t'appuyant sur tes résultats."},
+      {t:"4. Justifier tes choix", d:"Pourquoi ce calcul ? Pourquoi ce graphique ? Une phrase par choix suffit."},
+      {t:"5. Nuancer si besoin", d:"Données incomplètes, valeurs manquantes, période courte... signaler les limites montre que tu maîtrises ton sujet."}
+    ],
+    note:"Piège classique : décrire le graphique (« la courbe monte ») sans jamais revenir à la question posée. Toujours finir par une phrase qui commence par « Pour répondre à la problématique... »."
+  },
+
+  /* ============ BONUS ============ */
+
+  "raccourcis": {
+    crit:4, title:"Raccourcis clavier",
+    def:"Raccourcis utiles pour gagner du temps dans le tableur — précieux en épreuve limitée à 1h30.",
+    visual:`<div class="visual"><div class="visual-title">Les indispensables</div>
+      <p style="margin:4px 0;"><kbd>Ctrl</kbd>+<kbd>S</kbd> Enregistrer · <kbd>Ctrl</kbd>+<kbd>Z</kbd> Annuler · <kbd>Ctrl</kbd>+<kbd>C</kbd>/<kbd>V</kbd> Copier/Coller · <kbd>Ctrl</kbd>+<kbd>F</kbd> Rechercher</p>
+    </div>`,
+    steps:[
+      {t:"Fichier", d:"Ctrl+N nouveau classeur · Ctrl+O ouvrir · Ctrl+S enregistrer · Ctrl+P imprimer."},
+      {t:"Édition", d:"Ctrl+Z annuler · Ctrl+Y refaire · Ctrl+C copier · Ctrl+X couper · Ctrl+V coller · Ctrl+F rechercher · Ctrl+H remplacer."},
+      {t:"Cellules", d:"F2 modifier la cellule · Esc annuler la saisie · Alt+Entrée retour à la ligne dans une cellule · Ctrl+A sélectionner tout."},
+      {t:"Mise en forme", d:"Ctrl+G gras · Ctrl+I italique · Ctrl+U souligné · Ctrl+1 fenêtre Format de cellule."}
+    ],
+    note:"Réflexe n°1 en épreuve : Ctrl+S toutes les 5 minutes."
+  }
+};
+
+const grids = {1:document.getElementById("grid-1"),2:document.getElementById("grid-2"),3:document.getElementById("grid-3"),4:document.getElementById("grid-4")};
+const colors = {1:"#2563eb",2:"#16a34a",3:"#ea580c",4:"#7c3aed"};
+
+Object.keys(notions).forEach(key=>{
+  const n = notions[key];
+  const btn = document.createElement("button");
+  btn.className = "notion-btn";
+  btn.textContent = n.title;
+  btn.dataset.key = key;
+  btn.onclick = ()=>showDetail(key);
+  grids[n.crit].appendChild(btn);
+});
+
+function showDetail(key){
+  document.querySelectorAll(".notion-btn").forEach(b=>b.classList.toggle("active", b.dataset.key===key));
+  const n = notions[key];
+  const detail = document.getElementById("detail");
+  detail.style.borderTopColor = colors[n.crit];
+  let html = `<button class="close-btn" onclick="closeDetail()">✕ Fermer</button>`;
+  html += `<h3>${n.title}</h3>`;
+  html += `<div class="def"><b>Définition</b>${n.def}</div>`;
+  if(n.visual){ html += n.visual; }
+  html += `<ol>`;
+  n.steps.forEach(s=>{ html += `<li><strong>${s.t}</strong>${s.d}</li>`; });
+  html += `</ol>`;
+  if(n.note){ html += `<div class="note">💡 ${n.note}</div>`; }
+  detail.innerHTML = html;
+  detail.classList.add("show");
+  document.getElementById("placeholder").style.display = "none";
+  detail.scrollIntoView({behavior:"smooth", block:"start"});
+}
+
+function closeDetail(){
+  document.getElementById("detail").classList.remove("show");
+  document.getElementById("placeholder").style.display = "block";
+  document.querySelectorAll(".notion-btn").forEach(b=>b.classList.remove("active"));
+}
+
+/* ===== Mode livret (tout afficher, imprimable) ===== */
+const critMeta = {
+  1:{label:"Critère 1 — Analyse du contexte et de la problématique", color:"#2563eb"},
+  2:{label:"Critère 2 — Traitement des données", color:"#16a34a"},
+  3:{label:"Critère 3 — Exposition des données", color:"#ea580c"},
+  4:{label:"Bonus — Outils transversaux", color:"#7c3aed"}
+};
+
+function buildBooklet(){
+  const booklet = document.getElementById("booklet");
+  if(booklet.dataset.built) return;
+  let html = "";
+  [1,2,3,4].forEach(c=>{
+    html += `<h2 class="booklet-crit-title" style="background:${critMeta[c].color};">${critMeta[c].label}</h2>`;
+    Object.keys(notions).forEach(key=>{
+      const n = notions[key];
+      if(n.crit !== c) return;
+      html += `<div class="booklet-notion" style="border-top-color:${critMeta[c].color};">`;
+      html += `<h3>${n.title}</h3>`;
+      html += `<div class="def"><b>Définition</b>${n.def}</div>`;
+      if(n.visual){ html += n.visual; }
+      html += `<ol>`;
+      n.steps.forEach(s=>{ html += `<li><strong>${s.t}</strong>${s.d}</li>`; });
+      html += `</ol>`;
+      if(n.note){ html += `<div class="note">💡 ${n.note}</div>`; }
+      html += `</div>`;
+    });
+  });
+  booklet.innerHTML = html;
+  booklet.dataset.built = "1";
+}
+
+function toggleBooklet(){
+  buildBooklet();
+  const on = document.body.classList.toggle("booklet-mode");
+  document.getElementById("booklet-btn").textContent =
+    on ? "↩️ Revenir à la version cliquable" : "🖨️ Version livret (tout afficher / imprimer)";
+  window.scrollTo({top:0});
+}
+
+/* Impression directe (Ctrl+P) : le CSS @media print force déjà le mode livret,
+   mais il faut que le contenu soit construit. */
+window.addEventListener("beforeprint", buildBooklet);
+</script>
+
+</body>
+</html>
