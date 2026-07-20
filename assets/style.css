@@ -34,10 +34,10 @@
   --md-accent-fg-color--transparent: #e8b96a1a;
 }
 
-/* Zone de contenu un peu plus large : les cartes tiennent à 3 par ligne
-   au lieu de 2, ce qui raccourcit nettement la page d'accueil. */
+/* Largeur de contenu contenue : évite les lignes de texte à rallonge
+   et les cartes démesurément larges sur grand écran. */
 .md-grid {
-  max-width: 72rem;
+  max-width: 58rem;
 }
 
 /* Titres en serif — chaleur et caractère, contraste avec le corps de texte */
@@ -111,18 +111,27 @@
 
 /* ---------- Cartes ---------- */
 
-/* Grille resserrée : colonnes plus étroites, gouttières réduites.
-   11rem ≈ 220px : 3 colonnes dès ~740px de large, 4 au-delà de ~980px. */
+/* Grille à 2 colonnes : les sections comptent 2, 2 et 4 cartes, donc
+   chaque ligne se remplit exactement — pas de vide à droite, pas de
+   carte orpheline, et une largeur de carte identique d'une section
+   à l'autre. Une seule colonne sous 50rem (mobile/tablette portrait). */
 .md-typeset .grid.cards {
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.45rem;
   margin: 0.1rem 0 0 0;
 }
 
 .md-typeset .grid.cards > ul {
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
+  grid-template-columns: repeat(2, 1fr);
   gap: 0.45rem;
   margin: 0;
+}
+
+@media screen and (max-width: 50rem) {
+  .md-typeset .grid.cards,
+  .md-typeset .grid.cards > ul {
+    grid-template-columns: 1fr;
+  }
 }
 
 .md-typeset .grid.cards > ul > li {
