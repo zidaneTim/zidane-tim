@@ -12,22 +12,22 @@
 
 ## Mise en situation
 
-Tu commences ton **stage en structure d'accueil (EHPAD, SAAD, crèche...)**. Le premier jour, la maîtresse de stage te
+Tu es **agent d'une structure d'accueil (EHPAD, SAAD, crèche...)**. Dès ton arrivée, ta responsable de service te
 confie un ordinateur professionnel et un espace **OneDrive** partagé par l'établissement. Elle te prévient : « L'an
-dernier, une stagiaire avait mis tous ses documents en vrac sur le Bureau — le jour où son ordinateur a eu un problème,
+dernier, une collègue avait mis tous ses documents en vrac sur le Bureau — le jour où son ordinateur a eu un problème,
 elle a perdu trois semaines de travail parce que rien n'était sauvegardé dans le cloud. »
 
 Un rapport de la **CNIL** rappelle qu'une bonne partie des pertes de données en entreprise ne vient pas d'un piratage,
 mais d'une mauvaise organisation ou d'une absence de sauvegarde du poste de travail.
 
-**Ton rôle :** avant de commencer à produire le moindre document de stage, tu dois organiser ton espace de travail
+**Ton rôle :** avant de commencer à produire le moindre document professionnel, tu dois organiser ton espace de travail
 numérique — une arborescence de dossiers claire, une sauvegarde automatique sur OneDrive, et un minimum de bonnes
-pratiques de sécurité (mot de passe, verrouillage, partage) — pour que tout document produit pendant le stage soit
+pratiques de sécurité (mot de passe, verrouillage, partage) — pour que tout document produit sur le poste soit
 retrouvable et protégé.
 
 !!! question "Problématique"
-    « Comment organiser et sécuriser mon poste de travail numérique pour que mes documents de stage soient toujours
-    retrouvables, sauvegardés et protégés ? »
+    « Comment organiser et sécuriser mon poste de travail numérique pour que mes documents professionnels soient
+    toujours retrouvables, sauvegardés et protégés ? »
 
 ## Objectifs
 
@@ -41,15 +41,15 @@ retrouvable et protégé.
 
 ### A — Créer une arborescence de dossiers
 
-**Structurer l'espace OneDrive du stage**
+**Structurer l'espace OneDrive professionnel**
 
-1. Ouvrir OneDrive (application ou onedrive.com) et créer un dossier racine nommé `Stage-<Nom-Structure>-2026-2027`.
+1. Ouvrir OneDrive (application ou onedrive.com) et créer un dossier racine nommé `Poste-<Nom-Structure>-2026-2027`.
 2. À l'intérieur, créer au minimum 4 sous-dossiers thématiques (ex. `01-Administratif`, `02-Comptes-rendus`,
    `03-Documents-usagers`, `04-Divers`) — numérotés pour forcer un ordre d'affichage logique.
 3. Vérifier que chaque nom de dossier respecte une convention simple et tenue : pas d'espace superflu, pas
    d'accent bloquant sur certains systèmes, un seul niveau de sous-dossier supplémentaire maximum par thème.
 4. Créer un fichier `Lisez-moi.txt` à la racine expliquant en 3 lignes à quoi sert chaque sous-dossier — utile si
-   quelqu'un d'autre doit reprendre le dossier après le stage.
+   quelqu'un d'autre doit reprendre le dossier après toi.
 
 !!! tip "Astuce"
     Un dossier « Divers » ou « Autres » ne doit jamais devenir un fourre-tout permanent : s'il dépasse 10 fichiers en
@@ -59,13 +59,13 @@ retrouvable et protégé.
 
 **Sécuriser l'accès aux fichiers en cas de panne**
 
-1. Vérifier dans la zone de notification Windows (icône nuage OneDrive) que le dossier racine du stage affiche bien
+1. Vérifier dans la zone de notification Windows (icône nuage OneDrive) que le dossier racine professionnel affiche bien
    une coche verte (synchronisé), et non une icône d'erreur ou de synchronisation en attente.
 2. Déplacer un fichier de test depuis le Bureau vers le dossier `01-Administratif` d'OneDrive, et vérifier sur
    onedrive.com (depuis un navigateur) qu'il apparaît bien en ligne dans les minutes qui suivent.
 3. Identifier, dans les paramètres OneDrive, l'espace de stockage disponible restant sur le compte utilisé.
 4. Distinguer par écrit (2-3 phrases) ce qui se passe si un fichier reste uniquement sur le Bureau de l'ordinateur
-   de stage (risque de perte si l'ordinateur change ou est réinitialisé) par rapport à un fichier dans OneDrive
+   professionnel (risque de perte si l'ordinateur change ou est réinitialisé) par rapport à un fichier dans OneDrive
    synchronisé (accessible depuis n'importe quel appareil connecté au compte).
 
 !!! tip "Astuce"
@@ -76,15 +76,15 @@ retrouvable et protégé.
 
 **Appliquer les bonnes pratiques de sécurité numérique**
 
-1. Vérifier que le compte utilisé sur le poste de stage est verrouillé automatiquement après une durée d'inactivité
+1. Vérifier que le compte utilisé sur le poste professionnel est verrouillé automatiquement après une durée d'inactivité
    courte (paramètre Windows : Démarrer > Paramètres > Comptes > Options de connexion), et régler ce délai si trop
    long (au-delà de 5-10 minutes en présence de public/usagers).
 2. Créer ou vérifier un mot de passe respectant au minimum 3 critères de robustesse (longueur ≥ 12 caractères,
    mélange majuscules/minuscules/chiffres/symboles, absence d'information personnelle identifiable).
-3. Partager le dossier `02-Comptes-rendus` avec la maîtresse de stage via un lien OneDrive **en lecture seule**, et
+3. Partager le dossier `02-Comptes-rendus` avec ta responsable de service via un lien OneDrive **en lecture seule**, et
    vérifier dans les paramètres de partage qu'aucun accès « modification » n'a été laissé par erreur.
-4. Lister les informations qui ne doivent jamais être stockées sans précaution particulière dans ce dossier de
-   stage (données personnelles d'usagers, informations médicales) et rappeler la règle du secret professionnel liée
+4. Lister les informations qui ne doivent jamais être stockées sans précaution particulière dans ce dossier
+   professionnel (données personnelles d'usagers, informations médicales) et rappeler la règle du secret professionnel liée
    à ces données.
 
 !!! tip "Astuce"
@@ -96,7 +96,7 @@ retrouvable et protégé.
 
 - Quelle est la différence concrète entre un fichier stocké uniquement sur le Bureau et un fichier stocké dans un
   dossier OneDrive synchronisé ?
-- Pourquoi un dossier de stage doit-il être organisé en sous-dossiers thématiques plutôt qu'en un seul dossier avec
+- Pourquoi un dossier professionnel doit-il être organisé en sous-dossiers thématiques plutôt qu'en un seul dossier avec
   tous les fichiers ?
 - Cite une bonne pratique de sécurité vue dans cette activité que tu peux appliquer dès aujourd'hui sur ton propre
   matériel.
@@ -114,7 +114,7 @@ retrouvable et protégé.
 
 ## Grille d'évaluation CRCN 1.1 / 1.2 — Environnement numérique
 
-**Production attendue :** une arborescence OneDrive fonctionnelle et sécurisée, présentée à la maîtresse de stage
+**Production attendue :** une arborescence OneDrive fonctionnelle et sécurisée, présentée à ta responsable de service
 citée dans la mise en situation.
 
 | Critère | Indicateurs observables | Niveau |
