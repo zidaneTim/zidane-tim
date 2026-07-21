@@ -47,7 +47,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 3. Télécharger le fichier CSV et l'ouvrir dans Excel (import avec séparateur adapté). Constater le nombre total de lignes du fichier national.
 4. Construire le **sous-ensemble de travail** : filtrer sur le département des Côtes-d'Armor (codes postaux commençant par « 22 »), copier-coller *en valeurs* le résultat dans un nouvel onglet nommé `Donnees-22`.
 5. Nettoyer l'onglet `Donnees-22` : supprimer les colonnes inutiles à l'étude (conserver au minimum dénomination, commune, code postal, activités, date d'engagement), supprimer les doublons éventuels (Données → Supprimer les doublons, sur la colonne SIRET), vérifier le format de la colonne date.
-6. À l'aide de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un second onglet `Donnees-LCBC` ne contenant que les opérateurs du territoire.
+6. À l'aide de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un second onglet `Donnees-LCBC` ne contenant que les opérateurs du territoire.
 
 ### B — Traitement des données adapté au contexte et à la problématique étudiés
 
@@ -76,6 +76,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 ## Ressources et outils
 
 - [Jeu de données — Professionnels engagés en BIO](https://www.data.gouv.fr/datasets/professionnels-engages-en-bio){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, bouton de téléchargement du CSV national (Agence Bio).
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 

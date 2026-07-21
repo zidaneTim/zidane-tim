@@ -47,7 +47,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 3. Télécharger le fichier de l'année la plus récente et l'importer dans Excel (séparateur adapté, encodage UTF-8). Noter le nombre total de lignes.
 4. Construire le **sous-ensemble de travail** : filtrer sur les Côtes-d'Armor (code département 22 ou code INSEE commençant par 22), copier-coller *en valeurs* dans un onglet `Donnees-22`.
 5. Nettoyer l'onglet : conserver les colonnes utiles (commune, code INSEE, paramètre analysé, valeur, unité, conclusion sanitaire, date de prélèvement), convertir la colonne date au bon format, et traiter explicitement les cellules « < seuil de quantification » (les repérer et écrire en une phrase la règle que tu appliques : les compter comme conformes, ou les exclure du calcul de moyenne).
-6. À partir de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un onglet `Donnees-LCBC` limité au territoire.
+6. À partir de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un onglet `Donnees-LCBC` limité au territoire.
 
 ### B — Traitement des données adapté au contexte et à la problématique étudiés
 
@@ -76,6 +76,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 ## Ressources et outils
 
 - [Jeu de données — Contrôle sanitaire de l'eau distribuée](https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : prélèvements et résultats d'analyses validés par les ARS, commune par commune.
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 

@@ -47,7 +47,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 3. Télécharger le fichier CSV et l'importer dans Excel (Données → À partir d'un fichier texte/CSV, séparateur adapté, encodage UTF-8). Noter le nombre total de lignes du fichier national.
 4. Construire le **sous-ensemble de travail** : filtrer sur le département des Côtes-d'Armor (code postal commençant par « 22 »), puis copier-coller *en valeurs* dans un nouvel onglet nommé `Donnees-22`.
 5. Nettoyer l'onglet `Donnees-22` : conserver uniquement les colonnes utiles (raison sociale, commune, code postal, catégorie d'établissement, adresse), supprimer les doublons (Données → Supprimer les doublons, sur le numéro FINESS), repérer et signaler les cellules vides d'adresse.
-6. À partir de la liste des communes de Loudéac Communauté – Bretagne Centre **fournie par l'enseignant**, créer un onglet `Donnees-LCBC` ne contenant que les établissements du territoire, puis n'y conserver que les catégories relevant des personnes âgées (EHPAD, résidence autonomie, accueil de jour, SSIAD, SAAD).
+6. À partir de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un onglet `Donnees-LCBC` ne contenant que les établissements du territoire, puis n'y conserver que les catégories relevant des personnes âgées (EHPAD, résidence autonomie, accueil de jour, SSIAD, SAAD).
 
 ### B — Traitement des données adapté au contexte et à la problématique étudiés
 
@@ -76,6 +76,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 ## Ressources et outils
 
 - [Jeu de données — FINESS Extraction du fichier des établissements](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, téléchargement du CSV national (DREES / ARS).
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 

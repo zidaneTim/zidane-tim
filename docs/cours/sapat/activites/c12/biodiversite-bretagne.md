@@ -45,7 +45,7 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 1. Reformuler en 2-3 phrases la demande de l'animatrice : pour qui, pour quoi faire, et pourquoi des données locales valent mieux qu'un livre généraliste ? Identifier le phénomène étudié et le territoire.
 2. Ouvrir la fiche du jeu de données INPN sur data.gouv.fr et relever : le producteur, la licence, la date de mise à jour. Repérer également l'outil de consultation par commune sur inpn.mnhn.fr.
 3. Consulter sur l'INPN la fiche d'**une commune attribuée par l'enseignant** et relever : nombre total d'espèces recensées, nombre d'espèces protégées, nombre d'espèces menacées, et 3 espèces facilement observables.
-4. Construire dans Excel le **tableau de travail commun** (une ligne par commune de Loudéac Communauté – Bretagne Centre, liste des communes **fournie par l'enseignant**) avec les colonnes : commune, code postal, nombre total d'espèces, espèces protégées, espèces menacées. Saisir la ligne de sa commune, puis mettre en commun les lignes de la classe.
+4. Construire dans Excel le **tableau de travail commun** (une ligne par commune de Loudéac Communauté – Bretagne Centre, liste officielle en Ressources et outils) avec les colonnes : commune, code postal, nombre total d'espèces, espèces protégées, espèces menacées. Saisir la ligne de sa commune, puis mettre en commun les lignes de la classe.
 5. Nettoyer et contrôler le tableau : vérifier qu'aucune commune n'est en double, qu'aucune ligne n'est vide, que toutes les colonnes de nombres sont bien au format nombre (et non texte), et corriger les saisies aberrantes en revenant à la fiche INPN.
 6. Écrire en une phrase le **biais de pression d'observation** : pourquoi un nombre d'espèces plus élevé ne signifie pas forcément que la commune est plus riche en biodiversité ?
 
@@ -76,6 +76,7 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 ## Ressources et outils
 
 - [INPN — Données d'observation et de suivi sur les espèces](https://www.data.gouv.fr/datasets/inpn-donnees-dobservation-et-de-suivi-sur-les-especes){ target="_blank" rel="noopener" } — fiche data.gouv.fr du jeu de données INPN. La consultation par commune se fait sur inpn.mnhn.fr (recherche par collectivité).
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 

@@ -44,7 +44,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 1. Télécharger le jeu de données sur data.gouv.fr, puis **filtrer** avec le Filtre Excel (onglet Données → Filtrer) sur le département des Côtes-d'Armor (22).
 2. Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).
-3. Filtrer ensuite sur les communes de **Loudéac Communauté – Bretagne Centre** (liste officielle fournie par l'enseignant) et sur le secteur « Résidentiel ».
+3. Filtrer ensuite sur les communes de **Loudéac Communauté – Bretagne Centre** (liste officielle en Ressources et outils) et sur le secteur « Résidentiel ».
 4. Ajouter une colonne « Donnée disponible » (Oui/Non) pour repérer les cellules masquées (« NC », vide) sans les remplacer par 0.
 5. Copier-coller (valeurs) le résultat filtré dans une nouvelle feuille nommée *Sous-ensemble de travail* : c'est elle qui sert de base à toute la suite.
 
@@ -78,7 +78,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 - **ONPE — précarité énergétique** : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour préparer l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des relais de proximité.
-- **Site de LCBC** : liste officielle des communes membres et contacts du service Habitat (recherche : « bretagnecentre.bzh nos communes »)
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire et contacts du service Habitat.
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
