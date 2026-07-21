@@ -29,7 +29,7 @@ l'horaire de passage souhaité.
 - Structurer un tableau de données professionnelles en vue d'un usage (4.2.6 — tables de données)
 - Géolocaliser des adresses et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
 - Produire un document de tournée clair et utilisable sur le terrain
-- Respecter la confidentialité des informations concernant les bénéficiaires (secret professionnel)
+- Justifier la nécessité de confidentialité de ces informations et l'indiquer explicitement sur le document produit (secret professionnel)
 
 !!! abstract "Support de travail"
     **Document fourni :** tableau des 6 bénéficiaires du jour (noms fictifs, adresse, commune, créneau horaire

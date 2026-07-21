@@ -23,7 +23,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Objectifs
 
-- Comprendre le lien entre logement ancien/mal isolé, consommation d'électricité et précarité énergétique
+- Reformuler avec ses propres mots le lien entre logement ancien/mal isolé, consommation d'électricité et précarité énergétique
 - Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées — *CRCN 2.3*
 - Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, MOYENNE.SI.ENS) — *CRCN 2.3*
 - Réaliser une carte des relais de proximité sur le territoire de LCBC — *CRCN 5.2*
@@ -85,7 +85,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est compris et reformulé ; la problématique est resituée sur LCBC. | -- / - / + / ++ |
+| 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiés | Le sous-ensemble est nettoyé (secret statistique géré) ; NB.SI, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | -- / - / + / ++ |
 

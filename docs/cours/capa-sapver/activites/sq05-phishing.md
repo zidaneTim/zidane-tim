@@ -23,7 +23,7 @@ Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, 
 !!! question "Problématique"
     Comment reconnaître un message piège, et que faire quand on en reçoit un ?
 
-## Objectifs de la semaine
+## Objectifs
 
 - Être capable de **reconnaître** un message frauduleux grâce à 5 indices.
 - Être capable d'**appliquer** les 4 réflexes face à un message piège (dont le signalement).
@@ -116,3 +116,13 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 
 !!! info "À retenir — les bons numéros"
     SMS frauduleux → transfert au **33700** · courriel frauduleux → **signal-spam.fr** · victime ou doute → **cybermalveillance.gouv.fr** (site officiel du gouvernement, avec un adulte).
+
+## Grille d'évaluation
+
+| Critère | Indicateurs observables | Niveau |
+|---|---|---|
+| Reconnaissance des indices de phishing | Sur les 6 messages de l'atelier, le verdict (piège/fiable) est correct et justifié par au moins 1 des 5 indices de la partie « notion » pour chaque message. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Application des réflexes face à un message piège | La checklist personnelle (consigne 3 de l'atelier) liste correctement les 4 réflexes (ne pas cliquer, vérifier par le vrai canal, signaler au bon endroit, supprimer/en parler à un adulte). | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+
+!!! note "Compétences visées"
+    MG1 — vie sociale, obj. 2.2.3 · CRCN 4.1 (interpréter/vérifier une information, adopter un comportement sécurisé). La checklist personnelle sert de base à la mini-évaluation (voir tip ci-dessus).
