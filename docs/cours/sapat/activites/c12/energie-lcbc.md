@@ -30,11 +30,11 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 - Produire un support de communication professionnel adapté à un public non expert (travailleurs sociaux, aides à domicile)
 
 !!! abstract "Source de données"
-    **Jeu de données :** Consommation annuelle d'électricité par commune
-    **Producteur :** Enedis — Open Data Réseaux Énergies (ODRE), relayé sur data.gouv.fr
-    **URL :** [data.gouv.fr — Consommation annuelle par commune](https://www.data.gouv.fr/datasets/consommation-annuelle-par-commune-1)
-    **Format :** CSV / XLSX · **Licence :** Licence Ouverte / Étalab
-    **Particularité à nettoyer :** pour préserver l'anonymat, Enedis masque la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.
+    **Jeu de données :** Consommation annuelle d'électricité et gaz par commune
+    **Producteur :** Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
+    **URL :** [data.gouv.fr — Consommation annuelle d'électricité et gaz par commune](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune)
+    **Format :** CSV (fichier national volumineux, > 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · **Licence :** Licence Ouverte / Étalab
+    **Particularité à nettoyer :** pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.
 
 ## Travail à faire
 
@@ -42,7 +42,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 **Récupérer, comprendre et nettoyer les données**
 
-1. Télécharger le jeu de données sur data.gouv.fr, puis **filtrer** avec le Filtre Excel (onglet Données → Filtrer) sur le département des Côtes-d'Armor (22).
+1. Sur le portail du diffuseur (lien en Ressources et outils), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel.
 2. Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).
 3. Filtrer ensuite sur les communes de **Loudéac Communauté – Bretagne Centre** (liste officielle en Ressources et outils) et sur le secteur « Résidentiel ».
 4. Ajouter une colonne « Donnée disponible » (Oui/Non) pour repérer les cellules masquées (« NC », vide) sans les remplacer par 0.
@@ -75,6 +75,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Ressources et outils
 
+- [Consommation annuelle d'électricité et gaz par commune — data.gouv.fr](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune){ target="_blank" rel="noopener" } — fiche officielle : description, licence, lien vers le portail Agence ORE pour filtrer et exporter par département/commune avant téléchargement.
 - **ONPE — précarité énergétique** : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour préparer l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des relais de proximité.

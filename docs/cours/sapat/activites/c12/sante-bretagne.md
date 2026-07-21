@@ -75,7 +75,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 
 ## Ressources et outils
 
-- [Jeu de données — FINESS Extraction du fichier des établissements](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, téléchargement du CSV national (DREES / ARS).
+- [Jeu de données — FINESS Extraction du fichier des établissements](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, téléchargement du CSV national (DREES / ARS). ⚠️ Ce flux cesse d'être mis à jour depuis le 20/07/2026 (bascule vers « Finess+ ») ; les fichiers restent téléchargeables mais figés à la donnée du 04/05/2026 — à surveiller pour la prochaine rentrée.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
