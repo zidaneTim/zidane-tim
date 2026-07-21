@@ -857,17 +857,17 @@
 </ul>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Consommation annuelle d'électricité par commune
-<strong>Producteur :</strong> Enedis — Open Data Réseaux Énergies (ODRE), relayé sur data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/consommation-annuelle-par-commune-1">data.gouv.fr — Consommation annuelle par commune</a>
-<strong>Format :</strong> CSV / XLSX · <strong>Licence :</strong> Licence Ouverte / Étalab
-<strong>Particularité à nettoyer :</strong> pour préserver l'anonymat, Enedis masque la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.</p>
+<p><strong>Jeu de données :</strong> Consommation annuelle d'électricité et gaz par commune
+<strong>Producteur :</strong> Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
+<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune">data.gouv.fr — Consommation annuelle d'électricité et gaz par commune</a>
+<strong>Format :</strong> CSV (fichier national volumineux, &gt; 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · <strong>Licence :</strong> Licence Ouverte / Étalab
+<strong>Particularité à nettoyer :</strong> pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.</p>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
 <p><strong>Récupérer, comprendre et nettoyer les données</strong></p>
 <ol>
-<li>Télécharger le jeu de données sur data.gouv.fr, puis <strong>filtrer</strong> avec le Filtre Excel (onglet Données → Filtrer) sur le département des Côtes-d'Armor (22).</li>
+<li>Sur le portail du diffuseur (lien en Ressources et outils), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel.</li>
 <li>Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).</li>
 <li>Filtrer ensuite sur les communes de <strong>Loudéac Communauté – Bretagne Centre</strong> (liste officielle en Ressources et outils) et sur le secteur « Résidentiel ».</li>
 <li>Ajouter une colonne « Donnée disponible » (Oui/Non) pour repérer les cellules masquées (« NC », vide) sans les remplacer par 0.</li>
@@ -900,6 +900,7 @@
 </div>
 <h2 id="ressources-et-outils">Ressources et outils<a class="headerlink" href="#ressources-et-outils" title="Permanent link">&para;</a></h2>
 <ul>
+<li><a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune" rel="noopener" target="_blank">Consommation annuelle d'électricité et gaz par commune — data.gouv.fr</a> — fiche officielle : description, licence, lien vers le portail Agence ORE pour filtrer et exporter par département/commune avant téléchargement.</li>
 <li><strong>ONPE — précarité énergétique</strong> : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)</li>
 <li><a href="https://scuttemery.fr/converter" rel="noopener" target="_blank">Convertisseur CSV → KML</a> — pour préparer l'import dans MyMaps.</li>
 <li><a href="https://www.google.com/mymaps" rel="noopener" target="_blank">Google MyMaps</a> — pour créer la carte des relais de proximité.</li>
