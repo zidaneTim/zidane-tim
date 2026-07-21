@@ -16,7 +16,7 @@ Un **accueil de loisirs** de Loudéac prépare un cycle d'animations nature pour
 
 L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum national d'Histoire naturelle, recense les observations d'espèces sur tout le territoire français, commune par commune. On y trouve en moyenne environ 250 espèces recensées par commune, dont certaines protégées ou menacées.
 
-**Ton rôle :** tu es stagiaire à l'accueil de loisirs. L'animatrice te demande de constituer, à partir des données de l'INPN, un inventaire chiffré des espèces des communes du territoire et de lui remettre une synthèse avec carte pour bâtir ses animations.
+**Ton rôle :** tu es agent de l'accueil de loisirs. L'animatrice te demande de constituer, à partir des données de l'INPN, un inventaire chiffré des espèces des communes du territoire et de lui remettre une synthèse avec carte pour bâtir ses animations.
 
 !!! question "Problématique"
     « Quelles espèces sont recensées dans les communes de Loudéac Communauté – Bretagne Centre, et comment présenter cet inventaire pour construire des animations nature adaptées au territoire ? »

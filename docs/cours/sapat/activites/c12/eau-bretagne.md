@@ -16,7 +16,7 @@ Dans un **EHPAD de Loudéac**, plusieurs familles de résidents s'interrogent su
 
 Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 300 000 prélèvements et environ 12 millions d'analyses par an en France. Les résultats sont publiés commune par commune en open data sur data.gouv.fr.
 
-**Ton rôle :** tu es stagiaire à l'EHPAD, chargé par la direction d'étudier les résultats du contrôle sanitaire de l'eau sur le territoire et de produire une note d'information claire pour les familles.
+**Ton rôle :** tu es agent de l'EHPAD, chargé par la direction d'étudier les résultats du contrôle sanitaire de l'eau sur le territoire et de produire une note d'information claire pour les familles.
 
 !!! question "Problématique"
     « Que révèlent les analyses du contrôle sanitaire sur la qualité de l'eau distribuée dans les communes de Loudéac Communauté – Bretagne Centre, et comment l'expliquer aux familles de résidents ? »

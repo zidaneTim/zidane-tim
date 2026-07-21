@@ -12,7 +12,7 @@
 
 ## Mise en situation
 
-Tu es stagiaire au service Habitat-Énergie de **Loudéac Communauté – Bretagne Centre (LCBC)**, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.
+Tu es agent du service Habitat-Énergie de **Loudéac Communauté – Bretagne Centre (LCBC)**, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.
 
 Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage est en précarité énergétique lorsqu'il consacre plus de **8 % de son revenu** aux dépenses d'énergie du logement ; en France, cela concerne environ un ménage sur dix, avec une surexposition des zones rurales et des logements anciens.
 

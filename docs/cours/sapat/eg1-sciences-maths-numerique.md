@@ -16,6 +16,14 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/population-age-lcbc.md)
 
+-   :material-folder-lock-outline:{ .lg .middle } **Organiser et sécuriser son poste**
+
+    ---
+
+    Arborescence OneDrive, synchronisation, sécurité du poste de stage.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/organisation-securite-poste.md)
+
 </div>
 
 !!! tip "Où répondre ?"

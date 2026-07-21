@@ -12,7 +12,7 @@
 
 ## Mise en situation
 
-Tu es stagiaire au **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. Ce matin, la responsable de
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. Ce matin, la responsable de
 secteur te confie une mission simple mais essentielle : préparer la tournée d'une aide à domicile qui doit visiter
 6 bénéficiaires dans la journée, dans un ordre qui limite les déplacements inutiles entre les communes du
 territoire.

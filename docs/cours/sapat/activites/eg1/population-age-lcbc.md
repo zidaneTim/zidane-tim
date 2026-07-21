@@ -20,7 +20,7 @@ part varie-t-elle beaucoup d'une commune à l'autre ?
 L'**INSEE** publie chaque année, dans son recensement de la population, la répartition de chaque commune par
 grandes tranches d'âge — une donnée publique, gratuite et téléchargeable.
 
-**Ton rôle :** tu es stagiaire au CCAS. On te confie un tableau déjà construit avec les effectifs par tranche d'âge
+**Ton rôle :** tu es agent du CCAS. On te confie un tableau déjà construit avec les effectifs par tranche d'âge
 des communes du territoire ; ta mission est de calculer la part des 60 ans et plus, de repérer les communes les
 plus concernées, et de préparer un petit graphique pour le rapport.
 

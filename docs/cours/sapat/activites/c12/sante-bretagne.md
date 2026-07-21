@@ -16,7 +16,7 @@ Le **CLIC (Centre Local d'Information et de Coordination gérontologique)** de L
 
 Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociaux), tenu par la DREES et les ARS, recense officiellement tous les établissements sanitaires, sociaux et médico-sociaux ouverts en France. Il est publié en open data sur data.gouv.fr.
 
-**Ton rôle :** tu es stagiaire au CLIC de Loudéac. La coordinatrice te demande d'extraire les données du territoire, de les traiter et de lui remettre un état des lieux chiffré avec carte, utilisable en rendez-vous avec les familles.
+**Ton rôle :** tu es agent du CLIC de Loudéac. La coordinatrice te demande d'extraire les données du territoire, de les traiter et de lui remettre un état des lieux chiffré avec carte, utilisable en rendez-vous avec les familles.
 
 !!! question "Problématique"
     « Quelle est l'offre d'établissements et de services pour personnes âgées sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour informer les familles ? »

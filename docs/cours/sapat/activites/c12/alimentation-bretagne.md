@@ -16,7 +16,7 @@ L'épicerie sociale et solidaire portée par le **CCAS de Loudéac** veut propos
 
 Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du ministère de l'Agriculture) publie en open data la liste officielle de tous les opérateurs engagés en bio en France, avec leur commune, leurs activités et leur date d'engagement.
 
-**Ton rôle :** tu es stagiaire au CCAS de Loudéac. La responsable de l'épicerie sociale te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour préparer sa recherche de fournisseurs.
+**Ton rôle :** tu es agent du CCAS de Loudéac. La responsable de l'épicerie sociale te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour préparer sa recherche de fournisseurs.
 
 !!! question "Problématique"
     « Quelle est l'offre de producteurs et transformateurs bio sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour aider l'épicerie sociale à s'approvisionner en local ? »
