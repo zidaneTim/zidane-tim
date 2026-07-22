@@ -1,5 +1,10 @@
 # ⚡ QUICKSTART - Les 3 commandes qui changent tout
 
+> ⚠️ **Document d'installation initiale (juillet 2026), conservé pour mémoire.** Le site est en production
+> (https://zidanetim.github.io/zidane-tim/) ; certains chemins/noms cités ici (`zidane-tim-setup`,
+> `cap-aepe`, anciens scripts supprimés le 22/07/2026) ne correspondent plus au dépôt actuel.
+> Référence à jour : `README.md`.
+
 ## Ce qu'on a créé
 
 ✅ **Dossier** `zidane-tim-setup/` avec :
