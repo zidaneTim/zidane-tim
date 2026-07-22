@@ -21,3 +21,10 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 !!! tip "Où répondre ?"
 
     Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**.
+
+## Parcours Pix à faire
+
+!!! abstract "Parcours conseillés dans Pix Orga (MP2 — obj. 4)"
+    - **Utiliser un environnement numérique professionnel de manière responsable et autonome**
+    - **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel**
+    - **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle**

@@ -1,5 +1,11 @@
 # 🏠 Repérer les foyers exposés à la précarité énergétique
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème énergie</p>
 
 <p class="zt-lede">Consommation électrique par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
@@ -7,7 +13,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 3 séances (45 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · CRCN 2.3 · CRCN 5.2 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
 ## Mise en situation
@@ -24,9 +30,9 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 ## Objectifs
 
 - Reformuler avec ses propres mots le lien entre logement ancien/mal isolé, consommation d'électricité et précarité énergétique
-- Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées — *CRCN 2.3*
-- Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, MOYENNE.SI.ENS) — *CRCN 2.3*
-- Réaliser une carte des relais de proximité sur le territoire de LCBC — *CRCN 5.2*
+- Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées
+- Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, MOYENNE.SI.ENS)
+- Réaliser une carte des relais de proximité sur le territoire de LCBC
 - Produire un support de communication professionnel adapté à un public non expert (travailleurs sociaux, aides à domicile)
 
 !!! abstract "Source de données"

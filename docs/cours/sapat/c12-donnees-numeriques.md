@@ -59,3 +59,9 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 !!! tip "Où répondre ?"
 
     Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**. Seule la fiche de notions ci-dessus est prévue pour l'impression.
+
+## Parcours Pix à faire
+
+!!! abstract "Parcours conseillé dans Pix Orga"
+    **Bac Pro — Tronc commun MG1** — parcours disciplinaire du tronc commun, centré sur le traitement de données
+    (CRCN 1.3 dominant), directement lié aux 5 activités C1.2 ci-dessus.

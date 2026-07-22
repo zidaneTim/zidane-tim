@@ -1,5 +1,10 @@
 # 🎣 SQ05 — Phishing et arnaques en ligne
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
+
 <p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
 
 <p class="zt-lede">Reconnaître un message piégé et connaître les bons réflexes de signalement.</p>
@@ -7,7 +12,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 2 séances</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Sécurité numérique · CRCN 4.1</span>
+  <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
 ## La situation

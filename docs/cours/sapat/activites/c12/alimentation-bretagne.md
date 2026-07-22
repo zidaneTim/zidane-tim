@@ -1,5 +1,12 @@
 # 🥕 Manger local en Bretagne Centre
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème alimentation</p>
 
 <p class="zt-lede">Où sont les producteurs bio du territoire ? — Données réelles de l'Agence Bio, Loudéac Communauté – Bretagne Centre</p>
@@ -7,7 +14,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 3 séances (45 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · CRCN 1.3 · CRCN 3.3 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
 ## Mise en situation
@@ -24,9 +31,9 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 ## Objectifs
 
 - Analyser le contexte de l'approvisionnement local et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir d'un fichier open data national volumineux — *CRCN 1.2*
-- Traiter les données avec des formules Excel (NB.SI, NB.SI.ENS), une mise en forme conditionnelle et un tableau croisé dynamique — *CRCN 1.3*
-- Cartographier les opérateurs bio du territoire avec Google MyMaps — *CRCN 2.2*
+- Construire un sous-ensemble de travail propre à partir d'un fichier open data national volumineux
+- Traiter les données avec des formules Excel (NB.SI, NB.SI.ENS), une mise en forme conditionnelle et un tableau croisé dynamique
+- Cartographier les opérateurs bio du territoire avec Google MyMaps
 - Rédiger une synthèse chiffrée adaptée à la destinataire (responsable de l'épicerie sociale)
 
 !!! abstract "Source de données"

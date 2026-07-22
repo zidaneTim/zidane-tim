@@ -1,5 +1,11 @@
 # 🗂️ Organiser et sécuriser son poste de travail numérique
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
+
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG1 · Approche scientifique et numérique</p>
 
 <p class="zt-lede">Un poste de travail bien rangé et bien protégé, c'est un métier fait sans perte de temps ni de données</p>
@@ -7,7 +13,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 50 min (40 min effectives)</span>
   <span>:material-school-outline: EG1 — Approche scientifique et numérique</span>
-  <span>:material-tag-outline: CRCN 1.1 · CRCN 1.2 · OneDrive</span>
+  <span>:material-tag-outline: OneDrive</span>
 </div>
 
 ## Mise en situation
@@ -32,10 +38,10 @@ retrouvable et protégé.
 ## Objectifs
 
 - Structurer un espace de stockage numérique avec une arborescence de dossiers cohérente et nommée selon une
-  convention explicite (CRCN 1.2)
-- Distinguer stockage local et stockage cloud, et paramétrer une synchronisation OneDrive fiable (CRCN 1.1)
+  convention explicite
+- Distinguer stockage local et stockage cloud, et paramétrer une synchronisation OneDrive fiable
 - Appliquer des règles de sécurité de base sur son poste (mot de passe robuste, verrouillage de session, gestion des
-  partages) (CRCN 1.1)
+  partages)
 
 ## Travail à faire
 
@@ -112,7 +118,7 @@ retrouvable et protégé.
 - **Paramètres Windows — Comptes/Options de connexion** : réglage du verrouillage automatique de session.
 - **CNIL — Sécurité du poste de travail** : recherche « CNIL sécurité poste de travail » — fiche pratique officielle sur les bons réflexes de sécurité numérique en entreprise.
 
-## Grille d'évaluation CRCN 1.1 / 1.2 — Environnement numérique
+## Grille d'évaluation CRCN 1.2 / 4.1 — Environnement numérique
 
 **Production attendue :** une arborescence OneDrive fonctionnelle et sécurisée, présentée à ta responsable de service
 citée dans la mise en situation.
@@ -125,5 +131,6 @@ citée dans la mise en situation.
 | Partage et confidentialité | Partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    EG1 — environnement numérique (CRCN domaine 1) : organiser un espace de stockage cloud, distinguer stockage
-    local et synchronisé, appliquer des règles de sécurité de base sur un poste professionnel partagé.
+    EG1 — environnement numérique : organiser un espace de stockage cloud (CRCN 1.2 — gérer des données) et
+    appliquer des règles de sécurité de base sur un poste professionnel partagé (CRCN 4.1 — sécuriser
+    l'environnement numérique).

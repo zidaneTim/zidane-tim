@@ -1,5 +1,12 @@
 # 🏥 Vieillir en Bretagne Centre
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème santé</p>
 
 <p class="zt-lede">Quels établissements pour accueillir les personnes âgées ? — Données réelles FINESS (DREES), Loudéac Communauté – Bretagne Centre</p>
@@ -7,7 +14,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 3 séances (45 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · CRCN 1.3 · CRCN 2.2 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
 ## Mise en situation
@@ -24,9 +31,9 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 ## Objectifs
 
 - Analyser la demande du CLIC et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir du fichier national FINESS — *CRCN 1.2*
-- Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique — *CRCN 1.3*
-- Cartographier les établissements du territoire avec Google MyMaps — *CRCN 2.2*
+- Construire un sous-ensemble de travail propre à partir du fichier national FINESS
+- Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique
+- Cartographier les établissements du territoire avec Google MyMaps
 - Rédiger une synthèse chiffrée adaptée à la destinataire (coordinatrice du CLIC)
 
 !!! abstract "Source de données"

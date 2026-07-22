@@ -1,5 +1,10 @@
 # ♿ Une affiche que tout le monde peut lire
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+</div>
+
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Créer un contenu numérique accessible pour une association du territoire</p>
@@ -7,7 +12,6 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 50 min (40 min effectives)</span>
   <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: CRCN 3.3 · CRCN 5.3</span>
 </div>
 
 ## Mise en situation
@@ -27,15 +31,21 @@ plus grand nombre — c'est ce qu'on appelle l'**accessibilité numérique**.
 
 ## Objectifs
 
-- Identifier les principaux obstacles à l'accessibilité d'un contenu numérique (CRCN 5.3)
-- Appliquer des règles simples d'accessibilité (contraste, taille de police, texte alternatif) à une production réelle (CRCN 3.3)
+- Identifier les principaux obstacles à l'accessibilité d'un contenu numérique
+- Appliquer des règles simples d'accessibilité (contraste, taille de police, texte alternatif) à une production réelle
 - Créer un contenu numérique responsable, adapté à un public varié
 
 ## Travail à faire
 
 **Comprendre l'accessibilité, puis créer l'affiche**
 
-1. Observer les deux affiches fournies par l'enseignant (une accessible, une non accessible) et lister 3 différences visibles (taille du texte, contraste des couleurs, quantité d'informations).
+1. Observer les deux affiches ci-dessous (une accessible, une non accessible — même annonce, deux traitements différents) et lister 3 différences visibles (taille du texte, contraste des couleurs, quantité d'informations).
+
+    !!! example "Affiche A — non accessible"
+        ![Affiche non accessible : texte gris clair, dense, petit, fond blanc](images/affiche-non-accessible.svg){ width="320" }
+
+    !!! example "Affiche B — accessible"
+        ![Affiche accessible : titre en gros caractères, fort contraste, peu d'informations](images/affiche-accessible.svg){ width="320" }
 2. Rechercher la règle du **contraste minimum** recommandée pour un texte lisible (recherche : « contraste texte fond accessibilité numérique ») et la noter avec sa source.
 3. Créer l'affiche dans l'outil de ton choix (Canva, PowerPoint, Google Slides) en respectant au minimum : texte en gros caractères (titre et informations essentielles lisibles à 2 mètres), fort contraste entre texte et fond, phrases courtes et vocabulaire simple, pas plus de 3 informations essentielles sur l'affiche (date, lieu, contact).
 4. Ajouter un **texte alternatif** décrivant l'image principale de l'affiche (clic droit sur l'image → texte de remplacement), utile pour les lecteurs d'écran.
@@ -69,4 +79,5 @@ plus grand nombre — c'est ce qu'on appelle l'**accessibilité numérique**.
 
 !!! note "Compétences visées"
     EG4 — attendu 1 (environnement numérique, accessibilité) et attendu 2 (création de contenus numériques
-    universels et responsables). CRCN 3.3 (créer/adapter un contenu) et CRCN 5.3 (accessibilité numérique).
+    universels et responsables). CRCN 3.3 (adapter un document à son public et à sa finalité, dont l'accessibilité —
+    le domaine CRCN 5 s'arrête à 5.2, il n'existe pas de 5.3).

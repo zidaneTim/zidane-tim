@@ -1,5 +1,12 @@
 # 🗺️ Organiser une tournée d'aide à domicile
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+</div>
+
 <p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
 
 <p class="zt-lede">Construire un itinéraire de visites à partir d'un tableau de bénéficiaires — Service d'Aide et d'Accompagnement à Domicile de Loudéac</p>
@@ -17,8 +24,21 @@ secteur te confie une mission simple mais essentielle : préparer la tournée d'
 6 bénéficiaires dans la journée, dans un ordre qui limite les déplacements inutiles entre les communes du
 territoire.
 
-Elle te transmet un tableau avec le nom (fictif), la commune et l'adresse de chaque bénéficiaire, ainsi que
-l'horaire de passage souhaité.
+Elle te transmet le tableau ci-dessous avec le nom (fictif), la commune et l'adresse de chaque bénéficiaire, ainsi
+que l'horaire de passage souhaité.
+
+!!! abstract "Tableau des 6 bénéficiaires du jour (données fictives)"
+    | Bénéficiaire | Commune | Adresse | Créneau souhaité |
+    |---|---|---|---|
+    | Mme Le Roux | Loudéac | 12 rue de la Gare | 8h30 – 9h00 |
+    | M. Guillou | Loudéac | 4 rue des Écoles | 9h15 – 9h45 |
+    | Mme Hamon | Plémet | 8 rue de la Mairie | 10h30 – 11h00 |
+    | M. Le Gall | La Chèze | 3 place de l'Église | 11h15 – 11h45 |
+    | Mme Rault | Uzel | 15 rue Saint-Yves | 13h30 – 14h00 |
+    | M. Cadoret | Merdrignac | 6 rue du Stade | 14h15 – 14h45 |
+
+    Noms, horaires et numéros de rue **fictifs**, générés pour l'exercice ; communes et noms de rues réels de
+    Loudéac Communauté – Bretagne Centre (repérables sur une carte).
 
 !!! question "Problématique"
     « Comment organiser, à partir d'un tableau de bénéficiaires, un itinéraire de tournée clair et efficace pour
@@ -32,8 +52,8 @@ l'horaire de passage souhaité.
 - Justifier la nécessité de confidentialité de ces informations et l'indiquer explicitement sur le document produit (secret professionnel)
 
 !!! abstract "Support de travail"
-    **Document fourni :** tableau des 6 bénéficiaires du jour (noms fictifs, adresse, commune, créneau horaire
-    souhaité) — distribué par l'enseignant en début de séance.
+    **Document de travail :** tableau des 6 bénéficiaires du jour ci-dessus (noms fictifs, adresse, commune,
+    créneau horaire souhaité) — à recopier dans Excel en tout début de séance.
     **Confidentialité :** ce tableau est un exercice pédagogique avec des noms et adresses fictifs, mais il
     reproduit un document réel de service à domicile — rappeler qu'un tel document, en situation professionnelle
     réelle, est **strictement confidentiel** et ne doit jamais être partagé hors du service.
@@ -42,7 +62,7 @@ l'horaire de passage souhaité.
 
 **Organiser le tableau, cartographier, produire la feuille de tournée**
 
-1. Ouvrir le tableau fourni dans Excel. Vérifier qu'aucune adresse n'est incomplète (numéro, rue, code postal, commune) ; compléter si besoin avec les informations données par l'enseignant.
+1. Recopier le tableau ci-dessus dans Excel (une ligne par bénéficiaire). Compléter chaque adresse avec le code postal de la commune (à rechercher : [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }).
 2. Trier le tableau par commune, puis par créneau horaire souhaité, pour avoir une première vue d'ensemble de la journée.
 3. Créer une carte dans **Google MyMaps** et importer les 6 adresses (import direct du tableau ou saisie manuelle si l'import échoue) : un repère par bénéficiaire, avec le nom et l'horaire souhaité dans la description du repère.
 4. Observer la carte et proposer un **ordre de passage** qui limite les allers-retours entre communes éloignées (sans outil de calcul d'itinéraire automatique : un choix raisonné à l'œil, justifié en une phrase).
@@ -64,7 +84,7 @@ l'horaire de passage souhaité.
 ## Ressources et outils
 
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte et les repères.
-- **Tableau des bénéficiaires** : document fourni par l'enseignant (fictif, à usage pédagogique).
+- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — pour retrouver le code postal de chaque commune.
 
 ## Grille d'évaluation (visée formative — obj. 4 non évalué en tant que tel, valorisable via MG1)
 

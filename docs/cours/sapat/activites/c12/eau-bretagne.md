@@ -1,5 +1,13 @@
 # 💧 L'eau du robinet en Bretagne Centre
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème eau</p>
 
 <p class="zt-lede">Que disent les analyses sanitaires ? — Données réelles du contrôle sanitaire (ARS), Loudéac Communauté – Bretagne Centre</p>
@@ -7,7 +15,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 3 séances (45 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · CRCN 1.3 · CRCN 4.2 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
 ## Mise en situation
@@ -24,10 +32,10 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
 ## Objectifs
 
 - Analyser la demande de la direction et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir d'un fichier de résultats d'analyses volumineux — *CRCN 1.2*
-- Traiter les données avec NB.SI, NB.SI.ENS, MOYENNE.SI, mise en forme conditionnelle et tableau croisé dynamique — *CRCN 1.3*
-- Cartographier les communes et leurs résultats avec Google MyMaps — *CRCN 2.2*
-- Rédiger une note d'information factuelle et rassurante, sans déformer les données — *CRCN 4.2*
+- Construire un sous-ensemble de travail propre à partir d'un fichier de résultats d'analyses volumineux
+- Traiter les données avec NB.SI, NB.SI.ENS, MOYENNE.SI, mise en forme conditionnelle et tableau croisé dynamique
+- Cartographier les communes et leurs résultats avec Google MyMaps
+- Rédiger une note d'information factuelle et rassurante, sans déformer les données
 
 !!! abstract "Source de données"
     **Jeu de données :** Résultats du contrôle sanitaire de l'eau distribuée commune par commune

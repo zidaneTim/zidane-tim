@@ -30,3 +30,10 @@ Agir dans son environnement social et numérique de façon responsable.
 !!! tip "Où répondre ?"
 
     L'activité se fait à l'écran : réponds et dépose ta trace dans ton bloc-notes **OneNote**.
+
+## Parcours Pix à faire
+
+!!! abstract "Parcours à vérifier dans Pix Orga"
+    **Cybersécurité (MAJ 2025)** — profil de compétences dominé par CRCN 4.1 (sécuriser l'environnement numérique),
+    cohérent avec l'activité phishing ci-dessus. ⚠️ Parcours du catalogue générique lycée professionnel (pas du
+    tableau enseignement agricole) — à vérifier qu'il est bien proposé pour les classes CAPa dans ton espace Pix Orga.

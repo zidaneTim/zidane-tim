@@ -1,5 +1,13 @@
 # 🦋 La biodiversité autour de nous
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité</p>
 
 <p class="zt-lede">Quelles espèces vivent dans nos communes ? — Données réelles INPN (MNHN), Loudéac Communauté – Bretagne Centre</p>
@@ -7,7 +15,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 3 séances (45 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · CRCN 1.1 · CRCN 1.3 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
 ## Mise en situation
@@ -23,10 +31,10 @@ L'**INPN (Inventaire National du Patrimoine Naturel)**, porté par le Muséum na
 
 ## Objectifs
 
-- Analyser la demande de l'animatrice et reformuler la problématique avec ses propres mots — *CRCN 1.1*
-- Extraire et structurer des données d'observation à partir d'un outil de consultation en ligne — *CRCN 1.2*
-- Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique — *CRCN 1.3*
-- Cartographier les communes et leur richesse en espèces avec Google MyMaps — *CRCN 2.2*
+- Analyser la demande de l'animatrice et reformuler la problématique avec ses propres mots
+- Extraire et structurer des données d'observation à partir d'un outil de consultation en ligne
+- Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique
+- Cartographier les communes et leur richesse en espèces avec Google MyMaps
 - Rédiger une synthèse exploitable par l'animatrice pour construire ses activités
 
 !!! abstract "Source de données"
