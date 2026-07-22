@@ -8,11 +8,11 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
 <div class="grid cards" markdown>
 
--   :material-map-marker-path:{ .lg .middle } **Organiser une tournée d'aide à domicile**
+-   :material-map-marker-path:{ .lg .middle } **Organiser une tournée de partenaires France services**
 
     ---
 
-    Construire un itinéraire de visites à partir d'un tableau de bénéficiaires.
+    Construire un itinéraire de visites à partir d'un vrai jeu de données de structures du territoire.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/tournee-aide-domicile.md)
 

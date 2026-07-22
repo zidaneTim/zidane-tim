@@ -79,5 +79,4 @@ plus grand nombre — c'est ce qu'on appelle l'**accessibilité numérique**.
 
 !!! note "Compétences visées"
     EG4 — attendu 1 (environnement numérique, accessibilité) et attendu 2 (création de contenus numériques
-    universels et responsables). CRCN 3.3 (adapter un document à son public et à sa finalité, dont l'accessibilité —
-    le domaine CRCN 5 s'arrête à 5.2, il n'existe pas de 5.3).
+    universels et responsables). CRCN 3.3 — adapter un document à son public et à sa finalité, dont l'accessibilité.

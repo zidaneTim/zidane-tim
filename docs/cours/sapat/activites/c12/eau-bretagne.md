@@ -45,7 +45,7 @@ Les **Agences Régionales de Santé** contrôlent l'eau distribuée : plus de 30
     **Jeu de données :** Résultats du contrôle sanitaire de l'eau distribuée commune par commune
     **Producteur :** Ministère chargé de la Santé / ARS — via data.gouv.fr
     **URL :** [data.gouv.fr — Résultats du contrôle sanitaire de l'eau](https://www.data.gouv.fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune)
-    **Format :** CSV (fichiers annuels, un fichier par année depuis 2016) · **Licence :** Licence Ouverte / Open Licence
+    **Format :** archives ZIP annuelles (~100 à 300 Mo) contenant les fichiers CSV (prélèvements PLV, résultats RESULT, lien communes UDI_COM) — dézipper avant l'import Excel · **Licence :** Licence Ouverte / Open Licence
     **Particularité à nettoyer :** le jeu est découpé en plusieurs fichiers (prélèvements, résultats d'analyses, lien communes ↔ unités de distribution) : il faut identifier le bon fichier avant de commencer. Les colonnes de résultat mélangent valeurs numériques et mentions textuelles (« < seuil de quantification ») : ces cellules doivent être traitées explicitement et non supprimées sans justification. Le fichier national comporte plusieurs centaines de milliers de lignes.
 
 ## Travail à faire

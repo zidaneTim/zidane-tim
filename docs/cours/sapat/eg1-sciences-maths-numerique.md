@@ -20,7 +20,7 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
     ---
 
-    Arborescence OneDrive, synchronisation, sécurité du poste de stage.
+    Arborescence OneDrive, synchronisation, sécurité du poste de travail professionnel.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/organisation-securite-poste.md)
 

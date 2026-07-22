@@ -1,4 +1,4 @@
-# 🗺️ Organiser une tournée d'aide à domicile
+# 🗺️ Organiser une tournée de partenaires France services
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
@@ -9,7 +9,7 @@
 
 <p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
 
-<p class="zt-lede">Construire un itinéraire de visites à partir d'un tableau de bénéficiaires — Service d'Aide et d'Accompagnement à Domicile de Loudéac</p>
+<p class="zt-lede">Construire un itinéraire de visites à partir d'un vrai jeu de données de structures partenaires — Service d'Aide et d'Accompagnement à Domicile de Loudéac</p>
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 70 min (60 min effectives)</span>
@@ -25,82 +25,86 @@
 
 ## Mise en situation
 
-Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. Ce matin, la responsable de
-secteur te confie une mission simple mais essentielle : préparer la tournée d'une aide à domicile qui doit visiter
-6 bénéficiaires dans la journée, dans un ordre qui limite les déplacements inutiles entre les communes du
-territoire.
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. De nombreux bénéficiaires du
+service — souvent des personnes âgées isolées — ont aussi besoin d'aide pour leurs démarches administratives
+(retraite, CAF, Assurance Maladie, impôts). Ta responsable de secteur veut nouer un partenariat de proximité avec
+les **points France services** du territoire, pour pouvoir orienter les bénéficiaires du SAAD vers le point le plus
+proche de chez eux.
 
-Elle te transmet le tableau ci-dessous avec le nom (fictif), la commune et l'adresse de chaque bénéficiaire, ainsi
-que l'horaire de passage souhaité.
-
-!!! abstract "Tableau des 6 bénéficiaires du jour (données fictives)"
-    | Bénéficiaire | Commune | Adresse | Créneau souhaité |
-    |---|---|---|---|
-    | Mme Le Roux | Loudéac | 12 rue de la Gare | 8h30 – 9h00 |
-    | M. Guillou | Loudéac | 4 rue des Écoles | 9h15 – 9h45 |
-    | Mme Hamon | Plémet | 8 rue de la Mairie | 10h30 – 11h00 |
-    | M. Le Gall | La Chèze | 3 place de l'Église | 11h15 – 11h45 |
-    | Mme Rault | Uzel | 15 rue Saint-Yves | 13h30 – 14h00 |
-    | M. Cadoret | Merdrignac | 6 rue du Stade | 14h15 – 14h45 |
-
-    Noms, horaires et numéros de rue **fictifs**, générés pour l'exercice ; communes et noms de rues réels de
-    Loudéac Communauté – Bretagne Centre (repérables sur une carte).
+Elle te confie une mission : identifier tous les points France services du territoire de Loudéac Communauté –
+Bretagne Centre, préparer une tournée de visite (dépôt d'une plaquette de présentation du SAAD auprès de chaque
+point), dans un ordre qui limite les déplacements inutiles entre communes.
 
 !!! question "Problématique"
-    « Comment organiser, à partir d'un tableau de bénéficiaires, un itinéraire de tournée clair et efficace pour
-    une aide à domicile ? »
+    « Comment organiser, à partir d'un vrai jeu de données de structures partenaires, un itinéraire de tournée clair
+    et efficace pour un agent du SAAD ? »
 
 ## Objectifs
 
-- Structurer un tableau de données professionnelles en vue d'un usage (4.2.6 — tables de données)
-- Géolocaliser des adresses et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
+- Récupérer et structurer un tableau de données professionnelles réelles en vue d'un usage (4.2.6 — tables de données)
+- Géolocaliser des adresses réelles et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
 - Produire un document de tournée clair et utilisable sur le terrain
-- Justifier la nécessité de confidentialité de ces informations et l'indiquer explicitement sur le document produit (secret professionnel)
+- Expliquer ce qui changerait si le document contenait, au lieu d'adresses professionnelles publiques, des données
+  personnelles de bénéficiaires (secret professionnel)
 
-!!! abstract "Support de travail"
-    **Document de travail :** tableau des 6 bénéficiaires du jour ci-dessus (noms fictifs, adresse, commune,
-    créneau horaire souhaité) — à recopier dans Excel en tout début de séance.
-    **Confidentialité :** ce tableau est un exercice pédagogique avec des noms et adresses fictifs, mais il
-    reproduit un document réel de service à domicile — rappeler qu'un tel document, en situation professionnelle
-    réelle, est **strictement confidentiel** et ne doit jamais être partagé hors du service.
+!!! abstract "Source de données"
+    **Jeu de données :** Liste des structures labellisées France services (adresses, contacts, horaires)
+    **Producteur :** Agence nationale de la cohésion des territoires (ANCT) — via data.gouv.fr
+    **URL :** [data.gouv.fr — Liste des structures labellisées France services](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }
+    **Format :** CSV (fichier national, plusieurs fichiers proposés) · **Licence :** Licence Ouverte / Open Licence 2.0
+    **Particularité à nettoyer :** la page propose plusieurs fichiers CSV — il faut d'abord identifier, à l'aide du
+    fichier de documentation PDF fourni sur la même page, celui qui contient **une ligne par structure avec adresse
+    postale complète** (et non le fichier listant seulement les communes couvertes). Le fichier couvre toute la
+    France : un sous-ensemble Côtes-d'Armor puis Loudéac Communauté – Bretagne Centre doit être construit avant tout
+    traitement.
 
 ## Travail à faire
 
-**Organiser le tableau, cartographier, produire la feuille de tournée**
+**Récupérer les données, organiser la tournée, cartographier**
 
-1. Recopier le tableau ci-dessus dans Excel (une ligne par bénéficiaire). Compléter chaque adresse avec le code postal de la commune (à rechercher : [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }).
-2. Trier le tableau par commune, puis par créneau horaire souhaité, pour avoir une première vue d'ensemble de la journée.
-3. Créer une carte dans **Google MyMaps** et importer les 6 adresses (import direct du tableau ou saisie manuelle si l'import échoue) : un repère par bénéficiaire, avec le nom et l'horaire souhaité dans la description du repère.
-4. Observer la carte et proposer un **ordre de passage** qui limite les allers-retours entre communes éloignées (sans outil de calcul d'itinéraire automatique : un choix raisonné à l'œil, justifié en une phrase).
-5. Construire la **feuille de tournée** finale dans Excel : une ligne par bénéficiaire, triée dans l'ordre de passage choisi, avec une colonne "Ordre" numérotée de 1 à 6.
-6. Ajouter en bas de la feuille une ligne de rappel : « Document confidentiel — usage professionnel uniquement ».
+1. Ouvrir la page du jeu de données (lien en Ressources et outils), repérer les fichiers CSV proposés dans la
+   rubrique *Fichiers* et, à l'aide du fichier de documentation PDF, identifier celui qui contient une ligne par
+   structure avec adresse postale complète.
+2. Télécharger ce fichier et l'importer dans Excel (Données → À partir d'un fichier texte/CSV ; séparateur virgule ;
+   origine du fichier : Unicode UTF-8 — la page data.gouv.fr détaille cette procédure d'import).
+3. Filtrer le tableau sur le département des Côtes-d'Armor (code postal ou code INSEE commençant par « 22 »).
+4. À l'aide de la liste officielle des communes de [Loudéac Communauté – Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } (lien en Ressources et outils), ne garder que les lignes correspondant aux communes du territoire ; copier-coller *en valeurs* le résultat dans un nouvel onglet nommé `Donnees-LCBC`.
+5. Dans `Donnees-LCBC`, conserver au minimum les colonnes utiles (nom de la structure, commune, adresse postale, téléphone, horaires d'ouverture) et supprimer les colonnes inutiles à l'étude.
+6. Trier le tableau par commune, puis par ordre alphabétique de structure, pour avoir une première vue d'ensemble de la tournée.
+7. Créer une carte dans **Google MyMaps** et importer les structures retenues (import direct du tableau ou saisie manuelle si l'import échoue) : un repère par structure, avec le nom et les horaires dans la description du repère.
+8. Observer la carte et proposer un **ordre de passage** qui limite les allers-retours entre communes éloignées (sans outil de calcul d'itinéraire automatique : un choix raisonné à l'œil, justifié en une phrase).
+9. Construire la **feuille de tournée** finale dans Excel : une ligne par structure, triée dans l'ordre de passage choisi, avec une colonne « Ordre » numérotée de 1 à N.
 
 !!! tip "Astuce"
-    Sur la carte, les bénéficiaires d'une même commune apparaissent groupés visuellement : commence par regrouper les communes proches avant de choisir un horaire précis pour chacun.
+    Sur la carte, les structures d'une même commune apparaissent groupées visuellement : commence par regrouper les
+    communes proches avant de choisir un ordre précis pour chacune.
 
-**Question de synthèse**
+**Questions de synthèse**
 
-- Pourquoi un tel document doit-il rester confidentiel, même s'il s'agit ici de noms fictifs ?
+- Combien de points France services se trouvent sur le territoire de Loudéac Communauté – Bretagne Centre ?
 - Quel est l'ordre de passage que tu proposes, et pourquoi (une phrase de justification) ?
+- Ces adresses sont publiques. Si ce même exercice portait sur une vraie tournée de bénéficiaires du SAAD (noms et
+  adresses personnelles), qu'est-ce que cela changerait dans la manière de traiter, stocker et partager le document ?
 
 !!! tip "Où répondre ?"
-    Dépose ta feuille de tournée Excel et le lien de ta carte MyMaps dans ton bloc-notes **OneNote**, section
-    *MP2 — Communication professionnelle*.
+    Dépose ta feuille de tournée Excel, le lien de ta carte MyMaps et tes réponses dans ton bloc-notes **OneNote**,
+    section *MP2 — Communication professionnelle*.
 
 ## Ressources et outils
 
-- [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte et les repères.
-- [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — pour retrouver le code postal de chaque commune.
+- **Liste des structures labellisées France services (data.gouv.fr)** : jeu de données réel à télécharger et filtrer — [voir Source de données ci-dessus](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }.
+- **Nos communes — Loudéac Communauté Bretagne Centre** : liste officielle des 38 communes membres du territoire, pour filtrer les données — [lien](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }.
+- **Google MyMaps** : pour créer la carte et les repères — [lien](https://www.google.com/mymaps){ target="_blank" rel="noopener" }.
 
 ## Grille d'évaluation (visée formative — obj. 4 non évalué en tant que tel, valorisable via MG1)
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Structuration du tableau (4.2.6) | Le tableau est complet, trié, exploitable ; l'ordre de passage est numéroté clairement. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-| Géolocalisation (4.3.9) | La carte MyMaps est créée, les 6 repères sont présents et correctement renseignés. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-| Conformité professionnelle | La confidentialité du document est identifiée et justifiée ; la feuille de tournée est présentable en usage réel. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Structuration du tableau (4.2.6) | Le sous-ensemble LCBC est correctement construit à partir du fichier national réel, trié, exploitable ; l'ordre de passage est numéroté clairement. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Géolocalisation (4.3.9) | La carte MyMaps est créée, chaque structure retenue est présente et correctement renseignée. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Conformité professionnelle | La question de synthèse sur la confidentialité des données personnelles de bénéficiaires est correctement traitée ; la feuille de tournée est présentable en usage réel. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 
 !!! note "Compétences visées"
-    MP2 obj. 4 — communiquer à l'ère du numérique : structuration de données professionnelles (4.2.6) et usage de
-    la géolocalisation (4.3.9). Grille formative, non évaluée en tant que telle (valorisation possible via MG1 /
-    dossier CCF).
+    MP2 obj. 4 — communiquer à l'ère du numérique : structuration de données professionnelles réelles (4.2.6) et
+    usage de la géolocalisation (4.3.9). Grille formative, non évaluée en tant que telle (valorisation possible via
+    MG1 / dossier CCF).
