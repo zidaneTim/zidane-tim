@@ -18,6 +18,10 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associé**
+
+- Bac Pro — Tronc commun MG1
+
 ## Mise en situation
 
 Dans un **EHPAD de Loudéac**, plusieurs familles de résidents s'interrogent sur la qualité de l'eau du robinet servie aux repas. La direction souhaite répondre avec des éléments factuels plutôt qu'avec des impressions, et préparer une note d'information affichée dans le hall.

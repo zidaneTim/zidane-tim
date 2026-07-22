@@ -17,6 +17,10 @@
   <span>:material-tag-outline: Excel</span>
 </div>
 
+**Parcours Pix associé**
+
+- Sciences - 2nde pro (Programme 2019, MAJ 2025)
+
 ## Mise en situation
 
 Le **CCAS de Loudéac** prépare son rapport annuel sur les besoins des personnes âgées du territoire (aide à

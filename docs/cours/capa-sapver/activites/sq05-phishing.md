@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
+**Parcours Pix associé**
+
+- Cybersécurité (MAJ 2025)
+
 ## La situation
 
 Samedi matin, tu reçois ce SMS sur ton téléphone :

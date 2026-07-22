@@ -24,7 +24,6 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
 ## Parcours Pix à faire
 
-!!! abstract "Parcours conseillés dans Pix Orga (MP2 — obj. 4)"
-    - **Utiliser un environnement numérique professionnel de manière responsable et autonome**
-    - **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel**
-    - **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle**
+- **Utiliser un environnement numérique professionnel de manière responsable et autonome**
+- **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel**
+- **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle**

@@ -32,9 +32,5 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
 ## Parcours Pix à faire
 
-!!! abstract "Parcours à vérifier dans Pix Orga"
-    - **Sciences - 2nde pro (Programme 2019, MAJ 2025)** — profil de compétences proche de l'activité *Population
-      et vieillissement* (CRCN 1.2 / 1.3 / 3.3). ⚠️ EG1 est un module partagé à 3 disciplines (Sciences, Maths,
-      Numérique) : à confirmer que ce parcours est bien rattaché à la part TIM et non à la part Sciences.
-    - **Cybersécurité (MAJ 2025)** — profil proche de l'activité *Organiser et sécuriser son poste* (CRCN 1.2 /
-      4.1). Parcours du catalogue générique lycée professionnel, à vérifier sa disponibilité pour du Bac Pro SAPAT.
+- **Sciences - 2nde pro (Programme 2019, MAJ 2025)**
+- **Cybersécurité (MAJ 2025)**

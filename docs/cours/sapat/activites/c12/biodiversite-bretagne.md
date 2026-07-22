@@ -18,6 +18,10 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associé**
+
+- Bac Pro — Tronc commun MG1
+
 ## Mise en situation
 
 Un **accueil de loisirs** de Loudéac prépare un cycle d'animations nature pour les enfants pendant les vacances. L'animatrice veut construire ses activités à partir des espèces réellement présentes autour de l'établissement, et non d'espèces génériques trouvées dans un livre.

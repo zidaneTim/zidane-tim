@@ -16,6 +16,10 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associé**
+
+- Bac Pro — Tronc commun MG1
+
 ## Mise en situation
 
 Tu es agent du service Habitat-Énergie de **Loudéac Communauté – Bretagne Centre (LCBC)**, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.

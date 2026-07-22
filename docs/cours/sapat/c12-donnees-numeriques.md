@@ -62,6 +62,4 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
 ## Parcours Pix à faire
 
-!!! abstract "Parcours conseillé dans Pix Orga"
-    **Bac Pro — Tronc commun MG1** — parcours disciplinaire du tronc commun, centré sur le traitement de données
-    (CRCN 1.3 dominant), directement lié aux 5 activités C1.2 ci-dessus.
+- **Bac Pro — Tronc commun MG1**

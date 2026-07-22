@@ -17,6 +17,12 @@
   <span>:material-tag-outline: 4.2.6 · 4.3.9 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associés**
+
+- Utiliser un environnement numérique professionnel de manière responsable et autonome
+- Rechercher et traiter des informations en fonction d'un besoin d'information professionnel
+- Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle
+
 ## Mise en situation
 
 Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. Ce matin, la responsable de

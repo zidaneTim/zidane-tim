@@ -16,6 +16,10 @@
   <span>:material-tag-outline: OneDrive</span>
 </div>
 
+**Parcours Pix associé**
+
+- Cybersécurité (MAJ 2025)
+
 ## Mise en situation
 
 Tu es **agent d'une structure d'accueil (EHPAD, SAAD, crèche...)**. Dès ton arrivée, ta responsable de service te

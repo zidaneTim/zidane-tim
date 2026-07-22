@@ -17,6 +17,10 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associé**
+
+- Bac Pro — Tronc commun MG1
+
 ## Mise en situation
 
 L'épicerie sociale et solidaire portée par le **CCAS de Loudéac** veut proposer davantage de produits frais et locaux à ses bénéficiaires. Avant de contacter des fournisseurs, la responsable a besoin d'y voir clair : **combien de professionnels engagés en agriculture biologique** existe-t-il sur le territoire de Loudéac Communauté – Bretagne Centre, que produisent-ils, et où sont-ils installés ?

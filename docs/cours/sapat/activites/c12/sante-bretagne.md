@@ -17,6 +17,10 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
+**Parcours Pix associé**
+
+- Bac Pro — Tronc commun MG1
+
 ## Mise en situation
 
 Le **CLIC (Centre Local d'Information et de Coordination gérontologique)** de Loudéac reçoit chaque semaine des familles qui cherchent une place en établissement pour un parent âgé. La coordinatrice veut construire un document d'information clair : combien d'établissements existent sur le territoire, de quels types (EHPAD, résidence autonomie, accueil de jour, services à domicile), et où sont-ils situés ?
