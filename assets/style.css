@@ -51,6 +51,14 @@
   --zt-tip-title:  #7a5010;
 }
 
+/* Violet Pix — couleur de marque fixe (ne dépend pas du thème clair/sombre),
+   réservée à l'encadré de compétences Pix pour le distinguer visuellement
+   du reste de la charte marine/or. */
+:root {
+  --zt-pix-color: #7239f6;
+  --zt-pix-bg:    rgba(114, 57, 246, 0.07);
+}
+
 /* Largeur de contenu contenue : évite les lignes de texte à rallonge
    et les cartes démesurément larges sur grand écran. */
 .md-grid {
@@ -162,6 +170,78 @@
   width: 0.8rem;
   height: 0.8rem;
   fill: currentcolor;
+}
+
+/* Encadré compétences Pix : mis en avant dans le coin supérieur droit de
+   l'en-tête d'activité (flotte à côté du kicker/chapô), pour que les
+   compétences CRCN/Pix visées n'aient plus besoin d'être répétées dans le
+   bandeau zt-meta ni entre parenthèses dans les Objectifs. */
+.md-typeset .zt-pix {
+  float: right;
+  clear: both;
+  margin: 0 0 0.8rem 1rem;
+  max-width: 10.5rem;
+  padding: 0.5rem 0.65rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--zt-pix-color);
+  background: var(--zt-pix-bg);
+}
+
+.md-typeset .zt-pix,
+.md-typeset .zt-pix > p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.md-typeset .zt-pix > p {
+  margin: 0;
+}
+
+.md-typeset .zt-pix-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  flex-basis: 100%;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--zt-pix-color);
+}
+
+.md-typeset .zt-pix-label .twemoji {
+  display: inline-flex;
+  color: var(--zt-pix-color);
+}
+
+.md-typeset .zt-pix-label .twemoji svg {
+  width: 0.78rem;
+  height: 0.78rem;
+  fill: currentcolor;
+}
+
+.md-typeset .zt-pix span:not(.zt-pix-label):not(.twemoji) {
+  display: inline-flex;
+  background: rgba(114, 57, 246, 0.16);
+  color: var(--zt-pix-color);
+  border-radius: 1rem;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.58rem;
+  font-weight: 600;
+  cursor: help;
+}
+
+/* Sous 50rem (mobile/tablette), on annule le flottement : l'encadré passe
+   en pleine largeur au-dessus du kicker plutôt que de se superposer au
+   texte sur les petits écrans. */
+@media screen and (max-width: 50rem) {
+  .md-typeset .zt-pix {
+    float: none;
+    max-width: none;
+    margin: 0 0 0.9rem 0;
+  }
 }
 
 .md-typeset h2 {
