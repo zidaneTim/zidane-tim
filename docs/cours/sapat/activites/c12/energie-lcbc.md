@@ -99,5 +99,5 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 | 2 — Traitement des données adapté au contexte et à la problématique étudiés | Le sous-ensemble est nettoyé (secret statistique géré) ; NB.SI, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | -- / - / + / ++ |
 
-!!! note "Compétences visées"
-    C1.2 — collecte et organisation des données, traitement analytique au tableur, représentation et communication.
+!!! note "Capacité visée"
+    C1.2 — Étudier un phénomène social ou professionnel à l'aide de données notamment en nombre : collecte, stockage et organisation des données en toute sécurité ; traitement analytique au tableur ; représentation et communication.

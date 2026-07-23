@@ -106,5 +106,5 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 | 2 — Traitement des données adapté au contexte et à la problématique étudiés | NBVAL, NB.SI et NB.SI.ENS renvoient des résultats exacts ; le tableau de synthèse par commune et la part d'invasives sont corrects ; la mise en forme conditionnelle est fonctionnelle ; le TCD croise commune et statut `invasive`, trié. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique en barres empilées est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, rappelle explicitement la limite de pression d'observation, et se conclut par une proposition exploitable par la chargée de mission. | -- / - / + / ++ |
 
-!!! note "Compétences visées"
-    C1.2 — collecte et organisation des données, traitement analytique au tableur, représentation et communication.
+!!! note "Capacité visée"
+    C1.2 — Étudier un phénomène social ou professionnel à l'aide de données notamment en nombre : collecte, stockage et organisation des données en toute sécurité ; traitement analytique au tableur ; représentation et communication.
