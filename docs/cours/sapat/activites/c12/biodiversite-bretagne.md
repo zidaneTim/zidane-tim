@@ -61,10 +61,10 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 
 1. Reformuler en 2-3 phrases la demande de la chargée de mission : qui a besoin de quoi, pour quoi faire ? Identifier le phénomène étudié (espèces non indigènes et invasives) et le territoire concerné.
 2. Ouvrir la page du jeu de données sur data.gouv.fr et relever : le producteur (OEB), la licence, la date de dernière mise à jour. Justifier en une phrase que ce fichier ne contient **aucune donnée personnelle** (des espèces et des communes, pas des individus).
-3. Télécharger le fichier CSV et l'importer dans Excel (Données → À partir d'un fichier texte/CSV, séparateur adapté, encodage UTF-8). Noter le nombre total de lignes et repérer les colonnes : `commune`, `insee_commune`, `nom_scientifique`, `nom_vernaculaire`, `group1_inpn`, `group2_inpn`, `invasive`.
-4. Construire le **sous-ensemble de travail** : filtrer sur les Côtes-d'Armor (`insee_commune` commençant par « 22 »), puis copier-coller *en valeurs* le résultat dans un nouvel onglet nommé `Donnees-22`.
+3. Télécharger le fichier CSV et l'importer dans Excel (Données → À partir d'un fichier texte/CSV, séparateur adapté, encodage UTF-8). Noter le nombre total de lignes et repérer les colonnes du fichier : `INSEE_COMMUNE`, `COMMUNE`, `NOM_SCIENTIFIQUE`, `NOM_VERNACULAIRE`, `TAXREF_CD_NOM`, `GROUP2_INPN`, `GROUP1_INPN`, `INVASIVE`, `SOURCE`, `MAJ`.
+4. Construire le **sous-ensemble de travail** : filtrer sur les Côtes-d'Armor (`INSEE_COMMUNE` commençant par « 22 »), puis copier-coller *en valeurs* le résultat dans un nouvel onglet nommé `Donnees-22`.
 5. À partir de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un onglet `Donnees-LCBC` ne conservant que les lignes des communes du territoire.
-6. Nettoyer l'onglet `Donnees-LCBC` : vérifier qu'il ne reste aucune ligne vide, que la colonne `invasive` ne contient que les 4 statuts attendus, et écrire en une phrase le **biais de pression d'observation** (pourquoi un nombre d'espèces plus élevé ne signifie pas forcément une commune « plus envahie »).
+6. Nettoyer l'onglet `Donnees-LCBC` : vérifier qu'il ne reste aucune ligne vide, que la colonne `INVASIVE` ne contient que les 4 statuts attendus, et écrire en une phrase le **biais de pression d'observation** (pourquoi un nombre d'espèces plus élevé ne signifie pas forcément une commune « plus envahie »).
 
 ### B — Traitement des données adapté au contexte et à la problématique étudiés
 
