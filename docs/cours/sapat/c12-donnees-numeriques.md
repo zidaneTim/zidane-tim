@@ -30,11 +30,11 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
 
--   :material-numeric-3-circle:{ .lg .middle } **La biodiversité**
+-   :material-numeric-3-circle:{ .lg .middle } **Les espèces non indigènes** · _entraînement ECCF_
 
     ---
 
-    Ce qui vit autour de l'établissement.
+    Les espèces venues d'ailleurs, commune par commune (support d'entraînement à l'épreuve).
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
 
