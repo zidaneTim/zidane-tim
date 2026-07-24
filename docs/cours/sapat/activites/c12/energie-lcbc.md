@@ -26,7 +26,7 @@ Tu es agent du service Habitat-Énergie de **Loudéac Communauté – Bretagne C
 
 Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage est en précarité énergétique lorsqu'il consacre plus de **8 % de son revenu** aux dépenses d'énergie du logement ; en France, cela concerne environ un ménage sur dix, avec une surexposition des zones rurales et des logements anciens.
 
-**Ton rôle :** à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par point de livraison est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.
+**Ton rôle :** à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par site est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.
 
 !!! question "Problématique"
     « Comment identifier, à partir des données ouvertes de consommation électrique, les communes de Loudéac Communauté – Bretagne Centre les plus exposées à un risque de précarité énergétique, afin d'y cibler une action de sensibilisation ? »
@@ -44,7 +44,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
     **Producteur :** Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
     **URL :** [data.gouv.fr — Consommation annuelle d'électricité et gaz par commune](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune)
     **Format :** CSV (fichier national volumineux, > 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · **Licence :** Licence Ouverte / Étalab
-    **Particularité à nettoyer :** pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.
+    **Particularité à nettoyer :** pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (« secret statistique », signalé par la colonne `Nombre de mailles secretisées`) : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne. Colonnes réelles utiles pour cette activité : `Nom Commune`, `Nom EPCI`, `CODE GRAND SECTEUR`, `Nb sites`, `Conso totale (MWh)`, `Conso moyenne (MWh)` (déjà calculée par le producteur — utile pour vérifier ton propre calcul).
 
 ## Travail à faire
 
@@ -62,14 +62,14 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 **Calculer et classer un indicateur de vulnérabilité**
 
-1. Ajouter une colonne « Consommation moyenne par point de livraison (MWh) » = Consommation totale ÷ Nombre de points de livraison.
+1. Ajouter une colonne « Consommation moyenne par site (MWh) » = `Conso totale (MWh)` ÷ `Nb sites`, puis vérifier ce calcul en le comparant à la colonne `Conso moyenne (MWh)` déjà fournie par le producteur (les deux doivent être quasi identiques ; un écart signale une erreur de formule).
 2. Trier le tableau par ordre décroissant de cet indicateur et calculer sa médiane avec `MEDIANE()`.
 3. Calculer avec `NB.SI()` le nombre de communes dépassant cette médiane, et avec `MOYENNE.SI.ENS()` la moyenne de l'indicateur en excluant les communes marquées « Donnée disponible = Non ».
 4. Ajouter une colonne « Niveau de vigilance » avec un `SI` imbriqué : « Fort » si l'indicateur > médiane × 1,2, « Moyen » si entre la médiane et ce seuil, « Faible » sinon.
 5. Appliquer une mise en forme conditionnelle (dégradé) sur la colonne de l'indicateur, puis construire un **tableau croisé dynamique** (Commune en ligne, moyenne de l'indicateur en valeurs, tri décroissant).
 
 !!! tip "Astuce"
-    Vérifie que le nombre de points de livraison n'est jamais à 0 avant de diviser, sinon Excel renvoie une erreur `#DIV/0!`.
+    Vérifie que `Nb sites` n'est jamais à 0 avant de diviser, sinon Excel renvoie une erreur `#DIV/0!`.
 
 ### C — Exposition des données adaptée au contexte et représentative de la problématique étudiée
 
