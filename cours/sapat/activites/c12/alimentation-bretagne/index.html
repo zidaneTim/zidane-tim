@@ -851,7 +851,7 @@
 </ul>
 <h2 id="mise-en-situation">Mise en situation<a class="headerlink" href="#mise-en-situation" title="Permanent link">&para;</a></h2>
 <p>L'épicerie sociale et solidaire portée par le <strong>CCAS de Loudéac</strong> veut proposer davantage de produits frais et locaux à ses bénéficiaires. Avant de contacter des fournisseurs, la responsable a besoin d'y voir clair : <strong>combien de professionnels engagés en agriculture biologique</strong> existe-t-il sur le territoire de Loudéac Communauté – Bretagne Centre, que produisent-ils, et où sont-ils installés ?</p>
-<p>Bonne nouvelle : l'<strong>Agence Bio</strong> (groupement d'intérêt public sous tutelle du ministère de l'Agriculture) publie en open data la liste officielle de tous les opérateurs engagés en bio en France, avec leur commune, leurs activités et leur date d'engagement.</p>
+<p>Bonne nouvelle : l'<strong>Agence Bio</strong> (groupement d'intérêt public sous tutelle du ministère de l'Agriculture) publie en open data la liste officielle de tous les opérateurs engagés en bio en France, avec le code postal de leur siège social, leurs activités et leur date d'engagement.</p>
 <p><strong>Ton rôle :</strong> tu es agent du CCAS de Loudéac. La responsable de l'épicerie sociale te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour préparer sa recherche de fournisseurs.</p>
 <div class="admonition question">
 <p class="admonition-title">Problématique</p>
@@ -871,26 +871,26 @@
 <strong>Producteur :</strong> Agence Bio — via data.gouv.fr (dernière mise à jour : juin 2026)
 <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/professionnels-engages-en-bio">data.gouv.fr — Professionnels engagés en bio</a>
 <strong>Format :</strong> CSV (~8 Mo, fichier national) · <strong>Licence :</strong> Licence Ouverte / Open Licence 2.0
-<strong>Particularité à nettoyer :</strong> fichier national de plusieurs dizaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement ; certaines cellules regroupent plusieurs activités séparées par des points-virgules ; des doublons de SIRET sont possibles.</p>
+<strong>Particularité à nettoyer :</strong> fichier national de plusieurs dizaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement ; certaines cellules regroupent plusieurs activités séparées par des points-virgules ; des doublons de SIRET sont possibles. <strong>Le fichier ne comporte pas de colonne commune</strong> : la seule donnée géographique est <code>CODE POSTAL SIEGE SOCIAL</code> — le filtrage sur le territoire LCBC se fait donc par code postal, pas par nom de commune.</p>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
 <p><strong>Comprendre la demande, récupérer et nettoyer les données</strong></p>
 <ol>
 <li>Reformuler en 2-3 phrases la demande de la responsable du CCAS : qui a besoin de quoi, pour quoi faire ? Identifier le phénomène étudié et le territoire concerné.</li>
-<li>Ouvrir la page du jeu de données sur data.gouv.fr, lire la description et relever : le producteur des données, la licence, la date de dernière mise à jour. Vérifier que le fichier ne contient <strong>aucune donnée à caractère personnel</strong> (uniquement des données d'entreprises : SIRET, dénomination, commune — pas de RGPD bloquant, à justifier par écrit en une phrase).</li>
-<li>Télécharger le fichier CSV et l'ouvrir dans Excel (import avec séparateur adapté). Constater le nombre total de lignes du fichier national.</li>
-<li>Construire le <strong>sous-ensemble de travail</strong> : filtrer sur le département des Côtes-d'Armor (codes postaux commençant par « 22 »), copier-coller <em>en valeurs</em> le résultat dans un nouvel onglet nommé <code>Donnees-22</code>.</li>
-<li>Nettoyer l'onglet <code>Donnees-22</code> : supprimer les colonnes inutiles à l'étude (conserver au minimum dénomination, commune, code postal, activités, date d'engagement), supprimer les doublons éventuels (Données → Supprimer les doublons, sur la colonne SIRET), vérifier le format de la colonne date.</li>
-<li>À l'aide de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un second onglet <code>Donnees-LCBC</code> ne contenant que les opérateurs du territoire.</li>
+<li>Ouvrir la page du jeu de données sur data.gouv.fr, lire la description et relever : le producteur des données, la licence, la date de dernière mise à jour. Vérifier que le fichier ne contient <strong>aucune donnée à caractère personnel</strong> (uniquement des données d'entreprises : SIRET, dénomination, code postal du siège social — pas de RGPD bloquant, à justifier par écrit en une phrase).</li>
+<li>Télécharger le fichier CSV et l'ouvrir dans Excel (import avec séparateur adapté). Constater le nombre total de lignes du fichier national et repérer les colonnes réelles : <code>SIRET</code>, <code>NUMERO BIO</code>, <code>DENOMINATION</code>, <code>CODE POSTAL SIEGE SOCIAL</code>, <code>DATEENGAGEMENT</code>, <code>ACTIVITES</code>, <code>ORGANISME CERTIFICATEUR</code>. ⚠️ Le fichier <strong>n'a pas de colonne commune</strong> : la seule information géographique est le code postal du siège social.</li>
+<li>Construire le <strong>sous-ensemble de travail</strong> : filtrer sur le département des Côtes-d'Armor (<code>CODE POSTAL SIEGE SOCIAL</code> commençant par « 22 »), copier-coller <em>en valeurs</em> le résultat dans un nouvel onglet nommé <code>Donnees-22</code>.</li>
+<li>Nettoyer l'onglet <code>Donnees-22</code> : supprimer les colonnes inutiles à l'étude (conserver au minimum <code>DENOMINATION</code>, <code>CODE POSTAL SIEGE SOCIAL</code>, <code>ACTIVITES</code>, <code>DATEENGAGEMENT</code>), supprimer les doublons éventuels (Données → Supprimer les doublons, sur la colonne <code>SIRET</code>), vérifier le format de la colonne date.</li>
+<li>À l'aide de la liste des 8 codes postaux du territoire de Loudéac Communauté – Bretagne Centre (22150, 22210, 22230, 22320, 22330, 22460, 22530, 22600 — voir Ressources et outils), filtrer <code>CODE POSTAL SIEGE SOCIAL</code> pour créer un onglet <code>Donnees-LCBC</code> ne contenant que les opérateurs du territoire. <strong>Limite à connaître</strong> : un code postal peut couvrir plusieurs communes ou légèrement déborder de l'intercommunalité — ce sous-ensemble approxime le territoire LCBC par zone postale, ce n'est pas un découpage commune par commune.</li>
 </ol>
 <h3 id="b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies">B — Traitement des données adapté au contexte et à la problématique étudiés<a class="headerlink" href="#b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies" title="Permanent link">&para;</a></h3>
 <p><strong>Compter, croiser, faire parler les données</strong></p>
 <ol>
-<li>Compter le nombre total d'opérateurs bio du territoire avec <code>=NBVAL()</code> et le nombre d'opérateurs de la commune de Loudéac avec <code>=NB.SI()</code>.</li>
-<li>Compter avec <code>=NB.SI.ENS()</code> les opérateurs répondant à deux critères à la fois (par exemple : commune donnée <em>et</em> activité contenant « Production »).</li>
+<li>Compter le nombre total d'opérateurs bio du territoire avec <code>=NBVAL()</code> et le nombre d'opérateurs du code postal 22600 (Loudéac et environs) avec <code>=NB.SI()</code>.</li>
+<li>Compter avec <code>=NB.SI.ENS()</code> les opérateurs répondant à deux critères à la fois (par exemple : code postal donné <em>et</em> activité contenant « Production »).</li>
 <li>Appliquer une <strong>mise en forme conditionnelle</strong> sur la colonne date d'engagement pour faire ressortir les opérateurs engagés depuis le plus longtemps (règle « valeurs les plus anciennes »).</li>
-<li>Construire un <strong>tableau croisé dynamique</strong> à partir de l'onglet <code>Donnees-LCBC</code> : nombre d'opérateurs par commune (lignes = commune, valeurs = nombre). Trier du plus grand au plus petit.</li>
+<li>Construire un <strong>tableau croisé dynamique</strong> à partir de l'onglet <code>Donnees-LCBC</code> : nombre d'opérateurs par code postal (lignes = code postal, valeurs = nombre). Trier du plus grand au plus petit.</li>
 <li>Ajouter au TCD un second niveau d'analyse : répartition par type d'activité (production, transformation, distribution) en filtre de rapport ou en colonnes.</li>
 </ol>
 <div class="admonition tip">
@@ -900,9 +900,9 @@
 <h3 id="c-exposition-des-donnees-adaptee-au-contexte-et-representative-de-la-problematique-etudiee">C — Exposition des données adaptée au contexte et représentative de la problématique étudiée<a class="headerlink" href="#c-exposition-des-donnees-adaptee-au-contexte-et-representative-de-la-problematique-etudiee" title="Permanent link">&para;</a></h3>
 <p><strong>Représenter et transmettre à la responsable du CCAS</strong></p>
 <ol>
-<li>Créer à partir du TCD un <strong>graphique en barres</strong> « Nombre d'opérateurs bio par commune » complet : titre, axes légendés, source citée (Agence Bio via data.gouv.fr, année). Justifier en une phrase pourquoi le graphique en barres est adapté ici plutôt qu'un graphique circulaire.</li>
-<li>Préparer la <strong>carte</strong> : créer à partir de l'onglet <code>Donnees-LCBC</code> un petit fichier CSV (dénomination, commune, code postal), le convertir en KML via le convertisseur, puis l'importer dans <strong>Google MyMaps</strong>. Personnaliser les repères et titrer la carte.</li>
-<li>Rédiger la <strong>synthèse pour la responsable de l'épicerie sociale</strong> (8-10 lignes) : nombre d'opérateurs sur le territoire, communes les mieux pourvues, types d'activités dominants, et une recommandation concrète pour démarrer la recherche de fournisseurs. Insérer le graphique et le lien de la carte.</li>
+<li>Créer à partir du TCD un <strong>graphique en barres</strong> « Nombre d'opérateurs bio par code postal » complet : titre, axes légendés, source citée (Agence Bio via data.gouv.fr, année). Justifier en une phrase pourquoi le graphique en barres est adapté ici plutôt qu'un graphique circulaire.</li>
+<li>Préparer la <strong>carte</strong> : créer à partir de l'onglet <code>Donnees-LCBC</code> un petit fichier CSV (dénomination, code postal), le convertir en KML via le convertisseur, puis l'importer dans <strong>Google MyMaps</strong> — un repère par code postal (Google MyMaps géolocalise à partir du code postal seul ; le repère correspond alors au centre de la zone postale, pas à l'adresse exacte de l'opérateur). Personnaliser les repères et titrer la carte.</li>
+<li>Rédiger la <strong>synthèse pour la responsable de l'épicerie sociale</strong> (8-10 lignes) : nombre d'opérateurs sur le territoire, secteurs (codes postaux) les mieux pourvus, types d'activités dominants, et une recommandation concrète pour démarrer la recherche de fournisseurs. Insérer le graphique et le lien de la carte.</li>
 </ol>
 <div class="admonition tip">
 <p class="admonition-title">Où répondre ?</p>
@@ -911,7 +911,8 @@
 <h2 id="ressources-et-outils">Ressources et outils<a class="headerlink" href="#ressources-et-outils" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://www.data.gouv.fr/datasets/professionnels-engages-en-bio" rel="noopener" target="_blank">Jeu de données — Professionnels engagés en BIO</a> — page officielle data.gouv.fr : description, licence, bouton de téléchargement du CSV national (Agence Bio).</li>
-<li><a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">Nos communes — Loudéac Communauté Bretagne Centre</a> — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.</li>
+<li><strong>Codes postaux du territoire LCBC</strong> (8 codes, pour le filtrage <code>Donnees-LCBC</code>) : 22150, 22210, 22230, 22320, 22330, 22460, 22530, 22600 — établis à partir des 38 communes membres officielles (source : <a href="https://geo.api.gouv.fr/epcis/200067460/communes" rel="noopener" target="_blank">API Découpage administratif — geo.api.gouv.fr, EPCI Loudéac Communauté – Bretagne Centre</a>, base INSEE/Banatic, code EPCI 200067460 — retourne un JSON des 38 communes avec code INSEE et code postal, lien vérifié 23/07).</li>
+<li><a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">Nos communes — Loudéac Communauté Bretagne Centre</a> — page officielle de l'intercommunalité, pour situer le territoire (⚠️ sa liste brute affiche 41 noms car elle mélange des communes déléguées avec les communes membres actuelles ; pour un compte exact, préférer la source INSEE ci-dessus).</li>
 <li><a href="https://scuttemery.fr/converter" rel="noopener" target="_blank">Convertisseur CSV → KML</a> — pour transformer le fichier de points avant l'import dans MyMaps.</li>
 <li><a href="https://www.google.com/mymaps" rel="noopener" target="_blank">Google MyMaps</a> — pour créer la carte finale.</li>
 </ul>
@@ -927,12 +928,12 @@
 <tbody>
 <tr>
 <td>1 — Analyse du contexte et de la problématique</td>
-<td>La demande du CCAS est reformulée correctement ; la source est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est construit et nettoyé (colonnes, doublons, formats).</td>
+<td>La demande du CCAS est reformulée correctement ; la source est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC (par code postal) est construit et nettoyé (colonnes, doublons, formats) ; la limite du filtrage par code postal (approximation du territoire) est mentionnée.</td>
 <td>-- / - / + / ++</td>
 </tr>
 <tr>
 <td>2 — Traitement des données adapté au contexte et à la problématique étudiés</td>
-<td>Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle est fonctionnelle ; le TCD par commune est correct, trié, et croisé avec le type d'activité ; les traitements répondent à la problématique (offre locale).</td>
+<td>Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle est fonctionnelle ; le TCD par code postal est correct, trié, et croisé avec le type d'activité ; les traitements répondent à la problématique (offre locale).</td>
 <td>-- / - / + / ++</td>
 </tr>
 <tr>
