@@ -837,7 +837,7 @@
 </div>
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème énergie</p>
 
-<p class="zt-lede">Consommation électrique par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
+<p class="zt-lede">Consommation électrique résidentielle par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
 
 <div class="zt-meta">
 <p><span><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg></span> 3 séances (45 min)</span>
@@ -859,8 +859,9 @@
 <h2 id="objectifs">Objectifs<a class="headerlink" href="#objectifs" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Reformuler avec ses propres mots le lien entre logement ancien/mal isolé, consommation d'électricité et précarité énergétique</li>
-<li>Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées</li>
-<li>Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, MOYENNE.SI.ENS)</li>
+<li>Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées et en isolant la bonne filière d'énergie</li>
+<li>Regrouper des données réparties sur plusieurs lignes par commune avant de calculer un indicateur</li>
+<li>Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS)</li>
 <li>Réaliser une carte des relais de proximité sur le territoire de LCBC</li>
 <li>Produire un support de communication professionnel adapté à un public non expert (travailleurs sociaux, aides à domicile)</li>
 </ul>
@@ -870,22 +871,35 @@
 <strong>Producteur :</strong> Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
 <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune">data.gouv.fr — Consommation annuelle d'électricité et gaz par commune</a>
 <strong>Format :</strong> CSV (fichier national volumineux, &gt; 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · <strong>Licence :</strong> Licence Ouverte / Étalab
-<strong>Particularité à nettoyer :</strong> pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (« secret statistique », signalé par la colonne <code>Nombre de mailles secretisées</code>) : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne. Colonnes réelles utiles pour cette activité : <code>Nom Commune</code>, <code>Nom EPCI</code>, <code>CODE GRAND SECTEUR</code>, <code>Nb sites</code>, <code>Conso totale (MWh)</code>, <code>Conso moyenne (MWh)</code> (déjà calculée par le producteur — utile pour vérifier ton propre calcul).</p>
+<strong>Colonnes réelles utiles</strong> (en-têtes vérifiés sur export réel) : <code>OPERATEUR</code>, <code>FILIERE</code>, <code>Code Commune</code>, <code>Nom Commune</code>, <code>Code EPCI</code>, <code>Nom EPCI</code>, <code>CODE GRAND SECTEUR</code>, <code>Nb sites</code>, <code>Conso totale (MWh)</code>, <code>Conso moyenne (MWh)</code> (déjà calculée par le producteur), <code>Nombre de mailles secretisées</code>.
+<strong>Particularités à gérer :</strong></p>
+<ol>
+<li><strong>Le fichier mélange gaz et électricité</strong> dans les mêmes lignes (colonne <code>FILIERE</code>) — une commune peut avoir des lignes « Gaz » ET des lignes électricité. Il faut isoler la filière électricité avant tout calcul, sous peine de mélanger deux énergies non comparables.</li>
+<li><strong>Une commune peut apparaître sur plusieurs lignes</strong> : le fichier distingue les opérateurs (<code>OPERATEUR</code> — Enedis, mais aussi des fournisseurs de gaz hors réseau comme Antargaz-Finagaz) et les secteurs. Après filtrage, il faut vérifier s'il reste plusieurs lignes pour une même commune et, si oui, les regrouper avant de calculer un indicateur par commune.</li>
+<li><strong>Secret statistique</strong> : pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (signalé par <code>Nombre de mailles secretisées</code> &gt; 0) : la cellule <code>Conso totale</code>/<code>Conso moyenne</code> peut apparaître vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.</li>
+<li><strong>Encodage</strong> : l'export du portail peut afficher les caractères accentués de façon incorrecte (<code>Ã©</code>, <code>Ã´</code>...) selon l'encodage choisi à l'import. Si c'est le cas, reprends l'import (Données → À partir d'un fichier texte/CSV) en testant un autre encodage (UTF-8, puis 1252 Europe de l'Ouest si besoin) jusqu'à obtenir un affichage correct.</li>
+</ol>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
 <p><strong>Récupérer, comprendre et nettoyer les données</strong></p>
 <ol>
-<li>Sur le portail du diffuseur (lien en Ressources et outils), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel.</li>
+<li>Sur le portail du diffuseur (lien en Ressources et outils), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel (vérifier l'encodage des caractères accentués, voir Source de données).</li>
 <li>Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).</li>
-<li>Filtrer ensuite sur les communes de <strong>Loudéac Communauté – Bretagne Centre</strong> (liste officielle en Ressources et outils) et sur le secteur « Résidentiel ».</li>
+<li>Filtrer le tableau sur trois critères combinés :<ul>
+<li><code>Code EPCI</code> = <strong>200067460</strong> (code officiel INSEE de Loudéac Communauté – Bretagne Centre — voir Ressources et outils) ;</li>
+<li><code>CODE GRAND SECTEUR</code> = <strong>RESIDENTIEL</strong> (valeur exacte, en majuscules) ;</li>
+<li><code>FILIERE</code> = la valeur correspondant à l'<strong>électricité</strong> — utilise le filtre automatique de la colonne pour lister les valeurs réellement présentes dans le fichier et distinguer l'électricité du gaz (« Gaz » est également présent : à exclure).</li>
+</ul>
+</li>
 <li>Ajouter une colonne « Donnée disponible » (Oui/Non) pour repérer les cellules masquées (« NC », vide) sans les remplacer par 0.</li>
-<li>Copier-coller (valeurs) le résultat filtré dans une nouvelle feuille nommée <em>Sous-ensemble de travail</em> : c'est elle qui sert de base à toute la suite.</li>
+<li>Vérifier avec <code>NB.SI()</code> si une même commune apparaît sur plusieurs lignes (plusieurs opérateurs). Si oui, créer un tableau récapitulatif <strong>une ligne par commune</strong> en sommant <code>Conso totale (MWh)</code> et <code>Nb sites</code> de chaque commune avec <code>SOMME.SI.ENS()</code>. Si chaque commune n'a qu'une seule ligne après filtrage, passer directement à l'étape suivante.</li>
+<li>Copier-coller (valeurs) le résultat dans une nouvelle feuille nommée <em>Sous-ensemble de travail</em> : c'est elle qui sert de base à toute la suite.</li>
 </ol>
 <h3 id="b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies">B — Traitement des données adapté au contexte et à la problématique étudiés<a class="headerlink" href="#b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies" title="Permanent link">&para;</a></h3>
 <p><strong>Calculer et classer un indicateur de vulnérabilité</strong></p>
 <ol>
-<li>Ajouter une colonne « Consommation moyenne par site (MWh) » = <code>Conso totale (MWh)</code> ÷ <code>Nb sites</code>, puis vérifier ce calcul en le comparant à la colonne <code>Conso moyenne (MWh)</code> déjà fournie par le producteur (les deux doivent être quasi identiques ; un écart signale une erreur de formule).</li>
+<li>Ajouter une colonne « Consommation moyenne par site (MWh) » = <code>Conso totale (MWh)</code> ÷ <code>Nb sites</code> (valeurs regroupées par commune de l'étape A5). Vérifier ce calcul en le comparant, quand c'est possible, à la colonne <code>Conso moyenne (MWh)</code> déjà fournie par le producteur.</li>
 <li>Trier le tableau par ordre décroissant de cet indicateur et calculer sa médiane avec <code>MEDIANE()</code>.</li>
 <li>Calculer avec <code>NB.SI()</code> le nombre de communes dépassant cette médiane, et avec <code>MOYENNE.SI.ENS()</code> la moyenne de l'indicateur en excluant les communes marquées « Donnée disponible = Non ».</li>
 <li>Ajouter une colonne « Niveau de vigilance » avec un <code>SI</code> imbriqué : « Fort » si l'indicateur &gt; médiane × 1,2, « Moyen » si entre la médiane et ce seuil, « Faible » sinon.</li>
@@ -910,10 +924,11 @@
 <h2 id="ressources-et-outils">Ressources et outils<a class="headerlink" href="#ressources-et-outils" title="Permanent link">&para;</a></h2>
 <ul>
 <li><a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune" rel="noopener" target="_blank">Consommation annuelle d'électricité et gaz par commune — data.gouv.fr</a> — fiche officielle : description, licence, lien vers le portail Agence ORE pour filtrer et exporter par département/commune avant téléchargement.</li>
+<li><strong>Code EPCI de Loudéac Communauté – Bretagne Centre : 200067460</strong> — source : <a href="https://geo.api.gouv.fr/epcis/200067460/communes" rel="noopener" target="_blank">API Découpage administratif — geo.api.gouv.fr</a>, base INSEE/Banatic (lien vérifié 23/07). Filtrer directement sur ce code est plus fiable qu'une liste de noms de communes (pas de risque d'erreur d'accent ou d'orthographe).</li>
 <li><strong>ONPE — précarité énergétique</strong> : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)</li>
 <li><a href="https://scuttemery.fr/converter" rel="noopener" target="_blank">Convertisseur CSV → KML</a> — pour préparer l'import dans MyMaps.</li>
 <li><a href="https://www.google.com/mymaps" rel="noopener" target="_blank">Google MyMaps</a> — pour créer la carte des relais de proximité.</li>
-<li><a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">Nos communes — Loudéac Communauté Bretagne Centre</a> — page officielle de l'intercommunalité : liste des 38 communes membres du territoire et contacts du service Habitat.</li>
+<li><a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">Nos communes — Loudéac Communauté Bretagne Centre</a> — page officielle de l'intercommunalité, pour situer le territoire et contacter le service Habitat (⚠️ sa liste brute affiche 41 noms, elle mélange des communes déléguées avec les 38 communes membres actuelles — pour le filtrage de données, utiliser le code EPCI ci-dessus).</li>
 </ul>
 <h2 id="grille-devaluation-c12-epreuve-e1-coeff-05">Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)<a class="headerlink" href="#grille-devaluation-c12-epreuve-e1-coeff-05" title="Permanent link">&para;</a></h2>
 <table>
@@ -927,12 +942,12 @@
 <tbody>
 <tr>
 <td>1 — Analyse du contexte et de la problématique</td>
-<td>Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC.</td>
+<td>Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié.</td>
 <td>-- / - / + / ++</td>
 </tr>
 <tr>
 <td>2 — Traitement des données adapté au contexte et à la problématique étudiés</td>
-<td>Le sous-ensemble est nettoyé (secret statistique géré) ; NB.SI, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents.</td>
+<td>Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents.</td>
 <td>-- / - / + / ++</td>
 </tr>
 <tr>
