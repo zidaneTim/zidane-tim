@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
+**Parcours Pix associé**
+
+- Cybersécurité (MAJ 2025)
+
 ## La situation
 
 Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps, parce que le mot de passe était partout le même. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait.

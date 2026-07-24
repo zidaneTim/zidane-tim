@@ -17,6 +17,10 @@
   <span>:material-tag-outline: Citoyenneté numérique</span>
 </div>
 
+**Parcours Pix associé**
+
+- Protection et sécurité (cyberharcèlement, MAJ 2025)
+
 ## La situation
 
 Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout.

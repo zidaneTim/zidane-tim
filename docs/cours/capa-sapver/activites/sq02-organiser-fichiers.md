@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Gestion des fichiers</span>
 </div>
 
+**Parcours Pix associé** *(à vérifier)*
+
+- Gérer ses fichiers numériques
+
 ## La situation
 
 En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**.
