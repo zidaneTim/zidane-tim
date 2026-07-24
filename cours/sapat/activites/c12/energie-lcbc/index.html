@@ -851,7 +851,7 @@
 <h2 id="mise-en-situation">Mise en situation<a class="headerlink" href="#mise-en-situation" title="Permanent link">&para;</a></h2>
 <p>Tu es agent du service Habitat-Énergie de <strong>Loudéac Communauté – Bretagne Centre (LCBC)</strong>, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.</p>
 <p>Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage est en précarité énergétique lorsqu'il consacre plus de <strong>8 % de son revenu</strong> aux dépenses d'énergie du logement ; en France, cela concerne environ un ménage sur dix, avec une surexposition des zones rurales et des logements anciens.</p>
-<p><strong>Ton rôle :</strong> à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par point de livraison est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.</p>
+<p><strong>Ton rôle :</strong> à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par site est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.</p>
 <div class="admonition question">
 <p class="admonition-title">Problématique</p>
 <p>« Comment identifier, à partir des données ouvertes de consommation électrique, les communes de Loudéac Communauté – Bretagne Centre les plus exposées à un risque de précarité énergétique, afin d'y cibler une action de sensibilisation ? »</p>
@@ -870,7 +870,7 @@
 <strong>Producteur :</strong> Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
 <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune">data.gouv.fr — Consommation annuelle d'électricité et gaz par commune</a>
 <strong>Format :</strong> CSV (fichier national volumineux, &gt; 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · <strong>Licence :</strong> Licence Ouverte / Étalab
-<strong>Particularité à nettoyer :</strong> pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de points de livraison (« secret statistique ») : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.</p>
+<strong>Particularité à nettoyer :</strong> pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (« secret statistique », signalé par la colonne <code>Nombre de mailles secretisées</code>) : la cellule apparaît vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne. Colonnes réelles utiles pour cette activité : <code>Nom Commune</code>, <code>Nom EPCI</code>, <code>CODE GRAND SECTEUR</code>, <code>Nb sites</code>, <code>Conso totale (MWh)</code>, <code>Conso moyenne (MWh)</code> (déjà calculée par le producteur — utile pour vérifier ton propre calcul).</p>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
@@ -885,7 +885,7 @@
 <h3 id="b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies">B — Traitement des données adapté au contexte et à la problématique étudiés<a class="headerlink" href="#b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudies" title="Permanent link">&para;</a></h3>
 <p><strong>Calculer et classer un indicateur de vulnérabilité</strong></p>
 <ol>
-<li>Ajouter une colonne « Consommation moyenne par point de livraison (MWh) » = Consommation totale ÷ Nombre de points de livraison.</li>
+<li>Ajouter une colonne « Consommation moyenne par site (MWh) » = <code>Conso totale (MWh)</code> ÷ <code>Nb sites</code>, puis vérifier ce calcul en le comparant à la colonne <code>Conso moyenne (MWh)</code> déjà fournie par le producteur (les deux doivent être quasi identiques ; un écart signale une erreur de formule).</li>
 <li>Trier le tableau par ordre décroissant de cet indicateur et calculer sa médiane avec <code>MEDIANE()</code>.</li>
 <li>Calculer avec <code>NB.SI()</code> le nombre de communes dépassant cette médiane, et avec <code>MOYENNE.SI.ENS()</code> la moyenne de l'indicateur en excluant les communes marquées « Donnée disponible = Non ».</li>
 <li>Ajouter une colonne « Niveau de vigilance » avec un <code>SI</code> imbriqué : « Fort » si l'indicateur &gt; médiane × 1,2, « Moyen » si entre la médiane et ce seuil, « Faible » sinon.</li>
@@ -893,7 +893,7 @@
 </ol>
 <div class="admonition tip">
 <p class="admonition-title">Astuce</p>
-<p>Vérifie que le nombre de points de livraison n'est jamais à 0 avant de diviser, sinon Excel renvoie une erreur <code>#DIV/0!</code>.</p>
+<p>Vérifie que <code>Nb sites</code> n'est jamais à 0 avant de diviser, sinon Excel renvoie une erreur <code>#DIV/0!</code>.</p>
 </div>
 <h3 id="c-exposition-des-donnees-adaptee-au-contexte-et-representative-de-la-problematique-etudiee">C — Exposition des données adaptée au contexte et représentative de la problématique étudiée<a class="headerlink" href="#c-exposition-des-donnees-adaptee-au-contexte-et-representative-de-la-problematique-etudiee" title="Permanent link">&para;</a></h3>
 <p><strong>Cartographier, représenter et communiquer</strong></p>
