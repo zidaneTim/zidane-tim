@@ -14,13 +14,13 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
 <div class="grid cards" markdown>
 
--   :material-numeric-1-circle:{ .lg .middle } **L'eau du robinet**
+-   :material-numeric-1-circle:{ .lg .middle } **Maternités en baisse ?**
 
     ---
 
-    D'où vient l'eau de Bretagne Centre, et que vaut-elle ?
+    Île-de-France, 2013-2023 : les capacités d'accueil en maternité évoluent-elles ?
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/eau-bretagne.md)
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/maternites-ile-de-france.md)
 
 -   :material-numeric-2-circle:{ .lg .middle } **Manger local**
 
