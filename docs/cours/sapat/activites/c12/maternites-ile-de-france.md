@@ -2,9 +2,6 @@
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
 </div>
 
@@ -13,7 +10,7 @@
 <p class="zt-lede">Évolution des capacités d'accueil des maternités en Île-de-France entre 2013 et 2023</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (45 min)</span>
+  <span>:material-clock-outline: 3 séances (55 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>

@@ -2,8 +2,7 @@
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
+  <span title="Adapter un document à sa finalité">CRCN 3.3</span>
 </div>
 
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème énergie</p>
@@ -11,7 +10,7 @@
 <p class="zt-lede">Consommation électrique résidentielle par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (45 min)</span>
+  <span>:material-clock-outline: 3 séances (55 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>

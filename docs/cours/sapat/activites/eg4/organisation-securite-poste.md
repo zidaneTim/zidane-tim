@@ -123,7 +123,7 @@ retrouvable et protégé.
 
 !!! tip "Où répondre ?"
     Dépose une capture d'écran de ton arborescence finale et tes réponses dans ton bloc-notes **OneNote**, section
-    *EG1 — Numérique et poste de travail*.
+    *EG4 — Numérique et poste de travail*.
 
 ## Ressources et outils
 
@@ -145,6 +145,6 @@ citée dans la mise en situation.
 | Partage et confidentialité | Partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    EG1 — environnement numérique : organiser un espace de stockage cloud (CRCN 1.2 — gérer des données) et
+    EG4 — environnement numérique : organiser un espace de stockage cloud (CRCN 1.2 — gérer des données) et
     appliquer des règles de sécurité de base sur un poste professionnel partagé (CRCN 4.1 — sécuriser
     l'environnement numérique).

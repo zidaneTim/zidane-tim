@@ -1,18 +1,11 @@
 # 🥕 Manger local en Bretagne Centre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème alimentation</p>
 
 <p class="zt-lede">Où sont les producteurs bio du territoire ? — Données réelles de l'Agence Bio, Loudéac Communauté – Bretagne Centre</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (45 min)</span>
+  <span>:material-clock-outline: 3 séances (55 min)</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
@@ -66,9 +59,10 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 
 1. Compter le nombre total d'opérateurs bio du territoire avec `=NBVAL()` et le nombre d'opérateurs du code postal 22600 (Loudéac et environs) avec `=NB.SI()`.
 2. Compter avec `=NB.SI.ENS()` les opérateurs répondant à deux critères à la fois (par exemple : code postal donné *et* activité contenant « Production »).
-3. Appliquer une **mise en forme conditionnelle** sur la colonne date d'engagement pour faire ressortir les opérateurs engagés depuis le plus longtemps (règle « valeurs les plus anciennes »).
-4. Construire un **tableau croisé dynamique** à partir de l'onglet `Donnees-LCBC` : nombre d'opérateurs par code postal (lignes = code postal, valeurs = nombre). Trier du plus grand au plus petit.
-5. Ajouter au TCD un second niveau d'analyse : répartition par type d'activité (production, transformation, distribution) en filtre de rapport ou en colonnes.
+3. Ajouter une colonne « Ancienneté (années) » = `=ANNEE(AUJOURDHUI())-ANNEE(DATEENGAGEMENT)`, puis calculer avec `=SOMME.SI.ENS()` la somme des anciennetés des opérateurs vérifiant **deux critères combinés** (activité contenant « Production » *et* date d'engagement antérieure au 01/01/2020) pour un code postal donné — un cran plus avancé que le simple comptage de l'étape 2, puisqu'il combine une somme à deux conditions.
+4. Appliquer une **mise en forme conditionnelle à trois seuils** (rouge / orange / vert) sur la colonne « Ancienneté (années) » : rouge si < 5 ans, orange si entre 5 et 10 ans, vert si ≥ 10 ans.
+5. Construire un **tableau croisé dynamique** à partir de l'onglet `Donnees-LCBC` : nombre d'opérateurs par code postal (lignes = code postal, valeurs = nombre). Trier du plus grand au plus petit.
+6. Ajouter au TCD un second niveau d'analyse : répartition par type d'activité (production, transformation, distribution) en filtre de rapport ou en colonnes.
 
 !!! tip "Astuce"
     Si une cellule d'activités contient plusieurs valeurs séparées par des points-virgules, utilise un critère avec joker dans tes formules : `"*Production*"` compte toutes les cellules qui contiennent le mot, où qu'il soit placé.

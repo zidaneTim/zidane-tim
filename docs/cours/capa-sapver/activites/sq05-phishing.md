@@ -60,10 +60,23 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 3. **Je signale** : SMS → je le transfère au **33700** (numéro gratuit de signalement) · courriel → signal-spam.fr · en cas de doute → cybermalveillance.gouv.fr.
 4. **Je supprime** le message. Et si j'ai un doute, **j'en parle à un adulte**.
 
+### Naviguer en sécurité : cadenas, HTTPS et cookies
+
+Avant de faire confiance à un site, quelques réflexes rapides :
+
+| Réflexe | Ce qu'il faut savoir |
+|---|---|
+| **Le cadenas et `https://`** | La connexion est chiffrée (protégée pendant le trajet), mais un site pirate peut aussi avoir un cadenas : ce n'est pas une garantie d'honnêteté, juste de sécurité de la connexion. |
+| **Les cookies** | De petits fichiers qu'un site dépose sur ton appareil pour se souvenir de toi (connexion, panier, préférences). Un bandeau te demande de les accepter ou de les refuser : tu peux refuser ceux qui ne sont pas nécessaires. |
+| **Juger si un site est fiable** | Je regarde si l'adresse ressemble vraiment au nom de l'entreprise, je cherche des mentions légales (nom, contact), et je me méfie si rien de tout ça n'est présent. |
+
 ## ✏️ Je m'entraîne
 
 !!! example "Consigne 1 — en classe entière (10 min)"
     Reprendre le SMS « Chronopost » ci-dessus. Retrouver ensemble les indices de piège qu'il contient.
+
+!!! tip "🆘 Seul ?"
+    Relis seul le SMS « Chronopost » et note les indices de piège qu'il contient. Compare avec la classe dès que possible.
 
 !!! example "Consigne 2 — en binôme (10 min)"
     Lire le message ci-dessous et repérer les indices de piège qu'il contient.
@@ -71,14 +84,20 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
     **De :** service-clients@caf-remboursement.net · **Objet :** URGENT — Remboursement en attente
     « Chère allocatère, vous avez droit à un remboursement de 128,40 €. Cliquez ici avant ce soir et saisissez vos coordonées bancaire pour recevoir votre virement. »
 
+!!! tip "🆘 Seul ?"
+    Lis seul ce message et note les indices de piège qu'il contient. Compare avec un camarade dès que possible.
+
 !!! tip "Coup de pouce"
     Compare l'adresse de l'expéditeur avec le vrai site de la CAF : **caf.fr**. Compte les fautes d'orthographe. Regarde ce qu'on te demande de donner.
 
 !!! example "Consigne 3 — seul (10 min)"
     Compléter avec tes mots : à quoi sert le phishing, deux indices qui doivent t'alerter, et le numéro auquel transférer un SMS piège.
 
+!!! example "Consigne 4 — seul (5 min)"
+    Observe la barre d'adresse de deux sites que tu utilises (ton ENT, un site marchand connu). Pour chacun, note si le cadenas et le `https://` sont présents, et si un bandeau de cookies apparaît à l'arrivée sur le site.
+
 !!! tip "Où répondre ?"
-    Note tes réponses des consignes 1 à 3 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
+    Note tes réponses des consignes 1 à 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## 🕵️ Atelier : la chasse au phishing
 
@@ -108,6 +127,9 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 !!! example "Consigne 2 — en binôme (15 min)"
     Comparer vos réponses. Pour chaque message, noter : verdict (piège/fiable) + au moins 1 indice qui vous a alertés (numéro de l'indice de la partie « notion », ou le mot qui vous a mis la puce à l'oreille).
 
+!!! tip "🆘 Seul ?"
+    Relis seul tes 6 verdicts et note, pour chacun, au moins 1 indice qui t'a alerté. Compare avec un camarade dès que possible.
+
 !!! tip "Coup de pouce"
     Pose-toi 3 questions dans l'ordre. 1) Qui envoie ce message (adresse exacte) ? 2) Est-ce qu'on me presse ? 3) Est-ce qu'on me demande de payer ou de donner une information secrète ? Un seul « oui » à la question 3 = très mauvais signe.
 
@@ -116,6 +138,9 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 
 !!! example "Consigne 4 — mise en commun (10 min)"
     Mise en commun au vidéoprojecteur : verdicts de la classe, indices retenus, rappel des numéros et sites de signalement.
+
+!!! tip "🆘 Seul ?"
+    Relis seul ta checklist personnelle (consigne 3) et vérifie qu'elle reprend bien les 4 réflexes et les numéros de signalement. Compare-la avec la mise en commun de la classe dès que possible.
 
 !!! success "Défi (pour les détectives rapides)"
     Écrire 3 conseils anti-arnaque simples pour un membre de ta famille qui se ferait facilement piéger (grand-parent, petit frère…). Format libre : carte mémo, mini-affiche…

@@ -69,6 +69,9 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! example "Consigne 2 — en binôme (10 min)"
     Lire ensemble les 5 règles de la charte. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire.
 
+!!! tip "🆘 Seul ?"
+    Lis seul les 5 règles de la charte et note, pour chacune, un exemple concret de ce qu'il ne faut pas faire. Compare tes exemples avec un camarade dès que possible.
+
 ## 🎯 Atelier : je deviens autonome sur l'ENT
 
 **Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.

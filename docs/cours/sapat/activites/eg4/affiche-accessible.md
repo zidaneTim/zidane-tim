@@ -1,63 +1,126 @@
-# ♿ Une affiche que tout le monde peut lire
+# ♿ Une affiche accessible contre l'illectronisme
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
   <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
 </div>
 
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
-<p class="zt-lede">Créer un contenu numérique accessible pour une association du territoire</p>
+<p class="zt-lede">Sensibiliser des jeunes à l'illectronisme avec des chiffres réels, sur une affiche qui applique elle-même les règles d'accessibilité qu'elle défend</p>
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 50 min (40 min effectives)</span>
   <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
+  <span>:material-tag-outline: Canva · RGAA</span>
 </div>
 
 ## Mise en situation
 
-L'association locale **« Vivre Ensemble »** de Loudéac organise une permanence d'information ouverte à tous les
-habitants du quartier, y compris des personnes malvoyantes, malentendantes ou peu à l'aise avec la lecture. La
-présidente de l'association te demande de préparer une affiche numérique annonçant la permanence — mais elle a
-remarqué que la dernière affiche, envoyée à d'autres associations partenaires, comportait du texte trop petit et
-peu contrasté, illisible pour certains adhérents âgés.
+Le **CCAS de Loudéac** constate, sur le terrain, que de nombreux usagers accompagnés par ses services (aide à
+domicile, EHPAD, accueil social) ne parviennent plus à réaliser seuls des démarches devenues presque entièrement
+numériques : renouveler des droits sur caf.fr, prendre un rendez-vous médical sur Doctolib, déclarer ses revenus sur
+impots.gouv.fr. Ce phénomène a un nom : l'**illectronisme**. Selon l'Insee, en 2021, **15,4 %** de la population
+française de 15 ans ou plus est en situation d'illectronisme — soit **plus de 8 millions de personnes** — et l'écart
+est massif entre générations : **62 %** des personnes de 75 ans ou plus sont concernées, contre seulement **2 %**
+des 15-24 ans (source : Insee, *Insee Première* n°1953, juillet 2023).
 
-**Ton rôle :** créer une affiche numérique qui informe clairement ET qui reste lisible et compréhensible par le
-plus grand nombre — c'est ce qu'on appelle l'**accessibilité numérique**.
+Pour que les jeunes du territoire mesurent cet enjeu avant même d'entrer dans les métiers de l'aide et du soin, le
+CCAS lance une campagne d'affichage dans les lieux qu'ils fréquentent : CDI du lycée, foyer socio-éducatif,
+structures jeunesse locales.
+
+**Ton rôle :** tu es agent de médiation numérique au CCAS de Loudéac. **Mme Le Goff**, responsable de l'action
+sociale, te confie la création d'une affiche de sensibilisation destinée aux jeunes : elle doit leur faire
+comprendre, chiffres réels à l'appui, que des usagers qu'ils accompagneront demain restent exclus du numérique — et
+l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en parler.
 
 !!! question "Problématique"
-    « Comment créer une affiche numérique qui informe efficacement tout en restant accessible à des personnes
-    ayant des difficultés de vue, d'audition ou de lecture ? »
+    « Comment sensibiliser des jeunes à la réalité de l'illectronisme en France et dans le secteur SAPAT, avec une
+    affiche qui applique elle-même les règles d'accessibilité qu'elle défend ? »
 
 ## Objectifs
 
-- Identifier les principaux obstacles à l'accessibilité d'un contenu numérique
-- Appliquer des règles simples d'accessibilité (contraste, taille de police, texte alternatif) à une production réelle
-- Créer un contenu numérique responsable, adapté à un public varié
+- Rechercher et citer une donnée chiffrée réelle et sourcée sur l'illectronisme en France
+- Rédiger un message de sensibilisation clair et impactant, destiné à un public de jeunes, sur les enjeux de
+  l'illectronisme dans le secteur SAPAT
+- Appliquer au moins 5 règles d'accessibilité (contraste, police, pictogrammes, sobriété du texte, hiérarchie
+  visuelle) pour que l'affiche illustre elle-même sa propre leçon
 
 ## Travail à faire
 
-**Comprendre l'accessibilité, puis créer l'affiche**
+### A — Rechercher un chiffre réel et comprendre l'enjeu SAPAT
 
-1. Observer les deux affiches ci-dessous (une accessible, une non accessible — même annonce, deux traitements différents) et lister 3 différences visibles (taille du texte, contraste des couleurs, quantité d'informations).
+**Prélever une donnée chiffrée fiable et la relier au secteur**
 
-    !!! example "Affiche A — non accessible"
-        ![Affiche non accessible : texte gris clair, dense, petit, fond blanc](images/affiche-non-accessible.svg){ width="320" }
+1. Ouvrir la fiche [Insee Première n°1953 — 15 % de la population est en situation d'illectronisme en 2021](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" } et relever dans OneNote le taux
+   national (15,4 %) et le nombre de personnes concernées (plus de 8 millions).
+2. Relever, dans la même étude, l'écart générationnel (62 % des 75 ans ou plus en situation d'illectronisme, contre
+   2 % des 15-24 ans) et noter la source exacte (Insee, *Insee Première* n°1953, juillet 2023).
+3. Ouvrir la fiche [L'illectronisme en chiffres](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" } de l'ANLCI (Agence nationale de lutte contre l'illettrisme) et relever la
+   définition de l'illectronisme en une phrase.
+4. Lister 3 démarches numériques devenues incontournables pour un usager SAPAT (ex. Doctolib pour un rendez-vous
+   médical, caf.fr pour une allocation, impots.gouv.fr pour une déclaration) et, pour chacune, une conséquence
+   concrète si la personne ne peut pas l'accomplir seule.
 
-    !!! example "Affiche B — accessible"
-        ![Affiche accessible : titre en gros caractères, fort contraste, peu d'informations](images/affiche-accessible.svg){ width="320" }
-2. Rechercher la règle du **contraste minimum** recommandée pour un texte lisible (recherche : « contraste texte fond accessibilité numérique ») et la noter avec sa source.
-3. Créer l'affiche dans l'outil de ton choix (Canva, PowerPoint, Google Slides) en respectant au minimum : texte en gros caractères (titre et informations essentielles lisibles à 2 mètres), fort contraste entre texte et fond, phrases courtes et vocabulaire simple, pas plus de 3 informations essentielles sur l'affiche (date, lieu, contact).
-4. Ajouter un **texte alternatif** décrivant l'image principale de l'affiche (clic droit sur l'image → texte de remplacement), utile pour les lecteurs d'écran.
-5. Faire relire l'affiche par un camarade : lui demander s'il comprend l'information en moins de 5 secondes de lecture.
+!!! tip "🆘 Coup de pouce"
+    Si les chiffres se mélangent, retiens seulement ces deux données pour l'affiche : **15,4 % / plus de 8 millions
+    de personnes** (population totale concernée) et **62 % contre 2 %** (écart entre les 75 ans et plus et les
+    15-24 ans). Ce sont les deux chiffres les plus parlants pour un public jeune.
+
+### B — Cadrer le message pour un public de jeunes
+
+**Choisir un angle, un chiffre et un ton**
+
+1. Formuler en une phrase le message unique de l'affiche, destiné à des jeunes (ex. « Ce sont peut-être les
+   personnes que tu aideras demain qui n'y arrivent pas seules aujourd'hui »).
+2. Choisir, parmi les chiffres relevés en A, **un seul** chiffre à mettre en avant visuellement — celui qui a le
+   plus d'impact sur un jeune (l'écart générationnel 62 %/2 % est en général plus parlant qu'un pourcentage isolé).
+3. Identifier le lieu d'affichage réel visé (CDI du lycée, foyer socio-éducatif, structure jeunesse locale) et en
+   déduire deux contraintes concrètes (affiche lue debout, en quelques secondes, souvent à plusieurs mètres).
+4. Rédiger le texte complet de l'affiche en 3 blocs maximum : le chiffre choisi, la phrase-message, la mention de la
+   source.
 
 !!! tip "Astuce"
-    Si tu hésites entre deux couleurs de texte sur un fond, choisis toujours la plus contrastée (ex. texte noir ou blanc plutôt que gris clair sur fond clair).
+    Une affiche de sensibilisation qui cite un chiffre sans sa source perd toute crédibilité auprès d'un public
+    averti — la source doit rester visible, même en petits caractères, jamais absente.
 
-**Questions de synthèse**
+### C — Créer l'affiche accessible (elle applique sa propre leçon)
 
-- Cite 2 règles d'accessibilité que tu as appliquées sur ton affiche.
-- Pourquoi une affiche accessible profite-t-elle à tout le monde, pas seulement aux personnes en situation de handicap ?
+**Produire une affiche qui illustre elle-même l'accessibilité**
+
+1. Ouvrir [Canva](https://www.canva.com){ target="_blank" rel="noopener" } et choisir un format affiche (A4 ou A3,
+   portrait).
+2. Appliquer au minimum 5 règles d'accessibilité tirées du [RGAA — Référentiel général d'amélioration de l'accessibilité](https://accessibilite.numerique.gouv.fr/){ target="_blank" rel="noopener" } : contraste fort entre
+   texte et fond, police sans-serif lisible à 2 mètres pour le titre et le chiffre, pictogrammes simples plutôt que
+   texte long, pas plus de 3 blocs d'information, hiérarchie visuelle claire (le chiffre choisi doit être l'élément
+   le plus visible de l'affiche).
+3. Intégrer le chiffre choisi en très grand format, la phrase-message en dessous, et la source en petits caractères
+   en pied d'affiche.
+4. Exporter l'affiche en image ou PDF et ajouter un **texte alternatif** décrivant son contenu (utile pour un
+   lecteur d'écran si elle est aussi publiée en ligne).
+5. Faire relire l'affiche par un camarade : lui demander de reformuler le message et de retenir le chiffre en moins
+   de 5 secondes de lecture.
+
+!!! success "⭐ Pour aller plus loin"
+    Compare ton affiche aux deux exemples ci-dessous (une version non accessible, une version accessible, sur ce
+    même sujet de l'illectronisme) et note en 3 lignes ce que la version accessible fait de différent — au-delà du
+    contraste, regarde la quantité de texte et la hiérarchie de l'information.
+
+    !!! example "Affiche A — non accessible"
+        ![Affiche non accessible sur l'illectronisme : texte dense, petit, faiblement contrasté](images/affiche-non-accessible.svg){ width="320" }
+
+    !!! example "Affiche B — accessible"
+        ![Affiche accessible sur l'illectronisme : chiffre en gros caractères, fort contraste, message unique](images/affiche-accessible.svg){ width="320" }
+
+### Questions de synthèse
+
+- Quel est le taux national d'illectronisme en France en 2021, et combien de personnes cela représente-t-il ? —
+  réponse attendue : 15,4 %, soit plus de 8 millions de personnes (Insee, 2023).
+- Quel écart générationnel les mêmes données Insee mettent-elles en évidence ? — réponse attendue : 62 % des 75 ans
+  ou plus en situation d'illectronisme, contre 2 % des 15-24 ans.
+- Cite 2 règles d'accessibilité que tu as appliquées sur ton affiche, et explique en une phrase pourquoi une affiche
+  accessible profite à tout le monde, pas seulement aux personnes en difficulté avec le numérique.
 
 !!! tip "Où répondre ?"
     Dépose ton affiche (export image ou PDF) et tes réponses dans ton bloc-notes **OneNote**, section
@@ -65,18 +128,27 @@ plus grand nombre — c'est ce qu'on appelle l'**accessibilité numérique**.
 
 ## Ressources et outils
 
-- [Canva](https://www.canva.com){ target="_blank" rel="noopener" } — création de l'affiche, modèles accessibles disponibles.
-- **Recherche recommandée** : « règles accessibilité numérique contraste police » — pour trouver une source institutionnelle (ex. RGAA, Réseau national de ressources en accessibilité numérique).
+- **Insee — Insee Première n°1953 (juillet 2023)** : chiffre national et écart générationnel sur l'illectronisme,
+  source à citer sur l'affiche — [insee.fr/fr/statistiques/7633654](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" }.
+- **ANLCI — L'illectronisme en chiffres** : définition et données complémentaires (Agence nationale de lutte contre
+  l'illettrisme) — [anlci.gouv.fr](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" }.
+- **RGAA — Référentiel général d'amélioration de l'accessibilité** : méthode et critères officiels d'accessibilité
+  numérique (DINUM) — [accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/){ target="_blank" rel="noopener" }.
+- **Canva** : création de l'affiche, modèles accessibles disponibles — [canva.com](https://www.canva.com){ target="_blank" rel="noopener" }.
 
-## Grille d'évaluation
+## Grille d'évaluation CRCN 3.3 / 2.4 — Sensibilisation et accessibilité numérique
 
-| Critère | Indicateur de réussite |
-|---|---|
-| Compréhension de l'accessibilité | Les différences entre affiche accessible/non accessible sont identifiées et justifiées. |
-| Application des règles | Contraste, taille de texte, texte alternatif et sobriété du contenu sont respectés sur la production finale. |
-| Production | L'affiche est complète, exportée, lisible en moins de 5 secondes par un tiers. |
-| Usage responsable de l'IA | IA non utilisée sur cette activité (production graphique manuelle). |
+**Production attendue :** une affiche de sensibilisation à l'illectronisme, exportée en image ou PDF, destinée à
+l'affichage pour les jeunes du territoire par le CCAS de Loudéac (Mme Le Goff).
+
+| Critère | Indicateurs observables | Niveau |
+|---|---|---|
+| Donnée chiffrée | Chiffre réel relevé, exact, et source citée précisément sur l'affiche | -- / - / + / ++ |
+| Message pour les jeunes | Message unique, ton et angle adaptés à un public de jeunes, lien SAPAT explicite | -- / - / + / ++ |
+| Règles d'accessibilité | Au moins 5 règles appliquées (contraste, police, pictogrammes, sobriété, hiérarchie visuelle) | -- / - / + / ++ |
+| Production | Affiche complète, exportée, message et chiffre retenus en moins de 5 secondes par un tiers | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    EG4 — attendu 1 (environnement numérique, accessibilité) et attendu 2 (création de contenus numériques
-    universels et responsables). CRCN 3.3 — adapter un document à son public et à sa finalité, dont l'accessibilité.
+    EG4 — attendu « créer une affiche de prévention accessible, décrire les enjeux de l'illectronisme en SAPAT »
+    (progression 2nde SAPAT, S04). Adapter un document à son public et à sa finalité, dont l'accessibilité
+    (CRCN 3.3) ; comprendre les enjeux de la fracture numérique et de l'inclusion numérique (CRCN 2.4).

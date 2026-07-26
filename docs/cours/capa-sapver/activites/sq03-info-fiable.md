@@ -65,8 +65,14 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 !!! example "Consigne 1 — en classe entière (10 min)"
     Reprendre l'affirmation « le citron chaud fait maigrir de 5 kg en une semaine ». Chercher ensemble avec de bons mots-clés, et trouver **une source sérieuse** (site santé, `.gouv.fr`) qui en parle.
 
+!!! tip "🆘 Seul ?"
+    Cherche seul, avec de bons mots-clés, une source sérieuse (site santé, `.gouv.fr`) qui parle de cette affirmation sur le citron. Compare ta source avec la classe dès que possible.
+
 !!! example "Consigne 2 — en binôme (10 min)"
     Appliquer les **3 questions** (Qui ? Ailleurs ? Pourquoi ?) à cette phrase et dire si on peut y croire.
+
+!!! tip "🆘 Seul ?"
+    Applique seul les 3 questions (Qui ? Ailleurs ? Pourquoi ?) à cette phrase et écris ta conclusion. Compare avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
@@ -88,6 +94,9 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 
 !!! example "Consigne 2 — en binôme (10 min)"
     Comparer vos verdicts. Pour chaque info **trompeuse**, écrire **le signe** qui vous a alertés (titre choc, pas de source, but de vendre, image bizarre).
+
+!!! tip "🆘 Seul ?"
+    Relis seul ton tableau et écris, pour chaque info trompeuse, le signe qui t'a alerté. Compare avec un camarade dès que possible.
 
 !!! example "Consigne 3 — seul (10 min)"
     Écrire avec tes mots : les **3 questions** à se poser devant une information, et **un exemple** d'infox que tu as déjà croisée.

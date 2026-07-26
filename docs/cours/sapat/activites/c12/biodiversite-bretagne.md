@@ -1,19 +1,11 @@
 # 🦋 Ces espèces qui ne sont pas d'ici
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité · Entraînement ECCF</p>
 
 <p class="zt-lede">Les espèces non indigènes recensées commune par commune — Données réelles de l'Observatoire de l'environnement en Bretagne (OEB), Loudéac Communauté – Bretagne Centre</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances (45 min) — entraînement + simulation</span>
+  <span>:material-clock-outline: 2 séances (55 min) — entraînement + simulation</span>
   <span>:material-school-outline: TIM × Mathématiques</span>
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>

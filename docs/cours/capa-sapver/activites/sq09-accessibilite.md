@@ -27,6 +27,9 @@ En stage dans un EHPAD, tu prépares une **affiche du menu de la semaine** pour 
 - Être capable de **citer** les principaux besoins d'accessibilité (vue, lecture).
 - Être capable d'**adapter un document** pour le rendre plus accessible.
 
+!!! note "Retour de PFMP"
+    Tu reviens de stage. As-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
+
 ## La notion : l'accessibilité numérique
 
 ### C'est quoi ?
@@ -54,6 +57,9 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! example "Consigne 1 — en classe entière (5 min)"
     Reprendre l'affiche du menu (texte gris clair sur fond jaune, écriture fantaisie, en photo). Lister ensemble **3 problèmes** d'accessibilité.
 
+!!! tip "🆘 Seul ?"
+    Relis seul la description de l'affiche du menu et liste 3 problèmes d'accessibilité. Compare avec la classe dès que possible.
+
 !!! example "Consigne 2 — seul (10 min)"
     Sur l'ordinateur, essayer **2 aides** : agrandir un texte avec `Ctrl` + molette, puis activer le **lecteur d'écran** quelques secondes. Noter ce que ça change.
 
@@ -75,6 +81,9 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 
 !!! example "Consigne 4 — en binôme (10 min)"
     Échanger avec un camarade. Vérifier avec la **check-list des 5 règles** : chaque règle est-elle respectée ? Noter ce qui reste à améliorer.
+
+!!! tip "🆘 Seul ?"
+    Relis seul ton document avec la check-list des 5 règles : chaque règle est-elle respectée ? Note ce qui reste à améliorer. Fais vérifier par un camarade ou l'enseignant dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Écrire **2 conseils** que tu donnerais à un collègue pour créer des documents accessibles aux personnes âgées.

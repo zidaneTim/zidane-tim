@@ -31,6 +31,9 @@ Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour s
 - Être capable de **reconnaître** un mot de passe faible et un mot de passe fort.
 - Être capable de **créer** une phrase de passe personnelle solide.
 
+!!! note "Retour de PFMP"
+    Tu reviens de stage. As-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
+
 ## La notion : le mot de passe
 
 ### Ce qui rend un mot de passe faible
@@ -70,8 +73,14 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 !!! example "Consigne 1 — en classe entière (10 min)"
     Reprendre `azerty123`. Ensemble, dire **pourquoi** il est faible (3 raisons).
 
+!!! tip "🆘 Seul ?"
+    Note seul 3 raisons pour lesquelles `azerty123` est un mot de passe faible. Compare avec la classe dès que possible.
+
 !!! example "Consigne 2 — en binôme (10 min)"
     Transformer la phrase « Le samedi je vais au marché avec ma mère » en **phrase de passe** solide (12 caractères minimum, avec chiffres et signes).
+
+!!! tip "🆘 Seul ?"
+    Transforme seul cette même phrase en phrase de passe solide (12 caractères minimum, chiffres et signes). Compare ta proposition avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Je remplace certains mots par des chiffres ou des symboles : *au* → `o`, *avec* → `&`, *et* → `+`. J'ajoute une **majuscule** et un **!** à la fin.
@@ -92,6 +101,9 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 
 !!! example "Consigne 2 — en binôme (10 min)"
     Comparer vos classements. Vous mettre d'accord sur le **plus fort** des 6 et expliquer **pourquoi**.
+
+!!! tip "🆘 Seul ?"
+    Relis seul ton classement, identifie le mot de passe le plus fort des 6 et écris pourquoi. Compare avec un camarade dès que possible.
 
 !!! example "Consigne 3 — seul (15 min)"
     Créer **ta** phrase de passe personnelle (à partir d'une phrase que **toi seul** connais). Vérifier qu'elle a : au moins 12 caractères, une majuscule, un chiffre, un signe, **aucune** info personnelle évidente. **Ne la partage avec personne** — note seulement qu'elle respecte les règles.
