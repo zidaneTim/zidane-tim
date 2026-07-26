@@ -16,15 +16,12 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/population-age-lcbc.md)
 
--   :material-folder-lock-outline:{ .lg .middle } **Organiser et sécuriser son poste**
-
-    ---
-
-    Arborescence OneDrive, synchronisation, sécurité du poste de travail professionnel.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/organisation-securite-poste.md)
-
 </div>
+
+!!! note "Organiser et sécuriser son poste"
+
+    Cette activité (arborescence OneDrive, synchronisation, sécurité du poste) est rattachée au module **EG4** dans
+    la progression de la classe : [Ouvrir l'activité](activites/eg4/organisation-securite-poste.md).
 
 !!! tip "Où répondre ?"
 

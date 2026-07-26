@@ -6,13 +6,13 @@
   <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
 </div>
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG1 · Approche scientifique et numérique</p>
+<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Un poste de travail bien rangé et bien protégé, c'est un métier fait sans perte de temps ni de données</p>
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG1 — Approche scientifique et numérique</span>
+  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
   <span>:material-tag-outline: OneDrive</span>
 </div>
 
@@ -61,6 +61,11 @@ retrouvable et protégé.
 4. Créer un fichier `Lisez-moi.txt` à la racine expliquant en 3 lignes à quoi sert chaque sous-dossier — utile si
    quelqu'un d'autre doit reprendre le dossier après toi.
 
+!!! tip "🆘 Coup de pouce"
+    Bloqué sur le choix des sous-dossiers ? Pars des **documents que tu produirais réellement** dans une semaine de
+    travail : un compte rendu de réunion, une fiche d'activité, un planning, un courrier. Un sous-dossier par type
+    de document produit, c'est déjà une arborescence qui tient.
+
 !!! tip "Astuce"
     Un dossier « Divers » ou « Autres » ne doit jamais devenir un fourre-tout permanent : s'il dépasse 10 fichiers en
     fin de semaine, c'est le signe qu'il manque un sous-dossier thématique dédié.
@@ -96,6 +101,11 @@ retrouvable et protégé.
 4. Lister les informations qui ne doivent jamais être stockées sans précaution particulière dans ce dossier
    professionnel (données personnelles d'usagers, informations médicales) et rappeler la règle du secret professionnel liée
    à ces données.
+
+!!! success "⭐ Pour aller plus loin"
+    Rédige la **procédure de reprise** que suivrait un collègue remplaçant : où sont les fichiers, comment y
+    accéder, qui contacter en cas de perte d'accès. Trois lignes suffisent — c'est le document qui manque toujours
+    quand quelqu'un est absent au dernier moment.
 
 !!! tip "Astuce"
     Un lien de partage OneDrive « Toute personne disposant du lien peut modifier » est le réglage par défaut le plus
