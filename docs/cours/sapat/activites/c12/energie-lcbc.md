@@ -43,7 +43,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
     **Jeu de données :** Consommation annuelle d'électricité et gaz par commune
     **Producteur :** Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
     **URL :** [data.gouv.fr — Consommation annuelle d'électricité et gaz par commune](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune)
-    **Format :** CSV (fichier national volumineux, > 800 Mo) — utiliser le filtre en ligne du portail Agence ORE (lien "Voir la source originale" sur la fiche data.gouv.fr) pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · **Licence :** Licence Ouverte / Étalab
+    **Format :** CSV (fichier national volumineux, > 800 Mo) — utiliser le filtre en ligne du portail Agence ORE, à l'adresse directe [opendata.agenceore.fr — Consommation annuelle d'électricité et gaz par commune](https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune) (vue filtrable : ajouter le suffixe `/table` à l'URL), pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · **Licence :** Licence Ouverte / Open Licence 2.0
     **Colonnes réelles utiles** (en-têtes vérifiés sur export réel) : `OPERATEUR`, `FILIERE`, `Code Commune`, `Nom Commune`, `Code EPCI`, `Nom EPCI`, `CODE GRAND SECTEUR`, `Nb sites`, `Conso totale (MWh)`, `Conso moyenne (MWh)` (déjà calculée par le producteur), `Nombre de mailles secretisées`.
     **Particularités à gérer :**
 
@@ -58,7 +58,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 **Récupérer, comprendre et nettoyer les données**
 
-1. Sur le portail du diffuseur (lien en Ressources et outils), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel (vérifier l'encodage des caractères accentués, voir Source de données).
+1. Sur le portail Agence ORE (lien direct en Ressources et outils — ouvrir la vue `/table`), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel (vérifier l'encodage des caractères accentués, voir Source de données).
 2. Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).
 3. Filtrer le tableau sur trois critères combinés :
     - `Code EPCI` = **200067460** (code officiel INSEE de Loudéac Communauté – Bretagne Centre — voir Ressources et outils) ;
@@ -86,7 +86,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 **Cartographier, représenter et communiquer**
 
 1. Recenser en ligne les permanences France Rénov' et points conseil budget/CCAS présents dans les 3-4 communes classées « Fort » (le jeu de données ne dit pas où orienter les habitants).
-2. Construire un fichier CSV (colonnes : Nom de la structure, Commune, Adresse, Latitude, Longitude), le convertir en KML via le convertisseur, puis l'importer dans Google MyMaps.
+2. Construire un fichier CSV (colonnes : Nom de la structure, Commune, Adresse, Latitude, Longitude), puis l'importer **directement** dans Google MyMaps (Importer → choisir le CSV, puis indiquer les colonnes de position — Latitude/Longitude ou Adresse — et la colonne servant de titre aux repères).
 3. Créer un graphique (histogramme) des 5 communes ayant l'indicateur le plus élevé, avec titre, légende et unité.
 4. Rédiger une fiche « Repérer et orienter » (10-15 lignes) : communes prioritaires, 2-3 repères simples, graphique, lien vers la carte — dans un langage clair, sans jargon, utilisable directement par un travailleur social pressé.
 
@@ -95,10 +95,10 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Ressources et outils
 
-- [Consommation annuelle d'électricité et gaz par commune — data.gouv.fr](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune){ target="_blank" rel="noopener" } — fiche officielle : description, licence, lien vers le portail Agence ORE pour filtrer et exporter par département/commune avant téléchargement.
+- [Consommation annuelle d'électricité et gaz par commune — data.gouv.fr](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune){ target="_blank" rel="noopener" } — fiche officielle : description, licence, métadonnées du jeu de données.
+- [Portail Agence ORE — Consommation annuelle d'électricité et gaz par commune](https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune){ target="_blank" rel="noopener" } — **c'est ici qu'on filtre et qu'on exporte** par département/commune avant téléchargement (vue filtrable : ajouter `/table` à la fin de l'URL). ⚠️ Ne pas passer par le lien « Voir la source originale » de data.gouv.fr : il renvoie désormais vers un catalogue générique, pas vers ce jeu de données.
 - **Code EPCI de Loudéac Communauté – Bretagne Centre : 200067460** — source : [API Découpage administratif — geo.api.gouv.fr](https://geo.api.gouv.fr/epcis/200067460/communes){ target="_blank" rel="noopener" }, base INSEE/Banatic (lien vérifié 23/07). Filtrer directement sur ce code est plus fiable qu'une liste de noms de communes (pas de risque d'erreur d'accent ou d'orthographe).
 - **ONPE — précarité énergétique** : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)
-- [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour préparer l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des relais de proximité.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité, pour situer le territoire et contacter le service Habitat (⚠️ sa liste brute affiche 41 noms, elle mélange des communes déléguées avec les 38 communes membres actuelles — pour le filtrage de données, utiliser le code EPCI ci-dessus).
 

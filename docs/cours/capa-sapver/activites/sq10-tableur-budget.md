@@ -99,4 +99,4 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 | Formule et format | Le total est calculé avec `=SOMME(...)` (pas à la main) et le format monétaire € est appliqué ; l'élève constate le recalcul automatique. | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 1.3 (traiter des données) — rattachement CRCN par interprétation. Évaluation **formative**. (La progression associe aussi 5.1 à cette séance ; ici l'activité mobilise surtout 1.3, voir note de synchronisation.)
+    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 1.3 (traiter des données). Évaluation **formative**. (La progression associe aussi 5.1 à cette séance ; ici l'activité mobilise surtout 1.3, voir note de synchronisation.)

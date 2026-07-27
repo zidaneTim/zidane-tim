@@ -26,6 +26,6 @@ Enseignement Pratique Interdisciplinaire — Sciences, Technologie, Matériaux.
 
 </div>
 
-!!! note "Activités en ligne"
+!!! note "Supports de cours"
 
-    Elles seront ajoutées ici au fil de l'année.
+    Les supports et les consignes de projet sont distribués en classe. Cette page recense les ressources en ligne utiles à l'EPI, mises à jour au fil de l'année.

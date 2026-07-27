@@ -99,4 +99,4 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 | Adapter le document | Le document corrigé respecte les 5 règles (taille, contraste, police, vrai texte, texte alternatif). | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) · CRCN 3.3 (adapter un document à sa finalité et à son public) — rattachement CRCN par interprétation. Évaluation **formative** (bilan de séquence).
+    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) · CRCN 3.3 (adapter un document à sa finalité et à son public). Évaluation **formative** (bilan de séquence).

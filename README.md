@@ -43,4 +43,4 @@ zidane-tim/
 - Pas de repère de séance/jour visible élève
 
 ---
-*Historique d'installation : voir `SETUP-GITHUB.md`, `QUICKSTART.md`, `COMMENT-CA-MARCHE.md` (documents d'époque, conservés pour mémoire). Nettoyage du 22/07/2026 : scripts d'installation initiale supprimés (`deploy.ps1`, `full-deploy.ps1`, `execute.bat`, `push-now.bat`, `STRUCTURE.txt`), remplacés par `publish-site.ps1`.*
+*Architecture technique et chaîne de publication : voir `COMMENT-CA-MARCHE.md` (document d'époque, conservé pour mémoire). Nettoyage du 22/07/2026 : scripts d'installation initiale supprimés (`deploy.ps1`, `full-deploy.ps1`, `execute.bat`, `push-now.bat`, `STRUCTURE.txt`), remplacés par `publish-site.ps1`. Nettoyage du 27/07/2026 : `SETUP-GITHUB.md` et `QUICKSTART.md` supprimés (procédure d'installation déjà réalisée, chemins obsolètes et réglage GitHub Pages erroné).*

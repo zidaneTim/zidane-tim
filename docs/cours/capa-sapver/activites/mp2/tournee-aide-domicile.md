@@ -14,7 +14,7 @@
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 70 min (60 min effectives)</span>
   <span>:material-school-outline: MP2 — obj. 4</span>
-  <span>:material-tag-outline: 4.2.6 · 4.3.9 · Excel · Google MyMaps</span>
+  <span>:material-tag-outline: Excel · Google MyMaps</span>
 </div>
 
 **Parcours Pix associés**
@@ -96,7 +96,7 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 - **Nos communes — Loudéac Communauté Bretagne Centre** : liste officielle des 38 communes membres du territoire, pour filtrer les données — [lien](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }.
 - **Google MyMaps** : pour créer la carte et les repères — [lien](https://www.google.com/mymaps){ target="_blank" rel="noopener" }.
 
-## Grille d'évaluation (visée formative — obj. 4 non évalué en tant que tel, valorisable via MG1)
+## Grille d'évaluation
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
@@ -106,5 +106,5 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 
 !!! note "Compétences visées"
     MP2 obj. 4 — communiquer à l'ère du numérique : structuration de données professionnelles réelles (4.2.6) et
-    usage de la géolocalisation (4.3.9). Grille formative, non évaluée en tant que telle (valorisation possible via
-    MG1 / dossier CCF).
+    usage de la géolocalisation (4.3.9). Grille à visée **formative** : l'objectif 4 n'est pas évalué en tant que
+    tel, mais le travail produit est valorisable via MG1 / le dossier CCF.

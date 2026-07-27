@@ -107,4 +107,4 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 | Envoi et pièce jointe | La pièce jointe est correctement nommée et bien attachée ; le courriel est envoyé au bon destinataire. | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 2.1 (interagir) et 3.1 (développer un document textuel) — rattachement CRCN par interprétation (la progression laisse ce point ouvert : 2.1/3.1 retenus car cœur de l'activité courriel). Évaluation **formative**. Exercice d'apprentissage : en CAPa 1, les affectations de stage passent par l'établissement.
+    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 2.1 (interagir) et 3.1 (développer un document textuel). Évaluation **formative**. Exercice d'apprentissage : en CAPa 1, les affectations de stage passent par l'établissement.

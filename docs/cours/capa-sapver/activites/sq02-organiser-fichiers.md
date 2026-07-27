@@ -121,4 +121,4 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 | Tri des informations personnelles | La fiche ne contient que des informations partageables ; l'élève sait justifier ce qu'il garde privé. | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.1 (environnement numérique) et 2.2.3 (attitude responsable) · CRCN 1.2 (gérer des données) et 3.1 (développer un document textuel) — rattachement CRCN par interprétation. Évaluation **formative**.
+    MG1 — vie sociale, obj. 2.2.1 (environnement numérique) et 2.2.3 (attitude responsable) · CRCN 1.2 (gérer des données) et 3.1 (développer un document textuel). Évaluation **formative**.

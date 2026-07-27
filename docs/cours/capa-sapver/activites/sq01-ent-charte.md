@@ -102,4 +102,4 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 | Connaissance de la charte | L'élève cite au moins 3 règles de la charte et donne un exemple concret pour chacune. | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.1 (environnement numérique) · CRCN 5.2 (construire son environnement numérique) et 2.4 (s'insérer dans le monde numérique) — rattachement CRCN par interprétation, référentiel CAPa SAPVER 2015 antérieur au CRCN. Évaluation **formative**.
+    MG1 — vie sociale, obj. 2.2.1 (environnement numérique) · CRCN 5.2 (construire son environnement numérique) et 2.4 (s'insérer dans le monde numérique). Évaluation **formative**.

@@ -41,7 +41,7 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
     **Jeu de données :** Liste des maternités de France depuis 2000
     **Producteur :** DREES (Direction de la recherche, des études, de l'évaluation et des statistiques), ministère chargé de la Santé, via data.gouv.fr
     **URL :** [data.gouv.fr — Liste des maternités de France depuis 2000](https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000)
-    **Format :** CSV et XLSX (fichier national, ~685 Ko, années 2000 puis 2008 à 2024) · **Licence :** Licence Ouverte 2.0
+    **Format :** CSV et XLSX (fichier national, CSV ~670 Ko / XLSX ~790 Ko, années 2000 puis 2008 à 2024) · **Licence :** Licence Ouverte 2.0
     **Colonnes réelles du fichier :** `ANNEE`, `NOM_MAT`, `TYPE` (1 / 2a / 2b / 3 — niveau de soins néonatals), `STATUT` (PUBLIC/PRIVÉ), `FI_ET`, `FI_EJ` (codes FINESS), `COM`, `NOMCOM`, `CPO` (code postal), `ADRESSE`, `LIT_OBS` (lits d'obstétrique), `SALTRAV` (salles de travail), `ACCTOT` (accouchements de l'année).
     **Particularités à connaître :** ⚠️ **il n'existe pas de colonne Région ni Département** — il faut le déduire du code postal (`CPO`, 2 premiers chiffres) ou du code commune (`COM`). Une même maternité apparaît sur plusieurs lignes, une par année où elle était active avec au moins un lit et un accouchement : ce n'est pas un doublon à supprimer. Pas de RGPD bloquant : ce sont des données d'établissements, aucune donnée personnelle de patiente.
 
@@ -75,8 +75,11 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 **Représenter et informer Mme Le Goff**
 
 1. Depuis l'onglet `Recapitulatif`, créer un **graphique en courbe** de l'évolution du nombre de lits de maternité, avec titre, légende et étiquettes de données.
-2. Créer une carte **Google MyMaps** intitulée « Maternités Île-de-France », importer les maternités actives en 2023 (calque 1). Rechercher les coordonnées GPS du 78 rue de la Varenne, Paris, générer un cercle de 10 km de rayon avec le [convertisseur](https://scuttemery.fr/converter) (coordonnées → KML), et l'importer dans un second calque. Compter le nombre de maternités situées dans ce rayon.
+2. Créer une carte **Google MyMaps** intitulée « Maternités Île-de-France », importer les maternités actives en 2023 (calque 1). Rechercher les coordonnées GPS du 78 rue de la Varenne, Paris, puis générer un cercle de 10 km de rayon avec le [générateur de cercles KML (Scott Murray)](https://www.scottmurray.me/kml/circle/index.php) : saisir le **centre en coordonnées décimales** (latitude puis longitude, séparées par une virgule — ex. `48.8566,2.3522`) et le **rayon en kilomètres** (`10`). Télécharger le fichier KML obtenu et l'importer dans un second calque de la carte. Compter le nombre de maternités situées dans ce rayon.
 3. Rédiger une **note de synthèse pour Mme Le Goff** (8-10 lignes, ton factuel et rassurant si les faits le permettent) : évolution chiffrée 2013-2023, nombre de maternités accessibles à moins de 10 km de son domicile, et une conclusion qui répond directement à sa question sans déformer ce que montrent les données.
+
+!!! tip "Si le générateur de cercles ne répond plus"
+    Le site qui héberge le générateur de cercles KML affiche un avis « End of Service » : l'outil fonctionne aujourd'hui, mais il peut fermer sans préavis. S'il est indisponible, trace le cercle approximatif à la main dans MyMaps (outil ligne/forme) en t'aidant de l'échelle affichée en bas de la carte, et précise dans ta note qu'il s'agit d'une estimation.
 
 !!! tip "Où répondre ?"
     Dépose ton tableur (onglets 2013 / 2023 / Recapitulatif / TCD / GCD), le lien de ta carte MyMaps et ta note de synthèse dans ton bloc-notes **OneNote**, section *C1.2 — Maternités*.
@@ -86,7 +89,7 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 - [Liste des maternités de France depuis 2000 — data.gouv.fr](https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000){ target="_blank" rel="noopener" } — fiche officielle DREES : description, licence, téléchargement CSV/XLSX.
 - **CNIL — RGPD** : définition officielle et missions (recherche : « CNIL RGPD missions »)
 - **Loi Lemaire 2016** : présentation officielle (recherche : « Loi pour une République numérique 2016 open data »)
-- [Convertisseur coordonnées → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour générer le cercle de 10 km autour d'une adresse.
+- [Générateur de cercles KML (Scott Murray)](https://www.scottmurray.me/kml/circle/index.php){ target="_blank" rel="noopener" } — pour générer le cercle de 10 km autour d'une adresse : centre en coordonnées décimales (latitude, longitude) + rayon en kilomètres, export KML à importer dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des maternités.
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)

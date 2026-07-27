@@ -111,4 +111,4 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 | Argumenter sur la consommation | L'élève donne au moins un argument pour et un argument contre lors du débat. | -- / - / + / ++ |
 
 !!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) et 2.2.2 (outils et projets) · CRCN 4.2 (protéger ses données personnelles et bancaires) et 4.3 (consommation responsable, environnement) — rattachement CRCN par interprétation. Évaluation **formative**. En coordination possible avec la SESG (citoyenneté, consommation).
+    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) et 2.2.2 (outils et projets) · CRCN 4.2 (protéger ses données personnelles et bancaires) et 4.3 (consommation responsable, environnement). Évaluation **formative**. En coordination possible avec la SESG (citoyenneté, consommation).

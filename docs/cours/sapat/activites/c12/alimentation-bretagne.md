@@ -1,5 +1,11 @@
 # 🥕 Manger local en Bretagne Centre
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix réinvesties</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème alimentation</p>
 
 <p class="zt-lede">Où sont les producteurs bio du territoire ? — Données réelles de l'Agence Bio, Loudéac Communauté – Bretagne Centre</p>
@@ -72,7 +78,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 **Représenter et transmettre à la responsable du CCAS**
 
 1. Créer à partir du TCD un **graphique en barres** « Nombre d'opérateurs bio par code postal » complet : titre, axes légendés, source citée (Agence Bio via data.gouv.fr, année). Justifier en une phrase pourquoi le graphique en barres est adapté ici plutôt qu'un graphique circulaire.
-2. Préparer la **carte** : créer à partir de l'onglet `Donnees-LCBC` un petit fichier CSV (dénomination, code postal), le convertir en KML via le convertisseur, puis l'importer dans **Google MyMaps** — un repère par code postal (Google MyMaps géolocalise à partir du code postal seul ; le repère correspond alors au centre de la zone postale, pas à l'adresse exacte de l'opérateur). Personnaliser les repères et titrer la carte.
+2. Préparer la **carte** : créer à partir de l'onglet `Donnees-LCBC` un petit fichier CSV (dénomination, code postal), puis l'importer **directement** dans **Google MyMaps** (Importer → choisir le CSV, désigner la colonne code postal comme colonne de position et la dénomination comme titre des repères) — un repère par code postal (Google MyMaps géolocalise à partir du code postal seul ; le repère correspond alors au centre de la zone postale, pas à l'adresse exacte de l'opérateur). Personnaliser les repères et titrer la carte.
 3. Rédiger la **synthèse pour la responsable de l'épicerie sociale** (8-10 lignes) : nombre d'opérateurs sur le territoire, secteurs (codes postaux) les mieux pourvus, types d'activités dominants, et une recommandation concrète pour démarrer la recherche de fournisseurs. Insérer le graphique et le lien de la carte.
 
 !!! tip "Où répondre ?"
@@ -83,7 +89,6 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 - [Jeu de données — Professionnels engagés en BIO](https://www.data.gouv.fr/datasets/professionnels-engages-en-bio){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, bouton de téléchargement du CSV national (Agence Bio).
 - **Codes postaux du territoire LCBC** (8 codes, pour le filtrage `Donnees-LCBC`) : 22150, 22210, 22230, 22320, 22330, 22460, 22530, 22600 — établis à partir des 38 communes membres officielles (source : [API Découpage administratif — geo.api.gouv.fr, EPCI Loudéac Communauté – Bretagne Centre](https://geo.api.gouv.fr/epcis/200067460/communes){ target="_blank" rel="noopener" }, base INSEE/Banatic, code EPCI 200067460 — retourne un JSON des 38 communes avec code INSEE et code postal, lien vérifié 23/07).
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité, pour situer le territoire (⚠️ sa liste brute affiche 41 noms car elle mélange des communes déléguées avec les communes membres actuelles ; pour un compte exact, préférer la source INSEE ci-dessus).
-- [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)

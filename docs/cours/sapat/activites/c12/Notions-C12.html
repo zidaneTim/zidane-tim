@@ -384,18 +384,23 @@ const notions = {
       <div class="func-box">=<span class="fn">SOMME</span>(A1:A5) <span class="res">→ additionne A1 à A5</span></div>
       <div class="func-box">=<span class="fn">MOYENNE</span>(A1:A5) <span class="res">→ moyenne de A1 à A5</span></div>
       <div class="func-box">=<span class="fn">NB.SI</span>(A1:A5;"&gt;50") <span class="res">→ compte les valeurs &gt; 50</span></div>
-      <p class="hint">= puis nom de la fonction, puis la plage entre parenthèses, puis un critère éventuel entre guillemets.</p>
+      <div class="func-box">=<span class="fn">NB.SI.ENS</span>(A:A;"22";B:B;"&gt;50") <span class="res">→ compte avec 2 critères à la fois</span></div>
+      <p class="hint">= puis nom de la fonction, puis la plage entre parenthèses, puis un critère éventuel entre guillemets. Les fonctions en <b>.ENS</b> permettent de croiser plusieurs critères.</p>
     </div>`,
     steps:[
       {t:"SOMME / MOYENNE", d:"=SOMME(A1:A5) additionne. =MOYENNE(A1:A5) fait la moyenne."},
       {t:"MIN / MAX", d:"=MIN(A1:A5) et =MAX(A1:A5) donnent la plus petite et la plus grande valeur — utiles aussi pour repérer les valeurs aberrantes."},
       {t:"NB / NB.SI", d:"=NB(A1:A5) compte les cellules contenant un nombre. =NB.SI(A1:A5;\">50\") compte celles qui respectent un critère."},
       {t:"SOMME.SI", d:"=SOMME.SI(plage;critère) additionne seulement les valeurs qui respectent le critère."},
+      {t:"Les fonctions .ENS — plusieurs critères", d:"Même logique, mais on croise 2 critères ou plus. L'ordre des arguments change : la plage à calculer vient EN PREMIER, puis les couples plage_critère ; critère. =SOMME.SI.ENS(C:C;A:A;\"Production\";B:B;\"<2020\") additionne la colonne C uniquement pour les lignes où A vaut « Production » ET où B est antérieur à 2020. Idem =NB.SI.ENS(...) pour compter et =MOYENNE.SI.ENS(...) pour la moyenne. Attention : NB.SI.ENS commence directement par un couple plage ; critère (il n'y a rien à additionner)."},
       {t:"SI", d:"=SI(A1>100;\"élevé\";\"faible\") affiche un résultat différent selon une condition. ET() et OU() combinent plusieurs conditions."},
+      {t:"SI imbriqué — plus de 2 cas", d:"On place un SI à l'intérieur d'un autre pour trier en 3 catégories ou plus : =SI(A1>60;\"fort\";SI(A1>30;\"moyen\";\"faible\")). Excel teste les conditions dans l'ordre et s'arrête à la première vraie — commence donc toujours par le seuil le plus élevé. Ferme autant de parenthèses que tu as ouvert de SI."},
+      {t:"Extraire un début de texte — GAUCHE", d:"=GAUCHE(A1;2) renvoie les 2 premiers caractères d'une cellule. Sert à isoler un code département dans un code postal ou un code INSEE (ex. « 22150 » → « 22 »). =DROITE() fait l'inverse. Le résultat est du texte : pour comparer à un nombre, utiliser =CNUM(GAUCHE(A1;2))."},
+      {t:"Calculer une ancienneté — ANNEE et AUJOURDHUI", d:"=ANNEE(A1) extrait l'année d'une date. =AUJOURDHUI() renvoie la date du jour, et se met à jour toute seule. Ancienneté en années : =ANNEE(AUJOURDHUI())-ANNEE(A1)."},
       {t:"Opérateurs", d:"+ - * / pour les calculs · = <> < > <= >= pour les comparaisons · & pour coller deux textes."},
-      {t:"Recopier une formule", d:"Tire la petite poignée en bas à droite de la cellule pour appliquer la formule aux lignes suivantes."}
+      {t:"Recopier une formule", d:"Tire la petite poignée en bas à droite de la cellule pour appliquer la formule aux lignes suivantes. Si une plage ne doit PAS bouger en recopiant, fige-la avec des $ : $A$1 (touche F4)."}
     ],
-    note:"Réflexe : après chaque calcul, vérifie l'ordre de grandeur. Une moyenne de 4 500 habitants pour des communes qui vont de 200 à 9 000 est plausible ; 45 000 ne l'est pas."
+    note:"Réflexe : après chaque calcul, vérifie l'ordre de grandeur. Une moyenne de 4 500 habitants pour des communes qui vont de 200 à 9 000 est plausible ; 45 000 ne l'est pas. Si une fonction .ENS renvoie 0, le plus souvent un critère est mal orthographié ou les plages n'ont pas la même hauteur."
   },
 
   "indicateurs": {

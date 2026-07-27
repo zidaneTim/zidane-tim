@@ -10,4 +10,4 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
 ## Activités
 
-Les activités de l'année seront ajoutées ici au fur et à mesure.
+Les supports du module sont distribués en classe. Cette page donne accès à la fiche de révision « Notions à connaître » ci-dessus.

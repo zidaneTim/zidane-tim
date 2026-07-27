@@ -121,4 +121,6 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
-- **Cybersécurité (MAJ 2025)**
+- **Gérer ses fichiers numériques** (SQ02)
+- **Cybersécurité (MAJ 2025)** (SQ04, SQ05)
+- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (SQ06)

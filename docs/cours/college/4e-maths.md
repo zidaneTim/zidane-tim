@@ -34,4 +34,4 @@ Programme de mathématiques de l'enseignement agricole.
 
 !!! note "Supports de cours"
 
-    Les fiches d'exercices et les évaluations sont distribuées en classe. Les activités en ligne seront ajoutées ici au fil de l'année.
+    Les fiches d'exercices et les évaluations sont distribuées en classe. Cette page recense les ressources en ligne utiles au programme, mises à jour au fil de l'année.

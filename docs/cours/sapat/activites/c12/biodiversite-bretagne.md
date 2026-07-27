@@ -1,5 +1,11 @@
 # 🦋 Ces espèces qui ne sont pas d'ici
 
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix réinvesties</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+</div>
+
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité · Entraînement ECCF</p>
 
 <p class="zt-lede">Les espèces non indigènes recensées commune par commune — Données réelles de l'Observatoire de l'environnement en Bretagne (OEB), Loudéac Communauté – Bretagne Centre</p>
@@ -42,7 +48,7 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
     **Jeu de données :** Espèces non indigènes **par commune** en Bretagne
     **Producteur :** Observatoire de l'environnement en Bretagne (OEB) — GIP Bretagne environnement, via data.gouv.fr
     **URL :** [data.gouv.fr — Espèces non indigènes par commune en Bretagne](https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne)
-    **Format :** CSV (~9,9 Mo, 38 755 lignes, toute la Bretagne) · **Licence :** Licence Ouverte 2.0 · **Mise à jour :** juin 2026
+    **Format :** CSV (~9,5 Mo, ~38 000 lignes, toute la Bretagne) · **Licence :** Licence Ouverte 2.0 · **Mise à jour :** janvier 2026
     **Particularité à nettoyer :** **une ligne = une espèce dans une commune** — une même commune apparaît donc sur autant de lignes qu'elle compte d'espèces recensées. Le fichier couvre les 4 départements bretons : il faut d'abord isoler les Côtes-d'Armor (code `insee_commune` commençant par **22**) avant tout traitement. Le champ `invasive` distingue 4 statuts : *invasive avérée, invasive potentielle, invasive à surveiller, non invasive*. Enfin, le nombre d'espèces recensées dépend de la **pression d'observation** : une commune très prospectée paraît plus riche qu'une commune peu visitée — ce biais doit être signalé dans la synthèse.
 
 ## Travail à faire
@@ -76,7 +82,7 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 **Représenter et transmettre à la chargée de mission**
 
 1. Créer depuis le TCD un **graphique en barres empilées** « Espèces non indigènes par commune et par statut » complet : titre, axes légendés, source citée (OEB via data.gouv.fr, année de mise à jour). Justifier en une phrase le choix de la barre empilée (montrer à la fois le total et la part d'invasives).
-2. Préparer la **carte** : créer depuis le tableau de synthèse un fichier CSV (commune, code postal, nombre total d'espèces, nombre d'invasives avérées), le convertir en KML avec le convertisseur, puis l'importer dans **Google MyMaps**. Titrer la carte et renseigner les pop-ups avec les deux nombres.
+2. Préparer la **carte** : créer depuis le tableau de synthèse un fichier CSV (commune, code postal, nombre total d'espèces, nombre d'invasives avérées), puis l'importer **directement** dans **Google MyMaps** (Importer → choisir le CSV, désigner la commune ou le code postal comme colonne de position et la commune comme titre des repères). Titrer la carte et renseigner les pop-ups avec les deux nombres.
 3. Rédiger la **synthèse pour la chargée de mission** (8-10 lignes) : nombre d'espèces non indigènes sur le territoire, part d'invasives avérées, communes les plus exposées à cibler en priorité, **rappel explicite du biais de pression d'observation**, et une proposition concrète (commune à surveiller, message aux agents d'entretien). Insérer le graphique et le lien de la carte.
 
 !!! tip "Où répondre ?"
@@ -87,7 +93,6 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 - [Espèces non indigènes par commune en Bretagne — data.gouv.fr](https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne){ target="_blank" rel="noopener" } — fiche officielle : description, licence (Licence Ouverte 2.0), téléchargement du CSV (OEB / GIP Bretagne environnement).
 - [Tableau de bord « Les espèces non indigènes en Bretagne » — OEB](https://bretagne-environnement.fr/tableau-de-bord/especes-non-indigenes-bretagne){ target="_blank" rel="noopener" } — datavisualisation officielle pour comprendre le contexte avant de traiter les données.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
-- [Convertisseur CSV → KML](https://scuttemery.fr/converter){ target="_blank" rel="noopener" } — pour transformer le fichier de points avant l'import dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)

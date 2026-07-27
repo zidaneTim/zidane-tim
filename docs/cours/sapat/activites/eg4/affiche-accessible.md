@@ -22,9 +22,10 @@ Le **CCAS de Loudéac** constate, sur le terrain, que de nombreux usagers accomp
 domicile, EHPAD, accueil social) ne parviennent plus à réaliser seuls des démarches devenues presque entièrement
 numériques : renouveler des droits sur caf.fr, prendre un rendez-vous médical sur Doctolib, déclarer ses revenus sur
 impots.gouv.fr. Ce phénomène a un nom : l'**illectronisme**. Selon l'Insee, en 2021, **15,4 %** de la population
-française de 15 ans ou plus est en situation d'illectronisme — soit **plus de 8 millions de personnes** — et l'écart
+française de 15 ans ou plus est en situation d'illectronisme — **13,9 %** n'ont pas utilisé Internet au cours des
+trois derniers mois et **1,5 %** l'ont utilisé sans disposer des compétences numériques de base — et l'écart
 est massif entre générations : **62 %** des personnes de 75 ans ou plus sont concernées, contre seulement **2 %**
-des 15-24 ans (source : Insee, *Insee Première* n°1953, juillet 2023).
+des 15-24 ans (source : Insee, *Insee Première* n°1953, juin 2023).
 
 Pour que les jeunes du territoire mesurent cet enjeu avant même d'entrer dans les métiers de l'aide et du soin, le
 CCAS lance une campagne d'affichage dans les lieux qu'ils fréquentent : CDI du lycée, foyer socio-éducatif,
@@ -54,9 +55,10 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 **Prélever une donnée chiffrée fiable et la relier au secteur**
 
 1. Ouvrir la fiche [Insee Première n°1953 — 15 % de la population est en situation d'illectronisme en 2021](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" } et relever dans OneNote le taux
-   national (15,4 %) et le nombre de personnes concernées (plus de 8 millions).
+   national (15,4 %) et sa décomposition (13,9 % des personnes de 15 ans ou plus n'ont pas utilisé Internet au cours
+   des trois derniers mois, et 1,5 % l'ont utilisé sans disposer des compétences numériques de base).
 2. Relever, dans la même étude, l'écart générationnel (62 % des 75 ans ou plus en situation d'illectronisme, contre
-   2 % des 15-24 ans) et noter la source exacte (Insee, *Insee Première* n°1953, juillet 2023).
+   2 % des 15-24 ans) et noter la source exacte (Insee, *Insee Première* n°1953, juin 2023).
 3. Ouvrir la fiche [L'illectronisme en chiffres](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" } de l'ANLCI (Agence nationale de lutte contre l'illettrisme) et relever la
    définition de l'illectronisme en une phrase.
 4. Lister 3 démarches numériques devenues incontournables pour un usager SAPAT (ex. Doctolib pour un rendez-vous
@@ -64,9 +66,9 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
    concrète si la personne ne peut pas l'accomplir seule.
 
 !!! tip "🆘 Coup de pouce"
-    Si les chiffres se mélangent, retiens seulement ces deux données pour l'affiche : **15,4 % / plus de 8 millions
-    de personnes** (population totale concernée) et **62 % contre 2 %** (écart entre les 75 ans et plus et les
-    15-24 ans). Ce sont les deux chiffres les plus parlants pour un public jeune.
+    Si les chiffres se mélangent, retiens seulement ces deux données pour l'affiche : **15,4 %** (part de la
+    population de 15 ans ou plus en situation d'illectronisme) et **62 % contre 2 %** (écart entre les 75 ans et
+    plus et les 15-24 ans). Ce sont les deux chiffres les plus parlants pour un public jeune.
 
 ### B — Cadrer le message pour un public de jeunes
 
@@ -115,8 +117,9 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 
 ### Questions de synthèse
 
-- Quel est le taux national d'illectronisme en France en 2021, et combien de personnes cela représente-t-il ? —
-  réponse attendue : 15,4 %, soit plus de 8 millions de personnes (Insee, 2023).
+- Quel est le taux national d'illectronisme en France en 2021, et comment se décompose-t-il ? — réponse attendue :
+  15,4 %, dont 13,9 % de personnes n'ayant pas utilisé Internet au cours des trois derniers mois et 1,5 % l'ayant
+  utilisé sans disposer des compétences numériques de base (Insee, 2023).
 - Quel écart générationnel les mêmes données Insee mettent-elles en évidence ? — réponse attendue : 62 % des 75 ans
   ou plus en situation d'illectronisme, contre 2 % des 15-24 ans.
 - Cite 2 règles d'accessibilité que tu as appliquées sur ton affiche, et explique en une phrase pourquoi une affiche
@@ -128,7 +131,7 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 
 ## Ressources et outils
 
-- **Insee — Insee Première n°1953 (juillet 2023)** : chiffre national et écart générationnel sur l'illectronisme,
+- **Insee — Insee Première n°1953 (juin 2023)** : chiffre national et écart générationnel sur l'illectronisme,
   source à citer sur l'affiche — [insee.fr/fr/statistiques/7633654](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" }.
 - **ANLCI — L'illectronisme en chiffres** : définition et données complémentaires (Agence nationale de lutte contre
   l'illettrisme) — [anlci.gouv.fr](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" }.
@@ -150,5 +153,5 @@ l'affichage pour les jeunes du territoire par le CCAS de Loudéac (Mme Le Goff).
 
 !!! note "Compétences visées"
     EG4 — attendu « créer une affiche de prévention accessible, décrire les enjeux de l'illectronisme en SAPAT »
-    (progression 2nde SAPAT, S04). Adapter un document à son public et à sa finalité, dont l'accessibilité
+    (progression 2nde SAPAT). Adapter un document à son public et à sa finalité, dont l'accessibilité
     (CRCN 3.3) ; comprendre les enjeux de la fracture numérique et de l'inclusion numérique (CRCN 2.4).
