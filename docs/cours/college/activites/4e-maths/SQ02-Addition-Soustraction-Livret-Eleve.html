@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SQ1 — Additionner et soustraire des nombres relatifs — Livret élève (4e EA)</title>
+<style>
+  :root{
+    --noir:#000; --gris-fonce:#333; --gris:#666; --gris-clair:#e8e8e8; --gris-tres-clair:#f4f4f4;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:"Segoe UI", Arial, sans-serif;
+    font-size:10.5pt; line-height:1.35; color:#000;
+    max-width:19cm; margin:0 auto; padding:.5cm;
+    background:#fff;
+  }
+  header.doc{
+    border:2px solid var(--noir); border-radius:6px;
+    padding:.25cm .4cm; margin-bottom:.3cm;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  header.doc h1{font-size:13.5pt; color:var(--noir);}
+  h2.seance{
+    border:2px solid var(--noir); background:var(--gris-clair); color:var(--noir);
+    padding:.15cm .3cm; border-radius:5px; font-size:12pt; margin:.35cm 0 .25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  h2.seance small{font-weight:normal; font-size:9.5pt; color:var(--gris-fonce);}
+  h3{color:var(--noir); font-size:11pt; margin:.28cm 0 .12cm 0;
+     border-bottom:1.5px solid var(--gris); padding-bottom:1px;
+     break-after:avoid; page-break-after:avoid;}
+  p{margin:.12cm 0;}
+  .objectifs{
+    background:var(--gris-tres-clair); border-left:4px solid var(--noir);
+    padding:.2cm .3cm; border-radius:0 5px 5px 0; margin:.25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .objectifs ul{margin-left:.5cm;}
+  .retenir{
+    border:1.5px solid var(--noir); border-radius:6px;
+    padding:.22cm; margin:.28cm 0; background:#fff;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .retenir .titre{
+    font-weight:bold; color:var(--noir); text-transform:uppercase;
+    letter-spacing:.5px; font-size:9.5pt; margin-bottom:.12cm;
+    border-bottom:1px solid var(--gris); padding-bottom:1px;
+  }
+  .methode{
+    background:var(--gris-tres-clair); border:1.5px dashed var(--gris-fonce);
+    border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .methode .titre{font-weight:bold; font-size:9.5pt; text-transform:uppercase; letter-spacing:.5px;}
+  .exemple{
+    background:var(--gris-tres-clair); border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo{
+    border:1.2px solid var(--gris); border-radius:6px;
+    padding:.22cm; margin:.26cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo .num{
+    display:inline-block; background:var(--noir); color:#fff;
+    border-radius:50%; width:1.5em; height:1.5em; text-align:center;
+    line-height:1.5em; font-weight:bold; margin-right:.3em;
+  }
+  .exo.defi{border:2.5px solid var(--noir);}
+  .exo.defi .etoile{font-size:14pt; font-weight:bold;}
+  .reponse{
+    border-bottom:1.5px dotted #000; display:inline-block;
+    min-width:3.2cm; height:1.15em; vertical-align:bottom;
+  }
+  .reponse.longue{min-width:9cm;}
+  .zone{
+    border:1.5px dashed var(--gris); border-radius:5px;
+    min-height:1.7cm; margin:.18cm 0; padding:.15cm;
+  }
+  .droite-svg{display:block; margin:.2cm auto; max-width:100%;}
+  table.tbl{
+    border-collapse:collapse; width:100%; margin:.2cm 0; font-size:10pt;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  table.tbl th, table.tbl td{
+    border:1px solid #000; padding:.1cm .18cm; text-align:center;
+  }
+  table.tbl th{background:var(--gris-clair); color:var(--noir);}
+  table.carre{width:auto; margin:.3cm auto;}
+  table.carre td{width:1.6cm; height:1.3cm; font-size:14pt; font-weight:bold;}
+  table.cartes{border-collapse:collapse; width:100%; margin:.3cm 0;}
+  table.cartes td{
+    border:1.5px dashed #000; width:25%; height:2.1cm; text-align:center;
+    font-size:16pt; font-weight:bold; padding:.15cm;
+  }
+  table.cartes td small{display:block; font-size:8.5pt; font-weight:normal; color:#333;}
+  .regles{
+    border:2px solid var(--noir); border-radius:8px; padding:.35cm; margin:.4cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .regles ol{margin-left:.7cm;}
+  .regles li{margin:.12cm 0;}
+  .rassure{
+    background:#fff; border:3px double var(--noir); border-radius:6px;
+    padding:.25cm; margin:.28cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .rassure .titre{font-weight:bold; color:var(--noir); margin-bottom:.1cm; text-transform:uppercase;}
+  footer.doc{
+    margin-top:.8cm; padding-top:.2cm; border-top:1px solid var(--gris);
+    font-size:9pt; color:var(--gris-fonce); text-align:center;
+  }
+  .saut{break-before:page; page-break-before:always;}
+  .noprint{
+    position:fixed; top:12px; right:12px; background:var(--gris-fonce); color:#fff;
+    border:none; padding:.3cm .5cm; border-radius:6px; font-size:11pt; cursor:pointer;
+  }
+  @media print{
+    body{padding:0; max-width:none; font-size:10.5pt;}
+    .noprint{display:none;}
+    @page{size:A4; margin:1cm 1.1cm;}
+    h2.seance, .objectifs, .exemple, .methode, table.tbl th{
+      -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    }
+  }
+</style>
+</head>
+<body>
+<button class="noprint" onclick="window.print()">Imprimer</button>
+
+<!-- ============ PAGE 1 — Séance 1 : situation de départ ============ -->
+<header class="doc">
+  <h1>Séquence 1 — Additionner et soustraire des nombres relatifs</h1>
+</header>
+
+<div class="objectifs">
+  <strong>Ce que je vais apprendre cette semaine :</strong>
+  <ul>
+    <li><strong>Additionner</strong> deux nombres relatifs (avec la droite graduée, puis de tête) ;</li>
+    <li><strong>Soustraire</strong> un nombre relatif ;</li>
+    <li>Utiliser ces calculs dans des situations concrètes (températures, argent, jeu).</li>
+  </ul>
+</div>
+
+<h2 class="seance">Séance 1 — Additionner et soustraire <small>· lundi · notion</small></h2>
+
+<h3>1. Situation de départ : la température qui change</h3>
+<p>La semaine dernière, on a appris à <strong>lire</strong> des températures. Cette semaine, on regarde comment elles <strong>changent</strong> :</p>
+<table class="tbl">
+  <tr><th>Ville</th><th>Le matin</th><th>L'après-midi</th><th>Variation (avec un signe + ou −)</th></tr>
+  <tr><td>Loudéac</td><td>−2 °C</td><td>+3 °C</td><td></td></tr>
+  <tr><td>Rennes</td><td>+1 °C</td><td>−2 °C</td><td></td></tr>
+  <tr><td>Brest</td><td>+4 °C</td><td>+6 °C</td><td></td></tr>
+  <tr><td>Pontivy</td><td>−1 °C</td><td>−5 °C</td><td></td></tr>
+</table>
+
+<div class="exo">
+  <span class="num">1</span><strong>À l'aide du tableau :</strong><br>
+  a) Complète la colonne « Variation » : de combien la température a-t-elle monté (+) ou baissé (−) ?<br><br>
+  b) Dans quelle ville a-t-elle le plus monté ? <span class="reponse"></span><br><br>
+  c) Dans quelle ville a-t-elle le plus baissé ? <span class="reponse"></span>
+</div>
+
+<div class="exemple">
+  <strong>L'idée de la semaine :</strong> une température qui monte de 5 °C, c'est <strong>ajouter +5</strong>.
+  Une température qui baisse de 4 °C, c'est <strong>ajouter −4</strong>. Additionner un nombre relatif,
+  c'est se <strong>déplacer</strong> sur le thermomètre… ou sur la droite graduée !
+</div>
+
+<h3>2. Additionner deux nombres relatifs</h3>
+<div class="retenir">
+  <div class="titre">Je retiens — l'addition, c'est un déplacement</div>
+  <p>Je pars du premier nombre sur la droite graduée :</p>
+  <p>• ajouter un nombre <strong>positif</strong> → je me déplace vers la <strong>droite</strong> ;</p>
+  <p>• ajouter un nombre <strong>négatif</strong> → je me déplace vers la <strong>gauche</strong>.</p>
+  <p><em>Exemple : (+2) + (−5) : je pars de +2, je recule de 5 → j'arrive à <strong>−3</strong>.</em></p>
+</div>
+
+<svg class="droite-svg" width="640" height="100" viewBox="0 0 640 100" xmlns="http://www.w3.org/2000/svg">
+  <line x1="20" y1="60" x2="620" y2="60" stroke="#000" stroke-width="2"/>
+  <polygon points="620,60 608,54 608,66" fill="#000"/>
+  <g stroke="#000" stroke-width="2" font-family="Arial" font-size="15" text-anchor="middle">
+    <line x1="60"  y1="52" x2="60"  y2="68"/><text x="60"  y="88" stroke="none">−5</text>
+    <line x1="115" y1="52" x2="115" y2="68"/><text x="115" y="88" stroke="none">−4</text>
+    <line x1="170" y1="52" x2="170" y2="68"/><text x="170" y="88" stroke="none">−3</text>
+    <line x1="225" y1="52" x2="225" y2="68"/><text x="225" y="88" stroke="none">−2</text>
+    <line x1="280" y1="52" x2="280" y2="68"/><text x="280" y="88" stroke="none">−1</text>
+    <line x1="335" y1="48" x2="335" y2="72" stroke-width="3"/><text x="335" y="88" stroke="none" font-weight="bold">0</text>
+    <line x1="390" y1="52" x2="390" y2="68"/><text x="390" y="88" stroke="none">+1</text>
+    <line x1="445" y1="52" x2="445" y2="68"/><text x="445" y="88" stroke="none">+2</text>
+    <line x1="500" y1="52" x2="500" y2="68"/><text x="500" y="88" stroke="none">+3</text>
+    <line x1="555" y1="52" x2="555" y2="68"/><text x="555" y="88" stroke="none">+4</text>
+  </g>
+  <path d="M 445 40 Q 335 5 172 38" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="6 4"/>
+  <polygon points="170,42 182,32 186,44" fill="#000"/>
+  <text x="310" y="16" font-family="Arial" font-size="13" text-anchor="middle" fill="#000" font-weight="bold">(+2) + (−5) : je recule de 5</text>
+</svg>
+
+<div class="exo">
+  <span class="num">2</span><strong>Calcule en te déplaçant sur la droite graduée ci-dessus</strong> (dessine les sauts au crayon si ça t'aide) :<br><br>
+  <span style="line-height:2.2;">
+  a) (+1) + (+3) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  b) (−2) + (−1) = <span class="reponse" style="min-width:1.8cm;"></span><br>
+  c) (+2) + (−6) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  d) (−4) + (+7) = <span class="reponse" style="min-width:1.8cm;"></span>
+  </span>
+</div>
+
+<!-- ============ PAGE 2 — Séance 1 (suite) : règles + soustraction ============ -->
+<div class="saut"></div>
+
+<div class="retenir">
+  <div class="titre">Je retiens — pour aller plus vite</div>
+  <table class="tbl">
+    <tr><th>Les deux nombres ont…</th><th>Ce que je fais</th><th>Exemple</th></tr>
+    <tr><td>le <strong>même signe</strong></td><td>j'additionne les distances à zéro,<br>je <strong>garde le signe</strong></td><td>(−3) + (−2) = −5</td></tr>
+    <tr><td>des <strong>signes contraires</strong></td><td>je soustrais les distances à zéro,<br>je prends le <strong>signe du plus éloigné de zéro</strong></td><td>(+7) + (−4) = +3</td></tr>
+  </table>
+</div>
+
+<div class="exo">
+  <span class="num">3</span><strong>Calcule sans la droite graduée :</strong><br><br>
+  <span style="line-height:2.2;">
+  a) (+5) + (+2) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  b) (−3) + (−2) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  c) (+7) + (−4) = <span class="reponse" style="min-width:1.8cm;"></span><br>
+  d) (−6) + (+2) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  e) (−3) + (+3) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  f) (+1,5) + (−0,5) = <span class="reponse" style="min-width:1.8cm;"></span>
+  </span>
+</div>
+
+<h3>3. Soustraire un nombre relatif</h3>
+<div class="retenir">
+  <div class="titre">Je retiens — une seule règle</div>
+  <p><strong>Soustraire un nombre, c'est ajouter son opposé.</strong></p>
+  <p>Exemple : (+3) − (+5) = (+3) + (−5) = <strong>−2</strong></p>
+  <p>Exemple : (−2) − (−4) = (−2) + (+4) = <strong>+2</strong></p>
+  <p><em>Une fois la soustraction transformée en addition, je sais déjà faire !</em></p>
+</div>
+
+<div class="exemple">
+  <strong>Pour s'en souvenir :</strong> enlever une dette, c'est comme gagner de l'argent.
+  Si on m'enlève une dette de 4 € (je soustrais −4), mon compte <strong>augmente</strong> de 4 € (j'ajoute +4).
+</div>
+
+<div class="exo">
+  <span class="num">4</span><strong>Transforme la soustraction en addition, puis calcule</strong> (comme dans l'exemple) :<br>
+  <em>Exemple : (+4) − (+6) = (+4) + (−6) = −2</em><br><br>
+  a) (+2) − (+5) = (+2) + ( <span class="reponse" style="min-width:1.2cm;"></span> ) = <span class="reponse" style="min-width:1.5cm;"></span><br><br>
+  b) (−1) − (+3) = <span class="reponse longue" style="min-width:7cm;"></span><br><br>
+  c) (+2) − (−3) = <span class="reponse longue" style="min-width:7cm;"></span><br><br>
+  d) (−5) − (−2) = <span class="reponse longue" style="min-width:7cm;"></span>
+</div>
+
+<!-- ============ PAGE 4 — Séance 2 : rituel ============ -->
+<div class="saut"></div>
+<h2 class="seance">Séance 2 — Je m'entraîne <small>· mardi · rituel + exercices</small></h2>
+
+<h3>1. Rituel automatismes (10 minutes, en autonomie)</h3>
+<div class="exo">
+  <span class="num">5</span><strong>Réponds le plus vite possible, sans calculatrice :</strong>
+  <table class="tbl">
+    <tr><th style="width:70%; text-align:left;">Question</th><th>Réponse</th></tr>
+    <tr><td style="text-align:left;">a) (+2) + (+5)</td><td></td></tr>
+    <tr><td style="text-align:left;">b) (−3) + (−4)</td><td></td></tr>
+    <tr><td style="text-align:left;">c) (+6) + (−2)</td><td></td></tr>
+    <tr><td style="text-align:left;">d) (−5) + (+3)</td><td></td></tr>
+    <tr><td style="text-align:left;">e) Il fait −1 °C, la température baisse de 4 °C. Nouvelle température ?</td><td></td></tr>
+    <tr><td style="text-align:left;">f) Quel est l'opposé de −6 ?</td><td></td></tr>
+    <tr><td style="text-align:left;">g) (+4) − (+6)</td><td></td></tr>
+    <tr><td style="text-align:left;">h) (−2) − (−5)</td><td></td></tr>
+  </table>
+</div>
+
+<div class="methode">
+  <div class="titre">Méthode — avant de calculer, je me pose deux questions</div>
+  <p>1. Est-ce une <strong>addition</strong> ou une <strong>soustraction</strong> ? Si c'est une soustraction → je la transforme en addition de l'opposé.<br>
+  2. Les deux nombres ont-ils le <strong>même signe</strong> ou des <strong>signes contraires</strong> ? → j'applique la bonne règle du tableau.<br>
+  3. En cas de doute : je dessine les déplacements sur une droite graduée. Ça marche toujours.</p>
+</div>
+
+<!-- ============ PAGE 5 — Séance 2 (suite) : entraînement ============ -->
+<div class="saut"></div>
+
+<h3>2. Exercices d'entraînement</h3>
+
+<div class="exo">
+  <span class="num">6</span><strong>Calcule</strong> (additions et soustractions mélangées) :<br><br>
+  <span style="line-height:2.2;">
+  a) (+8) + (−3) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  b) (−7) + (−3) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  c) (−4) − (+4) = <span class="reponse" style="min-width:1.8cm;"></span><br>
+  d) (+3) − (−5) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  e) (−2,5) + (+4) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  f) 0 − (−6) = <span class="reponse" style="min-width:1.8cm;"></span>
+  </span>
+</div>
+
+<div class="exo">
+  <span class="num">7</span><strong>Trouve le nombre manquant :</strong><br><br>
+  <span style="font-size:11.5pt; line-height:2.2;">
+  a) (−3) + <span class="reponse" style="min-width:1.5cm;"></span> = +2 &nbsp;&nbsp;&nbsp;
+  b) (+4) + <span class="reponse" style="min-width:1.5cm;"></span> = −1 &nbsp;&nbsp;&nbsp;
+  c) <span class="reponse" style="min-width:1.5cm;"></span> + (−2) = −6
+  </span>
+</div>
+
+<div class="exo">
+  <span class="num">8</span><strong>Problème : la cagnotte.</strong><br>
+  Nolan a 15 € dans sa cagnotte. Il achète un cadeau à 18 € (ses parents avancent ce qui manque, sa cagnotte passe en négatif).<br>
+  a) Quel est le solde de sa cagnotte ? <span class="reponse"></span><br><br>
+  b) Pour son anniversaire, il reçoit 10 €. Quel est le nouveau solde ? <span class="reponse"></span><br><br>
+  c) Écris les deux calculs avec des nombres relatifs :<br>
+  <div class="zone" style="min-height:1.6cm;"></div>
+</div>
+
+<div class="exo defi">
+  <span class="etoile">★</span> <strong>Défi (pour ceux qui ont fini) : le carré magique.</strong>
+  Complète le carré pour que <strong>chaque ligne, chaque colonne et chaque diagonale</strong> ait pour somme <strong>0</strong>.
+  <table class="tbl carre">
+    <tr><td>+3</td><td></td><td>+1</td></tr>
+    <tr><td>−2</td><td>0</td><td></td></tr>
+    <tr><td></td><td>+4</td><td></td></tr>
+  </table>
+</div>
+
+<!-- ============ PAGE 6 — Séance 3 : le jeu (règles + plateau) ============ -->
+<div class="saut"></div>
+<h2 class="seance">Séance 3 — Le parcours des relatifs <small>· vendredi · jeu, pas de note</small></h2>
+
+<div class="rassure">
+  <div class="titre">C'est un jeu — important !</div>
+  <p>Aujourd'hui on joue, <strong>rien n'est noté</strong>. Le but : calculer avec les relatifs sans s'en rendre compte.
+  Si tu te trompes dans un calcul, on corrige ensemble et tu rejoues normalement — <strong>aucune pénalité</strong>.</p>
+</div>
+
+<div class="regles">
+  <strong>Règles du jeu (2 à 4 joueurs)</strong>
+  <ol>
+    <li>Matériel : le plateau ci-dessous, un pion par joueur (gomme, capuchon…), les cartes de la page suivante découpées et empilées face cachée, la fiche de suivi.</li>
+    <li>Tous les pions partent de la case <strong>0 (DÉPART)</strong>.</li>
+    <li>À ton tour : pioche une carte, <strong>écris le calcul complet</strong> sur ta fiche de suivi (position actuelle + carte), annonce le résultat, puis déplace ton pion.</li>
+    <li>Les autres joueurs vérifient (la calculatrice sert d'arbitre en cas de désaccord).</li>
+    <li>Carte <strong>« Opposé ! »</strong> : ton pion saute sur l'opposé de sa position (de +4 à −4, de −7 à +7…). Carte <strong>« Retour à 0 »</strong> : ton pion revient à 0.</li>
+    <li>Si tu descends sous −12, ton pion s'arrête sur −12. Quand la pioche est vide, on la remélange.</li>
+    <li><strong>Gagne le premier joueur qui atteint ou dépasse +12.</strong></li>
+  </ol>
+</div>
+
+<svg class="droite-svg" width="640" height="415" viewBox="0 0 640 415" xmlns="http://www.w3.org/2000/svg" font-family="Arial">
+  <!-- rangée 1 : −12 → −8 -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <rect x="10"  y="10" width="120" height="70"/><rect x="134" y="10" width="120" height="70"/>
+    <rect x="258" y="10" width="120" height="70"/><rect x="382" y="10" width="120" height="70"/>
+    <rect x="506" y="10" width="120" height="70"/>
+  </g>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#000">
+    <text x="70" y="53">−12</text><text x="194" y="53">−11</text><text x="318" y="53">−10</text>
+    <text x="442" y="53">−9</text><text x="566" y="53">−8</text>
+  </g>
+  <!-- rangée 2 : −3 ← −7 (sens de jeu vers la gauche) -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <rect x="10"  y="88" width="120" height="70"/><rect x="134" y="88" width="120" height="70"/>
+    <rect x="258" y="88" width="120" height="70"/><rect x="382" y="88" width="120" height="70"/>
+    <rect x="506" y="88" width="120" height="70"/>
+  </g>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#000">
+    <text x="70" y="131">−3</text><text x="194" y="131">−4</text><text x="318" y="131">−5</text>
+    <text x="442" y="131">−6</text><text x="566" y="131">−7</text>
+  </g>
+  <!-- rangée 3 : −2 → +2 (0 au centre) -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <rect x="10"  y="166" width="120" height="70"/><rect x="134" y="166" width="120" height="70"/>
+    <rect x="382" y="166" width="120" height="70"/><rect x="506" y="166" width="120" height="70"/>
+  </g>
+  <rect x="258" y="166" width="120" height="70" stroke="#000" stroke-width="4" fill="#e8e8e8"/>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#000">
+    <text x="70" y="203">−2</text><text x="194" y="203">−1</text>
+    <text x="318" y="200">0</text><text x="442" y="203">+1</text><text x="566" y="203">+2</text>
+  </g>
+  <text x="318" y="222" font-size="11" text-anchor="middle" fill="#000" font-weight="bold">DÉPART</text>
+  <!-- rangée 4 : +7 ← +3 -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <rect x="10"  y="244" width="120" height="70"/><rect x="134" y="244" width="120" height="70"/>
+    <rect x="258" y="244" width="120" height="70"/><rect x="382" y="244" width="120" height="70"/>
+    <rect x="506" y="244" width="120" height="70"/>
+  </g>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#000">
+    <text x="70" y="287">+7</text><text x="194" y="287">+6</text><text x="318" y="287">+5</text>
+    <text x="442" y="287">+4</text><text x="566" y="287">+3</text>
+  </g>
+  <!-- rangée 5 : +8 → +12 -->
+  <g stroke="#000" stroke-width="2" fill="none">
+    <rect x="10"  y="322" width="120" height="70"/><rect x="134" y="322" width="120" height="70"/>
+    <rect x="258" y="322" width="120" height="70"/><rect x="382" y="322" width="120" height="70"/>
+  </g>
+  <rect x="506" y="322" width="120" height="70" stroke="#000" stroke-width="4" fill="#e8e8e8"/>
+  <g font-size="22" font-weight="bold" text-anchor="middle" fill="#000">
+    <text x="70" y="365">+8</text><text x="194" y="365">+9</text><text x="318" y="365">+10</text>
+    <text x="442" y="365">+11</text><text x="566" y="359">+12</text>
+  </g>
+  <text x="566" y="378" font-size="11" text-anchor="middle" fill="#000" font-weight="bold">ARRIVÉE</text>
+  <!-- flèches de sens -->
+  <g stroke="#000" stroke-width="2" fill="#000">
+    <line x1="596" y1="80" x2="596" y2="88" stroke-dasharray="2 2"/>
+    <line x1="40"  y1="158" x2="40"  y2="166" stroke-dasharray="2 2"/>
+    <line x1="596" y1="236" x2="596" y2="244" stroke-dasharray="2 2"/>
+    <line x1="40"  y1="314" x2="40"  y2="322" stroke-dasharray="2 2"/>
+  </g>
+</svg>
+<p style="font-size:10.5pt; color:#333; text-align:center;">Le parcours suit les nombres dans l'ordre croissant, de −12 (en haut à gauche) à +12 (en bas à droite), en serpentant.</p>
+
+<!-- ============ PAGE 7 — Séance 3 (suite) : cartes + fiche de suivi ============ -->
+<div class="saut"></div>
+
+<h3>Les cartes à découper (une série par groupe)</h3>
+<table class="cartes">
+  <tr>
+    <td>+3<small>avance de 3</small></td><td>−5<small>recule de 5</small></td><td>+1<small>avance de 1</small></td><td>−2<small>recule de 2</small></td>
+  </tr>
+  <tr>
+    <td>+6<small>avance de 6</small></td><td>−4<small>recule de 4</small></td><td>+2<small>avance de 2</small></td><td>−6<small>recule de 6</small></td>
+  </tr>
+  <tr>
+    <td>+5<small>avance de 5</small></td><td>−1<small>recule de 1</small></td><td>+4<small>avance de 4</small></td><td>−3<small>recule de 3</small></td>
+  </tr>
+  <tr>
+    <td>+7<small>avance de 7</small></td><td>−7<small>recule de 7</small></td><td>+2<small>avance de 2</small></td><td>−2<small>recule de 2</small></td>
+  </tr>
+  <tr>
+    <td>+4<small>avance de 4</small></td><td>−4<small>recule de 4</small></td><td>+5<small>avance de 5</small></td><td>−5<small>recule de 5</small></td>
+  </tr>
+  <tr>
+    <td>Opposé !<small>saute sur l'opposé de ta position</small></td><td>Opposé !<small>saute sur l'opposé de ta position</small></td><td>Retour à 0<small>ton pion revient à 0</small></td><td>Retour à 0<small>ton pion revient à 0</small></td>
+  </tr>
+</table>
+
+<h3>Ma fiche de suivi (j'écris chaque calcul)</h3>
+<table class="tbl">
+  <tr><th style="width:12%;">Tour</th><th style="width:22%;">Ma position</th><th style="width:16%;">Carte</th><th style="width:32%;">Mon calcul</th><th style="width:18%;">Nouvelle position</th></tr>
+  <tr><td><em>Ex.</em></td><td><em>0</em></td><td><em>−3</em></td><td><em>(0) + (−3) = −3</em></td><td><em>−3</em></td></tr>
+  <tr><td>1</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>2</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>3</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>4</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>5</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>6</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>7</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>8</td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<footer class="doc">
+  Séquence 1 · Objectif du référentiel : 1.4
+</footer>
+</body>
+</html>

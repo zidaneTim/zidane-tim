@@ -42,10 +42,8 @@ Chaque séquence est distribuée en classe sous forme de livret élève. Les lie
 
 | Séquence | Semaine | Contenu | Livret élève |
 |---|---|---|---|
+| SQ01 | S37 | Nombres relatifs : repérage, comparaison | [Consulter](activites/4e-maths/SQ01-Nombres-Relatifs-Livret-Eleve.html) |
+| SQ02 | S38 | Additionner et soustraire des nombres relatifs | [Consulter](activites/4e-maths/SQ02-Addition-Soustraction-Livret-Eleve.html) |
 | SQ03 | S39 | Multiplier et diviser des nombres relatifs | [Consulter](activites/4e-maths/SQ03-Multiplication-Division-Livret-Eleve.html) |
 | SQ04 | S40 | Enchaînements d'opérations et parenthèses | [Consulter](activites/4e-maths/SQ04-Enchainements-Operations-Livret-Eleve.html) |
 | SQ05 | S41 | Lire et organiser des données · découverte tableur | [Consulter](activites/4e-maths/SQ05-Donnees-Tableur-Livret-Eleve.html) |
-
-!!! warning "SQ01 et SQ02 non publiées"
-
-    Les deux premières séquences (S37, S38) existent au même format mais restent pour l'instant dans le vault Obsidian, non publiées sur le site — cohérence à trancher par Driss.
