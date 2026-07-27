@@ -94,10 +94,3 @@ Tu as fini ton travail ? Voici des sites à explorer : jeux sérieux, concours, 
     [:octicons-arrow-right-24: En savoir plus](https://e-enfance.org/)
 
 </div>
-
-## Pour les familles et les enseignants
-
-| Site | À quoi ça sert |
-|---|---|
-| [ChloroFil](https://chlorofil.fr) | Référentiels de l'enseignement agricole (MASA) |
-| [CNEAP](https://www.cneap.fr) | Réseau de l'enseignement agricole privé |

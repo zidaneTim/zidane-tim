@@ -92,11 +92,11 @@ Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia
 
 </div>
 
-## Ressources {: .zt-filiere }
+## Envie de découvrir autre chose ? {: .zt-filiere }
 
-Liens utiles, réflexes numériques, sites officiels.
+Tu as fini ton travail ? Explore des jeux, concours, et plateformes.
 
-[:material-lifebuoy: Voir les ressources](ressources/index.md){ .md-button .md-button--primary }
+[:material-lightbulb-on: Voir ce qui t'attend](ressources/index.md){ .md-button .md-button--primary }
 
 !!! tip "Comment ça marche"
 
