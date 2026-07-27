@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SQ04 — Enchaînements d'opérations et parenthèses — Livret élève (4e EA)</title>
+<style>
+  :root{
+    --noir:#000; --gris-fonce:#333; --gris:#666; --gris-clair:#e8e8e8; --gris-tres-clair:#f4f4f4;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:"Segoe UI", Arial, sans-serif;
+    font-size:10.5pt; line-height:1.35; color:#000;
+    max-width:19cm; margin:0 auto; padding:.5cm;
+    background:#fff;
+  }
+  header.doc{
+    border:2px solid var(--noir); border-radius:6px;
+    padding:.25cm .4cm; margin-bottom:.3cm;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  header.doc h1{font-size:13.5pt; color:var(--noir);}
+  h2.seance{
+    border:2px solid var(--noir); background:var(--gris-clair); color:var(--noir);
+    padding:.15cm .3cm; border-radius:5px; font-size:12pt; margin:.35cm 0 .25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  h2.seance small{font-weight:normal; font-size:9.5pt; color:var(--gris-fonce);}
+  h3{color:var(--noir); font-size:11pt; margin:.28cm 0 .12cm 0;
+     border-bottom:1.5px solid var(--gris); padding-bottom:1px;
+     break-after:avoid; page-break-after:avoid;}
+  p{margin:.12cm 0;}
+  .objectifs{
+    background:var(--gris-tres-clair); border-left:4px solid var(--noir);
+    padding:.2cm .3cm; border-radius:0 5px 5px 0; margin:.25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .objectifs ul{margin-left:.5cm;}
+  .retenir{
+    border:1.5px solid var(--noir); border-radius:6px;
+    padding:.22cm; margin:.28cm 0; background:#fff;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .retenir .titre{
+    font-weight:bold; color:var(--noir); text-transform:uppercase;
+    letter-spacing:.5px; font-size:9.5pt; margin-bottom:.12cm;
+    border-bottom:1px solid var(--gris); padding-bottom:1px;
+  }
+  .methode{
+    background:var(--gris-tres-clair); border:1.5px dashed var(--gris-fonce);
+    border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .methode .titre{font-weight:bold; font-size:9.5pt; text-transform:uppercase; letter-spacing:.5px;}
+  .exemple{
+    background:var(--gris-tres-clair); border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo{
+    border:1.2px solid var(--gris); border-radius:6px;
+    padding:.22cm; margin:.26cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo .num{
+    display:inline-block; background:var(--noir); color:#fff;
+    border-radius:50%; width:1.5em; height:1.5em; text-align:center;
+    line-height:1.5em; font-weight:bold; margin-right:.3em;
+  }
+  .exo.defi{border:2.5px solid var(--noir);}
+  .exo.defi .etoile{font-size:14pt; font-weight:bold;}
+  .reponse{
+    border-bottom:1.5px dotted #000; display:inline-block;
+    min-width:3.2cm; height:1.15em; vertical-align:bottom;
+  }
+  .reponse.longue{min-width:9cm;}
+  .zone{
+    border:1.5px dashed var(--gris); border-radius:5px;
+    min-height:1.7cm; margin:.18cm 0; padding:.15cm;
+  }
+  table.tbl{
+    border-collapse:collapse; width:100%; margin:.2cm 0; font-size:10pt;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  table.tbl th, table.tbl td{
+    border:1px solid #000; padding:.1cm .18cm; text-align:center;
+  }
+  table.tbl th{background:var(--gris-clair); color:var(--noir);}
+  .rassure{
+    background:#fff; border:3px double var(--noir); border-radius:6px;
+    padding:.25cm; margin:.28cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .rassure .titre{font-weight:bold; color:var(--noir); margin-bottom:.1cm; text-transform:uppercase;}
+  footer.doc{
+    margin-top:.8cm; padding-top:.2cm; border-top:1px solid var(--gris);
+    font-size:9pt; color:var(--gris-fonce); text-align:center;
+  }
+  .saut{break-before:page; page-break-before:always;}
+  .noprint{
+    position:fixed; top:12px; right:12px; background:var(--gris-fonce); color:#fff;
+    border:none; padding:.3cm .5cm; border-radius:6px; font-size:11pt; cursor:pointer;
+  }
+  @media print{
+    body{padding:0; max-width:none; font-size:10.5pt;}
+    .noprint{display:none;}
+    @page{size:A4; margin:1cm 1.1cm;}
+    h2.seance, .objectifs, .exemple, .methode, table.tbl th{
+      -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    }
+  }
+</style>
+</head>
+<body>
+<button class="noprint" onclick="window.print()">Imprimer</button>
+
+<!-- ============ PAGE 1 — Séance 1 : parenthèses ============ -->
+<header class="doc">
+  <h1>Séquence 1 (fin) — Enchaînements d'opérations et parenthèses</h1>
+</header>
+
+<div class="objectifs">
+  <strong>Ce que je vais apprendre cette semaine :</strong>
+  <ul>
+    <li>Calculer une expression <strong>avec des parenthèses</strong> ;</li>
+    <li>Enchaîner plusieurs opérations en respectant <strong>l'ordre des priorités</strong> ;</li>
+    <li>Me préparer à <strong>l'évaluation de séquence</strong> du vendredi, qui reprend tout ce qu'on a vu depuis trois semaines (repérage, addition/soustraction, multiplication/division).</li>
+  </ul>
+</div>
+
+<h2 class="seance">Séance 1 — Les parenthèses d'abord <small>· lundi · notion</small></h2>
+
+<h3>1. Rappel de la règle des priorités (déjà vue la semaine dernière)</h3>
+<div class="retenir">
+  <div class="titre">Je retiens — l'ordre complet</div>
+  <p>1. Je calcule d'abord ce qui est <strong>entre parenthèses</strong>.<br>
+  2. Puis les <strong>multiplications et divisions</strong>, dans l'ordre où elles apparaissent.<br>
+  3. Enfin les <strong>additions et soustractions</strong>.</p>
+</div>
+
+<div class="exemple">
+  <strong>Exemple traité pas à pas :</strong> (−2) + [(+5) − (+8)] × (+3)<br>
+  Étape 1 (parenthèses) : (+5) − (+8) = <strong>−3</strong><br>
+  Étape 2 (multiplication) : (−3) × (+3) = <strong>−9</strong><br>
+  Étape 3 (addition) : (−2) + (−9) = <strong>−11</strong>
+</div>
+
+<div class="exo">
+  <span class="num">1</span><strong>Calcule en respectant l'ordre (numérote tes étapes comme dans l'exemple) :</strong><br><br>
+  a) (+3) + [(+2) − (+6)] × (+2) = <span class="reponse longue" style="min-width:9cm;"></span><br><br>
+  b) [(−4) + (+1)] × (−3) − (+2) = <span class="reponse longue" style="min-width:9cm;"></span>
+</div>
+
+<h3>2. Un cas particulier : le signe « moins » devant une parenthèse</h3>
+<div class="retenir">
+  <div class="titre">Je retiens — attention à ce piège</div>
+  <p>Soustraire une parenthèse, c'est soustraire <strong>tout ce qu'elle contient</strong>.</p>
+  <p><em>Exemple : (+5) − [(+2) + (−7)] = (+5) − (−5) = (+5) + (+5) = +10</em></p>
+</div>
+
+<div class="exo">
+  <span class="num">2</span><strong>Calcule (attention au signe devant la parenthèse) :</strong><br><br>
+  a) (+8) − [(+3) + (−9)] = <span class="reponse longue" style="min-width:9cm;"></span><br><br>
+  b) (−4) − [(−6) + (+2)] = <span class="reponse longue" style="min-width:9cm;"></span>
+</div>
+
+<!-- ============ PAGE 2 — Séance 2 : rituel + entraînement ============ -->
+<div class="saut"></div>
+<h2 class="seance">Séance 2 — Je m'entraîne <small>· mardi · rituel + entraînement</small></h2>
+
+<h3>1. Rituel automatismes (10 minutes, en autonomie)</h3>
+<div class="exo">
+  <span class="num">3</span><strong>Réponds le plus vite possible, sans calculatrice :</strong>
+  <table class="tbl">
+    <tr><th style="width:70%; text-align:left;">Question</th><th>Réponse</th></tr>
+    <tr><td style="text-align:left;">a) (+2) + (−3) × (+2)</td><td></td></tr>
+    <tr><td style="text-align:left;">b) (−6) ÷ (+2) + (+1)</td><td></td></tr>
+    <tr><td style="text-align:left;">c) [(+4) − (+7)] × (+2)</td><td></td></tr>
+    <tr><td style="text-align:left;">d) (−3) − [(−5) + (+1)]</td><td></td></tr>
+    <tr><td style="text-align:left;">e) (+2) × (−3) × (−1)</td><td></td></tr>
+    <tr><td style="text-align:left;">f) (−12) ÷ (−4) − (+5)</td><td></td></tr>
+  </table>
+</div>
+
+<h3>2. Entraînement — bilan de la séquence 1</h3>
+<div class="exo">
+  <span class="num">4</span><strong>Un exercice qui mélange tout ce qu'on a vu depuis SQ01 :</strong><br><br>
+  a) Range dans l'ordre croissant : −5 ; +2 ; −8 ; 0 ; +1 &nbsp; <span class="reponse longue" style="min-width:9cm;"></span><br><br>
+  b) (−7) + (+4) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  c) (+3) − (−6) = <span class="reponse" style="min-width:1.8cm;"></span><br><br>
+  d) (−5) × (+4) = <span class="reponse" style="min-width:1.8cm;"></span> &nbsp;&nbsp;
+  e) (+24) ÷ (−6) = <span class="reponse" style="min-width:1.8cm;"></span><br><br>
+  f) (+3) + (−2) × (+4) = <span class="reponse longue" style="min-width:6cm;"></span>
+</div>
+
+<div class="exo">
+  <span class="num">5</span><strong>Problème (contexte silo, comme la semaine dernière) :</strong><br>
+  Un silo contenait +40 tonnes de grain. Il perd 3 tonnes par jour de livraison, pendant 4 jours. Puis il reçoit une nouvelle récolte de +18 tonnes.<br>
+  Écris le calcul complet et trouve le niveau final du silo :<br>
+  <div class="zone" style="min-height:2cm;"></div>
+</div>
+
+<div class="methode">
+  <div class="titre">Méthode — avant l'évaluation de vendredi</div>
+  <p>Relis les encadrés « Je retiens » de SQ01 à SQ04 (repérage, addition/soustraction, multiplication/division, priorités). L'évaluation de vendredi ne contient <strong>aucune notion nouvelle</strong> — uniquement ce que tu as déjà réussi à faire cette semaine et les trois précédentes.</p>
+</div>
+
+<div class="rassure">
+  <div class="titre">Vendredi : évaluation de séquence</div>
+  <p>Ce vendredi, il n'y a pas de nouveau livret : c'est <strong>l'évaluation de séquence SQ1</strong> qui clôt les quatre premières semaines (repérage, addition/soustraction, multiplication/division, priorités). Elle est plus longue que les mini-évaluations habituelles, mais porte uniquement sur ce que tu as déjà travaillé.</p>
+</div>
+
+<footer class="doc">
+  Séquence 1 (fin) · Objectif du référentiel : 1.4
+</footer>
+</body>
+</html>

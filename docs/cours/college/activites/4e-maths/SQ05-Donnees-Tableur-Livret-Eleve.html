@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SQ05 — Lire et organiser des données — Livret élève (4e EA)</title>
+<style>
+  :root{
+    --noir:#000; --gris-fonce:#333; --gris:#666; --gris-clair:#e8e8e8; --gris-tres-clair:#f4f4f4;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    font-family:"Segoe UI", Arial, sans-serif;
+    font-size:10.5pt; line-height:1.35; color:#000;
+    max-width:19cm; margin:0 auto; padding:.5cm;
+    background:#fff;
+  }
+  header.doc{
+    border:2px solid var(--noir); border-radius:6px;
+    padding:.25cm .4cm; margin-bottom:.3cm;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  header.doc h1{font-size:13.5pt; color:var(--noir);}
+  h2.seance{
+    border:2px solid var(--noir); background:var(--gris-clair); color:var(--noir);
+    padding:.15cm .3cm; border-radius:5px; font-size:12pt; margin:.35cm 0 .25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  h2.seance small{font-weight:normal; font-size:9.5pt; color:var(--gris-fonce);}
+  h3{color:var(--noir); font-size:11pt; margin:.28cm 0 .12cm 0;
+     border-bottom:1.5px solid var(--gris); padding-bottom:1px;
+     break-after:avoid; page-break-after:avoid;}
+  p{margin:.12cm 0;}
+  .objectifs{
+    background:var(--gris-tres-clair); border-left:4px solid var(--noir);
+    padding:.2cm .3cm; border-radius:0 5px 5px 0; margin:.25cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .objectifs ul{margin-left:.5cm;}
+  .retenir{
+    border:1.5px solid var(--noir); border-radius:6px;
+    padding:.22cm; margin:.28cm 0; background:#fff;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .retenir .titre{
+    font-weight:bold; color:var(--noir); text-transform:uppercase;
+    letter-spacing:.5px; font-size:9.5pt; margin-bottom:.12cm;
+    border-bottom:1px solid var(--gris); padding-bottom:1px;
+  }
+  .methode{
+    background:var(--gris-tres-clair); border:1.5px dashed var(--gris-fonce);
+    border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .methode .titre{font-weight:bold; font-size:9.5pt; text-transform:uppercase; letter-spacing:.5px;}
+  .exemple{
+    background:var(--gris-tres-clair); border-radius:5px; padding:.2cm .3cm; margin:.22cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo{
+    border:1.2px solid var(--gris); border-radius:6px;
+    padding:.22cm; margin:.26cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .exo .num{
+    display:inline-block; background:var(--noir); color:#fff;
+    border-radius:50%; width:1.5em; height:1.5em; text-align:center;
+    line-height:1.5em; font-weight:bold; margin-right:.3em;
+  }
+  .exo.defi{border:2.5px solid var(--noir);}
+  .exo.defi .etoile{font-size:14pt; font-weight:bold;}
+  .reponse{
+    border-bottom:1.5px dotted #000; display:inline-block;
+    min-width:3.2cm; height:1.15em; vertical-align:bottom;
+  }
+  .reponse.longue{min-width:9cm;}
+  .zone{
+    border:1.5px dashed var(--gris); border-radius:5px;
+    min-height:1.7cm; margin:.18cm 0; padding:.15cm;
+  }
+  table.tbl{
+    border-collapse:collapse; width:100%; margin:.2cm 0; font-size:10pt;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  table.tbl th, table.tbl td{
+    border:1px solid #000; padding:.1cm .18cm; text-align:center;
+  }
+  table.tbl th{background:var(--gris-clair); color:var(--noir);}
+  .regles{
+    border:2px solid var(--noir); border-radius:8px; padding:.35cm; margin:.4cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .regles ol{margin-left:.7cm;}
+  .regles li{margin:.12cm 0;}
+  .rassure{
+    background:#fff; border:3px double var(--noir); border-radius:6px;
+    padding:.25cm; margin:.28cm 0;
+    break-inside:avoid; page-break-inside:avoid;
+  }
+  .rassure .titre{font-weight:bold; color:var(--noir); margin-bottom:.1cm; text-transform:uppercase;}
+  footer.doc{
+    margin-top:.8cm; padding-top:.2cm; border-top:1px solid var(--gris);
+    font-size:9pt; color:var(--gris-fonce); text-align:center;
+  }
+  .saut{break-before:page; page-break-before:always;}
+  .noprint{
+    position:fixed; top:12px; right:12px; background:var(--gris-fonce); color:#fff;
+    border:none; padding:.3cm .5cm; border-radius:6px; font-size:11pt; cursor:pointer;
+  }
+  @media print{
+    body{padding:0; max-width:none; font-size:10.5pt;}
+    .noprint{display:none;}
+    @page{size:A4; margin:1cm 1.1cm;}
+    h2.seance, .objectifs, .exemple, .methode, table.tbl th{
+      -webkit-print-color-adjust:exact; print-color-adjust:exact;
+    }
+  }
+</style>
+</head>
+<body>
+<button class="noprint" onclick="window.print()">Imprimer</button>
+
+<!-- ============ PAGE 1 — Séance 1 : vocabulaire et tableau d'effectifs ============ -->
+<header class="doc">
+  <h1>Séquence 2 — Lire et organiser des données</h1>
+</header>
+
+<div class="objectifs">
+  <strong>Ce que je vais apprendre cette semaine :</strong>
+  <ul>
+    <li>Le vocabulaire des données : <strong>population, caractère, valeur, effectif</strong> ;</li>
+    <li><strong>Construire un tableau d'effectifs</strong> à partir de données brutes ;</li>
+    <li>Découvrir le <strong>tableur</strong> (saisir des données, utiliser la fonction SOMME).</li>
+  </ul>
+</div>
+
+<h2 class="seance">Séance 1 — Le vocabulaire des données <small>· lundi · notion</small></h2>
+
+<h3>1. Situation de départ : le sondage de la classe</h3>
+<p>Le professeur a demandé à chaque élève de la classe quel type d'exploitation agricole il connaît le mieux
+(en famille, chez un voisin, en stage). Voici les 20 réponses, dans l'ordre où elles ont été données :</p>
+
+<div class="exemple">
+  Laitière · Bovine viande · Laitière · Porcine · Avicole · Laitière · Bovine viande · Laitière · Autre · Porcine ·
+  Laitière · Avicole · Bovine viande · Laitière · Porcine · Autre · Laitière · Bovine viande · Avicole · Laitière
+</div>
+
+<div class="retenir">
+  <div class="titre">Je retiens — le vocabulaire</div>
+  <table class="tbl">
+    <tr><th style="width:25%;">Mot</th><th>Ce qu'il veut dire</th></tr>
+    <tr><td><strong>Population</strong></td><td>l'ensemble étudié — ici, les 20 élèves de la classe</td></tr>
+    <tr><td><strong>Caractère</strong></td><td>ce qu'on observe chez chacun — ici, le type d'exploitation connu</td></tr>
+    <tr><td><strong>Valeur</strong></td><td>chaque réponse possible — ici : laitière, bovine viande, porcine, avicole, autre</td></tr>
+    <tr><td><strong>Effectif</strong></td><td>le nombre de fois qu'une valeur apparaît</td></tr>
+    <tr><td><strong>Effectif total</strong></td><td>le nombre total d'élèves interrogés (la somme de tous les effectifs)</td></tr>
+  </table>
+</div>
+
+<div class="exo">
+  <span class="num">1</span><strong>Construis le tableau d'effectifs</strong> à partir des 20 réponses ci-dessus
+  (compte les valeurs une par une, en cochant au fur et à mesure pour ne pas te tromper) :<br>
+  <table class="tbl">
+    <tr><th>Type d'exploitation</th><th>Laitière</th><th>Bovine viande</th><th>Porcine</th><th>Avicole</th><th>Autre</th><th>Total</th></tr>
+    <tr><td>Effectif</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+</div>
+
+<div class="exo">
+  <span class="num">2</span><strong>Utilise ton tableau pour répondre :</strong><br>
+  a) Quelle est la valeur la plus fréquente ? <span class="reponse"></span><br><br>
+  b) Quel est l'effectif total ? <span class="reponse"></span> — vérifie que ce nombre correspond bien au nombre d'élèves interrogés.
+</div>
+
+<!-- ============ PAGE 2 — Séance 1 (suite) : lecture de tableaux ============ -->
+<div class="saut"></div>
+
+<h3>2. Lire un tableau déjà construit</h3>
+<p>Voici le nombre d'animaux recensés dans une exploitation d'élevage mixte de la région, par type d'animal :</p>
+<table class="tbl">
+  <tr><th>Type d'animal</th><th>Vaches</th><th>Poules</th><th>Moutons</th><th>Chèvres</th></tr>
+  <tr><td>Effectif</td><td>45</td><td>120</td><td>18</td><td>7</td></tr>
+</table>
+
+<div class="exo">
+  <span class="num">3</span><strong>À l'aide du tableau ci-dessus :</strong><br>
+  a) Quel animal est le plus nombreux dans cette exploitation ? <span class="reponse"></span><br><br>
+  b) Quel animal est le moins nombreux ? <span class="reponse"></span><br><br>
+  c) Combien d'animaux au total dans cette exploitation (calcule la somme des effectifs) ? <span class="reponse"></span>
+</div>
+
+<!-- ============ PAGE 3 — Séance 2 : rituel + préparation tableur ============ -->
+<div class="saut"></div>
+<h2 class="seance">Séance 2 — Je m'entraîne <small>· mardi · rituel + préparation</small></h2>
+
+<h3>1. Rituel automatismes (10 minutes, en autonomie)</h3>
+<div class="exo">
+  <span class="num">4</span><strong>Réponds le plus vite possible, sans calculatrice</strong> (mélange de relatifs — on n'oublie pas SQ01 à SQ04 !) :
+  <table class="tbl">
+    <tr><th style="width:70%; text-align:left;">Question</th><th>Réponse</th></tr>
+    <tr><td style="text-align:left;">a) (−4) + (+9)</td><td></td></tr>
+    <tr><td style="text-align:left;">b) (+3) × (−6)</td><td></td></tr>
+    <tr><td style="text-align:left;">c) (−15) ÷ (−3)</td><td></td></tr>
+    <tr><td style="text-align:left;">d) (+2) − (−5)</td><td></td></tr>
+  </table>
+</div>
+
+<h3>2. Prépare ton tableau pour vendredi</h3>
+<p>Vendredi, en salle informatique, tu vas saisir un tableau d'effectifs dans un tableur (LibreOffice Calc ou Excel).
+Prépare dès maintenant les données que tu vas saisir, pour aller plus vite sur ordinateur.</p>
+
+<div class="exo">
+  <span class="num">5</span><strong>Sondage : quel est ton animal de ferme préféré ?</strong> Interroge 15 camarades de la classe
+  (ou utilise les 15 réponses ci-dessous si tu manques de temps) et construis ton tableau d'effectifs :<br>
+  <div class="exemple">Vache · Poule · Cheval · Vache · Chèvre · Cheval · Vache · Mouton · Poule · Cheval · Vache · Chèvre · Mouton · Vache · Cheval</div>
+  <table class="tbl">
+    <tr><th>Animal</th><th>Vache</th><th>Cheval</th><th>Poule</th><th>Chèvre</th><th>Mouton</th><th>Total</th></tr>
+    <tr><td>Effectif</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  </table>
+</div>
+
+<!-- ============ PAGE 4 — Séance 3 : découverte tableur ============ -->
+<div class="saut"></div>
+<h2 class="seance">Séance 3 — Découverte du tableur <small>· vendredi · salle informatique</small></h2>
+
+<div class="rassure">
+  <div class="titre">Aujourd'hui, ordinateur !</div>
+  <p>Tu vas saisir le tableau de l'exercice 5 (ton sondage sur les animaux préférés) dans un tableur,
+  et faire calculer le total automatiquement — au lieu de l'additionner toi-même.</p>
+</div>
+
+<div class="methode">
+  <div class="titre">Étape 1 — Ouvrir le tableur et saisir les données</div>
+  <p>1. Ouvre <strong>LibreOffice Calc</strong> (ou Excel).<br>
+  2. Dans la cellule <strong>A1</strong>, tape « Animal ». Dans <strong>B1</strong>, tape « Effectif ».<br>
+  3. Dans les cellules <strong>A2</strong> à <strong>A6</strong>, tape le nom de chaque animal (une ligne par animal).<br>
+  4. Dans les cellules <strong>B2</strong> à <strong>B6</strong>, tape l'effectif correspondant (utilise ton tableau de l'exercice 5).</p>
+</div>
+
+<div class="methode">
+  <div class="titre">Étape 2 — Calculer le total avec la fonction SOMME</div>
+  <p>1. Clique sur la cellule <strong>B7</strong> (juste sous ta liste d'effectifs).<br>
+  2. Tape exactement : <strong>=SOMME(B2:B6)</strong> puis appuie sur <strong>Entrée</strong>.<br>
+  3. Le tableur affiche automatiquement le total — vérifie qu'il correspond au nombre de camarades interrogés.</p>
+</div>
+
+<div class="exemple">
+  <strong>Pourquoi c'est utile :</strong> si tu changes un effectif dans une cellule (par exemple si tu comptes un
+  camarade en plus), le total de la cellule SOMME se met à jour <strong>tout seul</strong>. C'est ce qu'on appelle
+  une <strong>formule</strong> — elle ne recalcule pas juste une fois, elle recalcule à chaque changement.
+</div>
+
+<div class="exo">
+  <span class="num">6</span><strong>Sur ton tableur, une fois le total obtenu :</strong><br>
+  a) Note ici le total affiché par la formule SOMME : <span class="reponse"></span><br><br>
+  b) Ce total correspond-il à ce que tu avais trouvé à la main à l'exercice 5 ? <span class="reponse"></span><br><br>
+  c) Modifie un effectif au hasard (par exemple ajoute 1 à « Vache ») et regarde la cellule SOMME.
+  Que remarques-tu ? <span class="reponse longue" style="min-width:9cm;"></span>
+</div>
+
+<div class="exo defi">
+  <span class="etoile">★</span> <strong>Défi (pour ceux qui ont fini) :</strong> mets en couleur la cellule qui contient
+  l'animal le plus choisi (clic droit → couleur d'arrière-plan). Essaie ensuite de créer une deuxième colonne
+  « Pourcentage » — on apprendra à la remplir avec une formule dans quelques semaines, mais tu peux déjà réfléchir
+  à ce qu'elle devrait contenir.
+</div>
+
+<footer class="doc">
+  Séquence 2 · Objectif du référentiel : 2.1
+</footer>
+</body>
+</html>
