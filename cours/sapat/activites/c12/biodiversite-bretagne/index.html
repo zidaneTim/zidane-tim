@@ -830,6 +830,11 @@
 
 
 <h1 id="ces-especes-qui-ne-sont-pas-dici">🦋 Ces espèces qui ne sont pas d'ici<a class="headerlink" href="#ces-especes-qui-ne-sont-pas-dici" title="Permanent link">&para;</a></h1>
+<div class="zt-pix">
+<p><span class="zt-pix-label"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m13 21 2-1 2 1v-7h-4m4-5V7l-2 1-2-1v2l-2 1 2 1v2l2-1 2 1v-2l2-1m1-7H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h7v-2H4V5h16v10h-1v2h1a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2m-9 5H5V6h6m-2 5H5V9h4m2 5H5v-2h6Z"/></svg></span> Compétences Pix réinvesties</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="Traiter des données">CRCN 1.3</span></p>
+</div>
 <p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité · Entraînement ECCF</p>
 
 <p class="zt-lede">Les espèces non indigènes recensées commune par commune — Données réelles de l'Observatoire de l'environnement en Bretagne (OEB), Loudéac Communauté – Bretagne Centre</p>
@@ -869,7 +874,7 @@
 <p><strong>Jeu de données :</strong> Espèces non indigènes <strong>par commune</strong> en Bretagne
 <strong>Producteur :</strong> Observatoire de l'environnement en Bretagne (OEB) — GIP Bretagne environnement, via data.gouv.fr
 <strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne">data.gouv.fr — Espèces non indigènes par commune en Bretagne</a>
-<strong>Format :</strong> CSV (~9,9 Mo, 38 755 lignes, toute la Bretagne) · <strong>Licence :</strong> Licence Ouverte 2.0 · <strong>Mise à jour :</strong> juin 2026
+<strong>Format :</strong> CSV (~9,5 Mo, ~38 000 lignes, toute la Bretagne) · <strong>Licence :</strong> Licence Ouverte 2.0 · <strong>Mise à jour :</strong> janvier 2026
 <strong>Particularité à nettoyer :</strong> <strong>une ligne = une espèce dans une commune</strong> — une même commune apparaît donc sur autant de lignes qu'elle compte d'espèces recensées. Le fichier couvre les 4 départements bretons : il faut d'abord isoler les Côtes-d'Armor (code <code>insee_commune</code> commençant par <strong>22</strong>) avant tout traitement. Le champ <code>invasive</code> distingue 4 statuts : <em>invasive avérée, invasive potentielle, invasive à surveiller, non invasive</em>. Enfin, le nombre d'espèces recensées dépend de la <strong>pression d'observation</strong> : une commune très prospectée paraît plus riche qu'une commune peu visitée — ce biais doit être signalé dans la synthèse.</p>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
@@ -900,7 +905,7 @@
 <p><strong>Représenter et transmettre à la chargée de mission</strong></p>
 <ol>
 <li>Créer depuis le TCD un <strong>graphique en barres empilées</strong> « Espèces non indigènes par commune et par statut » complet : titre, axes légendés, source citée (OEB via data.gouv.fr, année de mise à jour). Justifier en une phrase le choix de la barre empilée (montrer à la fois le total et la part d'invasives).</li>
-<li>Préparer la <strong>carte</strong> : créer depuis le tableau de synthèse un fichier CSV (commune, code postal, nombre total d'espèces, nombre d'invasives avérées), le convertir en KML avec le convertisseur, puis l'importer dans <strong>Google MyMaps</strong>. Titrer la carte et renseigner les pop-ups avec les deux nombres.</li>
+<li>Préparer la <strong>carte</strong> : créer depuis le tableau de synthèse un fichier CSV (commune, code postal, nombre total d'espèces, nombre d'invasives avérées), puis l'importer <strong>directement</strong> dans <strong>Google MyMaps</strong> (Importer → choisir le CSV, désigner la commune ou le code postal comme colonne de position et la commune comme titre des repères). Titrer la carte et renseigner les pop-ups avec les deux nombres.</li>
 <li>Rédiger la <strong>synthèse pour la chargée de mission</strong> (8-10 lignes) : nombre d'espèces non indigènes sur le territoire, part d'invasives avérées, communes les plus exposées à cibler en priorité, <strong>rappel explicite du biais de pression d'observation</strong>, et une proposition concrète (commune à surveiller, message aux agents d'entretien). Insérer le graphique et le lien de la carte.</li>
 </ol>
 <div class="admonition tip">
@@ -912,7 +917,6 @@
 <li><a href="https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne" rel="noopener" target="_blank">Espèces non indigènes par commune en Bretagne — data.gouv.fr</a> — fiche officielle : description, licence (Licence Ouverte 2.0), téléchargement du CSV (OEB / GIP Bretagne environnement).</li>
 <li><a href="https://bretagne-environnement.fr/tableau-de-bord/especes-non-indigenes-bretagne" rel="noopener" target="_blank">Tableau de bord « Les espèces non indigènes en Bretagne » — OEB</a> — datavisualisation officielle pour comprendre le contexte avant de traiter les données.</li>
 <li><a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">Nos communes — Loudéac Communauté Bretagne Centre</a> — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.</li>
-<li><a href="https://scuttemery.fr/converter" rel="noopener" target="_blank">Convertisseur CSV → KML</a> — pour transformer le fichier de points avant l'import dans MyMaps.</li>
 <li><a href="https://www.google.com/mymaps" rel="noopener" target="_blank">Google MyMaps</a> — pour créer la carte finale.</li>
 </ul>
 <h2 id="grille-devaluation-c12-epreuve-e1-coeff-05">Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)<a class="headerlink" href="#grille-devaluation-c12-epreuve-e1-coeff-05" title="Permanent link">&para;</a></h2>
@@ -990,19 +994,6 @@
     Made with
     <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
       Material for MkDocs
-    </a>
-  
-</div>
-      
-        
-<div class="md-social">
-  
-    
-    
-    
-    
-    <a href="https://zidanetim.github.io/zidane-tim/" target="_blank" rel="noopener" title="Accueil du site" class="md-social__link">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.91V17h2V9M5 13.18v4L12 21l7-3.82v-4L12 17z"/></svg>
     </a>
   
 </div>
