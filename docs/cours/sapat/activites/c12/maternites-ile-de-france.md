@@ -15,11 +15,8 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
-**Parcours Pix associés**
+**Parcours Pix associé**
 
-- Bac Pro — Tronc commun MG1
-- Tableur pour calculer
-- Tableur pour présenter des données
 - Protection et sécurité - Socle commun
 
 ## Mise en situation
