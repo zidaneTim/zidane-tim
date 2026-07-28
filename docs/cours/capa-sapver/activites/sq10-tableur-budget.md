@@ -15,9 +15,10 @@
   <span>:material-tag-outline: Tableur</span>
 </div>
 
-**Parcours Pix associé**
-
-- Tableur pour calculer
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Tableur pour calculer</span>
+</div>
 
 ## La situation
 

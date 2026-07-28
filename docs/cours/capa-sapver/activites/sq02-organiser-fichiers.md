@@ -16,11 +16,12 @@
   <span>:material-tag-outline: Gestion des fichiers</span>
 </div>
 
-**Parcours Pix associé**
-
-- Gérer ses fichiers numériques
-- Information et données - Socle commun
-- Création de contenu - Socle commun
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Gérer ses fichiers numériques</span>
+  <span>Information et données - Socle commun</span>
+  <span>Création de contenu - Socle commun</span>
+</div>
 
 ## La situation
 

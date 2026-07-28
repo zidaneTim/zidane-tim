@@ -16,9 +16,10 @@
   <span>:material-tag-outline: Insee · ANLCI · carte mentale</span>
 </div>
 
-**Parcours Pix associé**
-
-- Éducation numérique — émancipation/inclusion
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Éducation numérique — émancipation/inclusion</span>
+</div>
 
 ## Mise en situation
 

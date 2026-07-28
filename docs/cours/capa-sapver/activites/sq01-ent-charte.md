@@ -16,9 +16,10 @@
   <span>:material-tag-outline: Environnement numérique</span>
 </div>
 
-**Parcours Pix associé**
-
-- Environnement numérique - Socle commun
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Environnement numérique - Socle commun</span>
+</div>
 
 ## La situation
 

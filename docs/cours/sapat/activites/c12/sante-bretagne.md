@@ -16,11 +16,12 @@
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
 
-**Parcours Pix associé**
-
-- Bac Pro — Tronc commun MG1
-- Tableur pour calculer
-- Tableur pour présenter des données
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Bac Pro — Tronc commun MG1</span>
+  <span>Tableur pour calculer</span>
+  <span>Tableur pour présenter des données</span>
+</div>
 
 ## Mise en situation
 

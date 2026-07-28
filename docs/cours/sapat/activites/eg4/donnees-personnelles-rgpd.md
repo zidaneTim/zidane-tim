@@ -16,9 +16,10 @@
   <span>:material-tag-outline: CNIL · Canva ou PowerPoint · OneNote</span>
 </div>
 
-**Parcours Pix associé**
-
-- Protection et sécurité - Socle commun
+<div class="zt-pix-parcours" markdown>
+  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
+  <span>Protection et sécurité - Socle commun</span>
+</div>
 
 ## Mise en situation
 
