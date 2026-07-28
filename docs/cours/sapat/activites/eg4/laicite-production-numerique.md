@@ -17,6 +17,10 @@
   <span>:material-tag-outline: Canva ou Audacity · Openverse · OneNote</span>
 </div>
 
+**Parcours Pix associé**
+
+- Création de contenu - Socle commun
+
 ## Mise en situation
 
 Le contenu écrit de ta production sur la laïcité a été préparé en **ESC** ; ta fiche de cadrage fixe déjà le

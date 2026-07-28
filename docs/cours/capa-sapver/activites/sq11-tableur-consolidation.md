@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Tableur · Pix</span>
 </div>
 
+**Parcours Pix associé**
+
+- Tableur pour calculer
+
 ## La situation
 
 Après ton budget de Noël, on te confie une **liste de 15 courses** avec, pour chaque produit, un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Le tableur sait **recopier** une formule d'un seul geste. Et pour t'y retrouver, il sait aussi **trier** et **mettre en couleur**. Ensuite, tu feras le point sur **ce que tu sais déjà faire** avec le numérique, grâce à **Pix**.

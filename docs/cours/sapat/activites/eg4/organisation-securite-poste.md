@@ -19,6 +19,7 @@
 **Parcours Pix associé**
 
 - Cybersécurité (MAJ 2025)
+- Information et données - Socle commun
 
 ## Mise en situation
 

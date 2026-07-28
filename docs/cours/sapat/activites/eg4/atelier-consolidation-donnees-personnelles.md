@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Atelier différencié · CNIL · OneNote</span>
 </div>
 
+**Parcours Pix associé**
+
+- Protection et sécurité - Socle commun
+
 ## Mise en situation
 
 Les règles de protection des données ne s'appliquent pas seulement aux dossiers des usagers : elles valent aussi

@@ -22,6 +22,7 @@
 - Utiliser un environnement numérique professionnel de manière responsable et autonome
 - Rechercher et traiter des informations en fonction d'un besoin d'information professionnel
 - Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle
+- Tableur pour calculer
 
 ## Mise en situation
 

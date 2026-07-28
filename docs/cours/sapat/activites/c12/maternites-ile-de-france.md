@@ -18,6 +18,7 @@
 **Parcours Pix associé**
 
 - Bac Pro — Tronc commun MG1
+- Protection et sécurité - Socle commun
 
 ## Mise en situation
 

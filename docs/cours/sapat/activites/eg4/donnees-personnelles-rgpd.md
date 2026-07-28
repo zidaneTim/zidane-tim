@@ -16,6 +16,10 @@
   <span>:material-tag-outline: CNIL · Canva ou PowerPoint · OneNote</span>
 </div>
 
+**Parcours Pix associé**
+
+- Protection et sécurité - Socle commun
+
 ## Mise en situation
 
 Le **CCAS** (Centre communal d'action sociale) d'une commune du centre Bretagne accueille chaque semaine des

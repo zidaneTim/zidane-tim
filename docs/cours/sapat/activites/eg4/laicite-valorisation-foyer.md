@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Diffusion · Trace numérique · Autoévaluation</span>
 </div>
 
+**Parcours Pix associé**
+
+- Communication et collaboration - Socle commun
+
 ## Mise en situation
 
 C'est le moment où le projet quitte l'ordinateur. La production que tu as cadrée, fabriquée, contrôlée et déposée

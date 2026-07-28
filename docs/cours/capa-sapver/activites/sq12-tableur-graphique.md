@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Tableur · Données</span>
 </div>
 
+**Parcours Pix associé**
+
+- Tableur pour présenter des données
+
 ## La situation
 
 La famille Morel n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une liste de chiffres, difficile de répondre. Mais si tu **filtres** les données et que tu en fais un **graphique**, la réponse **saute aux yeux** : un poste de dépense est bien plus gros que les autres.

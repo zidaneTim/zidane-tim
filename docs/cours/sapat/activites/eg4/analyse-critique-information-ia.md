@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Méthode SIFT · IA générative · OneNote</span>
 </div>
 
+**Parcours Pix associé**
+
+- Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA » (non obligatoire en 2nde SAPAT, correspondance thématique directe)
+
 ## Mise en situation
 
 Une **maison de santé** du centre Bretagne reçoit régulièrement des patients qui arrivent avec une capture d'écran :

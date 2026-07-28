@@ -15,6 +15,10 @@
   <span>:material-tag-outline: Sources officielles · OneNote</span>
 </div>
 
+**Parcours Pix associé**
+
+- EMI Collège
+
 ## Mise en situation
 
 Le **9 décembre** est la journée nationale de la laïcité : la date fait référence à la **loi du 9 décembre 1905**

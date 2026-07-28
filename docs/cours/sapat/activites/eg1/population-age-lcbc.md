@@ -20,6 +20,8 @@
 **Parcours Pix associé**
 
 - Sciences - 2nde pro (Programme 2019, MAJ 2025)
+- Tableur pour calculer
+- Tableur pour présenter des données
 
 ## Mise en situation
 

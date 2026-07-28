@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Insee · ANLCI · carte mentale</span>
 </div>
 
+**Parcours Pix associé**
+
+- Éducation numérique — émancipation/inclusion
+
 ## Mise en situation
 
 **France Services de Loudéac** (15 rue de Moncontour) accueille chaque semaine des usagers pour les accompagner

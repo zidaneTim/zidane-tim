@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Consommation</span>
 </div>
 
+**Parcours Pix associé**
+
+- Protection et sécurité - Socle commun
+
 ## La situation
 
 À l'approche du **Black Friday**, tu vois une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site que tu ne connais pas. Ta cousine a commandé : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. Au même moment, une amie te dit : « Moi j'achète tout le temps, même ce dont je n'ai pas besoin, parce que c'est pas cher. »

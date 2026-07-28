@@ -19,6 +19,8 @@
 **Parcours Pix associé**
 
 - Bac Pro — Tronc commun MG1
+- Tableur pour calculer
+- Tableur pour présenter des données
 
 ## Mise en situation
 

@@ -16,6 +16,10 @@
   <span>:material-tag-outline: Environnement numérique</span>
 </div>
 
+**Parcours Pix associé**
+
+- Environnement numérique - Socle commun
+
 ## La situation
 
 C'est la rentrée. Le lycée te remet une **feuille avec un identifiant et un mot de passe**. Ils servent à te connecter à l'**ENT** (Espace Numérique de Travail) : le site du lycée où tu retrouves ton emploi du temps, tes cours, tes messages et tes documents.

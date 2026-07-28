@@ -19,6 +19,8 @@
 **Parcours Pix associé**
 
 - Gérer ses fichiers numériques
+- Information et données - Socle commun
+- Création de contenu - Socle commun
 
 ## La situation
 

@@ -16,6 +16,11 @@
   <span>:material-tag-outline: Outlook · Word · PowerPoint · OneNote</span>
 </div>
 
+**Parcours Pix associés**
+
+- Communication et collaboration - Socle commun
+- Création de contenu - Socle commun
+
 ## Mise en situation
 
 Une **résidence autonomie** organise un après-midi intergénérationnel avec une classe de l'école voisine. Trois

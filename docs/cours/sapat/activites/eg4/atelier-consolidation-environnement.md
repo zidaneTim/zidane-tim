@@ -17,6 +17,11 @@
   <span>:material-tag-outline: Atelier différencié · OneDrive · OneNote</span>
 </div>
 
+**Parcours Pix associés**
+
+- Environnement numérique - Socle commun
+- Cybersécurité (MAJ 2025)
+
 ## Mise en situation
 
 Dans une structure, personne ne travaille avec le même niveau de maîtrise du poste informatique : certains agents

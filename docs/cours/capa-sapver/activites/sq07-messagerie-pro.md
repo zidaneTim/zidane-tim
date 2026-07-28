@@ -16,6 +16,11 @@
   <span>:material-tag-outline: Communication</span>
 </div>
 
+**Parcours Pix associés**
+
+- Communication et collaboration - Socle commun
+- Création de contenu - Socle commun
+
 ## La situation
 
 Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.

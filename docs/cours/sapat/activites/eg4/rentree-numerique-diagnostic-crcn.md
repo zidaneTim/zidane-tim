@@ -16,6 +16,11 @@
   <span>:material-tag-outline: ENT · Microsoft 365 · OneNote</span>
 </div>
 
+**Parcours Pix associés**
+
+- Environnement numérique - Socle commun
+- Cybersécurité (MAJ 2025)
+
 ## Mise en situation
 
 Le **foyer socio-éducatif** du lycée cherche un·e élève de 2nde pour tenir, cette année, le rôle de **relais
