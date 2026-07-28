@@ -100,8 +100,3 @@ collectivement, mise en page sur une page, prête à être affichée au poste d'
 | Droits RGPD | Droits de la personne correctement listés et reliés à des situations concrètes d'accompagnement | -- / - / + / ++ |
 | Rédaction collective | 6 à 8 engagements rédigés à la première personne, adaptés au contexte SAPAT | -- / - / + / ++ |
 | Limites déontologiques | Au moins un engagement formule explicitement une limite de l'aidant face à une donnée sensible | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    C8.2 — Effectuer les démarches courantes relatives à la gestion du quotidien, posture d'accompagnement de
-    l'aidant numérique (DA MP8, avril 2022) : consentement, confidentialité, secret professionnel, limites de
-    l'aidant. Protéger les données personnelles et la vie privée d'un usager accompagné (CRCN 4.2).

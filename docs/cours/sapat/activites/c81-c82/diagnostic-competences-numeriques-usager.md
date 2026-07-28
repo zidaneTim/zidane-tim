@@ -108,8 +108,3 @@ M. Rouault à France Services Loudéac.
 | Observation | Prise en main de l'usager fictif décrite avec précision (hésitations, vocabulaire, aides demandées) | -- / - / + / ++ |
 | Grille papier | Tableau à 3 colonnes complet, lisible, réutilisable pour un usager sans équipement | -- / - / + / ++ |
 | Analyse | Résultats des deux profils correctement reliés à une orientation d'accompagnement | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    C8.2 — Effectuer les démarches courantes relatives à la gestion du quotidien, diagnostic des compétences
-    numériques d'un usager (DA MP8, avril 2022). Construire et utiliser un environnement numérique dédié à
-    l'accompagnement (CRCN 5.2) ; comprendre les enjeux de la médiation numérique pour orienter un usager (CRCN 2.4).

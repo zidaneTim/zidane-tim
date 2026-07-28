@@ -144,8 +144,3 @@ présentées comme un dossier de préparation à ta première permanence à Fran
 | Publics et causes | Profil des personnes les plus exposées identifié, conséquences concrètes reliées à des démarches réelles | -- / - / + / ++ |
 | Posture d'accompagnement | Distinction claire « faire avec / faire pour », limites déontologiques identifiées | -- / - / + / ++ |
 | Production | Carte mentale complète, structurée en 3 branches, lisible | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    C8.2 — Effectuer les démarches courantes relatives à la gestion du quotidien, posture d'accompagnement de
-    l'aidant numérique (DA MP8, avril 2022). Mener une recherche et évaluer la fiabilité de sources chiffrées
-    (CRCN 1.1) ; comprendre les enjeux de la fracture numérique et de la médiation numérique (CRCN 2.4).
