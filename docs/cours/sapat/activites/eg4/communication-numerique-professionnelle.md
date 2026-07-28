@@ -16,9 +16,10 @@
   <span>:material-tag-outline: Outlook · Word · PowerPoint · OneNote</span>
 </div>
 
-**Parcours Pix associé**
+**Parcours Pix associés**
 
 - Communication et collaboration - Socle commun
+- Création de contenu - Socle commun
 
 ## Mise en situation
 

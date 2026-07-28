@@ -16,9 +16,10 @@
   <span>:material-tag-outline: Communication</span>
 </div>
 
-**Parcours Pix associé**
+**Parcours Pix associés**
 
 - CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)
+- Création de contenu - Socle commun
 
 ## La situation
 
