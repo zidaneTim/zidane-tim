@@ -55,7 +55,7 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 5. Nettoyer l'onglet `Donnees-22` : supprimer les colonnes inutiles à l'étude (conserver au minimum `DENOMINATION`, `CODE POSTAL SIEGE SOCIAL`, `ACTIVITES`, `DATEENGAGEMENT`), supprimer les doublons éventuels (Données → Supprimer les doublons, sur la colonne `SIRET`), vérifier le format de la colonne date.
 6. À l'aide de la liste des 8 codes postaux du territoire de Loudéac Communauté – Bretagne Centre (22150, 22210, 22230, 22320, 22330, 22460, 22530, 22600 — voir Ressources et outils), filtrer `CODE POSTAL SIEGE SOCIAL` pour créer un onglet `Donnees-LCBC` ne contenant que les opérateurs du territoire. **Limite à connaître** : un code postal peut couvrir plusieurs communes ou légèrement déborder de l'intercommunalité — ce sous-ensemble approxime le territoire LCBC par zone postale, ce n'est pas un découpage commune par commune.
 
-### B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiée
 
 **Compter, croiser, faire parler les données**
 
@@ -92,5 +92,5 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du CCAS est reformulée correctement ; la source est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC (par code postal) est construit et nettoyé (colonnes, doublons, formats) ; la limite du filtrage par code postal (approximation du territoire) est mentionnée. | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiés | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle est fonctionnelle ; le TCD par code postal est correct, trié, et croisé avec le type d'activité ; les traitements répondent à la problématique (offre locale). | -- / - / + / ++ |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle est fonctionnelle ; le TCD par code postal est correct, trié, et croisé avec le type d'activité ; les traitements répondent à la problématique (offre locale). | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique est complet (titre, axes, source) et son choix est justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, adaptée à la destinataire et se conclut par une recommandation exploitable. | -- / - / + / ++ |

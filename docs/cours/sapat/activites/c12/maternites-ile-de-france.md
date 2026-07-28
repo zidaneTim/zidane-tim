@@ -57,7 +57,7 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 4. Ouvrir le CSV dans Excel. Ajouter une colonne « num_dép » à côté de `CPO` avec la formule `=GAUCHE(cellule_CPO;2)` (adapter la référence à la colonne réelle).
 5. Filtrer sur `num_dép` parmi les 8 départements franciliens (**75, 77, 78, 91, 92, 93, 94, 95**) et sur `ANNEE = 2013` : copier-coller *en valeurs* dans un nouvel onglet **`2013`**. Refaire la même opération pour `ANNEE = 2023` dans un onglet **`2023`**. Ne jamais modifier la feuille de données d'origine.
 
-### B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiée
 
 **Comparer deux années et faire parler l'évolution**
 
@@ -97,8 +97,5 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande de Mme Le Goff est reformulée correctement ; donnée brute/agrégée/métadonnée sont définies ; la Loi Lemaire et le RGPD/CNIL sont correctement situés ; le filtrage Île-de-France 2013/2023 (via `num_dép`) est construit sans modifier la feuille source. | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiés | SOMME, MOYENNE et le taux de variation sont exacts et interprétés ; la mise en forme conditionnelle est fonctionnelle ; le TCD et le GCD (ANNEE × LIT_OBS, filtré sur les 8 départements) sont corrects. | -- / - / + / ++ |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | SOMME, MOYENNE et le taux de variation sont exacts et interprétés ; la mise en forme conditionnelle est fonctionnelle ; le TCD et le GCD (ANNEE × LIT_OBS, filtré sur les 8 départements) sont corrects. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique en courbe est complet (titre, légende, étiquettes) ; la carte MyMaps et le cercle de 10 km sont fonctionnels ; la note de synthèse répond clairement à la problématique, chiffres à l'appui, sans dépasser ce que montrent les données. | -- / - / + / ++ |
-
-!!! note "Capacité visée"
-    C1.2 — Étudier un phénomène social ou professionnel à l'aide de données notamment en nombre : collecte, stockage et organisation des données en toute sécurité (RGPD/CNIL) ; traitement analytique au tableur ; représentation et communication.

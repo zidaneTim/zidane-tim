@@ -64,7 +64,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 5. Vérifier avec `NB.SI()` si une même commune apparaît sur plusieurs lignes (plusieurs opérateurs). Si oui, créer un tableau récapitulatif **une ligne par commune** en sommant `Conso totale (MWh)` et `Nb sites` de chaque commune avec `SOMME.SI.ENS()`. Si chaque commune n'a qu'une seule ligne après filtrage, passer directement à l'étape suivante.
 6. Copier-coller (valeurs) le résultat dans une nouvelle feuille nommée *Sous-ensemble de travail* : c'est elle qui sert de base à toute la suite.
 
-### B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiée
 
 **Calculer et classer un indicateur de vulnérabilité**
 
@@ -103,8 +103,5 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié. | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiés | Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | -- / - / + / ++ |
-
-!!! note "Capacité visée"
-    C1.2 — Étudier un phénomène social ou professionnel à l'aide de données notamment en nombre : collecte, stockage et organisation des données en toute sécurité ; traitement analytique au tableur ; représentation et communication.

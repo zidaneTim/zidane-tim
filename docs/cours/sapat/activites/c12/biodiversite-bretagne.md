@@ -60,7 +60,7 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 5. À partir de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un onglet `Donnees-LCBC` ne conservant que les lignes des communes du territoire.
 6. Nettoyer l'onglet `Donnees-LCBC` : vérifier qu'il ne reste aucune ligne vide, que la colonne `INVASIVE` ne contient que les 4 statuts attendus, et écrire en une phrase le **biais de pression d'observation** (pourquoi un nombre d'espèces plus élevé ne signifie pas forcément une commune « plus envahie »).
 
-### B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiée
 
 **Compter, croiser, faire parler les données**
 
@@ -96,8 +96,5 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du service environnement est reformulée correctement ; la source OEB est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est construit et nettoyé ; le biais de pression d'observation est énoncé avec ses mots. | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiés | NBVAL, NB.SI et NB.SI.ENS renvoient des résultats exacts ; le tableau de synthèse par commune et la part d'invasives sont corrects ; la mise en forme conditionnelle est fonctionnelle ; le TCD croise commune et statut `invasive`, trié. | -- / - / + / ++ |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | NBVAL, NB.SI et NB.SI.ENS renvoient des résultats exacts ; le tableau de synthèse par commune et la part d'invasives sont corrects ; la mise en forme conditionnelle est fonctionnelle ; le TCD croise commune et statut `invasive`, trié. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique en barres empilées est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, rappelle explicitement la limite de pression d'observation, et se conclut par une proposition exploitable par la chargée de mission. | -- / - / + / ++ |
-
-!!! note "Capacité visée"
-    C1.2 — Étudier un phénomène social ou professionnel à l'aide de données notamment en nombre : collecte, stockage et organisation des données en toute sécurité ; traitement analytique au tableur ; représentation et communication.

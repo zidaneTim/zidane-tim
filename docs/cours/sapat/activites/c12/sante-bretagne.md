@@ -61,7 +61,7 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 5. Nettoyer l'onglet `Donnees-22` : conserver uniquement les colonnes utiles (raison sociale, commune, code postal, catégorie d'établissement, adresse), supprimer les doublons (Données → Supprimer les doublons, sur le numéro FINESS), repérer et signaler les cellules vides d'adresse.
 6. À partir de la liste officielle des communes de Loudéac Communauté – Bretagne Centre (lien en Ressources et outils), créer un onglet `Donnees-LCBC` ne contenant que les établissements du territoire, puis n'y conserver que les catégories relevant des personnes âgées (EHPAD, résidence autonomie, accueil de jour, SSIAD, SAAD).
 
-### B — Traitement des données adapté au contexte et à la problématique étudiés
+### B — Traitement des données adapté au contexte et à la problématique étudiée
 
 **Compter, croiser, faire parler les données**
 
@@ -96,5 +96,5 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du CLIC est reformulée correctement ; la source FINESS est identifiée (producteur, licence, date, fréquence) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est construit et nettoyé (colonnes, doublons FINESS, cellules vides, filtrage des catégories personnes âgées). | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiés | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle fait ressortir les communes sans structure ; le TCD par commune est correct, trié et croisé avec la catégorie ; les traitements répondent à la problématique (offre d'accueil). | -- / - / + / ++ |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle fait ressortir les communes sans structure ; le TCD par commune est correct, trié et croisé avec la catégorie ; les traitements répondent à la problématique (offre d'accueil). | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée, lisible, avec repères différenciés par catégorie ; la synthèse est chiffrée, adaptée à la coordinatrice et se conclut par une recommandation exploitable en rendez-vous famille. | -- / - / + / ++ |
