@@ -17,10 +17,7 @@
   <span>:material-tag-outline: Citoyenneté numérique</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Protection et sécurité (cyberharcèlement, MAJ 2025)</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité (cyberharcèlement, MAJ 2025)*</small>
 
 ## La situation
 

@@ -15,10 +15,7 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Cybersécurité (MAJ 2025)</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025)*</small>
 
 ## La situation
 

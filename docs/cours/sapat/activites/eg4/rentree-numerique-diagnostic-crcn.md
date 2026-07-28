@@ -16,10 +16,7 @@
   <span>:material-tag-outline: ENT · Microsoft 365 · OneNote</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Environnement numérique - Socle commun</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
 
 ## Mise en situation
 

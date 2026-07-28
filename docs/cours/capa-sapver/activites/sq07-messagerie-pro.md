@@ -16,10 +16,7 @@
   <span>:material-tag-outline: Communication</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)*</small>
 
 ## La situation
 

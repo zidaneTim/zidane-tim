@@ -17,13 +17,7 @@
   <span>:material-tag-outline: Excel · Google MyMaps</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associés</span>
-  <span>Utiliser un environnement numérique professionnel de manière responsable et autonome</span>
-  <span>Rechercher et traiter des informations en fonction d'un besoin d'information professionnel</span>
-  <span>Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle</span>
-  <span>Tableur pour calculer</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associés — Utiliser un environnement numérique professionnel de manière responsable et autonome · Rechercher et traiter des informations en fonction d'un besoin d'information professionnel · Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle · Tableur pour calculer*</small>
 
 ## Mise en situation
 

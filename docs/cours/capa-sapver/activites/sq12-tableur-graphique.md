@@ -15,10 +15,7 @@
   <span>:material-tag-outline: Tableur · Données</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Tableur pour présenter des données</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Tableur pour présenter des données*</small>
 
 ## La situation
 

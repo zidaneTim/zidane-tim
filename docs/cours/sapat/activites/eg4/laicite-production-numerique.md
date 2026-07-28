@@ -17,10 +17,7 @@
   <span>:material-tag-outline: Canva ou Audacity · Openverse · OneNote</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Création de contenu - Socle commun</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
 
 ## Mise en situation
 

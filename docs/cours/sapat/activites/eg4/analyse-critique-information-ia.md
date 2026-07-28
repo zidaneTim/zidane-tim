@@ -16,10 +16,7 @@
   <span>:material-tag-outline: Méthode SIFT · IA générative · OneNote</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA » (non obligatoire en 2nde SAPAT, correspondance thématique directe)</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA » (non obligatoire en 2nde SAPAT, correspondance thématique directe)*</small>
 
 ## Mise en situation
 

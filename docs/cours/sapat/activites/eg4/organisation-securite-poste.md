@@ -16,11 +16,7 @@
   <span>:material-tag-outline: OneDrive</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Cybersécurité (MAJ 2025)</span>
-  <span>Information et données - Socle commun</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025) · Information et données - Socle commun*</small>
 
 ## Mise en situation
 

@@ -15,10 +15,7 @@
   <span>:material-tag-outline: Sources officielles · OneNote</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>EMI Collège</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — EMI Collège*</small>
 
 ## Mise en situation
 

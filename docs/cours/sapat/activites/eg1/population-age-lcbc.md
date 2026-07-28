@@ -17,12 +17,7 @@
   <span>:material-tag-outline: Excel</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Sciences - 2nde pro (Programme 2019, MAJ 2025)</span>
-  <span>Tableur pour calculer</span>
-  <span>Tableur pour présenter des données</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Sciences - 2nde pro (Programme 2019, MAJ 2025) · Tableur pour calculer · Tableur pour présenter des données*</small>
 
 ## Mise en situation
 

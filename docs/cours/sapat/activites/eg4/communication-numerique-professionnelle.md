@@ -16,10 +16,7 @@
   <span>:material-tag-outline: Outlook · Word · PowerPoint · OneNote</span>
 </div>
 
-<div class="zt-pix-parcours" markdown>
-  <span class="zt-pix-parcours-label">:material-map-marker-path: Parcours Pix associé</span>
-  <span>Communication et collaboration - Socle commun</span>
-</div>
+<small style="color:#7239f6">*Parcours Pix associé — Communication et collaboration - Socle commun*</small>
 
 ## Mise en situation
 
