@@ -244,6 +244,46 @@
   }
 }
 
+/* Parcours Pix associé : ligne de badges sous le chapô, dans le violet Pix
+   pour rester cohérente avec l'encadré zt-pix mais nettement plus discrète
+   (taille très réduite) — remplace l'ancien "**Parcours Pix associé**" en
+   texte gras suivi d'une liste à puces, qui se confondait avec le corps de
+   texte. */
+.md-typeset .zt-pix-parcours {
+  margin: 0 0 1rem 0;
+}
+
+.md-typeset .zt-pix-parcours,
+.md-typeset .zt-pix-parcours > p {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.4rem;
+}
+
+.md-typeset .zt-pix-parcours > p {
+  margin: 0;
+}
+
+.md-typeset .zt-pix-parcours-label {
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--zt-pix-color);
+}
+
+.md-typeset .zt-pix-parcours span:not(.zt-pix-parcours-label) {
+  display: inline-flex;
+  background: rgba(114, 57, 246, 0.1);
+  color: var(--zt-pix-color);
+  border: 1px solid rgba(114, 57, 246, 0.3);
+  border-radius: 1rem;
+  padding: 0.15rem 0.55rem;
+  font-size: 0.6rem;
+  font-weight: 600;
+}
+
 .md-typeset h2 {
   font-size: 1.2rem;
   color: var(--md-primary-fg-color);
