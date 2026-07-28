@@ -30,4 +30,7 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 ## Parcours Pix à faire
 
 - **Sciences - 2nde pro (Programme 2019, MAJ 2025)**
+- **Tableur pour calculer**
+- **Tableur pour présenter des données**
 - **Cybersécurité (MAJ 2025)**
+- **Information et données - Socle commun**

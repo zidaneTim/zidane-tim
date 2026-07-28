@@ -63,3 +63,6 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 ## Parcours Pix à faire
 
 - **Bac Pro — Tronc commun MG1**
+- **Tableur pour calculer**
+- **Tableur pour présenter des données**
+- **Protection et sécurité - Socle commun** (Maternités en baisse ?)

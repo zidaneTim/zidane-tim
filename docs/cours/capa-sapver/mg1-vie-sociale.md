@@ -121,6 +121,13 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
+- **Environnement numérique - Socle commun** (SQ01)
 - **Gérer ses fichiers numériques** (SQ02)
+- **Information et données - Socle commun** (SQ02)
+- **Création de contenu - Socle commun** (SQ02, SQ07)
 - **Cybersécurité (MAJ 2025)** (SQ04, SQ05)
 - **Protection et sécurité (cyberharcèlement, MAJ 2025)** (SQ06)
+- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (SQ07)
+- **Protection et sécurité - Socle commun** (SQ08)
+- **Tableur pour calculer** (SQ10)
+- **Tableur pour présenter des données** (SQ12)
