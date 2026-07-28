@@ -20,6 +20,22 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/inclusion-numerique-illectronisme.md)
 
+-   :material-numeric-2-circle:{ .lg .middle } **Le diagnostic numérique**
+
+    ---
+
+    Utiliser un outil professionnel (Les Bons Clics) pour évaluer le niveau d'autonomie numérique d'un usager avant d'agir.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/diagnostic-competences-numeriques-usager.md)
+
+-   :material-numeric-3-circle:{ .lg .middle } **La charte de l'accompagnement**
+
+    ---
+
+    Rédiger collectivement, à partir d'une charte professionnelle réelle, les règles déontologiques de l'équipe d'aidants numériques.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/charte-accompagnement-numerique.md)
+
 </div>
 
 !!! tip "Où répondre ?"
