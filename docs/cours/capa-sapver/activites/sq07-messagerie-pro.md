@@ -18,7 +18,7 @@
 
 **Parcours Pix associés**
 
-- Communication et collaboration - Socle commun
+- CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)
 - Création de contenu - Socle commun
 
 ## La situation
