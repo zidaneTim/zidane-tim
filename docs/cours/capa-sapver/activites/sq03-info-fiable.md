@@ -116,6 +116,3 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 |---|---|---|
 | Recherche d'information | L'élève utilise des mots-clés adaptés et trouve une source sérieuse. | -- / - / + / ++ |
 | Vérification et esprit critique | Sur les 4 infos de l'atelier, les verdicts sont corrects et chaque « trompeuse » est justifiée par au moins un signe d'alerte. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) · CRCN 1.1 (mener une recherche et évaluer la fiabilité d'une information). Évaluation **formative**.

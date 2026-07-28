@@ -144,8 +144,3 @@ citée dans la mise en situation.
 | Synchronisation | Statut de synchronisation vérifié, distinction stockage local/cloud correctement expliquée | -- / - / + / ++ |
 | Sécurité du poste | Verrouillage de session réglé, mot de passe conforme aux critères | -- / - / + / ++ |
 | Partage et confidentialité | Partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — environnement numérique : organiser un espace de stockage cloud (CRCN 1.2 — gérer des données) et
-    appliquer des règles de sécurité de base sur un poste professionnel partagé (CRCN 4.1 — sécuriser
-    l'environnement numérique).

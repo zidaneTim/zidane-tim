@@ -113,6 +113,3 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 |---|---|---|
 | Vérifier la fiabilité d'un site | Sur les 3 sites, les verdicts sont corrects et le site douteux est justifié par au moins 2 indices. | -- / - / + / ++ |
 | Argumenter sur la consommation | L'élève donne au moins un argument pour et un argument contre lors du débat. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) et 2.2.2 (outils et projets) · CRCN 4.2 (protéger ses données personnelles et bancaires) et 4.3 (consommation responsable, environnement). Évaluation **formative**. En coordination possible avec la SESG (citoyenneté, consommation).

@@ -131,8 +131,3 @@ et consultables par ta responsable de service.
 | Réalisation des parcours | Étapes du parcours effectuées complètement, pas seulement lues | -- / - / + / ++ |
 | Preuves | Preuve vérifiable produite pour chaque parcours traité | -- / - / + / ++ |
 | Recul | Autodiagnostic mis à jour, reste à faire identifié et daté | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « prise en main en toute sécurité d'un environnement numérique de travail » du document
-    d'accompagnement du module. Séance de consolidation : aucune notion nouvelle n'y est introduite. Construire son
-    environnement numérique (CRCN 5.2), gérer ses données (CRCN 1.2), sécuriser ses accès (CRCN 4.1).

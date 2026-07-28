@@ -133,8 +133,3 @@ scolaire qui t'a confié le rôle de relais numérique.
 | Sécurité des accès | Les 3 vérifications sont faites et leur résultat est noté, y compris quand la réponse est « non actif » | -- / - / + / ++ |
 | Autodiagnostic CRCN | Au moins 5 compétences positionnées, chacune avec un exemple concret et non générique | -- / - / + / ++ |
 | Objectifs personnels | 3 objectifs formulés avec un verbe d'action, cohérents avec l'autodiagnostic | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « prise en main en toute sécurité d'un environnement numérique de travail (protection et
-    sécurité) » du document d'accompagnement du module. Construire et configurer son environnement de travail
-    (CRCN 5.2) et sécuriser ses accès (CRCN 4.1).

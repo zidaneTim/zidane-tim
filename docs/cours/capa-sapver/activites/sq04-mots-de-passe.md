@@ -123,6 +123,3 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 |---|---|---|
 | Reconnaître la solidité d'un mot de passe | Le classement des 6 mots de passe est correct et chaque mot de passe faible est justifié par un défaut. | -- / - / + / ++ |
 | Créer une phrase de passe | La phrase de passe créée respecte les 4 règles (longueur ≥ 12, majuscule, chiffre, signe) et ne contient pas d'info personnelle évidente. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) · CRCN 4.1 (sécuriser l'environnement numérique). Évaluation **formative**.

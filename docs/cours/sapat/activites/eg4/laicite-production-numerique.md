@@ -146,9 +146,3 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 | Adaptation au support | Lisibilité à distance ou audibilité en lieu de passage ; format et durée respectés | -- / - / + / ++ |
 | Droits et sources | Ressources sous licence vérifiée, bloc de crédits complet (titre, auteur, licence, source) | -- / - / + / ++ |
 | Qualité technique | Export réussi au bon format, nommage conforme, montage propre (son normalisé / mise en page nette) | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « création de contenus numériques universels et responsables » du document d'accompagnement du
-    module : outils de PréAO/PAO, sons et images numériques mobilisés pour la production de contenus de création et
-    de partage en vue de la diffusion du 9 décembre. Développer un document multimédia (CRCN 3.2), l'adapter à sa
-    finalité et à ses licences (CRCN 3.3), le préparer au partage et à la publication (CRCN 2.2).

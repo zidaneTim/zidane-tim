@@ -128,8 +128,3 @@ mandatée par la direction du lycée.
 | Forme du conducteur | Mots-clés et non texte rédigé ; conducteur réellement utilisable en situation | -- / - / + / ++ |
 | Autoévaluation | Trois points d'amélioration identifiés, deuxième prise effectuée, écart analysé | -- / - / + / ++ |
 | Anticipation des questions | Deux questions plausibles, réponses courtes et appuyées sur une source | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — médiatisation du projet et valorisation collective (approche propédeutique des modules MG3 et MG4 du
-    cycle terminal), document d'accompagnement du module. Interagir et choisir les codes de communication adaptés
-    au contexte et au public (CRCN 2.1).

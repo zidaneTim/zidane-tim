@@ -104,8 +104,3 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 | Structuration du tableau (4.2.6) | Le sous-ensemble LCBC est correctement construit à partir du fichier national réel, trié, exploitable ; l'ordre de passage est numéroté clairement. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Géolocalisation (4.3.9) | La carte MyMaps est créée, chaque structure retenue est présente et correctement renseignée. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Conformité professionnelle | La question de synthèse sur la confidentialité des données personnelles de bénéficiaires est correctement traitée ; la feuille de tournée est présentable en usage réel. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-
-!!! note "Compétences visées"
-    MP2 obj. 4 — communiquer à l'ère du numérique : structuration de données professionnelles réelles (4.2.6) et
-    usage de la géolocalisation (4.3.9). Grille à visée **formative** : l'objectif 4 n'est pas évalué en tant que
-    tel, mais le travail produit est valorisable via MG1 / le dossier CCF.

@@ -104,6 +104,3 @@ Un graphique se **commente** : on repère le **plus grand**, le **plus petit**, 
 |---|---|---|
 | Filtrer et calculer | Le filtre est utilisé correctement et les totaux par poste sont justes. | -- / - / + / ++ |
 | Graphique et lecture | Le graphique est titré et lisible ; le commentaire repère le plus gros poste et propose un conseil d'économie cohérent. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 1.3 (traiter des données : filtre, graphique, interprétation). Évaluation **formative**. *Les montants de la famille Morel sont un exemple pédagogique fictif, pas des données réelles.*

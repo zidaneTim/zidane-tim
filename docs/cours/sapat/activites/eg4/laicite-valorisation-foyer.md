@@ -129,9 +129,3 @@ d'autoévaluation renseignée, remises à l'équipe projet mandatée par la dire
 | Trace numérique | Photo sans personne identifiable, légende complète et sourcée, archivage rangé | -- / - / + / ++ |
 | Autoévaluation | Chaque critère positionné et justifié par un fait, pas par une impression | -- / - / + / ++ |
 | Recul critique | Deux retours réels recueillis, écart au message analysé, deux pistes d'amélioration concrètes | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — médiatisation du projet : « production de traces numériques attestant l'engagement du groupe », évaluée
-    « sur des critères de réussite co-construits » et en lien avec la communication institutionnelle de
-    l'établissement (document d'accompagnement du module). Partager et publier un contenu en adaptant la diffusion
-    au public visé (CRCN 2.2).

@@ -118,6 +118,3 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 |---|---|---|
 | Comprendre et réagir | L'élève décrit le cyberharcèlement (répété, intentionnel), distingue victime/auteur/témoin et cite au moins 3 réflexes dont le 3018. | -- / - / + / ++ |
 | Production de l'affiche | L'affiche est lisible de loin (message court, contraste), contient les 4 réflexes, le 3018 et une image libre de droits. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) et 2.2.2 (outils et projets) · CRCN 4.3 (protéger la santé et le bien-être), 3.2 (document multimédia) et 2.2 (partager et publier). Évaluation **formative**. En coordination avec l'ESC / la vie scolaire.

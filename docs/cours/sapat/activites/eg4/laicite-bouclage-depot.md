@@ -131,9 +131,3 @@ contrôle remplie pour un camarade — à destination de l'équipe projet mandat
 | Prise en compte du retour | Au moins 2 corrections effectuées et réexportées ; désaccords argumentés | -- / - / + / ++ |
 | Conformité du fichier | Format, nommage, poids et accessibilité conformes aux consignes | -- / - / + / ++ |
 | Dépôt et traçabilité | Fichier déposé sur l'ENT, vérifié après dépôt, fiche technique complète | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « création de contenus numériques universels et responsables » et médiatisation du projet
-    (production de traces numériques attestant l'engagement du groupe), document d'accompagnement du module.
-    Adapter un document à sa finalité de diffusion (CRCN 3.3) et collaborer en gérant versions et retours
-    (CRCN 2.3).

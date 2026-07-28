@@ -109,6 +109,3 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 |---|---|---|
 | Rédaction du courriel | Le courriel contient les 6 parties (objet, appel, corps clair, politesse, signature) sans langage SMS. | -- / - / + / ++ |
 | Envoi et pièce jointe | La pièce jointe est correctement nommée et bien attachée ; le courriel est envoyé au bon destinataire. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 2.1 (interagir) et 3.1 (développer un document textuel). Évaluation **formative**. Exercice d'apprentissage : en CAPa 1, les affectations de stage passent par l'établissement.

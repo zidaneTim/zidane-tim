@@ -136,8 +136,3 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 | Note de service | Mentions obligatoires présentes, corps factuel de 5 lignes maximum, mise en forme affichable, export PDF | -- / - / + / ++ |
 | Diaporama | 6 diapositives, règle 6×6 respectée, lisibilité en projection, notes de présentation renseignées | -- / - / + / ++ |
 | Adaptation au destinataire | Les trois écrits disent le même message avec un registre et un niveau de détail distincts | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « création de contenus numériques universels et responsables » : traitement de texte, PréAO et
-    usages professionnels de la messagerie (document d'accompagnement du module). Interagir avec un destinataire en
-    choisissant les codes adaptés (CRCN 2.1) et développer des documents textuels structurés (CRCN 3.1).

@@ -137,9 +137,3 @@ santé et remise à Mme Riou, coordinatrice.
 | Fait / opinion | Les 3 affirmations sont classées correctement et le classement est justifié | -- / - / + / ++ |
 | Détection IA | Au moins 2 indices de génération automatique recherchés ; sources citées par l'IA effectivement ouvertes et vérifiées | -- / - / + / ++ |
 | Conclusion | Conclusion nuancée, conduite à tenir formulée, aucune affirmation catégorique non étayée | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendus « prévention et limitation des risques et impacts liés au numérique » et « responsabilité,
-    droits et devoirs des acteurs sur Internet et les réseaux sociaux » du document d'accompagnement du module.
-    Mener une recherche et une veille d'information (CRCN 1.1) et s'insérer dans le monde numérique, y compris face
-    aux outils pilotés par l'intelligence artificielle (CRCN 2.4).

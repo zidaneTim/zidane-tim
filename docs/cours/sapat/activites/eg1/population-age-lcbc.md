@@ -102,8 +102,3 @@ rapport.
 | Traitement des données | La formule de pourcentage est exacte ; le tri et la mise en forme conditionnelle sont fonctionnels ; `NB.SI()` renvoie le bon résultat. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Représentation graphique | Le graphique est complet (titre, axes, source) et lisible. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Interprétation | Les questions de synthèse montrent une lecture correcte du phénomène de vieillissement territorial. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-
-!!! note "Compétences visées"
-    EG1 — usage et traitement de données numériques (lecture de tableau, formules de base, mise en forme
-    conditionnelle, représentation graphique). Pas de création de tableau croisé dynamique en 2nde (réservée à la
-    1ère).

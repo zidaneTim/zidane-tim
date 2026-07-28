@@ -135,8 +135,3 @@ et consultables par ta responsable de service.
 | Réalisation des parcours | Étapes effectuées complètement, productions concrètes et non recopiées | -- / - / + / ++ |
 | Transfert | Les droits ou règles sont formulés dans une situation professionnelle précise, pas en général | -- / - / + / ++ |
 | Preuves et recul | Preuves déposées, autodiagnostic mis à jour, action concrète annoncée | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « responsabilité, droits et devoirs des acteurs sur Internet et les réseaux sociaux » du document
-    d'accompagnement du module. Séance de consolidation : aucune notion nouvelle n'y est introduite. Protéger les
-    données personnelles et la vie privée (CRCN 4.2) et sécuriser son environnement numérique (CRCN 4.1).

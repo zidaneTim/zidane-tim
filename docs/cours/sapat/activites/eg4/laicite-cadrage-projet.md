@@ -134,9 +134,3 @@ quelles sources, et selon quel plan de travail.
 | Compréhension du principe | Les 2 articles retenus sont reformulés justement, sans contresens ni recopie | -- / - / + / ++ |
 | Cadrage du projet | Message unique, public identifié, format choisi et justifié | -- / - / + / ++ |
 | Plan de travail | 4 jalons présents, chacun avec un critère de fin explicite | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — le document d'accompagnement du module prescrit le regroupement des heures EMC-ESC-TIM en début d'année
-    « pour conduire l'action à l'occasion de la journée de la laïcité fixée au 9 décembre », les TIM étant
-    mobilisées pour la production de contenus numériques de création et de partage. Mener une recherche et une
-    veille d'information (CRCN 1.1).

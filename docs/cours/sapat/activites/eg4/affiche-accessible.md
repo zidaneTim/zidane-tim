@@ -154,8 +154,3 @@ l'affichage pour les jeunes du territoire par le CCAS de Loudéac (Mme Le Goff).
 | Message pour les jeunes | Message unique, ton et angle adaptés à un public de jeunes, lien SAPAT explicite | -- / - / + / ++ |
 | Règles d'accessibilité | Au moins 5 règles appliquées (contraste, police, pictogrammes, sobriété, hiérarchie visuelle) | -- / - / + / ++ |
 | Production | Affiche complète, exportée, message et chiffre retenus en moins de 5 secondes par un tiers | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendu « créer une affiche de prévention accessible, décrire les enjeux de l'illectronisme en SAPAT »
-    (progression 2nde SAPAT). Adapter un document à son public et à sa finalité, dont l'accessibilité
-    (CRCN 3.3) ; comprendre les enjeux de la fracture numérique et de l'inclusion numérique (CRCN 2.4).

@@ -121,6 +121,3 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 |---|---|---|
 | Organisation et nommage | L'arborescence est créée et le fichier est nommé selon la règle `AAAA-MM-JJ_Intitulé_Prénom` (sans espace ni accent). | -- / - / + / ++ |
 | Tri des informations personnelles | La fiche ne contient que des informations partageables ; l'élève sait justifier ce qu'il garde privé. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.1 (environnement numérique) et 2.2.3 (attitude responsable) · CRCN 1.2 (gérer des données) et 3.1 (développer un document textuel). Évaluation **formative**.

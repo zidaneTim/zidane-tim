@@ -86,6 +86,3 @@ La **mise en forme** rend le tableau clair : titres en **gras**, ligne d'en-têt
 |---|---|---|
 | Recopier, trier, mettre en forme | La formule `=B2*C2` est recopiée avec la poignée, le tableau est trié et la ligne de titres mise en forme. | -- / - / + / ++ |
 | Positionnement Pix | L'élève a terminé le parcours et identifie 2 points forts et 2 points à travailler. | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.2 (outils et projets) · CRCN 1.3 (traiter des données). Le parcours de positionnement Pix balaie l'ensemble des domaines CRCN (diagnostic) — rattachement par interprétation. Évaluation **formative** : le positionnement Pix est un diagnostic, **pas** la certification (celle-ci a lieu en Terminale).

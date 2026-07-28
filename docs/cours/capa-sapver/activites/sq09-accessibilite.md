@@ -97,6 +97,3 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 |---|---|---|
 | Comprendre l'accessibilité | L'élève cite au moins 3 besoins/aides (zoom, contraste, lecteur d'écran) et 3 problèmes du document de départ. | -- / - / + / ++ |
 | Adapter le document | Le document corrigé respecte les 5 règles (taille, contraste, police, vrai texte, texte alternatif). | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    MG1 — vie sociale, obj. 2.2.3 (attitude responsable) · CRCN 3.3 (adapter un document à sa finalité et à son public). Évaluation **formative** (bilan de séquence).

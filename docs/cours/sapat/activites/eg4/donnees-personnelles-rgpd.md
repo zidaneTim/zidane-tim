@@ -133,8 +133,3 @@ responsable du service.
 | Classement des données | Distinction courante/sensible correcte, conséquences pratiques identifiées | -- / - / + / ++ |
 | Clarté pour l'usager | Phrases courtes, sigles explicités, aucun jargon administratif non traduit | -- / - / + / ++ |
 | Qualité de la production | Format A4, lisibilité (taille, contraste), source citée, export PDF réussi | -- / - / + / ++ |
-
-!!! note "Compétences visées"
-    EG4 — attendus « responsabilité, droits et devoirs des acteurs sur Internet » et « création de contenus
-    numériques universels et responsables » du document d'accompagnement du module. Protéger les données
-    personnelles et la vie privée (CRCN 4.2) et développer un document multimédia adapté (CRCN 3.2).
