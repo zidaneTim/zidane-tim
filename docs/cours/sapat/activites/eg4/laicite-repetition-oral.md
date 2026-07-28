@@ -15,10 +15,6 @@
   <span>:material-tag-outline: Conducteur d'oral · Enregistrement · OneNote</span>
 </div>
 
-**Parcours Pix associé**
-
-- Communication et collaboration - Socle commun
-
 ## Mise en situation
 
 Le jour de la diffusion au foyer, personne ne lira ta fiche de cadrage : on te demandera, en quelques minutes,

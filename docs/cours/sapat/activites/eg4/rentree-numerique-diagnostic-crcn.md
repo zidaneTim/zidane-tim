@@ -16,10 +16,9 @@
   <span>:material-tag-outline: ENT · Microsoft 365 · OneNote</span>
 </div>
 
-**Parcours Pix associés**
+**Parcours Pix associé**
 
 - Environnement numérique - Socle commun
-- Cybersécurité (MAJ 2025)
 
 ## Mise en situation
 

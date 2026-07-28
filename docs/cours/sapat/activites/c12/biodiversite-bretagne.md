@@ -19,12 +19,6 @@
 !!! warning "Statut de cette activité — support d'entraînement ECCF"
     Ce thème **n'est pas enseigné en cours** : il sert de cas pratique pour t'entraîner à l'épreuve certificative ECCF E1.2, sur un sujet que tu découvres le jour même — exactement comme le jour de l'épreuve. Tu mobilises seul les **3 critères** vus toute l'année (Analyse → Traitement → Exposition) sur des données que tu n'as jamais manipulées.
 
-**Parcours Pix associé**
-
-- Bac Pro — Tronc commun MG1
-- Tableur pour calculer
-- Tableur pour présenter des données
-
 ## Mise en situation
 
 Loudéac Communauté – Bretagne Centre (LCBC) engage un **plan de gestion des espèces exotiques envahissantes** (renouée du Japon, jussie, frelon asiatique, ragondin…). Ces espèces, introduites par l'activité humaine, peuvent déséquilibrer les milieux, gêner l'entretien des espaces verts et des cours d'eau, voire poser des problèmes de santé publique.
