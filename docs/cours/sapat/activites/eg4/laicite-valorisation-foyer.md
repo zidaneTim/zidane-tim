@@ -100,12 +100,14 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 
 ### Questions de synthèse
 
-- Pourquoi la photo de l'action ne doit-elle montrer aucune personne identifiable ? — réponse attendue : diffuser
-  l'image d'une personne suppose son consentement et relève de la protection des données personnelles.
-- Ton message unique a-t-il été compris par les personnes interrogées ? — réponse attendue : comparaison entre les
-  réponses recueillies mot pour mot et le message fixé au cadrage.
-- Cite une des deux pistes d'amélioration retenues pour une prochaine action. — réponse attendue : une piste
-  concrète et réalisable, tirée d'un écart constaté.
+- Pourquoi la photo de l'action ne doit-elle montrer aucune personne identifiable ?
+- Ton message unique a-t-il été compris par les personnes interrogées ?
+- Cite une des deux pistes d'amélioration retenues pour une prochaine action.
+
+??? tip "Vérifier mes réponses"
+    - Diffuser l'image d'une personne suppose son consentement et relève de la protection des données personnelles.
+    - Une comparaison honnête entre les réponses recueillies mot pour mot et le message fixé au cadrage.
+    - Une piste concrète et réalisable, tirée d'un écart réellement constaté.
 
 !!! tip "Où répondre ?"
     Dépose ta photo légendée, ta grille d'autoévaluation renseignée, les deux retours recueillis et tes deux pistes

@@ -114,10 +114,14 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 ### Questions de synthèse
 
 - Pourquoi une image trouvée dans un moteur de recherche ne peut-elle pas être utilisée telle quelle dans une
-  production diffusée ? — réponse attendue : elle est protégée par le droit d'auteur, sauf licence libre explicite.
-- Quelles informations doit contenir un bloc de crédits ? — réponse attendue : titre, auteur, licence, source.
-- Quelle contrainte concrète le lieu de diffusion (le foyer) impose-t-il à ta production ? — réponse attendue :
-  lisibilité à distance / audibilité dans le bruit, message compréhensible en quelques secondes.
+  production diffusée ?
+- Quelles informations doit contenir un bloc de crédits ?
+- Quelle contrainte concrète le lieu de diffusion (le foyer) impose-t-il à ta production ?
+
+??? tip "Vérifier mes réponses"
+    - Elle est protégée par le droit d'auteur, sauf licence libre explicite.
+    - Titre, auteur, licence, source.
+    - Lisibilité à distance ou audibilité dans le bruit, message compréhensible en quelques secondes.
 
 !!! tip "Où répondre ?"
     Dépose ton relevé de licences, ta production exportée (PDF ou MP3) et les remarques de relecture dans ton

@@ -104,12 +104,15 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 
 ### Questions de synthèse
 
-- Que doit permettre l'objet d'un courriel professionnel ? — réponse attendue : identifier et retrouver le message
-  sans l'ouvrir, même longtemps après.
-- Quelle est la règle 6×6 et à quoi sert-elle ? — réponse attendue : 6 lignes maximum par diapositive et 6 mots par
-  ligne, pour garder un support lisible en projection et forcer l'essentiel à l'écran.
-- Qu'est-ce qui distingue une note de service d'un courriel ? — réponse attendue : destinataires internes, ton
-  factuel et impersonnel, format affichable, absence de formules d'échange.
+- Que doit permettre l'objet d'un courriel professionnel ?
+- Quelle est la règle 6×6 et à quoi sert-elle ?
+- Qu'est-ce qui distingue une note de service d'un courriel ?
+
+??? tip "Vérifier mes réponses"
+    - Identifier et retrouver le message sans l'ouvrir, même longtemps après.
+    - 6 lignes maximum par diapositive et 6 mots par ligne, pour garder un support lisible en projection et forcer
+      l'essentiel à l'écran.
+    - Destinataires internes, ton factuel et impersonnel, format affichable, absence de formules d'échange.
 
 !!! tip "Où répondre ?"
     Dépose une capture d'écran du courriel envoyé, la note de service en PDF et le diaporama (6 diapositives) dans

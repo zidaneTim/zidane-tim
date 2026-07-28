@@ -47,10 +47,6 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 - Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté
 - Construire une carte mentale de synthèse organisant qui est exclu, pourquoi, et ce que fait l'aidant
 
-!!! info "Pas de jeu de données à télécharger"
-    Cette activité ne mobilise pas de base de données tabulaire : les chiffres à relever se lisent directement sur
-    deux pages institutionnelles réelles, citées dans **Ressources et outils**.
-
 ## Travail à faire
 
 ### A — Relever des chiffres réels sur l'illectronisme
@@ -58,9 +54,9 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 **Rechercher et noter les données chiffrées officielles**
 
 1. Ouvrir la page [Insee Première n°1953 — 15 % de la population est en situation d'illectronisme en 2021](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" } et relever dans OneNote le taux
-   national (15,4 %) et sa décomposition (13,9 % n'ont pas utilisé Internet au cours des trois derniers mois, 1,5 %
-   l'ont utilisé sans disposer des compétences numériques de base).
-2. Sur la même page, relever l'écart générationnel (62 % des 75 ans ou plus contre 2 % des 15-24 ans) et noter la
+   national d'illectronisme et sa décomposition (part n'ayant pas utilisé Internet récemment / part l'ayant utilisé
+   sans disposer des compétences numériques de base).
+2. Sur la même page, relever l'écart générationnel entre les 75 ans ou plus et les 15-24 ans, et noter la
    référence exacte de la source (Insee, *Insee Première* n°1953).
 3. Ouvrir la page [L'illectronisme en chiffres](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" } de l'ANLCI (Agence nationale de lutte contre l'illettrisme) et relever la
    définition officielle de l'illectronisme en une phrase.
@@ -80,8 +76,8 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
    le plus exposé à l'illectronisme.
 2. Pour 3 démarches numériques courantes (CAF/allocations, Doctolib/rendez-vous médical, impots.gouv.fr/déclaration
    de revenus), décrire en une phrase une conséquence concrète si l'usager ne peut pas les réaliser seul.
-3. Pour chacune des 3 conséquences, indiquer le droit ou le service auquel l'usager risque de perdre accès (ex. :
-   non-versement d'une allocation, rendez-vous médical non pris, retard de déclaration).
+3. Pour chacune des 3 conséquences décrites, indiquer précisément le droit ou le service auquel l'usager risque de
+   perdre accès si la démarche n'aboutit pas.
 
 ### C — Comprendre la posture de l'aidant numérique
 
@@ -90,10 +86,10 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 1. Relire le rôle de l'aidant numérique tel que défini par le document d'accompagnement du diplôme (verbatim) :
    « l'apprenant accompagne les usagers dans l'exécution de leurs démarches administratives et dans l'utilisation
    des outils et services numériques à leur disposition [...] tout en favorisant leur inclusion numérique. »
-2. Formuler en une phrase la différence entre « faire avec » un usager (l'aidant guide, l'usager agit) et « faire
-   pour » lui (l'aidant agit à sa place) — et pourquoi seule la première posture est professionnellement admise.
-3. Identifier deux limites déontologiques concrètes de l'aidant numérique : ne jamais saisir à la place de l'usager
-   un mot de passe ou une donnée bancaire, ne jamais valider une démarche que l'usager n'a pas comprise.
+2. Formuler en une phrase la différence entre « faire avec » un usager et « faire pour » lui, et pourquoi une
+   seule de ces deux postures est professionnellement admise.
+3. En t'appuyant sur les principes de confidentialité des données personnelles et de consentement éclairé de
+   l'usager, identifier deux limites déontologiques concrètes que l'aidant numérique ne doit jamais franchir.
 
 !!! tip "Astuce"
     Un aidant qui « fait pour » l'usager le rend plus dépendant à chaque visite ; un aidant qui « fait avec » lui
@@ -112,13 +108,15 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 
 ### Questions de synthèse
 
-- Quel est le taux national d'illectronisme en France en 2021, et comment se décompose-t-il ? — réponse attendue :
-  15,4 %, dont 13,9 % de personnes n'ayant pas utilisé Internet au cours des trois derniers mois et 1,5 % l'ayant
-  utilisé sans disposer des compétences numériques de base (Insee, 2023).
-- Quel écart générationnel les mêmes données Insee mettent-elles en évidence ? — réponse attendue : 62 % des 75 ans
-  ou plus en situation d'illectronisme, contre 2 % des 15-24 ans.
-- Que signifie « faire avec et non pour » pour un aidant numérique ? — réponse attendue : accompagner l'usager dans
-  la réalisation de sa propre démarche, sans jamais l'effectuer à sa place.
+- Quel est le taux national d'illectronisme en France en 2021, et comment se décompose-t-il ?
+- Quel écart générationnel les mêmes données Insee mettent-elles en évidence ?
+- Que signifie « faire avec et non pour » pour un aidant numérique ?
+
+??? tip "Vérifier mes réponses"
+    - 15,4 %, dont 13,9 % de personnes n'ayant pas utilisé Internet au cours des trois derniers mois et 1,5 % l'ayant
+      utilisé sans disposer des compétences numériques de base (Insee, 2023).
+    - 62 % des 75 ans ou plus en situation d'illectronisme, contre 2 % des 15-24 ans.
+    - Accompagner l'usager dans la réalisation de sa propre démarche, sans jamais l'effectuer à sa place.
 
 !!! tip "Où répondre ?"
     Dépose ta carte mentale exportée (image ou PDF) et tes réponses aux questions de synthèse dans ton bloc-notes

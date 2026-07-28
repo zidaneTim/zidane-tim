@@ -101,11 +101,14 @@ leurs données et quels droits ils peuvent exercer.
 
 ### Questions de synthèse
 
-- Depuis quelle date le RGPD est-il applicable ? — réponse attendue : 25 mai 2018.
-- Un usager veut faire corriger son adresse enregistrée par erreur : quel droit exerce-t-il ? — réponse attendue :
-  le droit de rectification.
-- Cite une donnée sensible présente dans un dossier d'aide sociale et une précaution concrète qui s'y applique. —
-  réponse attendue : une donnée de santé/handicap, avec accès limité aux seules personnes habilitées.
+- Depuis quelle date le RGPD est-il applicable ?
+- Un usager veut faire corriger son adresse enregistrée par erreur : quel droit exerce-t-il ?
+- Cite une donnée sensible présente dans un dossier d'aide sociale et une précaution concrète qui s'y applique.
+
+??? tip "Vérifier mes réponses"
+    - 25 mai 2018.
+    - Le droit de rectification.
+    - Une donnée de santé/handicap, avec un accès limité aux seules personnes habilitées.
 
 !!! tip "Où répondre ?"
     Dépose ton relevé des droits, ton tableau de classement des données et ton infographie exportée en **PDF** dans

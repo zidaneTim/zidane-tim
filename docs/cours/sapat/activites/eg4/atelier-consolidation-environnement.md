@@ -104,12 +104,14 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 
 ### Questions de synthèse
 
-- Quelles deux compétences as-tu choisi de consolider, et pourquoi celles-là ? — réponse attendue : deux lignes
-  identifiées comme fragiles dans l'autodiagnostic, avec justification.
-- Quelle preuve concrète montre que c'est acquis ? — réponse attendue : capture d'écran, fichier renommé, test de
-  recherche réussi.
-- Quelle règle de nommage as-tu appliquée à tes fichiers ? — réponse attendue : `Theme-Objet-AAAA-MM-JJ`, sans
-  espace ni caractère spécial.
+- Quelles deux compétences as-tu choisi de consolider, et pourquoi celles-là ?
+- Quelle preuve concrète montre que c'est acquis ?
+- Quelle règle de nommage as-tu appliquée à tes fichiers ?
+
+??? tip "Vérifier mes réponses"
+    - Deux lignes identifiées comme fragiles dans ton autodiagnostic, avec une justification cohérente.
+    - Une preuve vérifiable : capture d'écran, fichier renommé, ou test de recherche réussi.
+    - `Theme-Objet-AAAA-MM-JJ`, sans espace ni caractère spécial.
 
 !!! tip "Où répondre ?"
     Dépose tes preuves et ton autodiagnostic mis à jour dans ton bloc-notes **OneNote**, section *EG4 — Vivre et

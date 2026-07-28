@@ -106,13 +106,15 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 
 ### Questions de synthèse
 
-- Combien de droits avais-tu retrouvés de mémoire, et combien en compte la liste de la CNIL ? — réponse attendue :
-  comparaison chiffrée entre la liste écrite de mémoire et la liste officielle.
-- Cite une donnée sensible de la situation que tu as choisie et la précaution qui s'y applique. — réponse
-  attendue : une donnée de santé, de situation sociale ou de handicap, avec accès restreint aux personnes
-  habilitées.
-- Quel réglage de confidentialité as-tu modifié, et qu'est-ce que cela change ? — réponse attendue : un réglage
-  précis, avec l'effet concret sur la visibilité.
+- Combien de droits avais-tu retrouvés de mémoire, et combien en compte la liste de la CNIL ?
+- Cite une donnée sensible de la situation que tu as choisie et la précaution qui s'y applique.
+- Quel réglage de confidentialité as-tu modifié, et qu'est-ce que cela change ?
+
+??? tip "Vérifier mes réponses"
+    - Une comparaison chiffrée honnête entre ta liste écrite de mémoire et la liste officielle de la CNIL.
+    - Une donnée de santé, de situation sociale ou de handicap, avec un accès restreint aux seules personnes
+      habilitées.
+    - Un réglage précis (et non vague), avec l'effet concret sur la visibilité de tes informations.
 
 !!! tip "Où répondre ?"
     Dépose ta liste complétée, tes productions de parcours et tes captures avant/après dans ton bloc-notes

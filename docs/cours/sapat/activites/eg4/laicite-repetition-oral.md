@@ -100,12 +100,14 @@ mot), on répète, on s'enregistre, on corrige.
 
 ### Questions de synthèse
 
-- Quels sont les cinq temps de ton conducteur, et quelle est leur durée totale ? — réponse attendue : accroche,
-  message, fabrication, difficulté, conclusion, pour 4 à 5 minutes.
-- Quel point as-tu corrigé entre ta première et ta deuxième prise ? — réponse attendue : un point précis parmi
-  débit, mots parasites, volume, pauses.
-- Que réponds-tu si une question dépasse ce que tu sais ? — réponse attendue : reconnaître ne pas savoir, indiquer
-  où chercher, proposer d'y revenir.
+- Quels sont les cinq temps de ton conducteur, et quelle est leur durée totale ?
+- Quel point as-tu corrigé entre ta première et ta deuxième prise ?
+- Que réponds-tu si une question dépasse ce que tu sais ?
+
+??? tip "Vérifier mes réponses"
+    - Accroche, message, fabrication, difficulté, conclusion, pour un total de 4 à 5 minutes.
+    - Un point précis réellement corrigé, parmi débit, mots parasites, volume, pauses.
+    - Reconnaître ne pas savoir, indiquer où chercher l'information, proposer d'y revenir.
 
 !!! tip "Où répondre ?"
     Dépose ton conducteur minuté, tes deux enregistrements et tes questions/réponses anticipées dans ton bloc-notes

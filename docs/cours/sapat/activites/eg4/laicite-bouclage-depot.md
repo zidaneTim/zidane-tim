@@ -99,12 +99,14 @@ terminée, contrôlée et déposée — pas la veille.
 
 ### Questions de synthèse
 
-- Pourquoi rouvrir le fichier depuis l'ENT après dépôt ? — réponse attendue : pour vérifier que le fichier déposé
-  est complet et lisible, et pas seulement présent.
-- Qu'est-ce qui distingue une remarque de relecture utile d'un jugement inutile ? — réponse attendue : elle
-  identifie un point précis et propose une correction concrète.
-- Quelle version de ton fichier est déposée, et comment est-elle nommée ? — réponse attendue : la version corrigée
-  et réexportée, avec un nom de fichier explicite et unique.
+- Pourquoi rouvrir le fichier depuis l'ENT après dépôt ?
+- Qu'est-ce qui distingue une remarque de relecture utile d'un jugement inutile ?
+- Quelle version de ton fichier est déposée, et comment est-elle nommée ?
+
+??? tip "Vérifier mes réponses"
+    - Pour vérifier que le fichier déposé est complet et lisible, et pas seulement présent.
+    - Elle identifie un point précis et propose une correction concrète, plutôt qu'un jugement global.
+    - La version corrigée et réexportée, avec un nom de fichier explicite et unique.
 
 !!! tip "Où répondre ?"
     Dépose la grille de contrôle remplie pour ton camarade, tes réponses aux remarques reçues et la fiche technique

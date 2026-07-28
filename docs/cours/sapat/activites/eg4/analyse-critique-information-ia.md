@@ -104,12 +104,14 @@ rapportent.
 
 ### Questions de synthèse
 
-- Que désignent les quatre gestes de la méthode SIFT ? — réponse attendue : Stop, Investiguer la source, Trouver
-  une meilleure source, Tracer jusqu'à l'origine.
-- Quel est le procédé de désinformation le plus fréquent avec les images ? — réponse attendue : une vraie image
-  sortie de son contexte d'origine.
-- Qu'est-ce qu'une « hallucination » d'IA, et comment l'as-tu détectée ? — réponse attendue : une source ou un fait
-  inventé mais présenté comme vrai, détecté en ouvrant et vérifiant chaque source citée.
+- Que désignent les quatre gestes de la méthode SIFT ?
+- Quel est le procédé de désinformation le plus fréquent avec les images ?
+- Qu'est-ce qu'une « hallucination » d'IA, et comment l'as-tu détectée ?
+
+??? tip "Vérifier mes réponses"
+    - Stop, Investiguer la source, Trouver une meilleure source, Tracer jusqu'à l'origine.
+    - Une vraie image sortie de son contexte d'origine.
+    - Une source ou un fait inventé mais présenté comme vrai, détecté en ouvrant et vérifiant chaque source citée.
 
 !!! tip "Où répondre ?"
     Dépose ta fiche d'analyse complète (capture, 3 affirmations classées, recherche de source, filtre IA,

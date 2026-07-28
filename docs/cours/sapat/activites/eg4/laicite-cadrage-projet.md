@@ -102,11 +102,14 @@ quelles sources, et selon quel plan de travail.
 
 ### Questions de synthèse
 
-- Quelle loi fonde la laïcité en France, et de quelle année date-t-elle ? — réponse attendue : la loi de
-  séparation des Églises et de l'État du 9 décembre 1905.
-- Combien d'articles compte la Charte de la laïcité à l'École ? — réponse attendue : 15 articles.
-- Quel est le message unique de ta production, et pour quel public précis ? — réponse attendue : une phrase unique
-  + le public « élèves du lycée passant au foyer ».
+- Quelle loi fonde la laïcité en France, et de quelle année date-t-elle ?
+- Combien d'articles compte la Charte de la laïcité à l'École ?
+- Quel est le message unique de ta production, et pour quel public précis ?
+
+??? tip "Vérifier mes réponses"
+    - La loi de séparation des Églises et de l'État du 9 décembre 1905.
+    - 15 articles.
+    - Une phrase unique, avec le public « élèves du lycée passant au foyer ».
 
 !!! tip "Où répondre ?"
     Dépose ta fiche de cadrage et ton plan de travail à 4 jalons dans ton bloc-notes **OneNote**, section

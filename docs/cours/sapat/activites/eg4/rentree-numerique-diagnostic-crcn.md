@@ -102,11 +102,14 @@ que tu dois travailler en priorité cette année.
 
 ### Questions de synthèse
 
-- Combien de domaines et combien de compétences compte le CRCN ? — réponse attendue : 5 domaines, 16 compétences.
-- Cite deux règles de sécurité que tu as vérifiées aujourd'hui sur ton compte scolaire. — réponse attendue :
-  verrouillage automatique de session, longueur/robustesse du mot de passe, second facteur d'authentification.
-- Quel est le premier des 3 objectifs que tu t'es fixé, et pourquoi celui-là ? — réponse attendue : un objectif
-  formulé avec un verbe d'action et une justification tirée de l'autodiagnostic.
+- Combien de domaines et combien de compétences compte le CRCN ?
+- Cite deux règles de sécurité que tu as vérifiées aujourd'hui sur ton compte scolaire.
+- Quel est le premier des 3 objectifs que tu t'es fixé, et pourquoi celui-là ?
+
+??? tip "Vérifier mes réponses"
+    - 5 domaines, 16 compétences.
+    - Verrouillage automatique de session, longueur/robustesse du mot de passe, second facteur d'authentification.
+    - Un objectif formulé avec un verbe d'action et une justification tirée de ton autodiagnostic.
 
 !!! tip "Où répondre ?"
     Dépose ta capture d'écran, ton tableau d'autodiagnostic et tes 3 objectifs dans ton bloc-notes **OneNote**,
