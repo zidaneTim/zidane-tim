@@ -25,6 +25,20 @@ standard, sans droit d'installer un logiciel ni de créer un nouveau compte. **M
 référent, veut savoir précisément ce que tu peux préparer seul avant l'ouverture au public, et ce qui doit être
 transmis au prestataire informatique de la structure.
 
+Avant l'ouverture au public, M. Rouault te demande de tester le poste avec un collègue plutôt que de le préparer
+dans ton coin : l'un de vous prépare et présente le poste (rôle **aidant**), l'autre joue un usager malvoyant venu
+pour la première fois (rôle **aidé**) et donne un avis réel sur ce qui est lisible ou non. Vous inverserez les
+rôles à la prochaine activité de ce type.
+
+!!! info "Ton rôle aujourd'hui"
+    Vérifie dans ta fiche de suivi **OneNote** (section *MP8 — Cadre de vie / Quotidien*) si tu joues l'**aidant**
+    ou l'**aidé** pour cette activité, et note-le une fois l'activité terminée.
+
+    🆘 **Binôme absent ce jour-là ?** Joue les deux rôles toi-même : configure les réglages (partie aidant), puis
+    rejoue la vérification en te mettant à la place d'un usager malvoyant (ferme les yeux quelques secondes avant
+    de juger la lisibilité, éloigne-toi de l'écran) — c'est la même technique de simulation individuelle que celle
+    utilisée en classe avec les kits de vieillissement ou les lunettes simulatrices.
+
 !!! question "Problématique"
     « Que peut réaliser seul un agent d'accueil sans droits administrateur pour préparer un poste accessible et
     sécurisé, et que doit-il transmettre au prestataire informatique ? »
@@ -37,6 +51,7 @@ transmis au prestataire informatique de la structure.
 - Identifier des bonnes pratiques de maintenance de premier niveau recommandées par un organisme officiel, et
   repérer celles qu'un agent standard peut appliquer seul
 - Rédiger une check-list de mise en service à deux niveaux de responsabilité, réutilisable par les collègues
+- Ajuster ses réglages à partir du retour réel d'un usager-test, en tant qu'aidant ou en tant qu'aidé
 
 ## Travail à faire
 
@@ -68,6 +83,10 @@ transmis au prestataire informatique de la structure.
    ce qu'expérimente un usager malvoyant qui les utiliserait.
 4. Ajuster le volume système et vérifier la présence de haut-parleurs fonctionnels — utiles à un usager qui
    activerait le Narrateur ou les sous-titres en direct.
+5. **Aidant** : fais tester tes réglages par ton binôme dans le rôle de l'usager malvoyant — demande-lui de lire à
+   distance normale un texte affiché à l'écran et d'utiliser le Narrateur quelques secondes. **Aidé** : donne un
+   avis honnête (lisible ou non, confortable ou non), sans faciliter la tâche de ton binôme. Ajustez ensemble au
+   moins un réglage suite à ce retour.
 
 !!! tip "🆘 Coup de pouce"
     Si un réglage reste introuvable, utilise directement la barre de recherche Windows en tapant « accessibilité » :
@@ -89,6 +108,9 @@ transmis au prestataire informatique de la structure.
    elle doit être demandée au prestataire informatique (ex. installer une mise à jour système).
 4. Rédiger, à destination du prestataire informatique de France Services Loudéac, un message court (3-4 lignes)
    signalant l'état des mises à jour observé à l'étape 2 et demandant leur installation si nécessaire.
+5. **Aidé** : demande à ton binôme, comme le ferait un usager, d'installer une application ou de créer un nouveau
+   compte sur le poste. **Aidant** : explique pourquoi tu ne peux pas le faire toi-même et ce que tu proposes à la
+   place (sans le faire à sa place — la posture reste « faire avec, jamais pour »).
 
 !!! tip "Astuce"
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
@@ -111,6 +133,7 @@ transmis au prestataire informatique de la structure.
 - Pourquoi un agent d'accueil n'a-t-il généralement pas de droits administrateur sur un poste public ?
 - Que doit faire un agent qui repère un poste non à jour, s'il n'a pas les droits pour installer la mise à jour
   lui-même ?
+- Pourquoi le retour de l'usager-test (ton binôme) peut-il faire changer un réglage que tu jugeais déjà correct ?
 
 ??? tip "Vérifier mes réponses"
     - Les réglages de confort visuel (taille du texte, contraste, loupe) et les réglages de lecture/écoute
@@ -119,10 +142,13 @@ transmis au prestataire informatique de la structure.
       mal manipulé — un principe de sécurité appliqué à tout poste partagé, pas seulement en médiation numérique.
     - Il doit signaler précisément la situation au prestataire informatique ou au responsable technique de la
       structure, plutôt que de tenter de contourner la restriction.
+    - Parce qu'un réglage jugé confortable par celui qui l'a paramétré n'est pas forcément perçu de la même façon
+      par la personne qui l'utilise réellement : seul le retour de l'usager valide si le réglage répond au besoin.
 
 !!! tip "Où répondre ?"
     Dépose ta check-list PDF et tes réponses aux questions de synthèse dans ton bloc-notes **OneNote**, section
-    *MP8 — Cadre de vie / Quotidien*.
+    *MP8 — Cadre de vie / Quotidien* — et note dans ta fiche de suivi le rôle que tu as joué aujourd'hui (aidant ou
+    aidé) et le nom de ton binôme.
 
 ## Ressources et outils
 
@@ -137,10 +163,11 @@ transmis au prestataire informatique de la structure.
 
 **Production attendue :** une check-list de mise en service au format PDF, prête à être réutilisée par les
 collègues de France Services Loudéac pour tout futur poste libre-service, accompagnée du message au prestataire
-informatique et des réponses aux questions de synthèse.
+informatique, des réponses aux questions de synthèse, et d'une ligne notant l'ajustement fait suite au retour de
+l'usager-test.
 
 | Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
-| Relation interpersonnelle de proximité et distanciée | Réglages choisis en anticipant les besoins d'un usager non identifié ; signalement au prestataire formulé avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
-| Organisation de l'espace de vie | Poste préparé et organisé (accessibilité, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
+| Relation interpersonnelle de proximité et distanciée | Réglages ajustés à partir du retour réel de l'usager-test (binôme) ; échange avec le binôme et signalement au prestataire menés avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
+| Organisation de l'espace de vie | Poste préparé, organisé et validé par un test usager (accessibilité, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
 | Réalisation des opérations d'entretien en toute sécurité | Bonnes pratiques de maintenance de premier niveau correctement identifiées et appliquées dans la limite des droits de l'agent, sans contournement d'une restriction de sécurité | -- / - / + / ++ |
