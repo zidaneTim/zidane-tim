@@ -102,9 +102,8 @@ aussi bien en ligne que hors connexion.
 testée sur un second profil) présenté comme une trousse à outils prête à l'emploi pour la prochaine permanence de
 M. Rouault à France Services Loudéac.
 
-| Critère | Indicateurs observables | Niveau |
+| Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Maîtrise de l'outil | Compte créé, diagnostic en ligne mené et résultat correctement relevé | -- / - / + / ++ |
-| Observation | Prise en main de l'usager fictif décrite avec précision (hésitations, vocabulaire, aides demandées) | -- / - / + / ++ |
-| Grille papier | Tableau à 3 colonnes complet, lisible, réutilisable pour un usager sans équipement | -- / - / + / ++ |
-| Analyse | Résultats des deux profils correctement reliés à une orientation d'accompagnement | -- / - / + / ++ |
+| Posture d'accompagnement (mobilisation des ressources de la personne) | Diagnostic mené comme un échange qui mobilise l'usager (observation sans se substituer à lui), résultat exploité pour l'orienter et non pour le juger | -- / - / + / ++ |
+| Relation avec distanciation professionnelle | Prise en main de l'usager fictif observée et décrite avec précision et neutralité (hésitations, vocabulaire, aides demandées), sans jugement de valeur | -- / - / + / ++ |
+| Anticipation et réalisation des démarches | Grille papier complète, lisible, réutilisable pour un usager sans équipement ; résultats des deux profils correctement reliés à une orientation d'accompagnement adaptée | -- / - / + / ++ |

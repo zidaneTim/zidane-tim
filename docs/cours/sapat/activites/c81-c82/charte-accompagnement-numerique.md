@@ -94,9 +94,8 @@ la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale
 **Production attendue :** la charte de l'accompagnement numérique de France Services Loudéac, rédigée
 collectivement, mise en page sur une page, prête à être affichée au poste d'accueil de M. Rouault.
 
-| Critère | Indicateurs observables | Niveau |
+| Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Analyse de la charte de référence | Nombre d'engagements et engagements clés (confidentialité, limites) correctement identifiés | -- / - / + / ++ |
-| Droits RGPD | Droits de la personne correctement listés et reliés à des situations concrètes d'accompagnement | -- / - / + / ++ |
-| Rédaction collective | 6 à 8 engagements rédigés à la première personne, adaptés au contexte SAPAT | -- / - / + / ++ |
-| Limites déontologiques | Au moins un engagement formule explicitement une limite de l'aidant face à une donnée sensible | -- / - / + / ++ |
+| Posture d'accompagnement (mobilisation des ressources de la personne) | Engagements rédigés reflètent une posture qui mobilise l'usager (« faire avec ») ; au moins un engagement fixe une limite déontologique claire face à une donnée sensible | -- / - / + / ++ |
+| Relation avec distanciation professionnelle | Droits RGPD correctement listés et reliés à des situations concrètes d'accompagnement ; règle de confidentialité entre collègues formulée avec la juste distance professionnelle | -- / - / + / ++ |
+| Anticipation et réalisation des démarches | Charte de référence correctement analysée (engagements clés identifiés) ; charte de la structure rédigée collectivement, 6 à 8 engagements adaptés au contexte SAPAT, prête à l'affichage | -- / - / + / ++ |

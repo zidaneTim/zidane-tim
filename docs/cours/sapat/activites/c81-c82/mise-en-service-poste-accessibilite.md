@@ -8,7 +8,7 @@
 
 <p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.1 — Cadre de vie / Quotidien</p>
 
-<p class="zt-lede">Un poste mal réglé peut exclure l'usager qu'il est censé aider : préparer un ordinateur accessible et à jour avant sa première utilisation</p>
+<p class="zt-lede">Un poste mal réglé peut exclure l'usager qu'il est censé aider : savoir ce qu'un agent d'accueil peut préparer seul, et ce qu'il doit transmettre à qui de droit</p>
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 45 min</span>
@@ -19,41 +19,41 @@
 ## Mise en situation
 
 **France Services de Loudéac** vient de recevoir un nouvel ordinateur portable, destiné à l'espace libre-service
-ouvert aux usagers qui viennent réaliser seuls une partie de leurs démarches en ligne. Avant sa mise à disposition
-au public, l'appareil doit être entièrement mis en service : compte, connexion, réglages, mises à jour. Un poste
-mal préparé peut avoir deux conséquences graves pour la structure : un usager malvoyant ou peu à l'aise renonce à
-l'utiliser faute de réglages adaptés, et un appareil resté sans mise à jour reste exposé aux failles de sécurité
-que corrigent justement ces mises à jour — un risque documenté par Cybermalveillance.gouv.fr, le dispositif
-national d'assistance aux victimes de cybermalveillance.
-
-**Ton rôle :** tu es agent d'accueil numérique à France Services Loudéac. **M. Rouault**, ton conseiller référent,
-te confie la mise en service complète de ce nouveau poste avant son ouverture au public.
+ouvert aux usagers. Comme sur la plupart des postes publics, le compte administrateur de la machine est réservé au
+prestataire informatique de la structure : un agent d'accueil comme toi n'a accès qu'à un compte utilisateur
+standard, sans droit d'installer un logiciel ni de créer un nouveau compte. **M. Rouault**, ton conseiller
+référent, veut savoir précisément ce que tu peux préparer seul avant l'ouverture au public, et ce qui doit être
+transmis au prestataire informatique de la structure.
 
 !!! question "Problématique"
-    « Comment mettre en service un poste informatique pour qu'il soit à la fois accessible à un usager en
-    difficulté et protégé des risques numériques courants ? »
+    « Que peut réaliser seul un agent d'accueil sans droits administrateur pour préparer un poste accessible et
+    sécurisé, et que doit-il transmettre au prestataire informatique ? »
 
 ## Objectifs
 
-- Mettre en service un appareil (compte, connexion réseau) en autonomie
+- Distinguer les actions de mise en service réalisables par un agent sans droits administrateur de celles qui
+  relèvent du prestataire informatique
 - Paramétrer les réglages d'accessibilité adaptés à un usager malvoyant ou peu à l'aise avec le numérique
-- Appliquer des bonnes pratiques de maintenance de premier niveau recommandées par un organisme officiel
-- Rédiger une check-list de mise en service réutilisable par les collègues de la structure
+- Identifier des bonnes pratiques de maintenance de premier niveau recommandées par un organisme officiel, et
+  repérer celles qu'un agent standard peut appliquer seul
+- Rédiger une check-list de mise en service à deux niveaux de responsabilité, réutilisable par les collègues
 
 ## Travail à faire
 
-### A — Mettre en service l'appareil
+### A — Vérifier l'état du poste avec un compte utilisateur standard
 
-**Réaliser le premier démarrage et la connexion**
+**Observer le poste sans droits administrateur**
 
-1. Démarrer le poste mis à disposition (salle informatique du lycée) et créer ou connecter un compte utilisateur
-   dédié à l'espace libre-service (nom générique, ex. « France-Services-Loudeac »).
-2. Connecter le poste au réseau wifi de la structure (identifiants fournis par ton professeur) et vérifier l'accès
-   effectif à Internet.
-3. Dans les paramètres système du poste (Windows : Paramètres > Système > Informations système), noter la version
-   du système d'exploitation installée et si une mise à jour majeure est proposée.
-4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier filaires ou Bluetooth) et signaler
-   tout défaut de connectique observé.
+1. Se connecter avec la session déjà ouverte sur le poste (compte utilisateur standard du lycée — équivalent au
+   compte que M. Rouault donnerait à un agent d'accueil sur un poste public, jamais un compte administrateur).
+2. Dans les paramètres système (Windows : Paramètres > Système > Informations système), relever la version du
+   système d'exploitation installée ; dans Paramètres > Comptes, vérifier si le compte connecté est de type
+   administrateur ou standard.
+3. Vérifier que le poste est bien connecté à Internet et noter, pour ta check-list, les informations qu'un agent
+   devrait demander pour connecter un poste réel de la structure à son réseau wifi (nom du réseau, personne à
+   contacter pour obtenir le code d'accès).
+4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier) et signaler tout défaut de
+   connectique observé — une action réalisable sans droits particuliers.
 
 ### B — Paramétrer l'accessibilité pour un usager en difficulté
 
@@ -71,31 +71,35 @@ te confie la mise en service complète de ce nouveau poste avant son ouverture a
 
 !!! tip "🆘 Coup de pouce"
     Si un réglage reste introuvable, utilise directement la barre de recherche Windows en tapant « accessibilité » :
-    cela ouvre le bon menu sans naviguer dans tous les paramètres.
+    cela ouvre le bon menu sans naviguer dans tous les paramètres. Ces réglages sont des préférences liées au
+    compte utilisateur : ils ne demandent pas de droits administrateur.
 
-### C — Appliquer les bonnes pratiques de maintenance de premier niveau
+### C — Distinguer ce qu'un agent peut faire seul de ce qui relève du prestataire
 
-**Sécuriser le poste avant sa mise à disposition**
+**Identifier les limites du compte utilisateur standard face aux mises à jour**
 
 1. Ouvrir la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }
    de Cybermalveillance.gouv.fr et, parmi les bonnes pratiques listées, identifier celles qui s'appliquent le plus
    directement à un poste public en libre-service.
-2. Vérifier et lancer les mises à jour disponibles du système d'exploitation et des logiciels installés (navigateur,
-   suite bureautique) en passant uniquement par les canaux officiels de l'éditeur.
-3. Activer l'option de téléchargement et d'installation automatique des mises à jour lorsque le logiciel le permet.
-4. Redémarrer le poste après les mises à jour et vérifier qu'il redémarre correctement (pas d'écran bloqué,
-   connexion wifi rétablie).
+2. Sur le poste, ouvrir l'écran de recherche de mises à jour (Paramètres > Windows Update) et noter si l'action
+   d'installer une mise à jour est accessible avec le compte utilisateur connecté ou si elle réclame des droits
+   administrateur.
+3. Pour chaque bonne pratique identifiée à l'étape 1, indiquer si elle est réalisable seul par un agent d'accueil
+   sans droits particuliers (ex. redémarrer le poste, signaler une fausse fenêtre de mise à jour suspecte) ou si
+   elle doit être demandée au prestataire informatique (ex. installer une mise à jour système).
+4. Rédiger, à destination du prestataire informatique de France Services Loudéac, un message court (3-4 lignes)
+   signalant l'état des mises à jour observé à l'étape 2 et demandant leur installation si nécessaire.
 
 !!! tip "Astuce"
-    Une mise à jour qui échoue au premier redémarrage n'est pas forcément un problème grave : un second redémarrage
-    suffit souvent avant d'alerter quiconque.
+    Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
+    au bon interlocuteur fait pleinement partie de la mission.
 
-### D — Rédiger la check-list de mise en service
+### D — Rédiger la check-list de mise en service à deux niveaux
 
-**Formaliser la procédure pour les collègues**
+**Formaliser la procédure pour les collègues et pour le prestataire**
 
-1. Ouvrir un traitement de texte et créer un tableau à cocher réunissant, dans l'ordre chronologique, toutes les
-   étapes réalisées en A, B et C (premier démarrage, wifi, accessibilité, mises à jour, redémarrage).
+1. Ouvrir un traitement de texte et créer un tableau à deux colonnes de responsabilité — « Réalisable par l'agent
+   d'accueil » et « À transmettre au prestataire informatique » — reprenant toutes les étapes réalisées en A, B et C.
 2. Pour chaque étape, préciser en une ligne le résultat attendu qui permet de cocher la case (ex. « contraste élevé
    activé → texte lisible à 2 mètres »).
 3. Ajouter en tête du document un titre, la date de mise en service et le nom de l'agent qui l'a réalisée.
@@ -104,16 +108,17 @@ te confie la mise en service complète de ce nouveau poste avant son ouverture a
 ### Questions de synthèse
 
 - Quelles sont les deux familles de réglages d'accessibilité Windows mobilisées dans cette mise en service ?
-- Pourquoi un poste public doit-il être maintenu à jour, au-delà du simple confort d'utilisation ?
-- Que risque un poste en libre-service dont les mises à jour sont systématiquement reportées « à plus tard » ?
+- Pourquoi un agent d'accueil n'a-t-il généralement pas de droits administrateur sur un poste public ?
+- Que doit faire un agent qui repère un poste non à jour, s'il n'a pas les droits pour installer la mise à jour
+  lui-même ?
 
 ??? tip "Vérifier mes réponses"
     - Les réglages de confort visuel (taille du texte, contraste, loupe) et les réglages de lecture/écoute
       (Narrateur, sous-titres en direct, volume).
-    - Parce qu'un appareil non mis à jour reste exposé à des failles de sécurité connues, exploitables pour accéder
-      aux données saisies par les usagers sur ce poste partagé.
-    - Plus une faille de sécurité connue reste sans correctif, plus la fenêtre pendant laquelle des cybercriminels
-      peuvent l'exploiter est longue.
+    - Séparer le compte administrateur du compte utilisateur limite les risques si le poste public est piraté ou
+      mal manipulé — un principe de sécurité appliqué à tout poste partagé, pas seulement en médiation numérique.
+    - Il doit signaler précisément la situation au prestataire informatique ou au responsable technique de la
+      structure, plutôt que de tenter de contourner la restriction.
 
 !!! tip "Où répondre ?"
     Dépose ta check-list PDF et tes réponses aux questions de synthèse dans ton bloc-notes **OneNote**, section
@@ -131,12 +136,11 @@ te confie la mise en service complète de ce nouveau poste avant son ouverture a
 ## Grille d'évaluation C8.1 — Mise en service et maintenance d'un poste (MP8)
 
 **Production attendue :** une check-list de mise en service au format PDF, prête à être réutilisée par les
-collègues de France Services Loudéac pour tout futur poste libre-service, accompagnée des réponses aux questions
-de synthèse.
+collègues de France Services Loudéac pour tout futur poste libre-service, accompagnée du message au prestataire
+informatique et des réponses aux questions de synthèse.
 
-| Critère | Indicateurs observables | Niveau |
+| Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
-| Mise en service | Compte créé, connexion wifi établie, informations système relevées | -- / - / + / ++ |
-| Accessibilité | Réglages de confort visuel et de lecture/écoute correctement activés et testés | -- / - / + / ++ |
-| Maintenance premier niveau | Mises à jour identifiées et réalisées depuis des canaux officiels, bonnes pratiques citées | -- / - / + / ++ |
-| Production | Check-list claire, chronologique, exploitable par un collègue | -- / - / + / ++ |
+| Relation interpersonnelle de proximité et distanciée | Réglages choisis en anticipant les besoins d'un usager non identifié ; signalement au prestataire formulé avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
+| Organisation de l'espace de vie | Poste préparé et organisé (accessibilité, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
+| Réalisation des opérations d'entretien en toute sécurité | Bonnes pratiques de maintenance de premier niveau correctement identifiées et appliquées dans la limite des droits de l'agent, sans contournement d'une restriction de sécurité | -- / - / + / ++ |

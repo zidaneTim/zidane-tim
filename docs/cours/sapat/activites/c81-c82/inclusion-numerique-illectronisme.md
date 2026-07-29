@@ -136,9 +136,8 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 **Production attendue :** une carte mentale exportée (image ou PDF) et les réponses aux questions de synthèse,
 présentées comme un dossier de préparation à ta première permanence à France Services Loudéac (M. Rouault).
 
-| Critère | Indicateurs observables | Niveau |
+| Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Données chiffrées | Chiffres réels et exacts relevés, source précisément citée (Insee, ANLCI) | -- / - / + / ++ |
-| Publics et causes | Profil des personnes les plus exposées identifié, conséquences concrètes reliées à des démarches réelles | -- / - / + / ++ |
-| Posture d'accompagnement | Distinction claire « faire avec / faire pour », limites déontologiques identifiées | -- / - / + / ++ |
-| Production | Carte mentale complète, structurée en 3 branches, lisible | -- / - / + / ++ |
+| Posture d'accompagnement (mobilisation des ressources de la personne) | Distinction claire « faire avec / faire pour » ; posture qui mobilise l'usager plutôt que de se substituer à lui ; limites déontologiques identifiées | -- / - / + / ++ |
+| Relation avec distanciation professionnelle | Profil des personnes les plus exposées décrit sans jugement ni généralisation abusive, à partir de chiffres réels et sourcés (Insee, ANLCI) | -- / - / + / ++ |
+| Anticipation et réalisation des démarches | Carte mentale complète, structurée en 3 branches (qui est exclu, pourquoi, que fait l'aidant), exploitable avant une permanence réelle | -- / - / + / ++ |
