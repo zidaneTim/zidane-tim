@@ -36,6 +36,14 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/charte-accompagnement-numerique.md)
 
+-   :material-numeric-4-circle:{ .lg .middle } **Mettre en service un poste**
+
+    ---
+
+    Préparer un ordinateur accessible et à jour pour l'espace libre-service, avant sa première utilisation par un usager.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/mise-en-service-poste-accessibilite.md)
+
 </div>
 
 !!! tip "Où répondre ?"
