@@ -49,11 +49,12 @@ aussi bien en ligne que hors connexion.
 
 1. Ouvrir [Les Bons Clics — Diagnostiquer le niveau numérique](https://www.lesbonsclics.fr/fr/evaluer-niveau-numerique){ target="_blank" rel="noopener" } et repérer les trois formats de diagnostic proposés sur la page.
 2. Consulter [Comment ça marche ?](https://www.lesbonsclics.fr/fr/comment-ca-marche){ target="_blank" rel="noopener" } et relever quels paramètres de la personne un diagnostic numérique doit explorer, au-delà du simple niveau technique.
-3. Créer un compte aidant gratuit sur [Les Bons Clics — Inscription](https://www.lesbonsclics.fr/fr/register/){ target="_blank" rel="noopener" } avec ton adresse mail scolaire — condition d'accès aux modules de diagnostic.
+3. Créer un compte **apprenant** gratuit sur [Les Bons Clics — Inscription apprenant](https://www.lesbonsclics.fr/fr/inscription-apprenant){ target="_blank" rel="noopener" } avec ton adresse mail scolaire — condition d'accès à l'espace de diagnostic et de formation.
 
 !!! tip "🆘 Coup de pouce"
-    Si l'inscription demande de rattacher un compte à une structure, indique « Lycée Xavier Grall — Loudéac » ou
-    laisse le champ vide : ce n'est pas bloquant pour accéder au diagnostic.
+    Au moment de l'inscription, choisis bien le profil « Je suis apprenant » (et non « Je suis aidant », réservé
+    aux professionnels rattachés à une structure) : c'est ce compte, simple et sans validation, qui donne accès au
+    diagnostic en version exercice.
 
 ### B — Réaliser le diagnostic en version exercice sur un profil fictif
 
