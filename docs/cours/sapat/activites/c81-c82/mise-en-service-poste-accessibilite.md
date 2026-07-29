@@ -40,9 +40,9 @@ transmis au prestataire informatique de la structure.
 
 ## Travail à faire
 
-### A — Vérifier l'état du poste avec un compte utilisateur standard
+### A — Je diagnostique l'état du poste
 
-**Observer le poste sans droits administrateur**
+**Observer le poste avec un compte utilisateur standard, sans droits administrateur**
 
 1. Se connecter avec la session déjà ouverte sur le poste (compte utilisateur standard du lycée — équivalent au
    compte que M. Rouault donnerait à un agent d'accueil sur un poste public, jamais un compte administrateur).
@@ -55,9 +55,9 @@ transmis au prestataire informatique de la structure.
 4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier) et signaler tout défaut de
    connectique observé — une action réalisable sans droits particuliers.
 
-### B — Paramétrer l'accessibilité pour un usager en difficulté
+### B — J'accompagne un usager en difficulté
 
-**Adapter l'environnement visuel et sonore du poste**
+**Paramétrer l'environnement visuel et sonore du poste pour un usager malvoyant ou peu à l'aise avec le numérique**
 
 1. Sur le poste, ouvrir Paramètres > Accessibilité, puis consulter en parallèle la page [Rendez votre PC plus
    accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
@@ -74,9 +74,9 @@ transmis au prestataire informatique de la structure.
     cela ouvre le bon menu sans naviguer dans tous les paramètres. Ces réglages sont des préférences liées au
     compte utilisateur : ils ne demandent pas de droits administrateur.
 
-### C — Distinguer ce qu'un agent peut faire seul de ce qui relève du prestataire
+### C — J'oriente vers le bon interlocuteur
 
-**Identifier les limites du compte utilisateur standard face aux mises à jour**
+**Identifier les limites du compte utilisateur standard face aux mises à jour, et distinguer ce qui relève de l'agent de ce qui relève du prestataire**
 
 1. Ouvrir la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }
    de Cybermalveillance.gouv.fr et, parmi les bonnes pratiques listées, identifier celles qui s'appliquent le plus
@@ -94,9 +94,9 @@ transmis au prestataire informatique de la structure.
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
     au bon interlocuteur fait pleinement partie de la mission.
 
-### D — Rédiger la check-list de mise en service à deux niveaux
+### D — Je formalise et je transmets
 
-**Formaliser la procédure pour les collègues et pour le prestataire**
+**Rédiger la check-list de mise en service à deux niveaux de responsabilité, pour les collègues et pour le prestataire**
 
 1. Ouvrir un traitement de texte et créer un tableau à deux colonnes de responsabilité — « Réalisable par l'agent
    d'accueil » et « À transmettre au prestataire informatique » — reprenant toutes les étapes réalisées en A, B et C.
