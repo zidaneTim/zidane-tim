@@ -1,4 +1,4 @@
-# 🖥️ Mettre en service et sécuriser le poste libre-service de la structure
+# 🖥️ Préparer le poste libre-service pour M. Guillard
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
@@ -8,60 +8,66 @@
 
 <p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.1 — Cadre de vie / Quotidien</p>
 
-<p class="zt-lede">Un poste mal réglé peut exclure l'usager qu'il est censé aider : savoir ce qu'un agent d'accueil peut préparer seul, et ce qu'il doit transmettre à qui de droit</p>
+<p class="zt-lede">Un poste réglé « pour tout le monde » n'est réglé pour personne : adapter un espace numérique aux besoins réels d'un usager, et savoir ce qui n'est pas de son ressort</p>
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 45 min</span>
-  <span>:material-school-outline: MP8 — C8.1, maintenance de premier niveau</span>
-  <span>:material-tag-outline: Windows · Accessibilité · Mises à jour</span>
+  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie et maintenance de premier niveau</span>
+  <span>:material-tag-outline: Accessibilité Windows · Mises à jour · Posture d'aidant</span>
 </div>
 
 ## Mise en situation
 
-**France Services de Loudéac** vient de recevoir un nouvel ordinateur portable, destiné à l'espace libre-service
-ouvert aux usagers. Comme sur la plupart des postes publics, le compte administrateur de la machine est réservé au
-prestataire informatique de la structure : un agent d'accueil comme toi n'a accès qu'à un compte utilisateur
-standard, sans droit d'installer un logiciel ni de créer un nouveau compte. **M. Rouault**, ton conseiller
-référent, veut savoir précisément ce que tu peux préparer seul avant l'ouverture au public, et ce qui doit être
-transmis au prestataire informatique de la structure.
+Tu es **agent d'accueil à France Services de Loudéac**. La structure vient de recevoir un ordinateur portable
+destiné à l'espace libre-service ouvert aux usagers. Comme sur tout poste public, le compte administrateur est
+réservé au prestataire informatique : tu disposes d'un compte utilisateur standard, sans droit d'installer un
+logiciel ni de créer un compte. **M. Rouault**, ton conseiller référent, te confie la préparation du poste avant
+son ouverture au public.
 
-Avant l'ouverture au public, M. Rouault a une idée précise du test à faire passer au poste : le faire essayer par
-**M. Guillard, 73 ans**, un habitué de la structure (venu plusieurs fois pour des démarches CAF et impôts) atteint
-de **DMLA** (dégénérescence maculaire liée à l'âge) diagnostiquée il y a deux ans. Sa vision centrale est floue et
-déformée, sa vision périphérique reste correcte : il ne peut pas fixer directement une icône ou un mot, doit
-regarder légèrement à côté de ce qu'il veut lire, et se fatigue vite à l'écran. Lors de son dernier passage, M.
-Rouault l'a vu tenir ses papiers très près du visage et légèrement de travers pour compenser. M. Guillard a
-demandé, un peu inquiet, si le nouvel ordinateur serait « aussi difficile à lire que l'ancien ».
+Il ne veut pas d'un réglage « standard ». Il pense à un usager précis : **M. Guillard, 73 ans**, habitué de la
+structure, venu plusieurs fois pour des démarches CAF et impôts. M. Guillard vit seul et se rend à France Services
+à pied. Il est suivi pour une **DMLA** (dégénérescence maculaire liée à l'âge) depuis deux ans, et il en parle
+librement.
 
-M. Rouault te demande de tester le poste avec un collègue plutôt que de le préparer dans ton coin : l'un de vous
-prépare et présente le poste (rôle **aidant**), l'autre joue **M. Guillard** (rôle **aidé**, à partir du profil
-ci-dessus) et donne un avis réel sur ce qui est lisible ou non. Vous inverserez les rôles à la prochaine activité
-de ce type.
+Ce que M. Rouault a observé lors de ses derniers passages : M. Guillard tient ses papiers très près du visage et
+légèrement de travers ; il ne regarde jamais directement le mot qu'il cherche à lire mais un peu à côté ; il
+renonce au bout de quelques minutes d'écran en disant qu'il « fatigue » ; il a demandé deux fois de l'aide pour
+lire un montant à l'écran, mais s'est déplacé seul dans la salle sans hésiter. La dernière fois, il a demandé, un
+peu inquiet, si le nouvel ordinateur serait « aussi difficile à lire que l'ancien ».
+
+Ce qu'il faudra garder en tête : M. Guillard vient pour faire ses démarches **lui-même**, pas pour qu'on les fasse à
+sa place — c'est ce qui le fait revenir. Et tout ce que tu ne peux pas faire avec ton compte devra être transmis à
+quelqu'un, pas contourné.
+
+**Le test se fait à deux.** L'un de vous prépare et présente le poste (rôle **aidant**), l'autre joue M. Guillard
+(rôle **aidé**) et donne un avis réel sur ce qui est lisible ou non. Vous inverserez les rôles à la prochaine
+activité de ce type.
 
 !!! info "Ton rôle aujourd'hui"
-    Vérifie dans ta fiche de suivi **OneNote** (section *MP8 — Cadre de vie / Quotidien*) si tu joues l'**aidant**
-    ou l'**aidé** pour cette activité, et note-le une fois l'activité terminée.
+    Vérifie dans ta **fiche de suivi OneNote** (section *MP8 — Cadre de vie / Quotidien*) si tu joues l'**aidant**
+    ou l'**aidé**, et note-le une fois l'activité terminée avec le nom de ton binôme.
 
-    🆘 **Binôme absent ce jour-là ?** Joue les deux rôles toi-même : configure les réglages (partie aidant), puis
-    rejoue la vérification en te mettant à la place de M. Guillard — fixe un point à côté de l'écran plutôt que le
-    centre, puis juge la lisibilité en vision périphérique — c'est la même technique de simulation individuelle
-    que celle utilisée en classe avec les kits de vieillissement ou les lunettes simulatrices.
+    **Si tu joues M. Guillard**, tiens le rôle sérieusement : pour lire, fixe un point légèrement à côté du texte
+    (jamais le texte lui-même) ; annonce quand tu fatigues ; dis franchement si c'est illisible, même si ton binôme
+    a fait un effort ; et à un moment de l'étape D, demande-lui d'installer une application de loupe que tu as vue
+    chez ta fille.
+
+    🆘 **Binôme absent ?** Joue les deux rôles. Pour la partie « M. Guillard », fixe un point à côté de l'écran et
+    juge la lisibilité en vision périphérique — c'est la même technique de simulation individuelle que celle
+    utilisée en classe avec les kits de vieillissement ou les lunettes simulatrices.
 
 !!! question "Problématique"
-    « Que peut réaliser seul un agent d'accueil sans droits administrateur pour préparer un poste accessible et
-    sécurisé, et que doit-il transmettre au prestataire informatique ? »
+    « Quels réglages un agent d'accueil peut-il mettre en place lui-même pour rendre un poste public utilisable par
+    M. Guillard, et que doit-il transmettre à qui de droit ? »
 
 ## Objectifs
 
-- Analyser les besoins d'un usager à partir d'éléments observés, avant toute action technique
-- Distinguer les actions de mise en service réalisables par un agent sans droits administrateur de celles qui
-  relèvent du prestataire informatique
-- Paramétrer les réglages d'accessibilité adaptés à une perte de vision centrale (type DMLA) et à un usager peu à
-  l'aise avec le numérique
-- Identifier des bonnes pratiques de maintenance de premier niveau recommandées par un organisme officiel, et
-  repérer celles qu'un agent standard peut appliquer seul
-- Rédiger une check-list de mise en service à deux niveaux de responsabilité, réutilisable par les collègues
-- Ajuster ses réglages à partir du retour réel d'un usager-test, en tant qu'aidant ou en tant qu'aidé
+- Analyser les besoins et les capacités conservées d'un usager à partir de faits observés, avant toute action
+  technique
+- Choisir et paramétrer des réglages d'accessibilité justifiés par ce diagnostic, et non appliqués par défaut
+- Ajuster ses choix à partir du retour réel de l'usager
+- Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, et transmettre correctement
+- Justifier oralement ses choix de réglage devant un interlocuteur professionnel
 
 ## Travail à faire
 
@@ -69,142 +75,153 @@ de ce type.
 
 **Analyser sa situation avant de toucher au poste**
 
-1. Relire la mise en situation et lister, en deux colonnes, ce que M. Rouault a **observé** de la vision de M.
-   Guillard (faits) et ce qu'il faudra **vérifier directement avec lui** lors du test (hypothèses à confirmer,
-   voir étape C).
+1. Relire la mise en situation et construire un tableau à deux colonnes : d'un côté ce que M. Rouault a **observé**
+   (faits), de l'autre ce que ces faits **laissent supposer** de la façon dont M. Guillard utilise un écran.
+   Ajouter une troisième ligne : ce que M. Guillard sait **encore faire seul** — c'est aussi précis à repérer que
+   ses difficultés.
 2. Consulter la fiche [Symptômes et diagnostic de la DMLA — Ameli.fr](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }
-   pour comprendre pourquoi une vision centrale floue n'empêche pas d'utiliser un ordinateur, mais change
-   complètement la façon de s'en servir (vision périphérique conservée, regard qui s'ajuste autour du point flou).
-3. Pour chaque famille de réglages d'accessibilité Windows (taille/contraste des éléments, loupe, lecteur d'écran),
-   noter dans un tableau à deux colonnes si elle répond entièrement, partiellement ou pas du tout au besoin de M.
-   Guillard identifié à l'étape 2 — ce tableau guidera le paramétrage de l'étape C, ne le remplis pas au hasard.
-4. Formuler une hypothèse sur ce qu'un agrandissement seul du texte ne résoudrait pas dans le cas de M. Guillard,
-   à vérifier concrètement lors du test avec ton binôme (étape C).
+   et relever ce qui, dans cette situation, reste **conservé** et ce qui est **atteint** dans la vision. Noter les
+   deux : ton réglage devra s'appuyer sur ce qui fonctionne.
+3. Pour chaque famille de réglages d'accessibilité Windows (taille et contraste des éléments, loupe, lecteur
+   d'écran, réglages sonores), indiquer dans un tableau si elle répond **entièrement, partiellement ou pas du tout**
+   au besoin de M. Guillard tel que tu l'as établi. Justifier chaque « partiellement » en une ligne.
+4. Formuler par écrit une hypothèse sur ce qu'un simple agrandissement du texte **ne résoudrait pas** dans son cas —
+   tu la vérifieras avec ton binôme à l'étape C.
 
 !!! tip "🆘 Coup de pouce"
-    Si le tableau te semble difficile à remplir avant d'avoir touché au poste, c'est normal : c'est justement le
-    but du diagnostic, formuler des hypothèses qui seront confirmées ou corrigées par le test réel à l'étape C.
+    Difficile de remplir le tableau avant d'avoir touché au poste ? C'est normal, et c'est le but : un diagnostic
+    produit des hypothèses, que le test réel viendra confirmer ou corriger.
+
+!!! tip "⭐ Pour aller plus loin"
+    M. Guillard se déplace seul dans la salle sans hésiter. Qu'est-ce que cela t'apprend sur ce qu'il faut **éviter**
+    de lui proposer, pour ne pas le traiter comme quelqu'un qui aurait perdu toute autonomie ?
 
 ### B — Je vérifie l'état du poste
 
-**Observer le poste avec un compte utilisateur standard, sans droits administrateur**
+**Observer le poste avec un compte utilisateur standard**
 
-1. Se connecter avec la session déjà ouverte sur le poste (compte utilisateur standard du lycée — équivalent au
-   compte que M. Rouault donnerait à un agent d'accueil sur un poste public, jamais un compte administrateur).
-2. Dans les paramètres système (Windows : Paramètres > Système > Informations système), relever la version du
-   système d'exploitation installée ; dans Paramètres > Comptes, vérifier si le compte connecté est de type
-   administrateur ou standard.
-3. Vérifier que le poste est bien connecté à Internet et noter, pour ta check-list, les informations qu'un agent
-   devrait demander pour connecter un poste réel de la structure à son réseau wifi (nom du réseau, personne à
-   contacter pour obtenir le code d'accès).
-4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier) et signaler tout défaut de
-   connectique observé — une action réalisable sans droits particuliers.
+1. Se connecter avec la session ouverte sur le poste (compte utilisateur standard du lycée — équivalent à celui
+   qu'aurait un agent d'accueil sur un poste public, jamais un compte administrateur).
+2. Dans Paramètres > Système > Informations système, relever la version du système installée ; dans Paramètres >
+   Comptes, vérifier le type du compte connecté.
+3. Vérifier la connexion Internet et noter, pour ta transmission, les informations qu'un agent devrait demander
+   pour connecter un poste réel au réseau de la structure (nom du réseau, personne à contacter).
+4. Vérifier les branchements (chargeur, souris/clavier, haut-parleurs) et relever tout défaut — action réalisable
+   sans droit particulier.
 
 ### C — J'accompagne M. Guillard
 
-**Paramétrer l'environnement visuel et sonore du poste pour une perte de vision centrale (type DMLA)**
+**Paramétrer avec lui, puis ajuster à partir de son retour**
 
-1. À partir du tableau construit à l'étape A, ouvrir Paramètres > Accessibilité et consulter en parallèle la page
-   [Rendez votre PC plus accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
-   pour retrouver, réglage par réglage, ceux que ton diagnostic a identifiés comme utiles à M. Guillard.
-2. Augmenter la taille du texte et des icônes, activer un contraste élevé, et régler le pointeur de souris pour le
-   rendre plus visible.
-3. Activer et tester quelques secondes la loupe intégrée ainsi que le Narrateur (lecteur d'écran) : avec une perte
-   de vision centrale comme celle de M. Guillard, l'agrandissement seul ne suffit pas toujours — le texte agrandi
-   peut rester dans la zone floue — le Narrateur devient alors un complément indispensable, pas une option.
-4. Ajuster le volume système et vérifier la présence de haut-parleurs fonctionnels — indispensables pour M.
-   Guillard s'il active le Narrateur ou les sous-titres en direct.
-5. **Aidant** : fais tester tes réglages par ton binôme dans le rôle de M. Guillard — demande-lui de lire à
-   distance normale un texte affiché à l'écran **en fixant un point légèrement à côté**, comme le ferait M.
-   Guillard, puis d'utiliser le Narrateur quelques secondes. **Aidé** : donne un avis honnête (lisible ou non,
-   confortable ou non), sans faciliter la tâche de ton binôme. Ajustez ensemble au moins un réglage suite à ce
-   retour.
+1. À partir du tableau de l'étape A, ouvrir Paramètres > Accessibilité et retrouver, réglage par réglage, ceux que
+   ton diagnostic a retenus. La page [Rendez votre PC plus accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
+   aide à les localiser.
+2. Appliquer les réglages retenus : taille du texte et des icônes, contraste, visibilité du pointeur, loupe,
+   Narrateur, volume. **Ne pas tout activer** : n'activer que ce que le diagnostic justifie, et pouvoir dire
+   pourquoi pour chacun.
+3. **Aidant** : présenter le poste à M. Guillard comme tu le ferais à l'accueil, et lui demander de lire à l'écran
+   un texte de son choix puis d'essayer le Narrateur quelques secondes. **Aidé** : jouer la lecture excentrée,
+   signaler la fatigue, et dire franchement ce qui ne va pas.
+4. Ajuster **au moins un réglage** suite à ce retour, et noter lequel et pourquoi. Vérifier ton hypothèse de
+   l'étape A4 : l'agrandissement seul a-t-il suffi ?
+5. **Imprévu** — en cours de test, le Narrateur se met à lire tout l'écran en continu et M. Guillard, gêné, te
+   demande de « tout remettre comme avant ». Que fais-tu, et que lui proposes-tu à la place ? Note ta réponse.
 
 !!! tip "🆘 Coup de pouce"
-    Si un réglage reste introuvable, utilise directement la barre de recherche Windows en tapant « accessibilité » :
-    cela ouvre le bon menu sans naviguer dans tous les paramètres. Ces réglages sont des préférences liées au
-    compte utilisateur : ils ne demandent pas de droits administrateur.
+    Un réglage introuvable ? Tape « accessibilité » dans la barre de recherche Windows. Ces réglages sont liés au
+    compte utilisateur : ils ne demandent aucun droit administrateur.
 
 ### D — J'oriente vers le bon interlocuteur
 
-**Identifier les limites du compte utilisateur standard face aux mises à jour, et distinguer ce qui relève de l'agent de ce qui relève du prestataire**
+**Traiter ce qui dépasse mon périmètre**
 
 1. Ouvrir la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }
-   de Cybermalveillance.gouv.fr et, parmi les bonnes pratiques listées, identifier celles qui s'appliquent le plus
-   directement à un poste public en libre-service.
-2. Sur le poste, ouvrir l'écran de recherche de mises à jour (Paramètres > Windows Update) et noter si l'action
-   d'installer une mise à jour est accessible avec le compte utilisateur connecté ou si elle réclame des droits
-   administrateur.
-3. Pour chaque bonne pratique identifiée à l'étape 1, indiquer si elle est réalisable seul par un agent d'accueil
-   sans droits particuliers (ex. redémarrer le poste, signaler une fausse fenêtre de mise à jour suspecte) ou si
-   elle doit être demandée au prestataire informatique (ex. installer une mise à jour système).
-4. Rédiger, à destination du prestataire informatique de France Services Loudéac, un message court (3-4 lignes)
-   signalant l'état des mises à jour observé à l'étape 2 et demandant leur installation si nécessaire.
-5. **Aidé** : demande à ton binôme, comme le ferait M. Guillard, d'installer une application de loupe qu'il a vue
-   chez sa fille, ou de créer un compte à sa place pour lui simplifier la vie. **Aidant** : explique pourquoi tu ne
-   peux pas le faire toi-même et ce que tu proposes à la place (sans le faire à sa place — la posture reste
-   « faire avec, jamais pour »).
+   de Cybermalveillance.gouv.fr et repérer les bonnes pratiques qui s'appliquent le plus directement à un poste
+   public en libre-service.
+2. Sur le poste, ouvrir Paramètres > Windows Update et noter si l'installation d'une mise à jour est accessible avec
+   le compte connecté ou si elle réclame des droits administrateur.
+3. Classer chaque bonne pratique repérée : réalisable par l'agent seul (ex. redémarrer, signaler une fausse fenêtre
+   de mise à jour) ou à demander au prestataire (ex. installer une mise à jour système).
+4. **Aidé** : demander à ton binôme d'installer l'application de loupe vue chez ta fille. **Aidant** : expliquer à
+   M. Guillard pourquoi tu ne peux pas le faire, et ce que tu lui proposes à la place — sans le faire à sa place et
+   sans le renvoyer sans solution.
+5. Rédiger le message de transmission au prestataire informatique (4-5 lignes) : état des mises à jour observé,
+   défaut de matériel s'il y en a, demande précise. Aucune information personnelle sur M. Guillard dans ce message.
 
 !!! tip "Astuce"
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
     au bon interlocuteur fait pleinement partie de la mission.
 
-### E — Je formalise et je transmets
+### E — Je prends du recul et j'explicite
 
-**Rédiger la check-list de mise en service à deux niveaux de responsabilité, pour les collègues et pour le prestataire**
+**Comparer le prévu et le réalisé, puis justifier mes choix**
 
-1. Ouvrir un traitement de texte et créer un tableau à deux colonnes de responsabilité — « Réalisable par l'agent
-   d'accueil » et « À transmettre au prestataire informatique » — reprenant le tableau besoins/réglages de l'étape
-   A et toutes les étapes réalisées en B, C et D.
-2. Pour chaque étape, préciser en une ligne le résultat attendu qui permet de cocher la case (ex. « contraste élevé
-   activé → texte lisible à 2 mètres »).
-3. Ajouter en tête du document un titre, la date de mise en service et le nom de l'agent qui l'a réalisée.
-4. Exporter la check-list au format PDF.
+1. Reprendre le tableau de l'étape A et marquer, pour chaque réglage prévu : appliqué tel quel · ajusté après le
+   retour de M. Guillard · abandonné. Justifier chaque ajustement et chaque abandon en une ligne.
+2. Rédiger la fiche de réglages du poste destinée à tes collègues : titre, date, nom de l'agent, deux colonnes
+   « Réalisable par l'agent d'accueil » / « À transmettre au prestataire », et pour chaque ligne le résultat
+   attendu qui permet de la cocher (ex. « contraste élevé activé → montant lisible sans se pencher »). Exporter en
+   PDF.
+3. Ajouter une ligne de remédiation : que proposerais-tu à M. Rouault pour que le prochain usager n'ait pas à
+   redemander les mêmes réglages ?
+
+!!! tip "J'explicite mes choix (2-3 min, à l'oral)"
+    Présente ton poste réglé à ton binôme ou à ton enseignant, et réponds à ces trois questions — c'est exactement
+    ce qui est demandé lors d'une pratique explicitée :
+
+    - Pourquoi as-tu retenu **ces** réglages et pas les autres, au regard de la situation de M. Guillard ?
+    - Qu'as-tu changé après son retour, et qu'est-ce que cela t'a appris ?
+    - Et si l'usager suivant était malentendant plutôt que malvoyant : que garderais-tu, que changerais-tu ?
 
 ### Questions de synthèse
 
-- Quelles sont les deux familles de réglages d'accessibilité Windows mobilisées dans cette mise en service ?
+- Quelles familles de réglages d'accessibilité as-tu mobilisées, et laquelle répondait le mieux au besoin de M.
+  Guillard ?
 - Pourquoi un agent d'accueil n'a-t-il généralement pas de droits administrateur sur un poste public ?
-- Que doit faire un agent qui repère un poste non à jour, s'il n'a pas les droits pour installer la mise à jour
-  lui-même ?
-- Pourquoi le retour de M. Guillard (joué par ton binôme) peut-il faire changer un réglage que tu jugeais déjà
-  correct ?
+- Que doit faire un agent qui repère un poste non à jour sans avoir les droits pour le mettre à jour ?
+- Pourquoi le retour de l'usager peut-il faire changer un réglage que tu jugeais déjà correct ?
 
 ??? tip "Vérifier mes réponses"
-    - Les réglages de confort visuel (taille du texte, contraste, loupe) et les réglages de lecture/écoute
-      (Narrateur, sous-titres en direct, volume).
-    - Séparer le compte administrateur du compte utilisateur limite les risques si le poste public est piraté ou
-      mal manipulé — un principe de sécurité appliqué à tout poste partagé, pas seulement en médiation numérique.
-    - Il doit signaler précisément la situation au prestataire informatique ou au responsable technique de la
-      structure, plutôt que de tenter de contourner la restriction.
-    - Parce qu'un réglage jugé confortable par celui qui l'a paramétré n'est pas forcément perçu de la même façon
-      par la personne qui l'utilise réellement : seul le retour de l'usager valide si le réglage répond au besoin.
+    - Les réglages de confort visuel (taille du texte, contraste, visibilité du pointeur, loupe) et les réglages de
+      lecture/écoute (Narrateur, volume). Avec une perte de vision centrale, l'agrandissement seul ne suffit pas
+      toujours : le texte agrandi peut rester dans la zone atteinte, d'où l'intérêt du complément sonore.
+    - Séparer le compte administrateur du compte utilisateur limite les conséquences d'un piratage ou d'une fausse
+      manipulation sur un poste partagé — un principe de sécurité valable pour tout poste public.
+    - Signaler précisément la situation au prestataire ou au responsable technique, plutôt que de tenter de
+      contourner la restriction.
+    - Parce qu'un réglage confortable pour celui qui l'a paramétré ne l'est pas forcément pour la personne qui
+      l'utilise : seul son retour permet de valider que le réglage répond au besoin.
 
 !!! tip "Où répondre ?"
-    Dépose ta check-list PDF et tes réponses aux questions de synthèse dans ton bloc-notes **OneNote**, section
-    *MP8 — Cadre de vie / Quotidien* — et note dans ta fiche de suivi le rôle que tu as joué aujourd'hui (aidant ou
-    aidé) et le nom de ton binôme.
+    Dépose ton tableau de diagnostic, ta fiche de réglages PDF, ton message au prestataire et tes réponses de
+    synthèse dans ton bloc-notes **OneNote**, section *MP8 — Cadre de vie / Quotidien*. Note dans ta fiche de suivi
+    le rôle joué aujourd'hui et le nom de ton binôme.
 
 ## Ressources et outils
 
-- **Ameli.fr — Symptômes et diagnostic de la DMLA** : comprendre les conséquences fonctionnelles d'une perte de
-  vision centrale — [ameli.fr/dmla/symptomes-diagnostic](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }.
-- **Microsoft — Rendez votre PC plus accessible** : détail des réglages d'accessibilité Windows (police, contraste,
-  loupe, Narrateur, sous-titres) — [microsoft.com/fr-fr/windows/tips/accessibility-settings](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }.
-- **Cybermalveillance.gouv.fr — Pourquoi et comment bien gérer ses mises à jour ?** : bonnes pratiques officielles
-  de maintenance de premier niveau — [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }.
+- **Ameli.fr — Symptômes et diagnostic de la DMLA** : ce qui reste conservé et ce qui est atteint dans la vision —
+  [ameli.fr/dmla/symptomes-diagnostic](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }.
+- **Microsoft — Rendez votre PC plus accessible** : localisation et effet de chaque réglage d'accessibilité Windows —
+  [microsoft.com/fr-fr/windows/tips/accessibility-settings](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }.
+- **Cybermalveillance.gouv.fr — Bien gérer ses mises à jour** : bonnes pratiques officielles de maintenance de
+  premier niveau — [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en
   situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
 
-## Grille d'évaluation C8.1 — Mise en service et maintenance d'un poste (MP8)
+## Grille d'évaluation C8.1 — Préparation d'un poste pour un usager (MP8, prépare l'ECCF E7.3)
 
-**Production attendue :** une check-list de mise en service au format PDF, prête à être réutilisée par les
-collègues de France Services Loudéac pour tout futur poste libre-service, accompagnée du message au prestataire
-informatique, des réponses aux questions de synthèse, et d'une ligne notant l'ajustement fait suite au retour de
-M. Guillard.
+**Production attendue :** le tableau de diagnostic des besoins de M. Guillard, la fiche de réglages du poste au
+format PDF destinée aux collègues de France Services Loudéac, le message de transmission au prestataire
+informatique, et l'explicitation orale de tes choix devant ton binôme ou ton enseignant.
 
 | Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
-| Relation interpersonnelle de proximité et distanciée | Réglages ajustés à partir du retour réel de M. Guillard (joué par le binôme), et non d'une idée générale de « l'accessibilité » ; échange et signalement au prestataire menés avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
-| Organisation de l'espace de vie | Poste préparé, organisé et validé par le test de M. Guillard (accessibilité adaptée à sa perte de vision centrale, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
-| Réalisation des opérations d'entretien en toute sécurité | Bonnes pratiques de maintenance de premier niveau correctement identifiées et appliquées dans la limite des droits de l'agent, sans contournement d'une restriction de sécurité | -- / - / + / ++ |
+| Établissement d'une relation interpersonnelle de proximité et distanciée avec la personne accompagnée | Diagnostic appuyé sur les faits observés **et** sur les capacités conservées de M. Guillard, sans le traiter comme dépendant ; réglages ajustés à partir de son retour réel ; demande hors périmètre traitée sans le faire à sa place ni le laisser sans solution ; aucune information personnelle dans le message au prestataire | -- / - / + / ++ |
+| Organisation de l'espace de vie | Réglages retenus justifiés un par un par le diagnostic (et non activés par défaut) ; poste vérifié et validé par le test usager ; fiche de réglages exploitable par un collègue avec un résultat attendu par ligne | -- / - / + / ++ |
+| Réalisation des opérations d'entretien en toute sécurité pour la personne et l'accompagnant | Bonnes pratiques de maintenance de premier niveau correctement classées agent/prestataire ; aucune restriction de sécurité contournée ; imprévu du Narrateur traité par une solution de repli, pas par un retour en arrière pur et simple | -- / - / + / ++ |
+
+!!! note "Ce que cette activité n'évalue pas"
+    L'ECCF E7.3 (C8.1) est une **pratique explicitée d'1 h 30 maximum, en Terminale, co-évaluée par l'ESF et les
+    TIM** : elle comporte aussi une opération d'entretien réelle du cadre de vie, qui n'est pas travaillée ici. Le
+    troisième critère est donc abordé sous son seul angle numérique (maintenance de premier niveau). Cette activité
+    est un entraînement partiel, pas une simulation complète de l'épreuve.
