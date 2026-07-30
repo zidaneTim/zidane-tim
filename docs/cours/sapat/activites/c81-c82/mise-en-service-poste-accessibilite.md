@@ -53,6 +53,7 @@ de ce type.
 
 ## Objectifs
 
+- Analyser les besoins d'un usager à partir d'éléments observés, avant toute action technique
 - Distinguer les actions de mise en service réalisables par un agent sans droits administrateur de celles qui
   relèvent du prestataire informatique
 - Paramétrer les réglages d'accessibilité adaptés à une perte de vision centrale (type DMLA) et à un usager peu à
@@ -64,7 +65,27 @@ de ce type.
 
 ## Travail à faire
 
-### A — Je diagnostique l'état du poste
+### A — Je diagnostique les besoins de M. Guillard
+
+**Analyser sa situation avant de toucher au poste**
+
+1. Relire la mise en situation et lister, en deux colonnes, ce que M. Rouault a **observé** de la vision de M.
+   Guillard (faits) et ce qu'il faudra **vérifier directement avec lui** lors du test (hypothèses à confirmer,
+   voir étape C).
+2. Consulter la fiche [Symptômes et diagnostic de la DMLA — Ameli.fr](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }
+   pour comprendre pourquoi une vision centrale floue n'empêche pas d'utiliser un ordinateur, mais change
+   complètement la façon de s'en servir (vision périphérique conservée, regard qui s'ajuste autour du point flou).
+3. Pour chaque famille de réglages d'accessibilité Windows (taille/contraste des éléments, loupe, lecteur d'écran),
+   noter dans un tableau à deux colonnes si elle répond entièrement, partiellement ou pas du tout au besoin de M.
+   Guillard identifié à l'étape 2 — ce tableau guidera le paramétrage de l'étape C, ne le remplis pas au hasard.
+4. Formuler une hypothèse sur ce qu'un agrandissement seul du texte ne résoudrait pas dans le cas de M. Guillard,
+   à vérifier concrètement lors du test avec ton binôme (étape C).
+
+!!! tip "🆘 Coup de pouce"
+    Si le tableau te semble difficile à remplir avant d'avoir touché au poste, c'est normal : c'est justement le
+    but du diagnostic, formuler des hypothèses qui seront confirmées ou corrigées par le test réel à l'étape C.
+
+### B — Je vérifie l'état du poste
 
 **Observer le poste avec un compte utilisateur standard, sans droits administrateur**
 
@@ -79,13 +100,13 @@ de ce type.
 4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier) et signaler tout défaut de
    connectique observé — une action réalisable sans droits particuliers.
 
-### B — J'accompagne M. Guillard
+### C — J'accompagne M. Guillard
 
 **Paramétrer l'environnement visuel et sonore du poste pour une perte de vision centrale (type DMLA)**
 
-1. Sur le poste, ouvrir Paramètres > Accessibilité, puis consulter en parallèle la page [Rendez votre PC plus
-   accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
-   pour comparer les réglages affichés à l'écran avec ceux décrits sur la page.
+1. À partir du tableau construit à l'étape A, ouvrir Paramètres > Accessibilité et consulter en parallèle la page
+   [Rendez votre PC plus accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
+   pour retrouver, réglage par réglage, ceux que ton diagnostic a identifiés comme utiles à M. Guillard.
 2. Augmenter la taille du texte et des icônes, activer un contraste élevé, et régler le pointeur de souris pour le
    rendre plus visible.
 3. Activer et tester quelques secondes la loupe intégrée ainsi que le Narrateur (lecteur d'écran) : avec une perte
@@ -104,7 +125,7 @@ de ce type.
     cela ouvre le bon menu sans naviguer dans tous les paramètres. Ces réglages sont des préférences liées au
     compte utilisateur : ils ne demandent pas de droits administrateur.
 
-### C — J'oriente vers le bon interlocuteur
+### D — J'oriente vers le bon interlocuteur
 
 **Identifier les limites du compte utilisateur standard face aux mises à jour, et distinguer ce qui relève de l'agent de ce qui relève du prestataire**
 
@@ -128,12 +149,13 @@ de ce type.
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
     au bon interlocuteur fait pleinement partie de la mission.
 
-### D — Je formalise et je transmets
+### E — Je formalise et je transmets
 
 **Rédiger la check-list de mise en service à deux niveaux de responsabilité, pour les collègues et pour le prestataire**
 
 1. Ouvrir un traitement de texte et créer un tableau à deux colonnes de responsabilité — « Réalisable par l'agent
-   d'accueil » et « À transmettre au prestataire informatique » — reprenant toutes les étapes réalisées en A, B et C.
+   d'accueil » et « À transmettre au prestataire informatique » — reprenant le tableau besoins/réglages de l'étape
+   A et toutes les étapes réalisées en B, C et D.
 2. Pour chaque étape, préciser en une ligne le résultat attendu qui permet de cocher la case (ex. « contraste élevé
    activé → texte lisible à 2 mètres »).
 3. Ajouter en tête du document un titre, la date de mise en service et le nom de l'agent qui l'a réalisée.
@@ -165,6 +187,8 @@ de ce type.
 
 ## Ressources et outils
 
+- **Ameli.fr — Symptômes et diagnostic de la DMLA** : comprendre les conséquences fonctionnelles d'une perte de
+  vision centrale — [ameli.fr/dmla/symptomes-diagnostic](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }.
 - **Microsoft — Rendez votre PC plus accessible** : détail des réglages d'accessibilité Windows (police, contraste,
   loupe, Narrateur, sous-titres) — [microsoft.com/fr-fr/windows/tips/accessibility-settings](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }.
 - **Cybermalveillance.gouv.fr — Pourquoi et comment bien gérer ses mises à jour ?** : bonnes pratiques officielles
