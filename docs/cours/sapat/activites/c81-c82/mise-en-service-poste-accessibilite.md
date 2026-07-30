@@ -25,19 +25,27 @@ standard, sans droit d'installer un logiciel ni de créer un nouveau compte. **M
 référent, veut savoir précisément ce que tu peux préparer seul avant l'ouverture au public, et ce qui doit être
 transmis au prestataire informatique de la structure.
 
-Avant l'ouverture au public, M. Rouault te demande de tester le poste avec un collègue plutôt que de le préparer
-dans ton coin : l'un de vous prépare et présente le poste (rôle **aidant**), l'autre joue un usager malvoyant venu
-pour la première fois (rôle **aidé**) et donne un avis réel sur ce qui est lisible ou non. Vous inverserez les
-rôles à la prochaine activité de ce type.
+Avant l'ouverture au public, M. Rouault a une idée précise du test à faire passer au poste : le faire essayer par
+**M. Guillard, 73 ans**, un habitué de la structure (venu plusieurs fois pour des démarches CAF et impôts) atteint
+de **DMLA** (dégénérescence maculaire liée à l'âge) diagnostiquée il y a deux ans. Sa vision centrale est floue et
+déformée, sa vision périphérique reste correcte : il ne peut pas fixer directement une icône ou un mot, doit
+regarder légèrement à côté de ce qu'il veut lire, et se fatigue vite à l'écran. Lors de son dernier passage, M.
+Rouault l'a vu tenir ses papiers très près du visage et légèrement de travers pour compenser. M. Guillard a
+demandé, un peu inquiet, si le nouvel ordinateur serait « aussi difficile à lire que l'ancien ».
+
+M. Rouault te demande de tester le poste avec un collègue plutôt que de le préparer dans ton coin : l'un de vous
+prépare et présente le poste (rôle **aidant**), l'autre joue **M. Guillard** (rôle **aidé**, à partir du profil
+ci-dessus) et donne un avis réel sur ce qui est lisible ou non. Vous inverserez les rôles à la prochaine activité
+de ce type.
 
 !!! info "Ton rôle aujourd'hui"
     Vérifie dans ta fiche de suivi **OneNote** (section *MP8 — Cadre de vie / Quotidien*) si tu joues l'**aidant**
     ou l'**aidé** pour cette activité, et note-le une fois l'activité terminée.
 
     🆘 **Binôme absent ce jour-là ?** Joue les deux rôles toi-même : configure les réglages (partie aidant), puis
-    rejoue la vérification en te mettant à la place d'un usager malvoyant (ferme les yeux quelques secondes avant
-    de juger la lisibilité, éloigne-toi de l'écran) — c'est la même technique de simulation individuelle que celle
-    utilisée en classe avec les kits de vieillissement ou les lunettes simulatrices.
+    rejoue la vérification en te mettant à la place de M. Guillard — fixe un point à côté de l'écran plutôt que le
+    centre, puis juge la lisibilité en vision périphérique — c'est la même technique de simulation individuelle
+    que celle utilisée en classe avec les kits de vieillissement ou les lunettes simulatrices.
 
 !!! question "Problématique"
     « Que peut réaliser seul un agent d'accueil sans droits administrateur pour préparer un poste accessible et
@@ -47,7 +55,8 @@ rôles à la prochaine activité de ce type.
 
 - Distinguer les actions de mise en service réalisables par un agent sans droits administrateur de celles qui
   relèvent du prestataire informatique
-- Paramétrer les réglages d'accessibilité adaptés à un usager malvoyant ou peu à l'aise avec le numérique
+- Paramétrer les réglages d'accessibilité adaptés à une perte de vision centrale (type DMLA) et à un usager peu à
+  l'aise avec le numérique
 - Identifier des bonnes pratiques de maintenance de premier niveau recommandées par un organisme officiel, et
   repérer celles qu'un agent standard peut appliquer seul
 - Rédiger une check-list de mise en service à deux niveaux de responsabilité, réutilisable par les collègues
@@ -70,23 +79,25 @@ rôles à la prochaine activité de ce type.
 4. Vérifier les branchements physiques de l'appareil (chargeur, souris/clavier) et signaler tout défaut de
    connectique observé — une action réalisable sans droits particuliers.
 
-### B — J'accompagne un usager en difficulté
+### B — J'accompagne M. Guillard
 
-**Paramétrer l'environnement visuel et sonore du poste pour un usager malvoyant ou peu à l'aise avec le numérique**
+**Paramétrer l'environnement visuel et sonore du poste pour une perte de vision centrale (type DMLA)**
 
 1. Sur le poste, ouvrir Paramètres > Accessibilité, puis consulter en parallèle la page [Rendez votre PC plus
    accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
    pour comparer les réglages affichés à l'écran avec ceux décrits sur la page.
 2. Augmenter la taille du texte et des icônes, activer un contraste élevé, et régler le pointeur de souris pour le
    rendre plus visible.
-3. Activer et tester quelques secondes la loupe intégrée ainsi que le Narrateur (lecteur d'écran), pour comprendre
-   ce qu'expérimente un usager malvoyant qui les utiliserait.
-4. Ajuster le volume système et vérifier la présence de haut-parleurs fonctionnels — utiles à un usager qui
-   activerait le Narrateur ou les sous-titres en direct.
-5. **Aidant** : fais tester tes réglages par ton binôme dans le rôle de l'usager malvoyant — demande-lui de lire à
-   distance normale un texte affiché à l'écran et d'utiliser le Narrateur quelques secondes. **Aidé** : donne un
-   avis honnête (lisible ou non, confortable ou non), sans faciliter la tâche de ton binôme. Ajustez ensemble au
-   moins un réglage suite à ce retour.
+3. Activer et tester quelques secondes la loupe intégrée ainsi que le Narrateur (lecteur d'écran) : avec une perte
+   de vision centrale comme celle de M. Guillard, l'agrandissement seul ne suffit pas toujours — le texte agrandi
+   peut rester dans la zone floue — le Narrateur devient alors un complément indispensable, pas une option.
+4. Ajuster le volume système et vérifier la présence de haut-parleurs fonctionnels — indispensables pour M.
+   Guillard s'il active le Narrateur ou les sous-titres en direct.
+5. **Aidant** : fais tester tes réglages par ton binôme dans le rôle de M. Guillard — demande-lui de lire à
+   distance normale un texte affiché à l'écran **en fixant un point légèrement à côté**, comme le ferait M.
+   Guillard, puis d'utiliser le Narrateur quelques secondes. **Aidé** : donne un avis honnête (lisible ou non,
+   confortable ou non), sans faciliter la tâche de ton binôme. Ajustez ensemble au moins un réglage suite à ce
+   retour.
 
 !!! tip "🆘 Coup de pouce"
     Si un réglage reste introuvable, utilise directement la barre de recherche Windows en tapant « accessibilité » :
@@ -108,9 +119,10 @@ rôles à la prochaine activité de ce type.
    elle doit être demandée au prestataire informatique (ex. installer une mise à jour système).
 4. Rédiger, à destination du prestataire informatique de France Services Loudéac, un message court (3-4 lignes)
    signalant l'état des mises à jour observé à l'étape 2 et demandant leur installation si nécessaire.
-5. **Aidé** : demande à ton binôme, comme le ferait un usager, d'installer une application ou de créer un nouveau
-   compte sur le poste. **Aidant** : explique pourquoi tu ne peux pas le faire toi-même et ce que tu proposes à la
-   place (sans le faire à sa place — la posture reste « faire avec, jamais pour »).
+5. **Aidé** : demande à ton binôme, comme le ferait M. Guillard, d'installer une application de loupe qu'il a vue
+   chez sa fille, ou de créer un compte à sa place pour lui simplifier la vie. **Aidant** : explique pourquoi tu ne
+   peux pas le faire toi-même et ce que tu proposes à la place (sans le faire à sa place — la posture reste
+   « faire avec, jamais pour »).
 
 !!! tip "Astuce"
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
@@ -133,7 +145,8 @@ rôles à la prochaine activité de ce type.
 - Pourquoi un agent d'accueil n'a-t-il généralement pas de droits administrateur sur un poste public ?
 - Que doit faire un agent qui repère un poste non à jour, s'il n'a pas les droits pour installer la mise à jour
   lui-même ?
-- Pourquoi le retour de l'usager-test (ton binôme) peut-il faire changer un réglage que tu jugeais déjà correct ?
+- Pourquoi le retour de M. Guillard (joué par ton binôme) peut-il faire changer un réglage que tu jugeais déjà
+  correct ?
 
 ??? tip "Vérifier mes réponses"
     - Les réglages de confort visuel (taille du texte, contraste, loupe) et les réglages de lecture/écoute
@@ -164,10 +177,10 @@ rôles à la prochaine activité de ce type.
 **Production attendue :** une check-list de mise en service au format PDF, prête à être réutilisée par les
 collègues de France Services Loudéac pour tout futur poste libre-service, accompagnée du message au prestataire
 informatique, des réponses aux questions de synthèse, et d'une ligne notant l'ajustement fait suite au retour de
-l'usager-test.
+M. Guillard.
 
 | Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
-| Relation interpersonnelle de proximité et distanciée | Réglages ajustés à partir du retour réel de l'usager-test (binôme) ; échange avec le binôme et signalement au prestataire menés avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
-| Organisation de l'espace de vie | Poste préparé, organisé et validé par un test usager (accessibilité, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
+| Relation interpersonnelle de proximité et distanciée | Réglages ajustés à partir du retour réel de M. Guillard (joué par le binôme), et non d'une idée générale de « l'accessibilité » ; échange et signalement au prestataire menés avec la juste distance professionnelle, sans dépasser son rôle | -- / - / + / ++ |
+| Organisation de l'espace de vie | Poste préparé, organisé et validé par le test de M. Guillard (accessibilité adaptée à sa perte de vision centrale, branchements, informations réseau) comme élément fonctionnel de l'espace d'accueil de la structure | -- / - / + / ++ |
 | Réalisation des opérations d'entretien en toute sécurité | Bonnes pratiques de maintenance de premier niveau correctement identifiées et appliquées dans la limite des droits de l'agent, sans contournement d'une restriction de sécurité | -- / - / + / ++ |
