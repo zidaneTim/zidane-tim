@@ -36,7 +36,7 @@ la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale
 - Rédiger collectivement une charte adaptée à la structure d'accueil, sur le modèle d'une charte réelle
 - Formuler les limites déontologiques que l'aidant numérique ne doit jamais franchir
 
-## Travail à faire
+## Missions
 
 ### A — Étudier une charte professionnelle officielle
 
@@ -96,6 +96,6 @@ collectivement, mise en page sur une page, prête à être affichée au poste d'
 
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Posture d'accompagnement (mobilisation des ressources de la personne) | Engagements rédigés reflètent une posture qui mobilise l'usager (« faire avec ») ; au moins un engagement fixe une limite déontologique claire face à une donnée sensible | -- / - / + / ++ |
-| Relation avec distanciation professionnelle | Droits RGPD correctement listés et reliés à des situations concrètes d'accompagnement ; règle de confidentialité entre collègues formulée avec la juste distance professionnelle | -- / - / + / ++ |
+| Posture d'accompagnement : mobilisation des ressources de la personne | Engagements rédigés reflètent une posture qui mobilise l'usager (« faire avec ») ; au moins un engagement fixe une limite déontologique claire face à une donnée sensible | -- / - / + / ++ |
+| Mise en place d'une relation en maintenant la distanciation professionnelle requise | Droits RGPD correctement listés et reliés à des situations concrètes d'accompagnement ; règle de confidentialité entre collègues formulée avec la juste distance professionnelle | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | Charte de référence correctement analysée (engagements clés identifiés) ; charte de la structure rédigée collectivement, 6 à 8 engagements adaptés au contexte SAPAT, prête à l'affichage | -- / - / + / ++ |

@@ -45,26 +45,23 @@ l'erreur classique du débutant, qui consiste à faire la démarche à la place 
 - Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté
 - Construire une carte mentale de synthèse organisant qui est exclu, pourquoi, et ce que fait l'aidant
 
-## Travail à faire
+## Missions
 
-### A — Relever des chiffres réels sur l'illectronisme
+### A — Constituer un mini-dossier chiffré sur l'illectronisme
 
-**Rechercher et noter les données chiffrées officielles**
+**Croiser deux sources officielles pour documenter le phénomène, pas juste relever des chiffres isolés**
 
-1. Ouvrir la page [Insee Première n°1953 — 15 % de la population est en situation d'illectronisme en 2021](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" } et relever dans OneNote le taux
-   national d'illectronisme et sa décomposition (part n'ayant pas utilisé Internet récemment / part l'ayant utilisé
-   sans disposer des compétences numériques de base).
-2. Sur la même page, relever l'écart générationnel entre les 75 ans ou plus et les 15-24 ans, et noter la
-   référence exacte de la source (Insee, *Insee Première* n°1953).
-3. Ouvrir la page [L'illectronisme en chiffres](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" } de l'ANLCI (Agence nationale de lutte contre l'illettrisme) et relever la
-   définition officielle de l'illectronisme en une phrase.
-4. Sur la même page ANLCI, relever les deux facteurs cités (au-delà de l'âge) qui renforcent l'illectronisme :
-   diplôme et niveau de vie.
+1. À partir de la page [Insee Première n°1953 — 15 % de la population est en situation d'illectronisme en 2021](https://www.insee.fr/fr/statistiques/7633654){ target="_blank" rel="noopener" } et de la page [L'illectronisme en chiffres](https://www.anlci.gouv.fr/illectronisme/lillectronisme-en-chiffres/){ target="_blank" rel="noopener" } de l'ANLCI, constituer dans OneNote un mini-dossier qui répond à une seule question : **qui est concerné par
+   l'illectronisme en France, et à quel point ?** Ton dossier doit permettre de répondre, à lui seul, aux quatre
+   points suivants sans qu'on ait besoin de rouvrir les pages sources : le taux national et sa décomposition,
+   l'écart générationnel (75 ans ou plus / 15-24 ans), la définition officielle de l'illectronisme, et au moins un
+   facteur aggravant autre que l'âge.
+2. Pour chaque donnée retenue, noter la source précise (organisme, nom de la publication) directement à côté —
+   un chiffre sans source ne pourra pas être réutilisé dans la carte mentale de la mission D.
 
 !!! tip "🆘 Coup de pouce"
-    Si les chiffres se mélangent, retiens seulement deux données pour la suite : **15,4 %** (taux national) et
-    **62 % contre 2 %** (écart générationnel 75 ans et plus / 15-24 ans). Ce sont les deux chiffres qui reviendront
-    dans ta carte mentale.
+    Si tu ne sais pas par où commencer, pose-toi la question dans l'ordre : combien de personnes, quel écart entre
+    générations, pourquoi (au-delà de l'âge), et comment on appelle officiellement ce phénomène.
 
 ### B — Identifier les publics et les conséquences concrètes
 
@@ -138,6 +135,6 @@ présentées comme un dossier de préparation à ta première permanence à Fran
 
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Posture d'accompagnement (mobilisation des ressources de la personne) | Distinction claire « faire avec / faire pour » ; posture qui mobilise l'usager plutôt que de se substituer à lui ; limites déontologiques identifiées | -- / - / + / ++ |
-| Relation avec distanciation professionnelle | Profil des personnes les plus exposées décrit sans jugement ni généralisation abusive, à partir de chiffres réels et sourcés (Insee, ANLCI) | -- / - / + / ++ |
+| Posture d'accompagnement : mobilisation des ressources de la personne | Distinction claire « faire avec / faire pour » ; posture qui mobilise l'usager plutôt que de se substituer à lui ; limites déontologiques identifiées | -- / - / + / ++ |
+| Mise en place d'une relation en maintenant la distanciation professionnelle requise | Profil des personnes les plus exposées décrit sans jugement ni généralisation abusive, à partir de chiffres réels et sourcés (Insee, ANLCI) | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | Carte mentale complète, structurée en 3 branches (qui est exclu, pourquoi, que fait l'aidant), exploitable avant une permanence réelle | -- / - / + / ++ |

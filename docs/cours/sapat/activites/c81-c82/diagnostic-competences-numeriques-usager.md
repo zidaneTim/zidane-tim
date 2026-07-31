@@ -41,7 +41,7 @@ aussi bien en ligne que hors connexion.
 - Construire une grille de diagnostic papier réutilisable pour un usager sans équipement ni connexion au premier contact
 - Relier les résultats de deux profils fictifs à une orientation d'accompagnement adaptée
 
-## Travail à faire
+## Missions
 
 ### A — Découvrir l'outil professionnel de diagnostic
 
@@ -105,6 +105,6 @@ M. Rouault à France Services Loudéac.
 
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Posture d'accompagnement (mobilisation des ressources de la personne) | Diagnostic mené comme un échange qui mobilise l'usager (observation sans se substituer à lui), résultat exploité pour l'orienter et non pour le juger | -- / - / + / ++ |
-| Relation avec distanciation professionnelle | Prise en main de l'usager fictif observée et décrite avec précision et neutralité (hésitations, vocabulaire, aides demandées), sans jugement de valeur | -- / - / + / ++ |
+| Posture d'accompagnement : mobilisation des ressources de la personne | Diagnostic mené comme un échange qui mobilise l'usager (observation sans se substituer à lui), résultat exploité pour l'orienter et non pour le juger | -- / - / + / ++ |
+| Mise en place d'une relation en maintenant la distanciation professionnelle requise | Prise en main de l'usager fictif observée et décrite avec précision et neutralité (hésitations, vocabulaire, aides demandées), sans jugement de valeur | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | Grille papier complète, lisible, réutilisable pour un usager sans équipement ; résultats des deux profils correctement reliés à une orientation d'accompagnement adaptée | -- / - / + / ++ |
