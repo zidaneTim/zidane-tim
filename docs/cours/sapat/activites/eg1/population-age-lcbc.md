@@ -40,10 +40,14 @@ rapport.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Lire et interpréter un tableau de données démographiques réelles
-- Calculer une part (pourcentage) à partir d'effectifs, avec une formule adaptée
-- Trier et mettre en évidence des valeurs avec une mise en forme conditionnelle
+- Calculer une part (pourcentage) à partir d'effectifs avec une formule adaptée, puis trier et mettre en évidence
+  des valeurs avec une mise en forme conditionnelle
 - Construire un graphique simple et légendé à partir d'un calcul
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Population 2020 selon l'âge INSEE, en 10 tranches (par sexe, de 0-2 ans à 80 ans et plus)
@@ -92,9 +96,13 @@ rapport.
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Lecture et compréhension des données | Le tableau est lu correctement ; la commune la plus/moins peuplée est identifiée. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Traitement des données | La formule de pourcentage est exacte ; le tri et la mise en forme conditionnelle sont fonctionnels ; `NB.SI()` renvoie le bon résultat. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Représentation graphique | Le graphique est complet (titre, axes, source) et lisible. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Interprétation | Les questions de synthèse montrent une lecture correcte du phénomène de vieillissement territorial. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+
+</div>

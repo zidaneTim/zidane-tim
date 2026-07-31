@@ -29,8 +29,12 @@ Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolot
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **me connecter** seul à l'ENT et de retrouver **3 rubriques** utiles.
 - Être capable de **citer 3 règles** de la charte du numérique du lycée.
+
+</div>
 
 ## La notion : l'ENT et ses règles
 
@@ -98,7 +102,11 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Autonomie sur l'ENT | L'élève se connecte seul, ouvre 3 rubriques, envoie un message poli complet (politesse + phrase + signature) et retrouve un fichier déposé. | -- / - / + / ++ |
 | Connaissance de la charte | L'élève cite au moins 3 règles de la charte et donne un exemple concret pour chacune. | -- / - / + / ++ |
+
+</div>

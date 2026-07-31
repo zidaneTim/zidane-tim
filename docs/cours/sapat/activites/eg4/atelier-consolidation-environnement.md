@@ -35,9 +35,13 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Identifier ses propres points fragiles à partir de son autodiagnostic CRCN
 - Consolider au moins deux compétences ciblées parmi environnement de travail, gestion de fichiers et sécurité
 - Produire une preuve vérifiable de ce qui a été consolidé
+
+</div>
 
 ## Travail à faire
 
@@ -125,9 +129,13 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 **Production attendue :** deux preuves de consolidation et un autodiagnostic CRCN mis à jour, déposés dans OneNote
 et consultables par ta responsable de service.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Autopositionnement | Deux points fragiles identifiés à partir de l'autodiagnostic, choix justifié | -- / - / + / ++ |
 | Réalisation des parcours | Étapes du parcours effectuées complètement, pas seulement lues | -- / - / + / ++ |
 | Preuves | Preuve vérifiable produite pour chaque parcours traité | -- / - / + / ++ |
 | Recul | Autodiagnostic mis à jour, reste à faire identifié et daté | -- / - / + / ++ |
+
+</div>

@@ -39,9 +39,13 @@ leurs données et quels droits ils peuvent exercer.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Identifier les droits qu'un usager peut exercer sur ses données personnelles auprès d'une structure
 - Distinguer donnée personnelle courante et donnée sensible dans un dossier d'aide sociale
 - Produire une infographie A4 claire, sourcée et destinée à un public non spécialiste
+
+</div>
 
 ## Travail à faire
 
@@ -125,9 +129,13 @@ leurs données et quels droits ils peuvent exercer.
 **Production attendue :** une infographie A4 exportée en PDF, affichable au guichet du CCAS, remise à Mme Le Guen,
 responsable du service.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Exactitude juridique | Les droits cités correspondent à ceux publiés par la CNIL, sans invention ni approximation | -- / - / + / ++ |
 | Classement des données | Distinction courante/sensible correcte, conséquences pratiques identifiées | -- / - / + / ++ |
 | Clarté pour l'usager | Phrases courtes, sigles explicités, aucun jargon administratif non traduit | -- / - / + / ++ |
 | Qualité de la production | Format A4, lisibilité (taille, contraste), source citée, export PDF réussi | -- / - / + / ++ |
+
+</div>

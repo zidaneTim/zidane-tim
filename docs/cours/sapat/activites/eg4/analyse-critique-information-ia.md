@@ -39,9 +39,13 @@ rapportent.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Appliquer les quatre gestes de la méthode SIFT à une information non vérifiée
 - Distinguer un fait vérifiable, une opinion et une affirmation invérifiable dans un même contenu
 - Repérer des indices de génération automatique dans un texte ou une image et formuler une conclusion prudente
+
+</div>
 
 ## Travail à faire
 
@@ -129,9 +133,13 @@ rapportent.
 **Production attendue :** une fiche d'analyse d'une information, exploitable par l'équipe d'accueil de la maison de
 santé et remise à Mme Riou, coordinatrice.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Méthode SIFT | Les 4 gestes sont effectués et tracés, y compris quand la recherche n'aboutit pas | -- / - / + / ++ |
 | Fait / opinion | Les 3 affirmations sont classées correctement et le classement est justifié | -- / - / + / ++ |
 | Détection IA | Au moins 2 indices de génération automatique recherchés ; sources citées par l'IA effectivement ouvertes et vérifiées | -- / - / + / ++ |
 | Conclusion | Conclusion nuancée, conduite à tenir formulée, aucune affirmation catégorique non étayée | -- / - / + / ++ |
+
+</div>

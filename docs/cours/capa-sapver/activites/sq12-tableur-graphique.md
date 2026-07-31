@@ -26,8 +26,12 @@ La famille Morel n'arrive jamais à mettre d'argent de côté. Elle te montre se
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable d'**utiliser un filtre** pour n'afficher qu'une partie des données.
 - Être capable de **créer un graphique** simple et de le **commenter**.
+
+</div>
 
 ## La notion : exploiter des données
 
@@ -98,7 +102,11 @@ Un graphique se **commente** : on repère le **plus grand**, le **plus petit**, 
 
 **Production attendue :** un graphique titré des dépenses par poste de la famille Morel, accompagné d'un commentaire de 3 phrases avec un conseil.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Filtrer et calculer | Le filtre est utilisé correctement et les totaux par poste sont justes. | -- / - / + / ++ |
 | Graphique et lecture | Le graphique est titré et lisible ; le commentaire repère le plus gros poste et propose un conseil d'économie cohérent. | -- / - / + / ++ |
+
+</div>

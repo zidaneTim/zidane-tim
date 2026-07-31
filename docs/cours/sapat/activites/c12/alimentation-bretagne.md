@@ -29,11 +29,15 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 
 ## Objectifs
 
-- Analyser le contexte de l'approvisionnement local et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir d'un fichier open data national volumineux
+<div class="zt-objectifs" markdown>
+
+- Analyser le contexte de l'approvisionnement local, reformuler la problématique avec ses propres mots et construire
+  un sous-ensemble de travail propre à partir d'un fichier open data national volumineux
 - Traiter les données avec des formules Excel (NB.SI, NB.SI.ENS), une mise en forme conditionnelle et un tableau croisé dynamique
-- Cartographier les opérateurs bio du territoire avec Google MyMaps
-- Rédiger une synthèse chiffrée adaptée à la destinataire (responsable de l'épicerie sociale)
+- Cartographier les opérateurs bio du territoire avec Google MyMaps et rédiger une synthèse chiffrée adaptée à la
+  destinataire (responsable de l'épicerie sociale)
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Professionnels engagés en BIO (liste officielle des opérateurs notifiés)
@@ -89,8 +93,12 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du CCAS est reformulée correctement ; la source est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC (par code postal) est construit et nettoyé (colonnes, doublons, formats) ; la limite du filtrage par code postal (approximation du territoire) est mentionnée. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle est fonctionnelle ; le TCD par code postal est correct, trié, et croisé avec le type d'activité ; les traitements répondent à la problématique (offre locale). | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique est complet (titre, axes, source) et son choix est justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, adaptée à la destinataire et se conclut par une recommandation exploitable. | -- / - / + / ++ |
+
+</div>

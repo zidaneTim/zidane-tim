@@ -29,8 +29,12 @@ Plus tard, on te demande de créer une **fiche de présentation** de toi pour la
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **créer une arborescence** simple et de **nommer** un fichier selon une règle.
 - Être capable de **trier** les informations personnelles : ce qui se partage / ce qui reste privé.
+
+</div>
 
 ## La notion : ranger et se présenter
 
@@ -113,7 +117,11 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Organisation et nommage | L'arborescence est créée et le fichier est nommé selon la règle `AAAA-MM-JJ_Intitulé_Prénom` (sans espace ni accent). | -- / - / + / ++ |
 | Tri des informations personnelles | La fiche ne contient que des informations partageables ; l'élève sait justifier ce qu'il garde privé. | -- / - / + / ++ |
+
+</div>

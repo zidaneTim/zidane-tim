@@ -28,12 +28,17 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Objectifs
 
-- Reformuler avec ses propres mots le lien entre logement ancien/mal isolé, consommation d'électricité et précarité énergétique
-- Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu, en gérant les valeurs masquées et en isolant la bonne filière d'énergie
-- Regrouper des données réparties sur plusieurs lignes par commune avant de calculer un indicateur
-- Trier, filtrer et calculer des indicateurs avec des formules Excel (SI, NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS)
-- Réaliser une carte des relais de proximité sur le territoire de LCBC
-- Produire un support de communication professionnel adapté à un public non expert (travailleurs sociaux, aides à domicile)
+<div class="zt-objectifs" markdown>
+
+- Reformuler avec ses propres mots le lien entre logement ancien/mal isolé, consommation d'électricité et précarité
+  énergétique
+- Nettoyer et sélectionner un sous-ensemble exploitable d'un jeu de données étendu (valeurs masquées, filière
+  d'énergie, regroupement de lignes par commune), puis trier, filtrer et calculer des indicateurs avec des formules
+  Excel (SI, NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS)
+- Réaliser une carte des relais de proximité sur le territoire de LCBC et produire un support de communication
+  professionnel adapté à un public non expert (travailleurs sociaux, aides à domicile)
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Consommation annuelle d'électricité et gaz par commune
@@ -100,8 +105,12 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | -- / - / + / ++ |
+
+</div>

@@ -34,9 +34,13 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Installer ou diffuser une production dans un lieu accueillant du public, en respectant les contraintes du lieu
 - Produire une trace numérique exploitable de l'action (photo, fichier archivé, courte légende sourcée)
 - Évaluer sa production à l'aide de critères de réussite définis par le groupe et formuler deux pistes d'amélioration
+
+</div>
 
 ## Travail à faire
 
@@ -123,9 +127,13 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 **Production attendue :** une production installée ou diffusée au foyer, une trace numérique légendée et une grille
 d'autoévaluation renseignée, remises à l'équipe projet mandatée par la direction du lycée.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Diffusion effective | Production installée ou diffusée, contraintes du lieu prises en compte et ajustement noté | -- / - / + / ++ |
 | Trace numérique | Photo sans personne identifiable, légende complète et sourcée, archivage rangé | -- / - / + / ++ |
 | Autoévaluation | Chaque critère positionné et justifié par un fait, pas par une impression | -- / - / + / ++ |
 | Recul critique | Deux retours réels recueillis, écart au message analysé, deux pistes d'amélioration concrètes | -- / - / + / ++ |
+
+</div>

@@ -26,8 +26,12 @@ Pour les fêtes, ta famille te confie une mission : organiser le **repas de Noë
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **saisir des données** dans un tableur (lignes, colonnes, cellules).
 - Être capable d'utiliser la **formule SOMME** et le **format monétaire**.
+
+</div>
 
 ## La notion : le tableur
 
@@ -95,7 +99,11 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Saisie et organisation | Le tableau a des colonnes titrées et au moins 6 lignes de données correctement saisies. | -- / - / + / ++ |
 | Formule et format | Le total est calculé avec `=SOMME(...)` (pas à la main) et le format monétaire € est appliqué ; l'élève constate le recalcul automatique. | -- / - / + / ++ |
+
+</div>

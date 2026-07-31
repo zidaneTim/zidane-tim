@@ -26,8 +26,12 @@ Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fab
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **faire une recherche** avec des mots-clés efficaces.
 - Être capable de **vérifier une information** en croisant au moins 2 sources et en repérant une infox.
+
+</div>
 
 ## La notion : chercher et vérifier
 
@@ -112,7 +116,11 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Recherche d'information | L'élève utilise des mots-clés adaptés et trouve une source sérieuse. | -- / - / + / ++ |
 | Vérification et esprit critique | Sur les 4 infos de l'atelier, les verdicts sont corrects et chaque « trompeuse » est justifiée par au moins un signe d'alerte. | -- / - / + / ++ |
+
+</div>

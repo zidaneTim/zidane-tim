@@ -30,8 +30,12 @@ Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, 
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **reconnaître** un message frauduleux grâce à 5 indices.
 - Être capable d'**appliquer** les 4 réflexes face à un message piège (dont le signalement).
+
+</div>
 
 ## La notion : le phishing (hameçonnage)
 
@@ -149,7 +153,11 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Reconnaissance des indices de phishing | Sur les 6 messages de l'atelier, le verdict (piège/fiable) est correct et justifié par au moins 1 des 5 indices de la partie « notion » pour chaque message. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Application des réflexes face à un message piège | La checklist personnelle (consigne 3 de l'atelier) liste correctement les 4 réflexes (ne pas cliquer, vérifier par le vrai canal, signaler au bon endroit, supprimer/en parler à un adulte). | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+
+</div>

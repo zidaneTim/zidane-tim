@@ -38,9 +38,13 @@ quelles sources, et selon quel plan de travail.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Rechercher et sélectionner une information sur la laïcité dans des sources institutionnelles de référence
 - Distinguer ce que la laïcité impose à l'École de ce qu'elle n'interdit pas, en citant un article de la Charte
 - Rédiger une fiche de cadrage de projet précisant message, public, format, sources et jalons
+
+</div>
 
 ## Travail à faire
 
@@ -126,9 +130,13 @@ quelles sources, et selon quel plan de travail.
 **Production attendue :** une fiche de cadrage et un plan de travail à 4 jalons, déposés dans OneNote et présentés
 à l'équipe projet mandatée par la direction du lycée.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Recherche à la source | Informations prélevées sur les sites institutionnels indiqués, sources notées précisément | -- / - / + / ++ |
 | Compréhension du principe | Les 2 articles retenus sont reformulés justement, sans contresens ni recopie | -- / - / + / ++ |
 | Cadrage du projet | Message unique, public identifié, format choisi et justifié | -- / - / + / ++ |
 | Plan de travail | 4 jalons présents, chacun avec un critère de fin explicite | -- / - / + / ++ |
+
+</div>

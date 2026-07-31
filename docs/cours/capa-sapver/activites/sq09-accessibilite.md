@@ -24,8 +24,12 @@ En stage dans un EHPAD, tu prépares une **affiche du menu de la semaine** pour 
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **citer** les principaux besoins d'accessibilité (vue, lecture).
 - Être capable d'**adapter un document** pour le rendre plus accessible.
+
+</div>
 
 !!! note "Retour de PFMP"
     Tu reviens de stage. As-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
@@ -93,7 +97,11 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Comprendre l'accessibilité | L'élève cite au moins 3 besoins/aides (zoom, contraste, lecteur d'écran) et 3 problèmes du document de départ. | -- / - / + / ++ |
 | Adapter le document | Le document corrigé respecte les 5 règles (taille, contraste, police, vrai texte, texte alternatif). | -- / - / + / ++ |
+
+</div>

@@ -34,11 +34,15 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 
 ## Objectifs
 
-- Analyser la demande du service environnement et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir d'un fichier régional (une ligne par espèce et par commune)
+<div class="zt-objectifs" markdown>
+
+- Analyser la demande du service environnement, reformuler la problématique avec ses propres mots et construire un
+  sous-ensemble de travail propre à partir d'un fichier régional (une ligne par espèce et par commune)
 - Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique
-- Cartographier les communes et leur exposition aux espèces invasives avec Google MyMaps
-- Rédiger une synthèse chiffrée adaptée à la destinataire, sans dépasser ce que montrent les données
+- Cartographier les communes et leur exposition aux espèces invasives avec Google MyMaps, et rédiger une synthèse
+  chiffrée adaptée à la destinataire, sans dépasser ce que montrent les données
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Espèces non indigènes **par commune** en Bretagne
@@ -93,8 +97,12 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du service environnement est reformulée correctement ; la source OEB est identifiée (producteur, licence, date) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est construit et nettoyé ; le biais de pression d'observation est énoncé avec ses mots. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | NBVAL, NB.SI et NB.SI.ENS renvoient des résultats exacts ; le tableau de synthèse par commune et la part d'invasives sont corrects ; la mise en forme conditionnelle est fonctionnelle ; le TCD croise commune et statut `invasive`, trié. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique en barres empilées est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée et lisible ; la synthèse est chiffrée, rappelle explicitement la limite de pression d'observation, et se conclut par une proposition exploitable par la chargée de mission. | -- / - / + / ++ |
+
+</div>

@@ -45,11 +45,15 @@ cas précis, en binôme.
 
 ## Objectifs
 
-- Identifier les engagements d'une charte professionnelle officielle de médiation numérique
-- Distinguer les droits RGPD directement mobilisés par un accompagnement numérique d'usager
+<div class="zt-objectifs" markdown>
+
+- Identifier les engagements d'une charte professionnelle officielle de médiation numérique, et distinguer les
+  droits RGPD directement mobilisés par un accompagnement numérique d'usager
 - Rédiger collectivement une charte adaptée à la structure d'accueil, sur le modèle d'une charte réelle
-- Mettre la charte à l'épreuve d'un cas réel pour vérifier qu'elle tient face à une demande insistante
-- Justifier oralement les ajustements apportés à la charte après ce test
+- Mettre la charte à l'épreuve d'un cas réel pour vérifier qu'elle tient face à une demande insistante, et justifier
+  oralement les ajustements apportés après ce test
+
+</div>
 
 ## Missions
 
@@ -152,8 +156,12 @@ Reprends le test de la mission D pour finaliser la charte, et prépare-toi à ju
 collectivement, testée sur le cas de Mme Bourhis, mise en page sur une page, prête à être affichée au poste
 d'accueil.
 
+<div class="zt-grille" markdown>
+
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
 | Posture d'accompagnement : mobilisation des ressources de la personne | <li>Engagements reflètent une posture qui mobilise l'usager (« faire avec »)</li><li>Réponse à la fille appuyée sur un engagement précis, pas une improvisation</li><li>Charte ajustée si le test a révélé un manque</li> | -- / - / + / ++ |
 | Mise en place d'une relation en maintenant la distanciation professionnelle requise | <li>Droits RGPD listés et reliés à des situations concrètes</li><li>Aucune information médicale transmise à la fille</li><li>Règle de confidentialité entre collègues formulée avec justesse</li> | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | <li>Charte de référence correctement analysée</li><li>Charte de la structure rédigée collectivement, 6 à 8 engagements</li><li>Prête à l'affichage, testée sur un cas réel</li> | -- / - / + / ++ |
+
+</div>

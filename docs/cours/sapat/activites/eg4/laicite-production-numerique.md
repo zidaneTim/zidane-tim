@@ -38,9 +38,13 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Produire un support numérique (affiche PAO ou montage audio) porteur d'un message unique
 - Sélectionner des ressources sous licence libre et en citer correctement la provenance
 - Adapter le support à ses conditions réelles de diffusion (lisibilité à distance, durée d'écoute, format d'export)
+
+</div>
 
 ## Travail à faire
 
@@ -138,9 +142,13 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 **Production attendue :** une affiche A3 exportée en PDF **ou** un montage audio MP3 de 60 à 90 secondes, prêt à
 être affiché ou diffusé au foyer, remis à l'équipe projet mandatée par la direction du lycée.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Message | Un message unique, identifiable en quelques secondes, conforme à la fiche de cadrage | -- / - / + / ++ |
 | Adaptation au support | Lisibilité à distance ou audibilité en lieu de passage ; format et durée respectés | -- / - / + / ++ |
 | Droits et sources | Ressources sous licence vérifiée, bloc de crédits complet (titre, auteur, licence, source) | -- / - / + / ++ |
 | Qualité technique | Export réussi au bon format, nommage conforme, montage propre (son normalisé / mise en page nette) | -- / - / + / ++ |
+
+</div>

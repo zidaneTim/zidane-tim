@@ -31,11 +31,15 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 
 ## Objectifs
 
-- Analyser la demande du CLIC et reformuler la problématique avec ses propres mots
-- Construire un sous-ensemble de travail propre à partir du fichier national FINESS
+<div class="zt-objectifs" markdown>
+
+- Analyser la demande du CLIC, reformuler la problématique avec ses propres mots et construire un sous-ensemble de
+  travail propre à partir du fichier national FINESS
 - Traiter les données avec NB.SI, NB.SI.ENS, mise en forme conditionnelle et tableau croisé dynamique
-- Cartographier les établissements du territoire avec Google MyMaps
-- Rédiger une synthèse chiffrée adaptée à la destinataire (coordinatrice du CLIC)
+- Cartographier les établissements du territoire avec Google MyMaps et rédiger une synthèse chiffrée adaptée à la
+  destinataire (coordinatrice du CLIC)
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** FINESS — Extraction du fichier des établissements
@@ -89,8 +93,12 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande du CLIC est reformulée correctement ; la source FINESS est identifiée (producteur, licence, date, fréquence) ; l'absence de données personnelles est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est construit et nettoyé (colonnes, doublons FINESS, cellules vides, filtrage des catégories personnes âgées). | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | Les formules NB.SI et NB.SI.ENS renvoient des résultats exacts ; la mise en forme conditionnelle fait ressortir les communes sans structure ; le TCD par commune est correct, trié et croisé avec la catégorie ; les traitements répondent à la problématique (offre d'accueil). | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique est complet (titre, axes, source) et son choix justifié ; la carte MyMaps est publiée, lisible, avec repères différenciés par catégorie ; la synthèse est chiffrée, adaptée à la coordinatrice et se conclut par une recommandation exploitable en rendez-vous famille. | -- / - / + / ++ |
+
+</div>

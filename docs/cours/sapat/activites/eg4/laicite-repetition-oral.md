@@ -34,9 +34,13 @@ mot), on répète, on s'enregistre, on corrige.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Construire un conducteur d'oral minuté en cinq temps
 - S'enregistrer, s'écouter et identifier trois points d'amélioration précis dans sa propre prise de parole
 - Anticiper deux questions du public et préparer une réponse courte à chacune
+
+</div>
 
 ## Travail à faire
 
@@ -122,9 +126,13 @@ mot), on répète, on s'enregistre, on corrige.
 anticipées avec réponses, préparés pour l'intervention devant le public du foyer et remis à l'équipe projet
 mandatée par la direction du lycée.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Structure du conducteur | Cinq temps présents, minutés, total compris entre 4 et 5 minutes | -- / - / + / ++ |
 | Forme du conducteur | Mots-clés et non texte rédigé ; conducteur réellement utilisable en situation | -- / - / + / ++ |
 | Autoévaluation | Trois points d'amélioration identifiés, deuxième prise effectuée, écart analysé | -- / - / + / ++ |
 | Anticipation des questions | Deux questions plausibles, réponses courtes et appuyées sur une source | -- / - / + / ++ |
+
+</div>

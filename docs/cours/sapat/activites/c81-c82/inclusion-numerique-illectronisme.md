@@ -40,11 +40,15 @@ cas de Mme Kervadec bouscule l'idée reçue que seuls les plus âgés sont conce
 
 ## Objectifs
 
-- Rechercher et citer des données chiffrées réelles et sourcées sur l'illectronisme en France
-- Identifier les publics les plus touchés par l'illectronisme et les facteurs qui l'expliquent
-- Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté
-- Appliquer cette posture à un cas réel qui échappe au profil-type de l'illectronisme
+<div class="zt-objectifs" markdown>
+
+- Rechercher et citer des données chiffrées réelles et sourcées sur l'illectronisme en France, et identifier les
+  publics les plus touchés et les facteurs qui l'expliquent
+- Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté, et l'appliquer à un cas
+  réel qui échappe au profil-type de l'illectronisme
 - Construire une carte mentale de synthèse organisant qui est exclu, pourquoi, et ce que fait l'aidant
+
+</div>
 
 ## Missions
 
@@ -156,8 +160,12 @@ Organise l'ensemble de ton travail (A à D) en une carte mentale exploitable ava
 **Production attendue :** une carte mentale exportée (image ou PDF), la réponse apportée à Mme Kervadec en mission
 D et les réponses aux questions de synthèse, présentées comme un dossier de préparation à ta prochaine permanence.
 
+<div class="zt-grille" markdown>
+
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
 | Posture d'accompagnement : mobilisation des ressources de la personne | <li>Distinction claire « faire avec / faire pour »</li><li>Réponse à l'insistance de Mme Kervadec sans faire à sa place</li><li>Posture qui mobilise l'usager plutôt que de se substituer</li> | -- / - / + / ++ |
 | Mise en place d'une relation en maintenant la distanciation professionnelle requise | <li>Profil des personnes exposées décrit sans généralisation abusive</li><li>Cas de Mme Kervadec analysé sans jugement</li><li>Chiffres sourcés (Insee, ANLCI)</li> | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | <li>Carte mentale complète, structurée en 3 branches</li><li>Cas de Mme Kervadec intégré comme contre-exemple</li><li>Exploitable avant une permanence réelle</li> | -- / - / + / ++ |
+
+</div>

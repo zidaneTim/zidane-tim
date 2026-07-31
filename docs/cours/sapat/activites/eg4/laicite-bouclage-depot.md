@@ -35,9 +35,13 @@ terminée, contrôlée et déposée — pas la veille.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Contrôler une production numérique à l'aide d'une grille de conformité explicite
 - Formuler une remarque de relecture utile, précise et exploitable par son auteur
 - Finaliser et déposer un fichier au bon format, correctement nommé et documenté
+
+</div>
 
 ## Travail à faire
 
@@ -125,9 +129,13 @@ terminée, contrôlée et déposée — pas la veille.
 **Production attendue :** un fichier final déposé sur l'ENT, accompagné de sa fiche technique et de la grille de
 contrôle remplie pour un camarade — à destination de l'équipe projet mandatée par la direction du lycée.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Contrôle qualité | Grille remplie intégralement, remarques précises et actionnables | -- / - / + / ++ |
 | Prise en compte du retour | Au moins 2 corrections effectuées et réexportées ; désaccords argumentés | -- / - / + / ++ |
 | Conformité du fichier | Format, nommage, poids et accessibilité conformes aux consignes | -- / - / + / ++ |
 | Dépôt et traçabilité | Fichier déposé sur l'ENT, vérifié après dépôt, fiche technique complète | -- / - / + / ++ |
+
+</div>

@@ -35,9 +35,13 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Reformuler sans support les droits qu'un usager peut exercer sur ses données
 - Distinguer données courantes et données sensibles dans une situation professionnelle inédite
 - Paramétrer concrètement la confidentialité d'au moins un compte personnel et en garder la preuve
+
+</div>
 
 ## Travail à faire
 
@@ -129,9 +133,13 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 **Production attendue :** deux productions de parcours et un autodiagnostic CRCN mis à jour, déposés dans OneNote
 et consultables par ta responsable de service.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Test initial | Liste écrite de mémoire puis complétée, écart mesuré honnêtement | -- / - / + / ++ |
 | Réalisation des parcours | Étapes effectuées complètement, productions concrètes et non recopiées | -- / - / + / ++ |
 | Transfert | Les droits ou règles sont formulés dans une situation professionnelle précise, pas en général | -- / - / + / ++ |
 | Preuves et recul | Preuves déposées, autodiagnostic mis à jour, action concrète annoncée | -- / - / + / ++ |
+
+</div>

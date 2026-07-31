@@ -50,11 +50,15 @@ comme lui. Vous inverserez les rôles à la prochaine activité de ce type.
 
 ## Objectifs
 
-- Anticiper, à partir d'un profil d'usager, ce qu'un diagnostic devra vérifier avant de le mener
-- Créer un compte professionnel sur une plateforme de diagnostic numérique reconnue par le secteur de la médiation
+<div class="zt-objectifs" markdown>
+
+- Anticiper, à partir d'un profil d'usager, ce qu'un diagnostic devra vérifier avant de le mener, puis créer un
+  compte professionnel sur une plateforme de diagnostic numérique reconnue par le secteur de la médiation
 - Réaliser un diagnostic numérique à l'aide d'un exercice en ligne, en observant la prise en main réelle de l'usager
-- Construire une grille de diagnostic papier réutilisable pour un usager sans équipement ni connexion
-- Justifier oralement ses choix de diagnostic devant un interlocuteur professionnel
+- Construire une grille de diagnostic papier réutilisable pour un usager sans équipement ni connexion, et justifier
+  oralement ses choix de diagnostic devant un interlocuteur professionnel
+
+</div>
 
 ## Missions
 
@@ -167,8 +171,12 @@ prépare-toi à en justifier chaque choix à l'oral.
 testée sur le cas de Yanis) présenté comme une trousse à outils prête à l'emploi pour la prochaine permanence de
 M. Rouault à France Services Loudéac.
 
+<div class="zt-grille" markdown>
+
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
 | Posture d'accompagnement : mobilisation des ressources de la personne | <li>Diagnostic mené comme un échange qui mobilise Yanis, pas une évaluation qui le juge</li><li>Refus de répondre respecté sans insistance</li><li>Résultat exploité pour l'orienter, pas pour le catégoriser</li> | -- / - / + / ++ |
 | Mise en place d'une relation en maintenant la distanciation professionnelle requise | <li>Aucune information sur le parcours scolaire ou familial dans les documents produits</li><li>Observation neutre, sans jugement de valeur</li><li>Message de transmission limité aux éléments utiles</li> | -- / - / + / ++ |
 | Anticipation et réalisation des démarches | <li>Anticipation écrite avant l'ouverture de l'outil</li><li>Grille papier complète, lisible, réutilisable sans équipement</li><li>Trousse à outils exploitable prête pour la permanence</li> | -- / - / + / ++ |
+
+</div>

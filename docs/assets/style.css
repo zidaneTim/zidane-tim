@@ -462,6 +462,41 @@
   color: #faf8f3;
 }
 
+/* Objectifs pédagogiques : liste resserrée (2-3 puces), police réduite pour
+   alléger la page sans replier la section — contrairement au corrigé, elle
+   doit rester visible en permanence (transparence des intentions d'apprentissage). */
+.md-typeset .zt-objectifs {
+  font-size: 0.74rem;
+  line-height: 1.5;
+}
+
+.md-typeset .zt-objectifs > p {
+  margin: 0;
+}
+
+.md-typeset .zt-objectifs li {
+  margin-bottom: 0.15rem;
+}
+
+/* Grille d'évaluation : version resserrée du tableau générique
+   (table:not([class]) ci-dessous) — police et coussinets réduits.
+   Le tableau est enveloppé dans <div class="zt-grille" markdown> (attr_list
+   ne s'applique pas aux tableaux dans ce moteur Markdown), donc on cible le
+   tableau via le div parent plutôt qu'une classe directe sur <table>. */
+.md-typeset .zt-grille table {
+  font-size: 0.64rem;
+}
+
+.md-typeset .zt-grille table th {
+  padding: 0.4rem 0.55rem;
+  font-size: 0.62rem;
+}
+
+.md-typeset .zt-grille table td {
+  padding: 0.32rem 0.55rem;
+  line-height: 1.4;
+}
+
 /* Admonitions : un peu plus compactes */
 .md-typeset .admonition,
 .md-typeset details {

@@ -42,11 +42,15 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Rechercher et citer une donnée chiffrée réelle et sourcée sur l'illectronisme en France
 - Rédiger un message de sensibilisation clair et impactant, destiné à un public de jeunes, sur les enjeux de
   l'illectronisme dans le secteur SAPAT
 - Appliquer au moins 5 règles d'accessibilité (contraste, police, pictogrammes, sobriété du texte, hiérarchie
   visuelle) pour que l'affiche illustre elle-même sa propre leçon
+
+</div>
 
 ## Travail à faire
 
@@ -148,9 +152,13 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 **Production attendue :** une affiche de sensibilisation à l'illectronisme, exportée en image ou PDF, destinée à
 l'affichage pour les jeunes du territoire par le CCAS de Loudéac (Mme Le Goff).
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Donnée chiffrée | Chiffre réel relevé, exact, et source citée précisément sur l'affiche | -- / - / + / ++ |
 | Message pour les jeunes | Message unique, ton et angle adaptés à un public de jeunes, lien SAPAT explicite | -- / - / + / ++ |
 | Règles d'accessibilité | Au moins 5 règles appliquées (contraste, police, pictogrammes, sobriété, hiérarchie visuelle) | -- / - / + / ++ |
 | Production | Affiche complète, exportée, message et chiffre retenus en moins de 5 secondes par un tiers | -- / - / + / ++ |
+
+</div>

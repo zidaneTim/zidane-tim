@@ -26,8 +26,12 @@ Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour s
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **reconnaître** un mot de passe faible et un mot de passe fort.
 - Être capable de **créer** une phrase de passe personnelle solide.
+
+</div>
 
 !!! note "Retour de PFMP"
     Tu reviens de stage. As-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
@@ -117,7 +121,11 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Reconnaître la solidité d'un mot de passe | Le classement des 6 mots de passe est correct et chaque mot de passe faible est justifié par un défaut. | -- / - / + / ++ |
 | Créer une phrase de passe | La phrase de passe créée respecte les 4 règles (longueur ≥ 12, majuscule, chiffre, signe) et ne contient pas d'info personnelle évidente. | -- / - / + / ++ |
+
+</div>

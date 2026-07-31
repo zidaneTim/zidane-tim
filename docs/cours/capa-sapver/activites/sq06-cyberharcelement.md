@@ -28,8 +28,12 @@ Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **décrire** le cyberharcèlement et de citer **les recours** (numéros, signalement).
 - Être capable de **concevoir une affiche** de sensibilisation claire.
+
+</div>
 
 ## La notion : le cyberharcèlement
 
@@ -112,7 +116,11 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Comprendre et réagir | L'élève décrit le cyberharcèlement (répété, intentionnel), distingue victime/auteur/témoin et cite au moins 3 réflexes dont le 3018. | -- / - / + / ++ |
 | Production de l'affiche | L'affiche est lisible de loin (message court, contraste), contient les 4 réflexes, le 3018 et une image libre de droits. | -- / - / + / ++ |
+
+</div>

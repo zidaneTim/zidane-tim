@@ -37,9 +37,13 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Rédiger un courriel professionnel complet et correctement adressé
 - Structurer une note de service brève, factuelle et affichable
 - Construire un diaporama de 6 diapositives respectant la règle 6×6
+
+</div>
 
 ## Travail à faire
 
@@ -128,9 +132,13 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 **Production attendue :** un courriel réellement envoyé, une note de service en PDF et un diaporama de
 6 diapositives, préparés pour Mme Tanguy, directrice de la résidence autonomie.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Courriel | Objet explicite, structure en 4 blocs, signature professionnelle, registre adapté à un destinataire externe | -- / - / + / ++ |
 | Note de service | Mentions obligatoires présentes, corps factuel de 5 lignes maximum, mise en forme affichable, export PDF | -- / - / + / ++ |
 | Diaporama | 6 diapositives, règle 6×6 respectée, lisibilité en projection, notes de présentation renseignées | -- / - / + / ++ |
 | Adaptation au destinataire | Les trois écrits disent le même message avec un registre et un niveau de détail distincts | -- / - / + / ++ |
+
+</div>

@@ -39,10 +39,14 @@ que tu dois travailler en priorité cette année.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Configurer son environnement numérique de travail (ENT, messagerie, espace de stockage, OneNote) et vérifier son
   fonctionnement réel
 - Appliquer trois règles de sécurité d'accès sur ses comptes scolaires
 - Se positionner sur les 5 domaines du CRCN et formuler 3 objectifs personnels de progression pour l'année
+
+</div>
 
 ## Travail à faire
 
@@ -125,9 +129,13 @@ que tu dois travailler en priorité cette année.
 vérifications de sécurité, le tableau d'autodiagnostic CRCN et 3 objectifs personnels — consultable par la vie
 scolaire qui t'a confié le rôle de relais numérique.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Prise en main de l'environnement | ENT et OneNote ouverts, bloc-notes créé et nommé correctement, capture d'écran présente | -- / - / + / ++ |
 | Sécurité des accès | Les 3 vérifications sont faites et leur résultat est noté, y compris quand la réponse est « non actif » | -- / - / + / ++ |
 | Autodiagnostic CRCN | Au moins 5 compétences positionnées, chacune avec un exemple concret et non générique | -- / - / + / ++ |
 | Objectifs personnels | 3 objectifs formulés avec un verbe d'action, cohérents avec l'autodiagnostic | -- / - / + / ++ |
+
+</div>

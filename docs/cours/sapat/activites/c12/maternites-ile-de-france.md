@@ -28,12 +28,16 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 
 ## Objectifs
 
-- Rechercher et télécharger un jeu de données officiel sur data.gouv.fr, et distinguer les formats CSV et XLSX
-- Définir donnée brute, donnée agrégée et métadonnée ; situer le rôle de la Loi Lemaire (2016) et du RGPD/CNIL dans l'ouverture des données publiques
-- Extraire une information (le département) à partir d'un code postal avec `GAUCHE()`, et comparer deux années avec `SOMME()`, `MOYENNE()` et un taux de variation
-- Construire un tableau et un graphique croisés dynamiques (TCD/GCD)
-- Cartographier les maternités d'un territoire et déterminer celles accessibles dans un rayon donné (Google MyMaps + cercle KML)
-- Produire une note de synthèse factuelle pour une destinataire non experte
+<div class="zt-objectifs" markdown>
+
+- Rechercher et télécharger un jeu de données officiel sur data.gouv.fr (formats CSV/XLSX), et situer les notions de
+  donnée brute, donnée agrégée, métadonnée, Loi Lemaire (2016) et RGPD/CNIL dans l'ouverture des données publiques
+- Extraire une information (le département) à partir d'un code postal avec `GAUCHE()`, comparer deux années avec
+  `SOMME()`, `MOYENNE()` et un taux de variation, et construire un tableau et un graphique croisés dynamiques (TCD/GCD)
+- Cartographier les maternités d'un territoire, déterminer celles accessibles dans un rayon donné (Google MyMaps +
+  cercle KML), et produire une note de synthèse factuelle pour une destinataire non experte
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Liste des maternités de France depuis 2000
@@ -92,8 +96,12 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande de Mme Le Goff est reformulée correctement ; donnée brute/agrégée/métadonnée sont définies ; la Loi Lemaire et le RGPD/CNIL sont correctement situés ; le filtrage Île-de-France 2013/2023 (via `num_dép`) est construit sans modifier la feuille source. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | SOMME, MOYENNE et le taux de variation sont exacts et interprétés ; la mise en forme conditionnelle est fonctionnelle ; le TCD et le GCD (ANNEE × LIT_OBS, filtré sur les 8 départements) sont corrects. | -- / - / + / ++ |
 | 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique en courbe est complet (titre, légende, étiquettes) ; la carte MyMaps et le cercle de 10 km sont fonctionnels ; la note de synthèse répond clairement à la problématique, chiffres à l'appui, sans dépasser ce que montrent les données. | -- / - / + / ++ |
+
+</div>

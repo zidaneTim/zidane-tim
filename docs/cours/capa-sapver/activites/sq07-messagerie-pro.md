@@ -27,8 +27,12 @@ Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…)
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **rédiger un courriel** professionnel complet (objet, politesse, message clair, signature).
 - Être capable de **joindre une pièce jointe** et d'envoyer le courriel via l'ENT.
+
+</div>
 
 ## La notion : le courriel professionnel
 
@@ -103,7 +107,11 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 
 **Production attendue :** un courriel de demande de stage envoyé via l'ENT au professeur (jouant la structure d'accueil), avec pièce jointe.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Rédaction du courriel | Le courriel contient les 6 parties (objet, appel, corps clair, politesse, signature) sans langage SMS. | -- / - / + / ++ |
 | Envoi et pièce jointe | La pièce jointe est correctement nommée et bien attachée ; le courriel est envoyé au bon destinataire. | -- / - / + / ++ |
+
+</div>

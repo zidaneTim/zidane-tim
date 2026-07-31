@@ -51,12 +51,16 @@ type.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Analyser les besoins, les capacités conservées et les risques de sécurité de l'environnement d'un usager, à
   partir de faits observés, avant toute action technique
-- Choisir et paramétrer des réglages d'accessibilité justifiés par ce diagnostic, et non appliqués par défaut
-- Ajuster ses choix à partir du retour réel de l'usager
-- Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, et transmettre correctement
-- Justifier oralement ses choix de réglage devant un interlocuteur professionnel
+- Choisir, paramétrer et ajuster des réglages d'accessibilité justifiés par ce diagnostic et par le retour réel de
+  l'usager, et non appliqués par défaut
+- Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, transmettre correctement, et
+  justifier oralement ses choix devant un interlocuteur professionnel
+
+</div>
 
 ## Missions
 
@@ -193,8 +197,12 @@ physique corrigés dans l'espace libre-service, la fiche de réglages du poste a
 de France Services Loudéac, le message de transmission au prestataire informatique, et l'explicitation orale de tes
 choix devant ton binôme ou ton enseignant.
 
+<div class="zt-grille" markdown>
+
 | Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
 | Établissement d'une relation interpersonnelle de proximité et distanciée avec la personne accompagnée | <li>Diagnostic appuyé sur les faits observés et les capacités conservées de M. Guillard</li><li>Réglages ajustés à partir de son retour réel</li><li>Imprévu du Narrateur traité sans laisser M. Guillard sans réponse</li><li>Demande hors périmètre traitée sans se substituer ni l'abandonner</li> | -- / - / + / ++ |
 | Organisation de l'espace de vie | <li>Réglages retenus justifiés un par un par le diagnostic</li><li>Poste vérifié et validé par le test usager</li><li>Fiche de réglages exploitable par un collègue</li> | -- / - / + / ++ |
 | Réalisation des opérations d'entretien en toute sécurité pour la personne et l'accompagnant | <li>Câblage et multiprise sécurisés sans gêner le passage</li><li>Position de l'écran ajustée pour limiter les reflets</li><li>Chaque correction justifiée par le risque traité</li><li>Maintenance correctement classée entre agent et prestataire</li> | -- / - / + / ++ |
+
+</div>

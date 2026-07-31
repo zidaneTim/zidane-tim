@@ -24,8 +24,12 @@ Après ton budget de Noël, on te confie une **liste de 15 courses** avec, pour 
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **recopier une formule** et de **trier** un tableau.
 - Être capable de **me positionner** sur un parcours Pix (diagnostic).
+
+</div>
 
 ## La notion : gagner du temps au tableur
 
@@ -82,7 +86,11 @@ La **mise en forme** rend le tableau clair : titres en **gras**, ligne d'en-têt
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Recopier, trier, mettre en forme | La formule `=B2*C2` est recopiée avec la poignée, le tableau est trié et la ligne de titres mise en forme. | -- / - / + / ++ |
 | Positionnement Pix | L'élève a terminé le parcours et identifie 2 points forts et 2 points à travailler. | -- / - / + / ++ |
+
+</div>

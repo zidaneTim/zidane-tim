@@ -37,11 +37,15 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 
 ## Objectifs
 
-- Récupérer et structurer un tableau de données professionnelles réelles en vue d'un usage (4.2.6 — tables de données)
+<div class="zt-objectifs" markdown>
+
+- Récupérer et structurer un tableau de données professionnelles réelles pour produire un document de tournée clair
+  et utilisable sur le terrain (4.2.6 — tables de données)
 - Géolocaliser des adresses réelles et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
-- Produire un document de tournée clair et utilisable sur le terrain
 - Expliquer ce qui changerait si le document contenait, au lieu d'adresses professionnelles publiques, des données
   personnelles de bénéficiaires (secret professionnel)
+
+</div>
 
 !!! abstract "Source de données"
     **Jeu de données :** Liste des structures labellisées France services (adresses, contacts, horaires)
@@ -94,8 +98,12 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Structuration du tableau (4.2.6) | Le sous-ensemble LCBC est correctement construit à partir du fichier national réel, trié, exploitable ; l'ordre de passage est numéroté clairement. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Géolocalisation (4.3.9) | La carte MyMaps est créée, chaque structure retenue est présente et correctement renseignée. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Conformité professionnelle | La question de synthèse sur la confidentialité des données personnelles de bénéficiaires est correctement traitée ; la feuille de tournée est présentable en usage réel. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+
+</div>

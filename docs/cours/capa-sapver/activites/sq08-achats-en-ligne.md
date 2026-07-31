@@ -27,8 +27,12 @@
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Être capable de **vérifier la fiabilité** d'un site marchand avant d'acheter.
 - Être capable d'**argumenter** sur la consommation responsable.
+
+</div>
 
 ## La notion : acheter en sécurité et consommer responsable
 
@@ -107,7 +111,11 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 
 ## Grille d'évaluation
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Vérifier la fiabilité d'un site | Sur les 3 sites, les verdicts sont corrects et le site douteux est justifié par au moins 2 indices. | -- / - / + / ++ |
 | Argumenter sur la consommation | L'élève donne au moins un argument pour et un argument contre lors du débat. | -- / - / + / ++ |
+
+</div>

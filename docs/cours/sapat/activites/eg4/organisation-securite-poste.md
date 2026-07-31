@@ -39,11 +39,15 @@ retrouvable et protégé.
 
 ## Objectifs
 
+<div class="zt-objectifs" markdown>
+
 - Structurer un espace de stockage numérique avec une arborescence de dossiers cohérente et nommée selon une
   convention explicite
 - Distinguer stockage local et stockage cloud, et paramétrer une synchronisation OneDrive fiable
 - Appliquer des règles de sécurité de base sur son poste (mot de passe robuste, verrouillage de session, gestion des
   partages)
+
+</div>
 
 ## Travail à faire
 
@@ -135,9 +139,13 @@ retrouvable et protégé.
 **Production attendue :** une arborescence OneDrive fonctionnelle et sécurisée, présentée à ta responsable de service
 citée dans la mise en situation.
 
+<div class="zt-grille" markdown>
+
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Arborescence | Dossiers thématiques cohérents, nommage tenu, fichier explicatif présent | -- / - / + / ++ |
 | Synchronisation | Statut de synchronisation vérifié, distinction stockage local/cloud correctement expliquée | -- / - / + / ++ |
 | Sécurité du poste | Verrouillage de session réglé, mot de passe conforme aux critères | -- / - / + / ++ |
 | Partage et confidentialité | Partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
+
+</div>
