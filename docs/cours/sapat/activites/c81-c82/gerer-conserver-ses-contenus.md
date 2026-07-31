@@ -10,7 +10,7 @@
 <p class="zt-lede">Un fichier qu'on ne retrouve plus n'existe pas vraiment : construire, avec une famille, un classement qui tiendra encore dans deux ans</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.2, classement de documents et durées légales de conservation</span>
   <span>:material-tag-outline: Arborescence de fichiers · USB/cloud · Sauvegarde</span>
 </div>

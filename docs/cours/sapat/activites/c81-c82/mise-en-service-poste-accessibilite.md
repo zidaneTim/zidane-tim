@@ -11,7 +11,7 @@
 <p class="zt-lede">Un poste réglé « pour tout le monde » n'est réglé pour personne : adapter un espace numérique aux besoins réels d'un usager, et savoir ce qui n'est pas de son ressort</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 45 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie et sécurité de l'environnement</span>
   <span>:material-tag-outline: Accessibilité Windows · Mises à jour · Posture d'aidant</span>
 </div>
@@ -66,10 +66,9 @@ activité de ce type.
 
 ## Objectifs
 
-- Analyser les besoins et les capacités conservées d'un usager à partir de faits observés, avant toute action
-  technique
+- Analyser les besoins, les capacités conservées et les risques de sécurité de l'environnement d'un usager, à
+  partir de faits observés, avant toute action technique
 - Choisir et paramétrer des réglages d'accessibilité justifiés par ce diagnostic, et non appliqués par défaut
-- Repérer et corriger un risque de sécurité dans l'environnement matériel d'un poste public (câblage, passage, luminosité)
 - Ajuster ses choix à partir du retour réel de l'usager
 - Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, et transmettre correctement
 - Justifier oralement ses choix de réglage devant un interlocuteur professionnel

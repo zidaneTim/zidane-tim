@@ -11,7 +11,7 @@
 <p class="zt-lede">Avant de proposer un accompagnement, savoir mesurer précisément le niveau d'autonomie numérique d'un usager avec un outil professionnel reconnu</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 45 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.2, diagnostic numérique</span>
   <span>:material-tag-outline: Les Bons Clics · grille de diagnostic</span>
 </div>

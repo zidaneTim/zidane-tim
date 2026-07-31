@@ -10,7 +10,7 @@
 <p class="zt-lede">Fixer par écrit les règles que l'équipe d'aidants numériques s'engage à respecter face aux usagers, avant la prochaine permanence</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 45 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.2, posture d'accompagnement</span>
   <span>:material-tag-outline: RGPD · ANCT · charte</span>
 </div>

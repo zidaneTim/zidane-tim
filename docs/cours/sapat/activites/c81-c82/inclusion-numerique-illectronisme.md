@@ -11,7 +11,7 @@
 <p class="zt-lede">Avant d'accompagner un usager, comprendre qui est exclu du numérique, pourquoi, et ce que fait vraiment un aidant numérique</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 45 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.2, posture d'accompagnement</span>
   <span>:material-tag-outline: Insee · ANLCI · carte mentale</span>
 </div>
