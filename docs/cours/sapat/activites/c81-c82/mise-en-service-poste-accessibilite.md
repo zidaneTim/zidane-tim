@@ -12,7 +12,7 @@
 
 <div class="zt-meta" markdown>
   <span>:material-clock-outline: 45 min</span>
-  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie et maintenance de premier niveau</span>
+  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie et sécurité de l'environnement</span>
   <span>:material-tag-outline: Accessibilité Windows · Mises à jour · Posture d'aidant</span>
 </div>
 
@@ -34,6 +34,10 @@ légèrement de travers ; il ne regarde jamais directement le mot qu'il cherche 
 renonce au bout de quelques minutes d'écran en disant qu'il « fatigue » ; il a demandé deux fois de l'aide pour
 lire un montant à l'écran, mais s'est déplacé seul dans la salle sans hésiter. La dernière fois, il a demandé, un
 peu inquiet, si le nouvel ordinateur serait « aussi difficile à lire que l'ancien ».
+
+Autre chose à savoir avant de commencer : l'espace libre-service est réaménagé cette semaine. Le nouveau poste sera
+installé sur une petite table près de la baie vitrée de l'accueil, sur une multiprise partagée avec l'imprimante du
+service.
 
 Ce qu'il faudra garder en tête : M. Guillard vient pour faire ses démarches **lui-même**, pas pour qu'on les fasse à
 sa place — c'est ce qui le fait revenir. Et tout ce que tu ne peux pas faire avec ton compte devra être transmis à
@@ -65,11 +69,12 @@ activité de ce type.
 - Analyser les besoins et les capacités conservées d'un usager à partir de faits observés, avant toute action
   technique
 - Choisir et paramétrer des réglages d'accessibilité justifiés par ce diagnostic, et non appliqués par défaut
+- Repérer et corriger un risque de sécurité dans l'environnement matériel d'un poste public (câblage, passage, luminosité)
 - Ajuster ses choix à partir du retour réel de l'usager
 - Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, et transmettre correctement
 - Justifier oralement ses choix de réglage devant un interlocuteur professionnel
 
-## Travail à faire
+## Missions
 
 ### A — Je diagnostique les besoins de M. Guillard
 
@@ -96,18 +101,25 @@ activité de ce type.
     M. Guillard se déplace seul dans la salle sans hésiter. Qu'est-ce que cela t'apprend sur ce qu'il faut **éviter**
     de lui proposer, pour ne pas le traiter comme quelqu'un qui aurait perdu toute autonomie ?
 
-### B — Je vérifie l'état du poste
+### B — Je sécurise l'espace et je vérifie le poste
 
-**Observer le poste avec un compte utilisateur standard**
+**Ce que fait un agent avant même d'allumer l'écran**
 
-1. Se connecter avec la session ouverte sur le poste (compte utilisateur standard du lycée — équivalent à celui
-   qu'aurait un agent d'accueil sur un poste public, jamais un compte administrateur).
-2. Dans Paramètres > Système > Informations système, relever la version du système installée ; dans Paramètres >
-   Comptes, vérifier le type du compte connecté.
-3. Vérifier la connexion Internet et noter, pour ta transmission, les informations qu'un agent devrait demander
-   pour connecter un poste réel au réseau de la structure (nom du réseau, personne à contacter).
-4. Vérifier les branchements (chargeur, souris/clavier, haut-parleurs) et relever tout défaut — action réalisable
-   sans droit particulier.
+1. À partir du plan du nouvel espace libre-service (table près de la baie vitrée, multiprise partagée avec
+   l'imprimante), repérer ce qui pose un problème de sécurité pour un usager qui circule seul dans la salle :
+   câbles au sol, prise partagée surchargée, largeur du passage. Corriger ou proposer une correction pour chaque
+   point repéré, et justifier en une ligne. **C'est ce diagnostic-là, pas un réglage logiciel, qui alimentera le
+   critère « entretien en toute sécurité » de la grille.**
+2. Vérifier la position de l'écran par rapport à la baie vitrée : à quelle heure de la journée un reflet gênerait-il
+   la lecture ? Proposer un réglage de position ou d'orientation qui limite ce risque — un point de vigilance direct
+   pour un usager qui, comme M. Guillard, fatigue déjà vite en lisant un écran.
+3. Se connecter avec la session ouverte sur le poste (compte utilisateur standard du lycée, jamais un compte
+   administrateur) et relever version du système, type de compte et état de la connexion Internet — informations à
+   garder pour ta transmission de l'étape D.
+
+!!! tip "🆘 Coup de pouce"
+    Pas sûr de ce qui compte comme un risque ? Demande-toi : « un usager qui ne regarde pas où il pose ses pieds,
+    ou qui suit un reflet à l'écran plutôt que le texte, est-il en sécurité ici ? »
 
 ### C — J'accompagne M. Guillard
 
@@ -134,6 +146,9 @@ activité de ce type.
 ### D — J'oriente vers le bon interlocuteur
 
 **Traiter ce qui dépasse mon périmètre**
+
+Ce que tu vas classer ici (mises à jour, droits d'installation) reste un attendu réel de maintenance de premier
+niveau, mais ce n'est pas ce qui a été noté « sécurité » à l'étape B : garde les deux distincts dans ta fiche.
 
 1. Ouvrir la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }
    de Cybermalveillance.gouv.fr et repérer les bonnes pratiques qui s'appliquent le plus directement à un poste
@@ -210,18 +225,20 @@ activité de ce type.
 
 ## Grille d'évaluation C8.1 — Préparation d'un poste pour un usager (MP8, prépare l'ECCF E7.3)
 
-**Production attendue :** le tableau de diagnostic des besoins de M. Guillard, la fiche de réglages du poste au
-format PDF destinée aux collègues de France Services Loudéac, le message de transmission au prestataire
-informatique, et l'explicitation orale de tes choix devant ton binôme ou ton enseignant.
+**Production attendue :** le tableau de diagnostic des besoins de M. Guillard, le relevé des points de sécurité
+physique corrigés dans l'espace libre-service, la fiche de réglages du poste au format PDF destinée aux collègues
+de France Services Loudéac, le message de transmission au prestataire informatique, et l'explicitation orale de tes
+choix devant ton binôme ou ton enseignant.
 
 | Critère (référentiel C8.1) | Indicateurs observables | Niveau |
 |---|---|---|
-| Établissement d'une relation interpersonnelle de proximité et distanciée avec la personne accompagnée | Diagnostic appuyé sur les faits observés **et** sur les capacités conservées de M. Guillard, sans le traiter comme dépendant ; réglages ajustés à partir de son retour réel ; demande hors périmètre traitée sans le faire à sa place ni le laisser sans solution ; aucune information personnelle dans le message au prestataire | -- / - / + / ++ |
-| Organisation de l'espace de vie | Réglages retenus justifiés un par un par le diagnostic (et non activés par défaut) ; poste vérifié et validé par le test usager ; fiche de réglages exploitable par un collègue avec un résultat attendu par ligne | -- / - / + / ++ |
-| Réalisation des opérations d'entretien en toute sécurité pour la personne et l'accompagnant | Bonnes pratiques de maintenance de premier niveau correctement classées agent/prestataire ; aucune restriction de sécurité contournée ; imprévu du Narrateur traité par une solution de repli, pas par un retour en arrière pur et simple | -- / - / + / ++ |
+| Établissement d'une relation interpersonnelle de proximité et distanciée avec la personne accompagnée | Diagnostic appuyé sur les faits observés **et** sur les capacités conservées de M. Guillard, sans le traiter comme dépendant ; réglages ajustés à partir de son retour réel ; imprévu du Narrateur traité par une solution de repli qui ne laisse pas M. Guillard sans réponse ; demande hors périmètre traitée sans le faire à sa place ni le laisser sans solution ; aucune information personnelle dans le message au prestataire | -- / - / + / ++ |
+| Organisation de l'espace de vie | Réglages logiciels retenus justifiés un par un par le diagnostic (et non activés par défaut) ; poste vérifié et validé par le test usager ; fiche de réglages exploitable par un collègue avec un résultat attendu par ligne | -- / - / + / ++ |
+| Réalisation des opérations d'entretien en toute sécurité pour la personne et l'accompagnant | Câblage et multiprise de l'espace libre-service sécurisés sans gêner le passage ; position de l'écran ajustée pour limiter les reflets de la baie vitrée ; chaque correction de sécurité justifiée par le risque qu'elle traite ; bonnes pratiques de maintenance correctement classées agent/prestataire, sans qu'aucune restriction de sécurité soit contournée | -- / - / + / ++ |
 
 !!! note "Ce que cette activité n'évalue pas"
     L'ECCF E7.3 (C8.1) est une **pratique explicitée d'1 h 30 maximum, en Terminale, co-évaluée par l'ESF et les
-    TIM** : elle comporte aussi une opération d'entretien réelle du cadre de vie, qui n'est pas travaillée ici. Le
-    troisième critère est donc abordé sous son seul angle numérique (maintenance de premier niveau). Cette activité
-    est un entraînement partiel, pas une simulation complète de l'épreuve.
+    TIM**. Le troisième critère est ici évalué par la sécurité physique de l'environnement du poste (câblage,
+    passage, reflets) — un vrai attendu C8.1, pas un substitut numérique. Ce qui manque encore pour une simulation
+    complète de l'épreuve : une opération d'entretien/hygiène du cadre de vie au sens large (linge, surfaces),
+    qui relève du geste professionnel ESF et n'entre pas dans le périmètre TIM de cette activité.
