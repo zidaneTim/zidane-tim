@@ -66,16 +66,18 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
 
 ### A — Je diagnostique l'urgence et les besoins de la famille Le Gall
 
-**Trier avant de classer**
+Avant de classer quoi que ce soit, sers-toi de la mise en situation pour trier ce qui presse de ce qui peut
+attendre — les deux existent dans le tas de documents des Le Gall (mail CAF, carnet de santé numérique,
+notifications CPAM et mutuelle, photos et factures de la maternité).
 
-1. Reprendre la mise en situation et lister ce qui doit être traité : le mail CAF (prime de naissance), le carnet
-   de santé numérique, les notifications CPAM et mutuelle, les photos et factures de la maternité. Pour chacun,
-   noter s'il s'agit d'une **démarche à traiter maintenant** (échéance) ou d'un **document à archiver pour plus
-   tard**.
-2. Vérifier, à partir de la date indiquée dans l'objet du mail CAF, si cette démarche est réellement urgente par
-   rapport à aujourd'hui — et donc prioritaire sur le reste de l'accompagnement.
-3. Noter en une phrase ce que la famille sait déjà faire seule (elle utilise déjà une application de santé, elle
-   reçoit correctement ses mails) : tu t'appuieras dessus plutôt que de tout reprendre à zéro.
+**Ta production doit montrer :**
+
+- pour chaque élément mentionné dans la mise en situation, une décision justifiée : démarche à traiter maintenant
+  (échéance) ou document à archiver pour plus tard ;
+- une évaluation réelle de l'urgence du mail CAF, fondée sur la date qu'il contient comparée à aujourd'hui — pas
+  supposée ;
+- un appui explicite sur ce que la famille sait déjà faire seule (elle gère déjà une application de santé, elle
+  reçoit correctement ses mails), plutôt qu'une reprise à zéro.
 
 !!! tip "🆘 Coup de pouce"
     Une échéance dans un mail ne veut pas toujours dire « à faire dans l'heure » : compare la date du mail à la
@@ -83,14 +85,16 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
 
 ### B — Je prépare un classement qui leur servira après mon départ
 
-**Construire une arborescence, pas juste ranger**
+Construis, à partir de la [liste des 20 documents de la famille Le Gall](#ressources-et-outils), un classement que
+les Le Gall pourront réutiliser seuls dans six mois — pas un simple rangement pour aujourd'hui.
 
-1. À partir de la [liste des 20 documents de la famille Le Gall](#ressources-et-outils) fournie en ressource,
-   proposer une arborescence de dossiers (2 niveaux maximum) qui range chacun d'eux sans ambiguïté possible.
-2. Définir une convention de nommage unique (par exemple `AAAA-MM-JJ_type-de-document_prénom`) et l'appliquer à 5
-   fichiers de la liste pour vérifier qu'elle fonctionne sans exception.
-3. Repérer, dans cette liste, les documents qui devront probablement être conservés très longtemps et ceux qui
-   pourront être supprimés au bout de quelques années — tu vérifieras les durées exactes à l'étape C.
+**Ta production doit montrer :**
+
+- une arborescence de dossiers (2 niveaux maximum) qui range chaque document de la liste sans ambiguïté possible ;
+- une convention de nommage unique (par exemple `AAAA-MM-JJ_type-de-document_prénom`) appliquée à au moins 5
+  fichiers de la liste pour vérifier qu'elle fonctionne sans exception ;
+- un premier repérage, dans cette liste, des documents qui devront probablement être conservés très longtemps et
+  de ceux qui pourront être supprimés au bout de quelques années — tu vérifieras les durées exactes à l'étape C.
 
 !!! tip "⭐ Pour aller plus loin"
     Une arborescence à plat (tous les fichiers dans un seul dossier, bien nommés) peut parfois suffire pour une
@@ -98,18 +102,21 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
 
 ### C — J'accompagne la famille Le Gall dans le choix d'un support
 
-**Décider avec eux, pas pour eux**
+Aide la famille à choisir, avec elle, comment conserver ses documents en sécurité — en t'appuyant sur les
+[bonnes pratiques de sauvegarde de Cybermalveillance.gouv.fr](#ressources-et-outils), jamais sur une préférence
+personnelle.
 
-1. **Aidant** : présenter deux solutions de conservation (clé USB confiée à la famille / service en ligne dit
-   « cloud ») à partir des [bonnes pratiques de sauvegarde de Cybermalveillance.gouv.fr](#ressources-et-outils) —
-   au moins un avantage et un risque réel pour chacune, pas une simple préférence personnelle. **Aidé** : poser au
-   moins une question sur ce qui se passe « si on perd la clé » ou « si le compte cloud est piraté ».
-2. Décider ensemble d'une solution — y compris une combinaison des deux, la source officielle déconseillant de ne
-   compter que sur un seul support — et noter la décision avec sa justification.
-3. **Imprévu** — en cours d'échange, un parent Le Gall te demande de créer directement le compte cloud avec son
-   adresse mail et un mot de passe donné à l'oral, « pour aller plus vite ». Que fais-tu, et que proposes-tu à la
-   place ? Note ta réponse.
-4. Ajuster la solution retenue si nécessaire après cet échange, et noter ce qui a changé et pourquoi.
+**Ta production doit montrer :**
+
+- **Aidant** : une présentation d'au moins deux solutions (clé USB confiée à la famille, service en ligne dit
+  « cloud ») avec un avantage et un risque réel pour chacune. **Aidé** : au moins une question posée sur ce qui se
+  passe « si on perd la clé » ou « si le compte cloud est piraté » ;
+- une décision prise **avec** la famille — y compris une combinaison des deux solutions, la source officielle
+  déconseillant de ne compter que sur un seul support — accompagnée de sa justification ;
+- une réponse à l'**imprévu** : un parent Le Gall te demande de créer directement le compte cloud avec son adresse
+  mail et un mot de passe donné à l'oral, « pour aller plus vite » — ta production doit montrer ce que tu fais, et
+  ce que tu proposes à la place ;
+- un ajustement noté de la solution retenue si cet échange l'a fait évoluer, et pourquoi.
 
 !!! tip "🆘 Coup de pouce"
     Cybermalveillance.gouv.fr propose une règle simple pour ne pas tout miser sur un seul support : cherche-la
@@ -117,23 +124,29 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
 
 ### D — J'oriente vers le bon interlocuteur
 
-**Traiter ce qui dépasse mon périmètre**
+Une partie de ce que la famille te demande dépasse ton rôle d'agent d'accueil : à toi de le reconnaître et de
+l'orienter, sans jamais agir à sa place.
 
-1. Pour la démarche CAF repérée comme urgente à l'étape A, rédiger en 3-4 lignes ce que tu conseilles à la famille
-   de faire **elle-même** (jamais à sa place), et ce qu'elle doit vérifier avant de valider quoi que ce soit.
-2. Si la famille demande un service que tu ne peux pas rendre (ex. souscrire un abonnement cloud payant avec sa
-   carte bancaire), noter noir sur blanc pourquoi ce n'est pas le rôle de l'agent d'accueil, et vers qui l'orienter.
+**Ta production doit montrer :**
+
+- pour la démarche CAF repérée comme urgente à l'étape A, un conseil en 3-4 lignes de ce que la famille doit faire
+  **elle-même** (jamais à sa place), et ce qu'elle doit vérifier avant de valider quoi que ce soit ;
+- si la famille demande un service que tu ne peux pas rendre (ex. souscrire un abonnement cloud payant avec sa
+  carte bancaire), une explication écrite de pourquoi ce n'est pas le rôle de l'agent d'accueil, et vers qui
+  l'orienter.
 
 ### E — Je prends du recul et j'explicite
 
-**Comparer le prévu et le réalisé, puis justifier mes choix**
+Reprends l'ensemble de ton accompagnement pour en tirer une fiche exploitable par la famille, et prépare-toi à en
+justifier chaque choix à l'oral.
 
-1. Reprendre le tableau de l'étape A et marquer, pour chaque document ou démarche : traité aujourd'hui · à traiter
-   par la famille elle-même · archivé pour plus tard. Justifier chaque choix en une ligne.
-2. Rédiger la fiche de classement destinée à la famille : arborescence, convention de nommage, support de
-   conservation retenu et sa justification, durée de conservation trouvée pour au moins 3 documents (source
-   citée). Exporter en PDF.
-3. Ajouter une ligne de remédiation : que ferais-tu différemment avec la prochaine famille accompagnée ?
+**Ta production doit montrer :**
+
+- pour chaque document ou démarche identifié en A, s'il a été traité aujourd'hui, laissé à la famille, ou archivé
+  pour plus tard — avec une justification pour chaque choix ;
+- une fiche de classement exportée en PDF, destinée à la famille (arborescence, convention de nommage, support de
+  conservation retenu et sa justification, durée de conservation trouvée pour au moins 3 documents, source citée) ;
+- une proposition de remédiation pour la prochaine famille accompagnée.
 
 !!! tip "J'explicite mes choix (2-3 min, à l'oral)"
     Présente ta fiche de classement à ton binôme ou à ton enseignant, et réponds à ces trois questions — c'est

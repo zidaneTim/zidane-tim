@@ -78,24 +78,23 @@ activité de ce type.
 
 ### A — Je diagnostique les besoins de M. Guillard
 
-**Analyser sa situation avant de toucher au poste**
+À partir de ce que M. Rouault a observé et de la fiche [Symptômes et diagnostic de la DMLA — Ameli.fr](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }, construis le diagnostic des besoins de M. Guillard qui te permettra de choisir des réglages
+justifiés à l'étape C — pas de les appliquer par défaut.
 
-1. Relire la mise en situation et construire un tableau à deux colonnes : d'un côté ce que M. Rouault a **observé**
-   (faits), de l'autre ce que ces faits **laissent supposer** de la façon dont M. Guillard utilise un écran.
-   Ajouter une troisième ligne : ce que M. Guillard sait **encore faire seul** — c'est aussi précis à repérer que
-   ses difficultés.
-2. Consulter la fiche [Symptômes et diagnostic de la DMLA — Ameli.fr](https://www.ameli.fr/assure/sante/themes/dmla/symptomes-diagnostic){ target="_blank" rel="noopener" }
-   et relever ce qui, dans cette situation, reste **conservé** et ce qui est **atteint** dans la vision. Noter les
-   deux : ton réglage devra s'appuyer sur ce qui fonctionne.
-3. Pour chaque famille de réglages d'accessibilité Windows (taille et contraste des éléments, loupe, lecteur
-   d'écran, réglages sonores), indiquer dans un tableau si elle répond **entièrement, partiellement ou pas du tout**
-   au besoin de M. Guillard tel que tu l'as établi. Justifier chaque « partiellement » en une ligne.
-4. Formuler par écrit une hypothèse sur ce qu'un simple agrandissement du texte **ne résoudrait pas** dans son cas —
-   tu la vérifieras avec ton binôme à l'étape C.
+**Ta production doit montrer :**
+
+- une distinction claire entre ce qui est **atteint** et ce qui reste **conservé** dans la vision de M. Guillard,
+  appuyée sur la fiche Ameli.fr, et non sur une idée générale de la DMLA ;
+- pour chaque famille de réglages d'accessibilité Windows (taille et contraste, loupe, lecteur d'écran, réglages
+  sonores), une justification de sa pertinence ou de ses limites face à ce diagnostic précis — pas une adéquation
+  générale « accessibilité = utile » ;
+- au moins une limite explicite de ce qu'un simple agrandissement du texte **ne résoudra pas** dans ce cas, que tu
+  vérifieras avec ton binôme à l'étape C ;
+- ce que M. Guillard sait **encore faire seul**, aussi précisément repéré que ses difficultés.
 
 !!! tip "🆘 Coup de pouce"
-    Difficile de remplir le tableau avant d'avoir touché au poste ? C'est normal, et c'est le but : un diagnostic
-    produit des hypothèses, que le test réel viendra confirmer ou corriger.
+    Difficile de conclure avant d'avoir touché au poste ? C'est normal, et c'est le but : un diagnostic produit des
+    hypothèses, que le test réel viendra confirmer ou corriger.
 
 !!! tip "⭐ Pour aller plus loin"
     M. Guillard se déplace seul dans la salle sans hésiter. Qu'est-ce que cela t'apprend sur ce qu'il faut **éviter**
@@ -103,19 +102,21 @@ activité de ce type.
 
 ### B — Je sécurise l'espace et je vérifie le poste
 
-**Ce que fait un agent avant même d'allumer l'écran**
+Avant même d'allumer l'écran, occupe-toi de l'espace où le poste va vivre : la table près de la baie vitrée,
+la multiprise partagée avec l'imprimante. Un agent d'accueil qui prépare un poste public en est aussi responsable
+dans ce qu'il peut sécuriser sans droits particuliers.
 
-1. À partir du plan du nouvel espace libre-service (table près de la baie vitrée, multiprise partagée avec
-   l'imprimante), repérer ce qui pose un problème de sécurité pour un usager qui circule seul dans la salle :
-   câbles au sol, prise partagée surchargée, largeur du passage. Corriger ou proposer une correction pour chaque
-   point repéré, et justifier en une ligne. **C'est ce diagnostic-là, pas un réglage logiciel, qui alimentera le
-   critère « entretien en toute sécurité » de la grille.**
-2. Vérifier la position de l'écran par rapport à la baie vitrée : à quelle heure de la journée un reflet gênerait-il
-   la lecture ? Proposer un réglage de position ou d'orientation qui limite ce risque — un point de vigilance direct
-   pour un usager qui, comme M. Guillard, fatigue déjà vite en lisant un écran.
-3. Se connecter avec la session ouverte sur le poste (compte utilisateur standard du lycée, jamais un compte
-   administrateur) et relever version du système, type de compte et état de la connexion Internet — informations à
-   garder pour ta transmission de l'étape D.
+**Ta production doit montrer :**
+
+- les risques de sécurité repérés dans le nouvel espace (câbles au sol, prise partagée surchargée, largeur du
+  passage) et une correction — ou proposition de correction — pour chacun, justifiée par le risque qu'elle traite :
+  **c'est ce diagnostic-là, pas un réglage logiciel, qui alimentera le critère « entretien en toute sécurité » de
+  la grille** ;
+- une analyse de la position de l'écran par rapport à la baie vitrée et du risque de reflet qu'elle représente pour
+  un usager qui, comme M. Guillard, fatigue déjà vite en lisant un écran ;
+- le type de compte, la version système et l'état de la connexion Internet, relevés en te connectant avec la
+  session standard du lycée (jamais un compte administrateur) — informations à garder pour ta transmission de
+  l'étape D.
 
 !!! tip "🆘 Coup de pouce"
     Pas sûr de ce qui compte comme un risque ? Demande-toi : « un usager qui ne regarde pas où il pose ses pieds,
@@ -123,21 +124,20 @@ activité de ce type.
 
 ### C — J'accompagne M. Guillard
 
-**Paramétrer avec lui, puis ajuster à partir de son retour**
+Installe-toi avec ton binôme pour présenter à M. Guillard le poste réglé selon ton diagnostic de l'étape A, comme
+tu le ferais réellement à l'accueil, puis ajuste à partir de ce qu'il t'en dit — pas à partir de ce que tu juges
+déjà correct. La page [Rendez votre PC plus accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" } aide à localiser les réglages.
 
-1. À partir du tableau de l'étape A, ouvrir Paramètres > Accessibilité et retrouver, réglage par réglage, ceux que
-   ton diagnostic a retenus. La page [Rendez votre PC plus accessible — Microsoft Windows](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }
-   aide à les localiser.
-2. Appliquer les réglages retenus : taille du texte et des icônes, contraste, visibilité du pointeur, loupe,
-   Narrateur, volume. **Ne pas tout activer** : n'activer que ce que le diagnostic justifie, et pouvoir dire
-   pourquoi pour chacun.
-3. **Aidant** : présenter le poste à M. Guillard comme tu le ferais à l'accueil, et lui demander de lire à l'écran
-   un texte de son choix puis d'essayer le Narrateur quelques secondes. **Aidé** : jouer la lecture excentrée,
-   signaler la fatigue, et dire franchement ce qui ne va pas.
-4. Ajuster **au moins un réglage** suite à ce retour, et noter lequel et pourquoi. Vérifier ton hypothèse de
-   l'étape A4 : l'agrandissement seul a-t-il suffi ?
-5. **Imprévu** — en cours de test, le Narrateur se met à lire tout l'écran en continu et M. Guillard, gêné, te
-   demande de « tout remettre comme avant ». Que fais-tu, et que lui proposes-tu à la place ? Note ta réponse.
+**Ta production doit montrer :**
+
+- les réglages appliqués (taille, contraste, pointeur, loupe, Narrateur, volume) limités à ceux que le diagnostic
+  justifie — pas « tout activer » — et la capacité à dire pourquoi pour chacun ;
+- un test réel avec M. Guillard (lecture d'un texte, essai du Narrateur) et au moins un réglage ajusté suite à son
+  retour, avec la raison de l'ajustement ;
+- une réponse à l'**imprévu** : en cours de test, le Narrateur se met à lire tout l'écran en continu et
+  M. Guillard, gêné, te demande de « tout remettre comme avant » — ta production doit montrer ce que tu fais, et
+  ce que tu lui proposes à la place plutôt qu'un simple retour en arrière ;
+- une vérification de l'hypothèse posée en A : l'agrandissement seul a-t-il suffi ?
 
 !!! tip "🆘 Coup de pouce"
     Un réglage introuvable ? Tape « accessibilité » dans la barre de recherche Windows. Ces réglages sont liés au
@@ -145,23 +145,19 @@ activité de ce type.
 
 ### D — J'oriente vers le bon interlocuteur
 
-**Traiter ce qui dépasse mon périmètre**
+Une partie de ce que tu observes sur ce poste dépasse ton périmètre d'agent d'accueil — à toi de savoir quoi
+transmettre, à qui, et quoi proposer à M. Guillard en attendant. Ce que tu vas classer ici (mises à jour, droits
+d'installation) reste un attendu réel de maintenance de premier niveau, distinct de ce que tu as noté « sécurité »
+à l'étape B.
 
-Ce que tu vas classer ici (mises à jour, droits d'installation) reste un attendu réel de maintenance de premier
-niveau, mais ce n'est pas ce qui a été noté « sécurité » à l'étape B : garde les deux distincts dans ta fiche.
+**Ta production doit montrer :**
 
-1. Ouvrir la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }
-   de Cybermalveillance.gouv.fr et repérer les bonnes pratiques qui s'appliquent le plus directement à un poste
-   public en libre-service.
-2. Sur le poste, ouvrir Paramètres > Windows Update et noter si l'installation d'une mise à jour est accessible avec
-   le compte connecté ou si elle réclame des droits administrateur.
-3. Classer chaque bonne pratique repérée : réalisable par l'agent seul (ex. redémarrer, signaler une fausse fenêtre
-   de mise à jour) ou à demander au prestataire (ex. installer une mise à jour système).
-4. **Aidé** : demander à ton binôme d'installer l'application de loupe vue chez ta fille. **Aidant** : expliquer à
-   M. Guillard pourquoi tu ne peux pas le faire, et ce que tu lui proposes à la place — sans le faire à sa place et
-   sans le renvoyer sans solution.
-5. Rédiger le message de transmission au prestataire informatique (4-5 lignes) : état des mises à jour observé,
-   défaut de matériel s'il y en a, demande précise. Aucune information personnelle sur M. Guillard dans ce message.
+- un classement des bonnes pratiques de la fiche [Pourquoi et comment bien gérer ses mises à jour ?](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" } entre ce qu'un agent peut faire seul et ce qui relève du
+  prestataire, vérifié sur l'état réel de Windows Update sur ce poste ;
+- une réponse à la demande hors périmètre de M. Guillard (installer une application de loupe) qui explique
+  pourquoi ce n'est pas possible et propose une alternative, sans le faire à sa place ni le laisser sans solution ;
+- un message de transmission au prestataire informatique (4-5 lignes, état des mises à jour, défaut de matériel
+  s'il y en a, demande précise), sans aucune information personnelle sur M. Guillard.
 
 !!! tip "Astuce"
     Un agent qui n'a pas les droits pour agir n'est pas un agent qui ne fait rien : signaler précisément un besoin
@@ -169,16 +165,17 @@ niveau, mais ce n'est pas ce qui a été noté « sécurité » à l'étape B : 
 
 ### E — Je prends du recul et j'explicite
 
-**Comparer le prévu et le réalisé, puis justifier mes choix**
+Reprends l'ensemble de ton intervention pour en tirer un bilan exploitable par tes collègues, et prépare-toi à en
+justifier chaque choix à l'oral.
 
-1. Reprendre le tableau de l'étape A et marquer, pour chaque réglage prévu : appliqué tel quel · ajusté après le
-   retour de M. Guillard · abandonné. Justifier chaque ajustement et chaque abandon en une ligne.
-2. Rédiger la fiche de réglages du poste destinée à tes collègues : titre, date, nom de l'agent, deux colonnes
-   « Réalisable par l'agent d'accueil » / « À transmettre au prestataire », et pour chaque ligne le résultat
-   attendu qui permet de la cocher (ex. « contraste élevé activé → montant lisible sans se pencher »). Exporter en
-   PDF.
-3. Ajouter une ligne de remédiation : que proposerais-tu à M. Rouault pour que le prochain usager n'ait pas à
-   redemander les mêmes réglages ?
+**Ta production doit montrer :**
+
+- pour chaque réglage envisagé en A, s'il a été appliqué tel quel, ajusté après le retour de M. Guillard, ou
+  abandonné — avec une justification pour chaque ajustement ou abandon ;
+- une fiche de réglages du poste exportée en PDF, exploitable par un collègue sans toi (deux colonnes
+  « Réalisable par l'agent d'accueil » / « À transmettre au prestataire », un résultat attendu par ligne, par
+  exemple « contraste élevé activé → montant lisible sans se pencher ») ;
+- une proposition de remédiation pour que le prochain usager n'ait pas à redemander les mêmes réglages.
 
 !!! tip "J'explicite mes choix (2-3 min, à l'oral)"
     Présente ton poste réglé à ton binôme ou à ton enseignant, et réponds à ces trois questions — c'est exactement

@@ -45,11 +45,13 @@ aussi bien en ligne que hors connexion.
 
 ### A — Découvrir l'outil professionnel de diagnostic
 
-**Explorer la plateforme Les Bons Clics et s'y inscrire**
+Approprie-toi l'outil que M. Rouault veut voir utilisé à la prochaine permanence, en explorant [Les Bons Clics — Diagnostiquer le niveau numérique](https://www.lesbonsclics.fr/fr/evaluer-niveau-numerique){ target="_blank" rel="noopener" } et la page [Comment ça marche ?](https://www.lesbonsclics.fr/fr/comment-ca-marche){ target="_blank" rel="noopener" }, puis en créant ton propre accès.
 
-1. Ouvrir [Les Bons Clics — Diagnostiquer le niveau numérique](https://www.lesbonsclics.fr/fr/evaluer-niveau-numerique){ target="_blank" rel="noopener" } et repérer les trois formats de diagnostic proposés sur la page.
-2. Consulter [Comment ça marche ?](https://www.lesbonsclics.fr/fr/comment-ca-marche){ target="_blank" rel="noopener" } et relever quels paramètres de la personne un diagnostic numérique doit explorer, au-delà du simple niveau technique.
-3. Créer un compte **apprenant** gratuit sur [Les Bons Clics — Inscription apprenant](https://www.lesbonsclics.fr/fr/inscription-apprenant){ target="_blank" rel="noopener" } avec ton adresse mail scolaire — condition d'accès à l'espace de diagnostic et de formation.
+**Ta production doit montrer :**
+
+- les trois formats de diagnostic proposés par l'outil, et les paramètres qu'un diagnostic numérique doit explorer
+  au-delà du simple niveau technique ;
+- un compte **apprenant** créé sur [Les Bons Clics — Inscription apprenant](https://www.lesbonsclics.fr/fr/inscription-apprenant){ target="_blank" rel="noopener" } avec ton adresse mail scolaire, donnant accès à l'espace de diagnostic.
 
 !!! tip "🆘 Coup de pouce"
     Au moment de l'inscription, choisis bien le profil « Je suis apprenant » (et non « Je suis aidant », réservé
@@ -58,20 +60,28 @@ aussi bien en ligne que hors connexion.
 
 ### B — Réaliser le diagnostic en version exercice sur un profil fictif
 
-**Observer la prise en main réelle d'un usager**
+Mets l'outil à l'épreuve en observant, en binôme, la prise en main réelle d'un usager fictif — l'un joue l'usager
+devant l'écran, l'autre observe sans intervenir.
 
-1. Depuis l'espace diagnostic, lancer le module d'exercice en ligne (5 questions rapides) présenté à l'étape A.
-2. Se mettre en binôme : imaginer un premier profil d'usager réaliste et précis (âge, équipement possédé, situation), l'un des deux élèves joue ce rôle devant l'écran pendant que l'autre observe sans intervenir.
-3. Noter, sans révéler le score final avant la fin de l'exercice, les hésitations, le vocabulaire employé et les aides spontanément demandées par l'usager fictif pendant l'exercice.
-4. Relever le résultat du diagnostic et la piste de formation que l'outil propose ensuite pour ce profil.
+**Ta production doit montrer :**
+
+- un profil d'usager réaliste et précis (âge, équipement possédé, situation) mis à l'épreuve du module d'exercice
+  en ligne (5 questions rapides) ;
+- une observation notée pendant l'exercice — hésitations, vocabulaire employé, aides spontanément demandées — sans
+  révéler le score final avant la fin ;
+- le résultat du diagnostic et la piste de formation que l'outil propose ensuite pour ce profil.
 
 ### C — Construire une grille de diagnostic papier pour un usager sans équipement
 
-**Concevoir un outil de repli hors connexion**
+Un usager peut se présenter sans smartphone, sans ordinateur, ou dans un lieu sans connexion : conçois, à partir du
+[Guide Premiers pas sur Les Bons Clics](https://www.lesrelaisnumeriques.org/wp-content/uploads/2022/02/Guide-Premiers-pas-sur-Les-Bons-Clics.pdf){ target="_blank" rel="noopener" } (PDF), l'outil de repli qui permet de le diagnostiquer quand même.
 
-1. Ouvrir le [Guide Premiers pas sur Les Bons Clics](https://www.lesrelaisnumeriques.org/wp-content/uploads/2022/02/Guide-Premiers-pas-sur-Les-Bons-Clics.pdf){ target="_blank" rel="noopener" } (PDF) et repérer comment la version papier du diagnostic est présentée aux aidants.
-2. Concevoir dans un tableau à 3 colonnes — Équipement disponible / Usages déjà maîtrisés / Freins repérés — un support de diagnostic papier réutilisable pour un usager qui se présente sans smartphone ni ordinateur personnel.
-3. Tester cette grille papier sur un second profil fictif, en binôme, en inversant les rôles usager/aidant par rapport à l'étape B.
+**Ta production doit montrer :**
+
+- un support de diagnostic papier tenant sur une page, organisé en 3 colonnes (Équipement disponible / Usages déjà
+  maîtrisés / Freins repérés), fidèle à la façon dont la version papier est présentée aux aidants dans le guide ;
+- un test réel de cette grille sur un second profil fictif, en binôme, rôles usager/aidant inversés par rapport à
+  l'étape B.
 
 !!! tip "Astuce"
     Une bonne grille papier tient sur une seule page : elle doit pouvoir être remplie en moins de 5 minutes pendant

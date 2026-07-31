@@ -40,28 +40,40 @@ la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale
 
 ### A — Étudier une charte professionnelle officielle
 
-**Analyser la charte nationale des conseillers numériques**
+Avant d'écrire la charte de la structure, analyse celle qui existe déjà pour l'ensemble du réseau : la [Charte des conseillers numériques](https://lesbases.anct.gouv.fr/ressources/charte-des-conseillers-numeriques){ target="_blank" rel="noopener" } (ANCT, Les Bases du numérique d'intérêt général).
 
-1. Ouvrir la [Charte des conseillers numériques](https://lesbases.anct.gouv.fr/ressources/charte-des-conseillers-numeriques){ target="_blank" rel="noopener" } (ANCT, Les Bases du numérique d'intérêt général) et relever le nombre total d'engagements qu'elle contient.
-2. Parmi ces engagements, repérer précisément celui qui porte sur la confidentialité des données personnelles et celui qui porte sur la discrétion face aux situations personnelles des usagers.
-3. Repérer l'engagement qui fixe une limite explicite au champ d'intervention de l'aidant (vers qui l'usager doit-il être orienté au-delà de cette limite ?).
+**Ta production doit montrer :**
+
+- le nombre total d'engagements de la charte nationale, et lesquels portent précisément sur la confidentialité des
+  données personnelles et sur la discrétion face aux situations personnelles des usagers ;
+- l'engagement qui fixe une limite explicite au champ d'intervention de l'aidant, avec la réponse à la question
+  qu'il pose : vers qui l'usager doit-il être orienté au-delà de cette limite ?
 
 ### B — Comprendre les droits RGPD mobilisés par l'accompagnement
 
-**Relier le RGPD à des situations réelles d'accompagnement**
+Relie le cadre RGPD à des situations réelles d'accompagnement à partir de [CNIL — Les droits des personnes sur leurs données](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" } : ce que la loi dit ne suffit pas, il faut savoir ce qu'elle change concrètement au poste d'accueil.
 
-1. Ouvrir [CNIL — Les droits des personnes sur leurs données](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" } et lister les droits RGPD dont dispose un usager sur ses propres données (accès, rectification, opposition, portabilité — et au moins un autre repéré sur la page).
-2. Pour deux situations concrètes d'accompagnement — saisir un mot de passe à la place de l'usager, transmettre par mail un document contenant un numéro de sécurité sociale — identifier en une phrase le principe RGPD directement concerné.
-3. Formuler la règle de confidentialité qui doit s'appliquer entre deux permanences : ce qu'un aidant peut ou ne peut pas transmettre à un collègue sur la situation d'un usager.
+**Ta production doit montrer :**
+
+- les droits RGPD dont dispose un usager sur ses propres données (accès, rectification, opposition, portabilité —
+  et au moins un autre repéré sur la page) ;
+- pour deux situations concrètes d'accompagnement — saisir un mot de passe à la place de l'usager, transmettre par
+  mail un document contenant un numéro de sécurité sociale — le principe RGPD directement concerné ;
+- une règle de confidentialité formulée pour ce qu'un aidant peut ou ne peut pas transmettre à un collègue sur la
+  situation d'un usager entre deux permanences.
 
 ### C — Rédiger collectivement la charte de la structure
 
-**Adapter la charte nationale au contexte de France Services Loudéac**
+Adapte la charte nationale étudiée en A au contexte réel de France Services Loudéac, en t'appuyant sur les
+situations analysées en B.
 
-1. En groupe classe, choisir 6 à 8 engagements pour la charte de la structure, en s'inspirant de la charte étudiée en A et en les adaptant au contexte SAPAT (usagers âgés, en situation de handicap, publics fragiles).
-2. Rédiger chaque engagement à la première personne (« Je m'engage à… »), sur le modèle observé dans la charte nationale.
-3. Ajouter au moins un engagement propre aux limites de l'aidant numérique, à partir des situations analysées en B (ex. ne jamais saisir seul un mot de passe bancaire, ne jamais valider seul une démarche à enjeu financier).
-4. Mettre en page la charte finalisée dans un traitement de texte (titre, numérotation des engagements, une page maximum) pour un futur affichage au poste d'accompagnement.
+**Ta production doit montrer :**
+
+- une charte de 6 à 8 engagements, rédigés à la première personne (« Je m'engage à… »), adaptés au contexte SAPAT
+  (usagers âgés, en situation de handicap, publics fragiles) — pas une copie de la charte nationale ;
+- au moins un engagement propre aux limites de l'aidant numérique, issu directement des situations analysées en B
+  (ex. ne jamais saisir seul un mot de passe bancaire, ne jamais valider seul une démarche à enjeu financier) ;
+- une mise en page prête à l'affichage (titre, numérotation, une page maximum).
 
 !!! tip "Astuce"
     Une charte utile est courte et concrète : mieux vaut 6 engagements que chaque bénévole applique vraiment que
