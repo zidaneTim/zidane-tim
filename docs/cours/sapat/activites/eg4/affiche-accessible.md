@@ -1,7 +1,7 @@
 # ♿ Une affiche accessible contre l'illectronisme
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
   <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
 </div>

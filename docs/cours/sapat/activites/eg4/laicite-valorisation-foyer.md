@@ -1,7 +1,7 @@
 # 📢 Diffuser au foyer et évaluer l'impact
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Partager et publier">CRCN 2.2</span>
 </div>
 

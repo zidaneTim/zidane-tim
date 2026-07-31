@@ -1,7 +1,7 @@
 # 🖥️ SQ01 — Mon ENT et la charte numérique
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Construire un environnement numérique">CRCN 5.2</span>
   <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
 </div>

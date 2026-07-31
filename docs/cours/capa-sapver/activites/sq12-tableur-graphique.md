@@ -1,7 +1,7 @@
 # 📈 SQ12 — Filtrer et lire un graphique
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Traiter des données">CRCN 1.3</span>
 </div>
 

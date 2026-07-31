@@ -1,7 +1,7 @@
 # 🏥 Vieillir en Bretagne Centre
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix réinvesties</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN réinvesties</span>
   <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
   <span title="Traiter des données">CRCN 1.3</span>
 </div>

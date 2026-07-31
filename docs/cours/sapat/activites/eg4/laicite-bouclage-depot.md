@@ -1,7 +1,7 @@
 # ✅ Boucler et déposer la production
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
   <span title="Collaborer">CRCN 2.3</span>
 </div>

@@ -1,7 +1,7 @@
 # 🛒 SQ08 — Acheter en ligne sans se faire avoir
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
   <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
 </div>

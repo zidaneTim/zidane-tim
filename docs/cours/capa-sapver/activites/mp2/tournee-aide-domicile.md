@@ -1,7 +1,7 @@
 # 🗺️ Organiser une tournée de partenaires France services
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Traiter des données">CRCN 1.3</span>
   <span title="Partager et publier">CRCN 2.2</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>

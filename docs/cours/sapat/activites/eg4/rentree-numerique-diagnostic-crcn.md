@@ -1,7 +1,7 @@
 # 🚀 Prendre en main son environnement numérique de travail
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Construire un environnement numérique">CRCN 5.2</span>
   <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
 </div>

@@ -1,7 +1,7 @@
 # 🎨 Produire l'affiche ou le montage audio du 9 décembre
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Développer des documents multimédia">CRCN 3.2</span>
   <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
   <span title="Partager et publier">CRCN 2.2</span>

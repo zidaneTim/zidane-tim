@@ -1,7 +1,7 @@
 # 🎤 Préparer et répéter la présentation de sa production
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Interagir">CRCN 2.1</span>
 </div>
 

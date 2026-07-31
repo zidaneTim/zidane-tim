@@ -1,7 +1,7 @@
 # 🧰 Atelier de consolidation — données personnelles et traces
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
   <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
 </div>

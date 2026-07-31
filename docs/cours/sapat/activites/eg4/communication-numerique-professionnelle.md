@@ -1,7 +1,7 @@
 # ✉️ Écrire comme un professionnel : courriel, note et diaporama
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Interagir">CRCN 2.1</span>
   <span title="Développer des documents textuels">CRCN 3.1</span>
 </div>

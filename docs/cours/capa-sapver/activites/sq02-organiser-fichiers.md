@@ -1,7 +1,7 @@
 # 🗂️ SQ02 — Organiser ses fichiers et se présenter
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Gérer des données">CRCN 1.2</span>
   <span title="Développer des documents textuels">CRCN 3.1</span>
 </div>

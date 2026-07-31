@@ -1,7 +1,7 @@
 # 🏠 Repérer les foyers exposés à la précarité énergétique
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Adapter un document à sa finalité">CRCN 3.3</span>
 </div>
 

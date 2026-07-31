@@ -1,71 +1,128 @@
 # 📜 Rédiger la charte de l'accompagnement numérique de la structure
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
 </div>
 
 <p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
 
-<p class="zt-lede">Fixer par écrit les règles que l'équipe d'aidants numériques s'engage à respecter face aux usagers, avant la prochaine permanence</p>
+<p class="zt-lede">Fixer par écrit les règles que l'équipe d'aidants numériques s'engage à respecter face aux usagers, avant qu'un incident se reproduise</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 45 min</span>
+  <span>:material-clock-outline: 55 min</span>
   <span>:material-school-outline: MP8 — C8.2, posture d'accompagnement</span>
   <span>:material-tag-outline: RGPD · ANCT · charte</span>
 </div>
 
 ## Mise en situation
 
-Trois semaines après tes débuts à **France Services de Loudéac**, l'équipe s'est agrandie de deux nouveaux
-bénévoles. **M. Rouault** constate qu'il n'existe encore aucun document écrit fixant les règles communes de
-l'accompagnement numérique : chacun improvise sa propre posture face aux mots de passe, aux documents sensibles
-(avis d'imposition, attestations CAF, données de santé) ou aux demandes qui dépassent son rôle. Il te confie, avec
-le reste de l'équipe, la mission de rédiger une **charte de l'accompagnement numérique** propre à la structure,
-en t'appuyant sur une charte professionnelle déjà utilisée sur le terrain par le réseau France Services :
-la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale de la cohésion des territoires).
+Trois semaines après tes débuts à **France Services de Loudéac**, l'équipe s'est agrandie de deux bénévoles. La
+semaine dernière, l'un d'eux a partagé au téléphone avec la fille de **Mme Bourhis** des informations médicales
+que Mme Bourhis n'avait donné mission à personne de transmettre — en pensant bien faire. **M. Rouault** constate
+qu'aucun document écrit ne fixe les règles communes de l'accompagnement numérique et vous confie, avec le reste de
+l'équipe, la rédaction d'une **charte**, en vous appuyant sur la charte des conseillers numériques de l'ANCT.
+
+**Mme Bourhis, 89 ans**, en fin de vie, est maintenue à domicile selon son souhait et suivie par un service de
+soins infirmiers (SSIAD). Ses trois enfants, dont deux vivent loin, se relaient et veulent rester informés sans se
+déplacer à chaque fois — d'où l'appel de la semaine dernière. Le numérique reste ici un support de coordination,
+jamais un substitut à l'information médicale, qui relève des seuls professionnels de santé.
+
+La charte que vous rédigez doit éviter que cet incident se reproduise : vous la testerez en fin d'activité sur ce
+cas précis, en binôme.
+
+!!! info "Ton rôle aujourd'hui"
+    La rédaction de la charte (missions A à C) se fait en collectif. Pour la mission D, vérifie dans ta **fiche de
+    suivi OneNote** si tu joues l'**aidant** ou la **fille de Mme Bourhis**, et note-le une fois l'activité
+    terminée avec le nom de ton binôme.
+
+    🆘 **Binôme absent pour la mission D ?** Joue les deux rôles : réponds d'abord comme l'aidant, puis relis ta
+    réponse en te mettant à la place d'une fille inquiète qui vit loin de sa mère.
 
 !!! question "Problématique"
-    « Quelles règles déontologiques et quelles limites un aidant numérique doit-il respecter face aux données et
-    à la confiance d'un usager, et comment les formaliser dans une charte applicable à notre structure ? »
+    « Quelles règles déontologiques un aidant numérique doit-il respecter face aux données et à la confiance d'un
+    usager, et tiennent-elles face à une demande insistante d'un proche ? »
 
 ## Objectifs
 
 - Identifier les engagements d'une charte professionnelle officielle de médiation numérique
 - Distinguer les droits RGPD directement mobilisés par un accompagnement numérique d'usager
 - Rédiger collectivement une charte adaptée à la structure d'accueil, sur le modèle d'une charte réelle
-- Formuler les limites déontologiques que l'aidant numérique ne doit jamais franchir
+- Mettre la charte à l'épreuve d'un cas réel pour vérifier qu'elle tient face à une demande insistante
+- Justifier oralement les ajustements apportés à la charte après ce test
 
-## Travail à faire
+## Missions
 
-### A — Étudier une charte professionnelle officielle
+### A — J'étudie une charte professionnelle officielle
 
-**Analyser la charte nationale des conseillers numériques**
+Avant d'écrire la charte de la structure, analyse celle qui existe déjà pour l'ensemble du réseau : la [Charte des conseillers numériques](https://lesbases.anct.gouv.fr/ressources/charte-des-conseillers-numeriques){ target="_blank" rel="noopener" } (ANCT, Les Bases du numérique d'intérêt général).
 
-1. Ouvrir la [Charte des conseillers numériques](https://lesbases.anct.gouv.fr/ressources/charte-des-conseillers-numeriques){ target="_blank" rel="noopener" } (ANCT, Les Bases du numérique d'intérêt général) et relever le nombre total d'engagements qu'elle contient.
-2. Parmi ces engagements, repérer précisément celui qui porte sur la confidentialité des données personnelles et celui qui porte sur la discrétion face aux situations personnelles des usagers.
-3. Repérer l'engagement qui fixe une limite explicite au champ d'intervention de l'aidant (vers qui l'usager doit-il être orienté au-delà de cette limite ?).
+**Ta production doit montrer :**
 
-### B — Comprendre les droits RGPD mobilisés par l'accompagnement
+- Le nombre total d'engagements de la charte nationale, et lesquels portent sur la confidentialité et la
+  discrétion face aux situations personnelles.
+- L'engagement qui fixe une limite au champ d'intervention de l'aidant, et vers qui orienter l'usager au-delà.
 
-**Relier le RGPD à des situations réelles d'accompagnement**
+### B — Je comprends les droits RGPD mobilisés par l'accompagnement
 
-1. Ouvrir [CNIL — Les droits des personnes sur leurs données](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" } et lister les droits RGPD dont dispose un usager sur ses propres données (accès, rectification, opposition, portabilité — et au moins un autre repéré sur la page).
-2. Pour deux situations concrètes d'accompagnement — saisir un mot de passe à la place de l'usager, transmettre par mail un document contenant un numéro de sécurité sociale — identifier en une phrase le principe RGPD directement concerné.
-3. Formuler la règle de confidentialité qui doit s'appliquer entre deux permanences : ce qu'un aidant peut ou ne peut pas transmettre à un collègue sur la situation d'un usager.
+Relie le cadre RGPD à des situations réelles d'accompagnement à partir de [CNIL — Les droits des personnes sur leurs données](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" }.
 
-### C — Rédiger collectivement la charte de la structure
+**Ta production doit montrer :**
 
-**Adapter la charte nationale au contexte de France Services Loudéac**
+- Les droits RGPD dont dispose un usager sur ses données (accès, rectification, opposition, portabilité, et un
+  autre repéré).
+- Pour deux situations concrètes — saisir un mot de passe à sa place, transmettre un numéro de sécurité sociale
+  par mail — le principe RGPD concerné.
+- Une règle de confidentialité sur ce qu'un aidant peut transmettre à un collègue entre deux permanences.
 
-1. En groupe classe, choisir 6 à 8 engagements pour la charte de la structure, en s'inspirant de la charte étudiée en A et en les adaptant au contexte SAPAT (usagers âgés, en situation de handicap, publics fragiles).
-2. Rédiger chaque engagement à la première personne (« Je m'engage à… »), sur le modèle observé dans la charte nationale.
-3. Ajouter au moins un engagement propre aux limites de l'aidant numérique, à partir des situations analysées en B (ex. ne jamais saisir seul un mot de passe bancaire, ne jamais valider seul une démarche à enjeu financier).
-4. Mettre en page la charte finalisée dans un traitement de texte (titre, numérotation des engagements, une page maximum) pour un futur affichage au poste d'accompagnement.
+### C — Je rédige collectivement la charte de la structure
+
+Adapte la charte nationale étudiée en A au contexte réel de France Services Loudéac, en t'appuyant sur les
+situations analysées en B.
+
+**Ta production doit montrer :**
+
+- Une charte de 6 à 8 engagements, rédigés à la première personne, adaptés au contexte SAPAT — pas une copie de
+  la charte nationale.
+- Au moins un engagement propre aux limites de l'aidant, issu des situations analysées en B.
+- Une mise en page prête à l'affichage (titre, numérotation, une page maximum).
 
 !!! tip "Astuce"
-    Une charte utile est courte et concrète : mieux vaut 6 engagements que chaque bénévole applique vraiment que
-    12 engagements copiés qui restent théoriques.
+    Une charte utile est courte et concrète : mieux vaut 6 engagements vraiment appliqués que 12 copiés qui
+    restent théoriques.
+
+### D — Je teste la charte sur le cas de Mme Bourhis
+
+En binôme, mets ta charte à l'épreuve : la fille de Mme Bourhis rappelle pour prendre des nouvelles, comme la
+semaine dernière. L'**aidant** répond en s'appuyant sur un engagement précis de la charte rédigée en C.
+
+**Ta production doit montrer :**
+
+- Aidant : une réponse qui s'appuie sur un engagement précis de la charte pour ne transmettre aucune information
+  médicale.
+- Aidé : au moins une insistance réaliste (« j'ai le droit de savoir, c'est ma mère »).
+- Ce que la charte ne couvrait pas encore, si l'échange révèle un manque, et la clause ajoutée.
+
+!!! tip "🆘 Coup de pouce"
+    Refuser une information n'est pas refuser d'aider : propose toujours une alternative (rappeler le SSIAD,
+    transmettre une inquiétude générale sans détail médical).
+
+### E — Je prends du recul et j'explicite
+
+Reprends le test de la mission D pour finaliser la charte, et prépare-toi à justifier tes choix à l'oral.
+
+**Ta production doit montrer :**
+
+- Ce que le test avec Mme Bourhis a changé ou confirmé dans la charte rédigée en C.
+- La version finale de la charte, prête à être affichée au poste d'accueil.
+- Une proposition pour que le prochain incident de ce type soit évité par toute l'équipe.
+
+!!! tip "J'explicite mes choix (2-3 min, à l'oral)"
+    Présente la charte finale à ton binôme ou à ton enseignant, et réponds à ces trois questions :
+
+    - Quel engagement de la charte t'a permis de répondre à la fille de Mme Bourhis sans improviser ?
+    - Le test a-t-il révélé un manque dans la charte rédigée en C ? Lequel, et comment l'as-tu corrigé ?
+    - Que dirais-tu à un collègue qui pense qu'informer la famille « pour rassurer » ne pose pas de problème ?
 
 ### Questions de synthèse
 
@@ -73,15 +130,15 @@ la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale
 - Pourquoi une charte d'accompagnement numérique doit-elle prévoir explicitement les limites du champ d'intervention de l'aidant ?
 
 ??? tip "Vérifier mes réponses"
-    - « Faire avec » laisse l'usager saisir lui-même ses données sensibles (mot de passe, identifiants) ; « faire
-      pour » revient à les manipuler à sa place, ce qui expose à la fois l'usager et l'aidant à un risque de
-      confidentialité et de responsabilité.
-    - Parce qu'au-delà de ces limites, l'usager doit être orienté vers un professionnel habilité (agent
-      administratif, service compétent) plutôt qu'accompagné par un aidant non qualifié pour cette démarche.
+    - « Faire avec » laisse l'usager saisir lui-même ses données sensibles ; « faire pour » revient à les
+      manipuler à sa place, ce qui expose usager et aidant à un risque de confidentialité.
+    - Parce qu'au-delà de ces limites, l'usager (ou son entourage) doit être orienté vers un professionnel habilité
+      plutôt qu'accompagné par un aidant non qualifié pour cette démarche.
 
 !!! tip "Où répondre ?"
-    Dépose la version finale de la charte rédigée par la classe et tes réponses aux questions de synthèse dans
-    ton bloc-notes **OneNote**, section *MP8 — Cadre de vie / Quotidien*.
+    Dépose la version finale de la charte, ta réponse au test de la mission D et tes réponses de synthèse dans
+    ton bloc-notes **OneNote**, section *MP8 — Cadre de vie / Quotidien*. Note le rôle joué en mission D et le nom
+    de ton binôme.
 
 ## Ressources et outils
 
@@ -89,13 +146,14 @@ la **charte des conseillers numériques**, publiée par l'ANCT (Agence nationale
 - **CNIL — Les droits des personnes sur leurs données** : page officielle listant les droits RGPD des usagers — [cnil.fr](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
 
-## Grille d'évaluation C8.2 — Charte de l'accompagnement numérique (MP8)
+## Grille d'évaluation C8.2 — Charte de l'accompagnement numérique (MP8, prépare l'ECCF E7.4)
 
 **Production attendue :** la charte de l'accompagnement numérique de France Services Loudéac, rédigée
-collectivement, mise en page sur une page, prête à être affichée au poste d'accueil de M. Rouault.
+collectivement, testée sur le cas de Mme Bourhis, mise en page sur une page, prête à être affichée au poste
+d'accueil.
 
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Posture d'accompagnement (mobilisation des ressources de la personne) | Engagements rédigés reflètent une posture qui mobilise l'usager (« faire avec ») ; au moins un engagement fixe une limite déontologique claire face à une donnée sensible | -- / - / + / ++ |
-| Relation avec distanciation professionnelle | Droits RGPD correctement listés et reliés à des situations concrètes d'accompagnement ; règle de confidentialité entre collègues formulée avec la juste distance professionnelle | -- / - / + / ++ |
-| Anticipation et réalisation des démarches | Charte de référence correctement analysée (engagements clés identifiés) ; charte de la structure rédigée collectivement, 6 à 8 engagements adaptés au contexte SAPAT, prête à l'affichage | -- / - / + / ++ |
+| Posture d'accompagnement : mobilisation des ressources de la personne | <li>Engagements reflètent une posture qui mobilise l'usager (« faire avec »)</li><li>Réponse à la fille appuyée sur un engagement précis, pas une improvisation</li><li>Charte ajustée si le test a révélé un manque</li> | -- / - / + / ++ |
+| Mise en place d'une relation en maintenant la distanciation professionnelle requise | <li>Droits RGPD listés et reliés à des situations concrètes</li><li>Aucune information médicale transmise à la fille</li><li>Règle de confidentialité entre collègues formulée avec justesse</li> | -- / - / + / ++ |
+| Anticipation et réalisation des démarches | <li>Charte de référence correctement analysée</li><li>Charte de la structure rédigée collectivement, 6 à 8 engagements</li><li>Prête à l'affichage, testée sur un cas réel</li> | -- / - / + / ++ |

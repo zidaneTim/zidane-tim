@@ -1,7 +1,7 @@
 # 🔐 Les données des usagers ne t'appartiennent pas
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
   <span title="Développer des documents multimédia">CRCN 3.2</span>
 </div>

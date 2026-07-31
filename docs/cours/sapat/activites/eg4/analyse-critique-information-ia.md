@@ -1,7 +1,7 @@
 # 🔎 Vrai, faux, ou généré par une IA ?
 
 <div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences Pix</span>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
   <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
 </div>
