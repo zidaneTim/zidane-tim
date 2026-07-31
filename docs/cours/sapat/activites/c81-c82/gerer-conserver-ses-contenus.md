@@ -21,22 +21,15 @@ Tu es **agent d'accueil à France Services de Loudéac**. **M. Rouault**, ton co
 accompagnement : **Mme et M. Le Gall**, 24 ans tous les deux, viennent d'avoir leur premier enfant il y a trois
 semaines et souhaitent « mettre de l'ordre dans les papiers de la petite » avant de rentrer chez eux.
 
-Ce que M. Rouault a relevé lors de leur prise de rendez-vous téléphonique : sur le téléphone de Mme Le Gall,
-plusieurs notifications non lues s'accumulent (CAF, CPAM, mutuelle) ; le couple confond le carnet de santé papier de
-leur fille et sa version numérique sur l'application *Mon espace santé* ; aucun document (attestations, photos,
-factures de la maternité) n'est pour l'instant conservé ailleurs que sur ce même téléphone. Parmi les notifications
-non lues, un mail de la CAF évoque une **prime de naissance**, avec une date limite mentionnée dans l'objet du
-message.
+Ce que M. Rouault a relevé : plusieurs notifications non lues s'accumulent sur le téléphone de Mme Le Gall (CAF,
+CPAM, mutuelle) ; le couple confond le carnet de santé papier de leur fille et sa version numérique ; aucun
+document n'est conservé ailleurs que sur ce téléphone. Un mail de la CAF évoque une **prime de naissance** avec une
+date limite. Mme Le Gall résume : « On ne sait pas quels papiers sont importants là-dedans, ni où les garder. » Ce
+sont des parents responsables, pas des usagers en difficulté — ce que tu ne peux pas faire à leur place devra leur
+être expliqué, jamais fait en douce.
 
-**Besoin exprimé** par Mme Le Gall : « On ne sait pas quels papiers sont importants là-dedans, ni où les garder
-pour les retrouver plus tard. »
-
-Ce qu'il faudra garder en tête : ce sont des parents responsables, pas des usagers en difficulté — le couple gère
-déjà une application de santé et reçoit correctement ses mails. Et comme pour tout accompagnement : ce que tu ne
-peux pas faire à leur place devra leur être expliqué, pas fait en douce pour aller plus vite.
-
-**Le test se fait à deux.** L'un de vous accueille et accompagne la famille (rôle **aidant**), l'autre joue un des
-deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochaine activité de ce type.
+**Le test se fait à deux.** L'un accueille et accompagne la famille (rôle **aidant**), l'autre joue un parent Le
+Gall (rôle **aidé**). Vous inverserez les rôles à la prochaine activité de ce type.
 
 !!! info "Ton rôle aujourd'hui"
     Vérifie dans ta **fiche de suivi OneNote** (section *MP8 — Cadre de vie / Quotidien*) si tu joues l'**aidant**
@@ -47,8 +40,7 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
     plus vite en lui donnant directement ton mot de passe.
 
     🆘 **Binôme absent ?** Joue les deux rôles : tiens d'abord le rôle de l'aidant pour chaque mission, puis relis
-    tes réponses en te mettant à la place d'un parent fatigué et presse — est-ce que tout serait resté clair et
-    faisable pour lui ?
+    tes réponses en te mettant à la place d'un parent fatigué et pressé.
 
 !!! question "Problématique"
     « Quels documents de la famille Le Gall faut-il traiter en priorité, comment les classer pour qu'ils s'y
@@ -67,17 +59,14 @@ deux parents Le Gall (rôle **aidé**). Vous inverserez les rôles à la prochai
 ### A — Je diagnostique l'urgence et les besoins de la famille Le Gall
 
 Avant de classer quoi que ce soit, sers-toi de la mise en situation pour trier ce qui presse de ce qui peut
-attendre — les deux existent dans le tas de documents des Le Gall (mail CAF, carnet de santé numérique,
-notifications CPAM et mutuelle, photos et factures de la maternité).
+attendre — les deux existent dans le tas de documents des Le Gall.
 
 **Ta production doit montrer :**
 
-- pour chaque élément mentionné dans la mise en situation, une décision justifiée : démarche à traiter maintenant
-  (échéance) ou document à archiver pour plus tard ;
-- une évaluation réelle de l'urgence du mail CAF, fondée sur la date qu'il contient comparée à aujourd'hui — pas
-  supposée ;
-- un appui explicite sur ce que la famille sait déjà faire seule (elle gère déjà une application de santé, elle
-  reçoit correctement ses mails), plutôt qu'une reprise à zéro.
+- Pour chaque élément de la mise en situation, une décision justifiée : démarche à traiter maintenant ou document
+  à archiver.
+- Une évaluation réelle de l'urgence du mail CAF, fondée sur la date qu'il contient comparée à aujourd'hui.
+- Un appui explicite sur ce que la famille sait déjà faire seule, plutôt qu'une reprise à zéro.
 
 !!! tip "🆘 Coup de pouce"
     Une échéance dans un mail ne veut pas toujours dire « à faire dans l'heure » : compare la date du mail à la
@@ -90,11 +79,9 @@ les Le Gall pourront réutiliser seuls dans six mois — pas un simple rangement
 
 **Ta production doit montrer :**
 
-- une arborescence de dossiers (2 niveaux maximum) qui range chaque document de la liste sans ambiguïté possible ;
-- une convention de nommage unique (par exemple `AAAA-MM-JJ_type-de-document_prénom`) appliquée à au moins 5
-  fichiers de la liste pour vérifier qu'elle fonctionne sans exception ;
-- un premier repérage, dans cette liste, des documents qui devront probablement être conservés très longtemps et
-  de ceux qui pourront être supprimés au bout de quelques années — tu vérifieras les durées exactes à l'étape C.
+- Une arborescence de dossiers (2 niveaux maximum) qui range chaque document de la liste sans ambiguïté possible.
+- Une convention de nommage unique appliquée à au moins 5 fichiers de la liste, pour vérifier qu'elle fonctionne.
+- Un premier repérage des documents à conserver longtemps et de ceux supprimables rapidement, à vérifier en C.
 
 !!! tip "⭐ Pour aller plus loin"
     Une arborescence à plat (tous les fichiers dans un seul dossier, bien nommés) peut parfois suffire pour une
@@ -108,15 +95,10 @@ personnelle.
 
 **Ta production doit montrer :**
 
-- **Aidant** : une présentation d'au moins deux solutions (clé USB confiée à la famille, service en ligne dit
-  « cloud ») avec un avantage et un risque réel pour chacune. **Aidé** : au moins une question posée sur ce qui se
-  passe « si on perd la clé » ou « si le compte cloud est piraté » ;
-- une décision prise **avec** la famille — y compris une combinaison des deux solutions, la source officielle
-  déconseillant de ne compter que sur un seul support — accompagnée de sa justification ;
-- une réponse à l'**imprévu** : un parent Le Gall te demande de créer directement le compte cloud avec son adresse
-  mail et un mot de passe donné à l'oral, « pour aller plus vite » — ta production doit montrer ce que tu fais, et
-  ce que tu proposes à la place ;
-- un ajustement noté de la solution retenue si cet échange l'a fait évoluer, et pourquoi.
+- Aidant : deux solutions présentées (clé USB, cloud) avec un avantage et un risque réel pour chacune.
+- Aidé : au moins une question posée sur la perte de la clé ou le piratage du compte cloud.
+- Une réponse à l'**imprévu** : un parent demande de créer le compte avec un mot de passe donné à l'oral.
+- La décision de conservation retenue, ajustée et justifiée si l'échange avec la famille l'a fait évoluer.
 
 !!! tip "🆘 Coup de pouce"
     Cybermalveillance.gouv.fr propose une règle simple pour ne pas tout miser sur un seul support : cherche-la
@@ -129,11 +111,9 @@ l'orienter, sans jamais agir à sa place.
 
 **Ta production doit montrer :**
 
-- pour la démarche CAF repérée comme urgente à l'étape A, un conseil en 3-4 lignes de ce que la famille doit faire
-  **elle-même** (jamais à sa place), et ce qu'elle doit vérifier avant de valider quoi que ce soit ;
-- si la famille demande un service que tu ne peux pas rendre (ex. souscrire un abonnement cloud payant avec sa
-  carte bancaire), une explication écrite de pourquoi ce n'est pas le rôle de l'agent d'accueil, et vers qui
-  l'orienter.
+- Pour la démarche CAF urgente identifiée en A, un conseil en 3-4 lignes de ce que la famille doit faire elle-même.
+- Si un service dépasse ton rôle (ex. souscrire un abonnement cloud payant), une explication écrite du pourquoi et
+  de qui contacter.
 
 ### E — Je prends du recul et j'explicite
 
@@ -142,15 +122,13 @@ justifier chaque choix à l'oral.
 
 **Ta production doit montrer :**
 
-- pour chaque document ou démarche identifié en A, s'il a été traité aujourd'hui, laissé à la famille, ou archivé
-  pour plus tard — avec une justification pour chaque choix ;
-- une fiche de classement exportée en PDF, destinée à la famille (arborescence, convention de nommage, support de
-  conservation retenu et sa justification, durée de conservation trouvée pour au moins 3 documents, source citée) ;
-- une proposition de remédiation pour la prochaine famille accompagnée.
+- Pour chaque document ou démarche identifié en A, ce qui a été traité, laissé à la famille, ou archivé.
+- Une fiche de classement PDF pour la famille (arborescence, nommage, support retenu, durée de conservation d'au
+  moins 3 documents).
+- Une proposition de remédiation pour la prochaine famille accompagnée.
 
 !!! tip "J'explicite mes choix (2-3 min, à l'oral)"
-    Présente ta fiche de classement à ton binôme ou à ton enseignant, et réponds à ces trois questions — c'est
-    exactement ce qui est demandé lors d'une pratique explicitée :
+    Présente ta fiche de classement à ton binôme ou à ton enseignant, et réponds à ces trois questions :
 
     - Pourquoi as-tu classé **ces** documents comme urgents et pas les autres ?
     - Qu'as-tu changé après la demande du mot de passe à l'oral, et qu'est-ce que cela t'a appris sur ton rôle ?
@@ -165,16 +143,13 @@ justifier chaque choix à l'oral.
 
 ??? tip "Vérifier mes réponses"
     - Parce qu'un support unique (clé USB perdue, compte cloud piraté ou fermé) peut faire disparaître les
-      documents d'un coup : la sécurité vient de la combinaison de plusieurs supports, pas d'un seul jugé « le
-      meilleur ».
-    - Une démarche urgente a une échéance fixée par un tiers (ici la CAF) qui peut faire perdre un droit si elle
-      n'est pas traitée à temps ; un document à archiver n'a pas cette contrainte de délai, seulement une durée de
-      conservation à respecter.
+      documents d'un coup : la sécurité vient de la combinaison de plusieurs supports.
+    - Une démarche urgente a une échéance fixée par un tiers qui peut faire perdre un droit ; un document à
+      archiver n'a qu'une durée de conservation à respecter.
     - Parce que saisir un mot de passe donné à l'oral revient à agir à la place de l'usager sur son compte
-      personnel, ce qui dépasse la posture d'aidant et engage sa sécurité numérique — l'agent doit expliquer et
-      laisser l'usager agir lui-même.
-    - Sur le simulateur officiel de Service-Public.fr, qui indique les durées minimales de conservation document
-      par document — jamais en devinant ou en généralisant depuis un seul exemple connu.
+      personnel, ce qui engage sa sécurité numérique.
+    - Sur le simulateur officiel de Service-Public.fr, qui indique les durées minimales document par document —
+      jamais en devinant.
 
 !!! tip "Où répondre ?"
     Dépose ton tableau de tri, ta fiche de classement PDF, ta réponse à l'imprévu et tes réponses de synthèse dans
@@ -208,13 +183,6 @@ l'explicitation orale de tes choix devant ton binôme ou ton enseignant.
 
 | Critère (référentiel C8.2) | Indicateurs observables | Niveau |
 |---|---|---|
-| Posture d'accompagnement : mobilisation des ressources de la personne | Diagnostic qui s'appuie sur ce que la famille sait déjà faire (appli de santé, gestion des mails), sans tout reprendre à zéro ; choix du support de conservation décidé **avec** la famille, pas imposé ; ajustement réel après l'imprévu du mot de passe | -- / - / + / ++ |
-| Mise en place d'une relation en maintenant la distanciation professionnelle requise | Refus argumenté de créer le compte avec des identifiants donnés à l'oral, avec une proposition alternative concrète ; aucune donnée personnelle réelle utilisée ; orientation claire pour la démarche hors périmètre (souscription payante), sans s'y substituer | -- / - / + / ++ |
-| Anticipation et réalisation des démarches | Distinction correcte urgent/à archiver fondée sur la date réelle du mail CAF ; durée de conservation trouvée via le simulateur officiel pour au moins 3 documents, jamais inventée ; arborescence et nommage exploitables sans l'aide de l'élève | -- / - / + / ++ |
-
-!!! note "Ce que cette activité n'évalue pas"
-    Cette activité est **formative** : en 1ère, aucune ECCF n'est positionnée (E7.3/E7.4 sont en Terminale, voir
-    [[Synthese-NS-2023-129-E7-MP8]]). Elle entraîne à la posture et au raisonnement de l'ECCF E7.4 sans en avoir la
-    durée ni les conditions (co-évaluation ESF/TIM, 1 h 30). Elle ne comporte pas non plus de manipulation physique
-    réelle d'une clé USB (formatage, copie effective de fichiers) : le choix de support reste une décision
-    argumentée, pas un geste technique noté.
+| Posture d'accompagnement : mobilisation des ressources de la personne | <li>Diagnostic appuyé sur ce que la famille sait déjà faire (santé, mails)</li><li>Choix du support décidé avec la famille, pas imposé</li><li>Ajustement réel après l'imprévu du mot de passe</li> | -- / - / + / ++ |
+| Mise en place d'une relation en maintenant la distanciation professionnelle requise | <li>Refus argumenté de créer le compte avec un mot de passe oral</li><li>Proposition alternative concrète formulée</li><li>Aucune donnée personnelle réelle utilisée</li><li>Orientation claire pour la démarche hors périmètre</li> | -- / - / + / ++ |
+| Anticipation et réalisation des démarches | <li>Distinction urgent/à archiver fondée sur la date réelle du mail</li><li>Durée de conservation trouvée via le simulateur pour 3 documents</li><li>Arborescence et nommage exploitables sans l'aide de l'élève</li> | -- / - / + / ++ |
