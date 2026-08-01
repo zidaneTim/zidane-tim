@@ -372,6 +372,26 @@
   color: var(--md-accent-fg-color);
 }
 
+/* Badge numéroté : signale l'ordre des activités sur les pages où la
+   séquence est prescrite (ex. SQ01→SQ12 en MG1) — pilote, pas encore
+   généralisé aux pages classe sans ordre imposé entre les activités. */
+.md-typeset .grid.cards .zt-step {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-right: 0.3rem;
+  border-radius: 50%;
+  background-color: var(--md-accent-fg-color);
+  color: #1a2e5c;
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 1;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
 /* ---------- Éléments communs ---------- */
 
 /* Tableaux : lisibles, sans lourdeur */

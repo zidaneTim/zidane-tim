@@ -8,7 +8,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
 <div class="grid cards" markdown>
 
--   :material-monitor-dashboard:{ .lg .middle } **SQ01 — Mon ENT et la charte numérique**
+-   :material-monitor-dashboard:{ .lg .middle } <span class="zt-step">1</span> **SQ01 — Mon ENT et la charte numérique**
 
     ---
 
@@ -16,7 +16,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq01-ent-charte.md)
 
--   :material-folder-multiple:{ .lg .middle } **SQ02 — Organiser ses fichiers et se présenter**
+-   :material-folder-multiple:{ .lg .middle } <span class="zt-step">2</span> **SQ02 — Organiser ses fichiers et se présenter**
 
     ---
 
@@ -24,7 +24,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq02-organiser-fichiers.md)
 
--   :material-magnify:{ .lg .middle } **SQ03 — Trouver une information fiable**
+-   :material-magnify:{ .lg .middle } <span class="zt-step">3</span> **SQ03 — Trouver une information fiable**
 
     ---
 
@@ -32,7 +32,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq03-info-fiable.md)
 
--   :material-lock:{ .lg .middle } **SQ04 — Des mots de passe solides**
+-   :material-lock:{ .lg .middle } <span class="zt-step">4</span> **SQ04 — Des mots de passe solides**
 
     ---
 
@@ -40,7 +40,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq04-mots-de-passe.md)
 
--   :material-fish:{ .lg .middle } **SQ05 — Phishing et arnaques en ligne**
+-   :material-fish:{ .lg .middle } <span class="zt-step">5</span> **SQ05 — Phishing et arnaques en ligne**
 
     ---
 
@@ -48,7 +48,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq05-phishing.md)
 
--   :material-shield-account:{ .lg .middle } **SQ06 — Cyberharcèlement : comprendre et réagir**
+-   :material-shield-account:{ .lg .middle } <span class="zt-step">6</span> **SQ06 — Cyberharcèlement : comprendre et réagir**
 
     ---
 
@@ -56,7 +56,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq06-cyberharcelement.md)
 
--   :material-email-outline:{ .lg .middle } **SQ07 — Écrire un courriel professionnel**
+-   :material-email-outline:{ .lg .middle } <span class="zt-step">7</span> **SQ07 — Écrire un courriel professionnel**
 
     ---
 
@@ -64,7 +64,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq07-messagerie-pro.md)
 
--   :material-cart-outline:{ .lg .middle } **SQ08 — Acheter en ligne sans se faire avoir**
+-   :material-cart-outline:{ .lg .middle } <span class="zt-step">8</span> **SQ08 — Acheter en ligne sans se faire avoir**
 
     ---
 
@@ -72,7 +72,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq08-achats-en-ligne.md)
 
--   :material-human-wheelchair:{ .lg .middle } **SQ09 — Un numérique accessible à tous**
+-   :material-human-wheelchair:{ .lg .middle } <span class="zt-step">9</span> **SQ09 — Un numérique accessible à tous**
 
     ---
 
@@ -80,7 +80,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq09-accessibilite.md)
 
--   :material-cash-multiple:{ .lg .middle } **SQ10 — Mon premier budget au tableur**
+-   :material-cash-multiple:{ .lg .middle } <span class="zt-step">10</span> **SQ10 — Mon premier budget au tableur**
 
     ---
 
@@ -88,7 +88,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq10-tableur-budget.md)
 
--   :material-table-arrow-down:{ .lg .middle } **SQ11 — Recopier, trier, mettre en forme**
+-   :material-table-arrow-down:{ .lg .middle } <span class="zt-step">11</span> **SQ11 — Recopier, trier, mettre en forme**
 
     ---
 
@@ -96,7 +96,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/sq11-tableur-consolidation.md)
 
--   :material-chart-bar:{ .lg .middle } **SQ12 — Filtrer et lire un graphique**
+-   :material-chart-bar:{ .lg .middle } <span class="zt-step">12</span> **SQ12 — Filtrer et lire un graphique**
 
     ---
 
