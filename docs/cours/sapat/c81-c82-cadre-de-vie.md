@@ -44,6 +44,108 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/mise-en-service-poste-accessibilite.md)
 
+-   :material-numeric-5-circle:{ .lg .middle } **Aider la famille Le Gall à classer et conserver ses documents**
+
+    ---
+
+    Un fichier qu'on ne retrouve plus n'existe pas vraiment : construire, avec une famille, un classement qui tiendra encore dans deux ans.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/gerer-conserver-ses-contenus.md)
+
+</div>
+
+## Activités Terminale — Missions de l'aidant numérique
+
+<div class="grid cards" markdown>
+
+-   :material-refresh:{ .lg .middle } **Faire le bilan de sa première année d'aidant numérique**
+
+    ---
+
+    Relire sa charte d'aidant numérique de 1ère et la mettre à l'épreuve d'un nouveau cas avant de se lancer en Terminale.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/bilan-reactivation-terminale.md)
+
+-   :material-shield-key-outline:{ .lg .middle } **Aider Mme Rannou à sécuriser ses comptes après un piratage**
+
+    ---
+
+    Reconstruire des mots de passe robustes et activer la double authentification après un compte piraté, sans culpabiliser l'usagère.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/securiser-comptes-usager-piratage.md)
+
+-   :material-drama-masks:{ .lg .middle } **Aider Mme Even à démêler le vrai du faux après un appel suspect**
+
+    ---
+
+    Analyser un appel suspect imitant la voix d'un proche et transmettre les bons réflexes de vérification et de signalement.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/risques-en-ligne-deepfake-arnaque.md)
+
+-   :material-compass-outline:{ .lg .middle } **Concevoir sa fiche d'observation numérique avant le stage E6**
+
+    ---
+
+    Préparer une fiche d'observation numérique réutilisable dans n'importe quelle structure d'accueil du stage E6.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/fiche-observation-stage-e6.md)
+
+-   :material-notebook-outline:{ .lg .middle } **Formaliser un cahier de liaison numérique pour la famille de Mme Le Roux**
+
+    ---
+
+    Transformer des transmissions orales répétitives en fiches de cahier de liaison numérique, dans le respect du secret professionnel.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/cahier-liaison-numerique-famille.md)
+
+-   :material-account-child-outline:{ .lg .middle } **Conseiller la famille Kerouedan sur les écrans de leurs enfants**
+
+    ---
+
+    Installer un contrôle parental adapté à l'âge des enfants, sans imposer des règles trop strictes pour la famille.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/e-parentalite-controle-parental.md)
+
+-   :material-puzzle-outline:{ .lg .middle } **Simplifier l'interface numérique de M. Cadoret**
+
+    ---
+
+    Mobiliser les fonctions d'accessibilité d'un système pour simplifier un poste au début d'une maladie d'Alzheimer.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/accessibilite-interface-simplifiee-alzheimer.md)
+
+-   :material-mouse-outline:{ .lg .middle } **Adapter un poste pour M. Le Floch après son AVC**
+
+    ---
+
+    Adapter un clavier, une souris et un écran pour un usager en hémiplégie, et tester l'adaptation en conditions réelles.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/poste-adapte-handicap-moteur.md)
+
+-   :material-target:{ .lg .middle } **Situation inédite — sécuriser et adapter le poste de M. Perrot**
+
+    ---
+
+    Mobiliser en autonomie sécurité des comptes et accessibilité auditive sur une situation inédite, en conditions proches de l'ECCF.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/situation-inedite-securite-accessibilite.md)
+
+-   :material-bus:{ .lg .middle } **Organiser les déplacements de Mme Le Bris sans voiture**
+
+    ---
+
+    Planifier un déplacement multimodal réel pour une usagère qui ne conduit plus après une opération de la hanche.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/itineraire-mobilite-transports-commun.md)
+
+-   :material-tractor:{ .lg .middle } **Construire une solution de mobilité pour M. Guéguen, isolé en campagne**
+
+    ---
+
+    Trouver une solution de mobilité solidaire pour un agriculteur retraité isolé, privé de permis suite à une suspension médicale.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/mobilite-solidaire-isolement-rural.md)
+
 </div>
 
 !!! tip "Où répondre ?"
