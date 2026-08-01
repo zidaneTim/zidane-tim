@@ -8,7 +8,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
 <div class="grid cards" markdown>
 
--   :material-rocket-launch-outline:{ .lg .middle } **Prendre en main son environnement numérique**
+-   :material-rocket-launch-outline:{ .lg .middle } <span class="zt-step">1</span> **Prendre en main son environnement numérique**
 
     ---
 
@@ -16,7 +16,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/rentree-numerique-diagnostic-crcn.md)
 
--   :material-folder-lock-outline:{ .lg .middle } **Organiser et sécuriser son poste**
+-   :material-folder-lock-outline:{ .lg .middle } <span class="zt-step">2</span> **Organiser et sécuriser son poste**
 
     ---
 
@@ -24,7 +24,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/organisation-securite-poste.md)
 
--   :material-toolbox-outline:{ .lg .middle } **Atelier de consolidation — environnement numérique**
+-   :material-toolbox-outline:{ .lg .middle } <span class="zt-step">3</span> **Atelier de consolidation — environnement numérique**
 
     ---
 
@@ -38,7 +38,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
 <div class="grid cards" markdown>
 
--   :material-shield-lock-outline:{ .lg .middle } **Les données des usagers ne t'appartiennent pas**
+-   :material-shield-lock-outline:{ .lg .middle } <span class="zt-step">1</span> **Les données des usagers ne t'appartiennent pas**
 
     ---
 
@@ -46,7 +46,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/donnees-personnelles-rgpd.md)
 
--   :material-toolbox-outline:{ .lg .middle } **Atelier de consolidation — données personnelles**
+-   :material-toolbox-outline:{ .lg .middle } <span class="zt-step">2</span> **Atelier de consolidation — données personnelles**
 
     ---
 
@@ -54,7 +54,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/atelier-consolidation-donnees-personnelles.md)
 
--   :material-magnify-scan:{ .lg .middle } **Vrai, faux, ou généré par une IA ?**
+-   :material-magnify-scan:{ .lg .middle } <span class="zt-step">3</span> **Vrai, faux, ou généré par une IA ?**
 
     ---
 
@@ -68,7 +68,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
 <div class="grid cards" markdown>
 
--   :material-file-document-edit-outline:{ .lg .middle } **Cadrer le projet avant de produire**
+-   :material-file-document-edit-outline:{ .lg .middle } <span class="zt-step">1</span> **Cadrer le projet avant de produire**
 
     ---
 
@@ -76,7 +76,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/laicite-cadrage-projet.md)
 
--   :material-palette-outline:{ .lg .middle } **Produire l'affiche ou le montage audio**
+-   :material-palette-outline:{ .lg .middle } <span class="zt-step">2</span> **Produire l'affiche ou le montage audio**
 
     ---
 
@@ -84,7 +84,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/laicite-production-numerique.md)
 
--   :material-check-decagram-outline:{ .lg .middle } **Boucler et déposer la production**
+-   :material-check-decagram-outline:{ .lg .middle } <span class="zt-step">3</span> **Boucler et déposer la production**
 
     ---
 
@@ -92,7 +92,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/laicite-bouclage-depot.md)
 
--   :material-microphone-outline:{ .lg .middle } **Préparer et répéter la présentation**
+-   :material-microphone-outline:{ .lg .middle } <span class="zt-step">4</span> **Préparer et répéter la présentation**
 
     ---
 
@@ -100,7 +100,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/laicite-repetition-oral.md)
 
--   :material-bullhorn-outline:{ .lg .middle } **Diffuser au foyer et évaluer l'impact**
+-   :material-bullhorn-outline:{ .lg .middle } <span class="zt-step">5</span> **Diffuser au foyer et évaluer l'impact**
 
     ---
 
@@ -114,7 +114,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
 <div class="grid cards" markdown>
 
--   :material-email-outline:{ .lg .middle } **Courriel, note de service et diaporama**
+-   :material-email-outline:{ .lg .middle } <span class="zt-step">1</span> **Courriel, note de service et diaporama**
 
     ---
 
@@ -122,7 +122,7 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/communication-numerique-professionnelle.md)
 
--   :material-image-frame:{ .lg .middle } **Une affiche accessible**
+-   :material-image-frame:{ .lg .middle } <span class="zt-step">2</span> **Une affiche accessible**
 
     ---
 

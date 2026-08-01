@@ -8,13 +8,21 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
 <div class="grid cards" markdown>
 
--   :material-account-group-outline:{ .lg .middle } **Population et vieillissement**
+-   :material-account-group-outline:{ .lg .middle } <span class="zt-step">1</span> **Population et vieillissement**
 
     ---
 
     Que disent les chiffres du recensement sur le territoire de LCBC ?
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/population-age-lcbc.md)
+
+-   :material-cash-multiple:{ .lg .middle } <span class="zt-step">2</span> **Écarts de revenus**
+
+    ---
+
+    Où se trouvent les ménages aux revenus les plus modestes de Loudéac Communauté – Bretagne Centre ?
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/ecarts-revenus-lcbc.md)
 
 </div>
 

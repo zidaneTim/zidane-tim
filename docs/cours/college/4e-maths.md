@@ -6,25 +6,25 @@ Programme de mathématiques de l'enseignement agricole.
 
 <div class="grid cards" markdown>
 
--   :material-plus-minus:{ .lg .middle } **Nombres relatifs**
+-   :material-plus-minus:{ .lg .middle } <span class="zt-step">1</span> **Nombres relatifs**
 
     ---
 
     Comprendre et utiliser les nombres positifs et négatifs.
 
--   :material-calculator:{ .lg .middle } **Calcul**
+-   :material-calculator:{ .lg .middle } <span class="zt-step">2</span> **Calcul**
 
     ---
 
     Additions, soustractions, priorités opératoires.
 
--   :material-scale-balance:{ .lg .middle } **Proportionnalité**
+-   :material-scale-balance:{ .lg .middle } <span class="zt-step">3</span> **Proportionnalité**
 
     ---
 
     Pourcentages, échelles, situations concrètes.
 
--   :material-shape-outline:{ .lg .middle } **Géométrie**
+-   :material-shape-outline:{ .lg .middle } <span class="zt-step">4</span> **Géométrie**
 
     ---
 
