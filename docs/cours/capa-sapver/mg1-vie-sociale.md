@@ -106,15 +106,6 @@ Agir dans son environnement social et numérique de façon responsable.
 
 </div>
 
-### Les 4 réflexes à retenir
-
-| Situation | Réflexe |
-|---|---|
-| Un SMS suspect | Le signaler au **33700** |
-| Un courriel suspect | Le signaler sur **signal-spam.fr** |
-| Un doute sur un lien | Ne pas cliquer, vérifier l'adresse réelle |
-| Victime d'une arnaque | **cybermalveillance.gouv.fr** |
-
 !!! tip "Où répondre ?"
 
     L'activité se fait à l'écran : réponds et dépose ta trace dans ton bloc-notes **OneNote**.
