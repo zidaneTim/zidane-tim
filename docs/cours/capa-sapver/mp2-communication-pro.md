@@ -8,7 +8,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
 <div class="grid cards" markdown>
 
--   :material-refresh:{ .lg .middle } **Faire le bilan de ses compétences numériques et organiser son espace pro**
+-   :material-refresh:{ .lg .middle } <span class="zt-step">1</span> **Faire le bilan de ses compétences numériques et organiser son espace pro**
 
     ---
 
@@ -16,7 +16,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/bilan-numerique-arborescence-pro.md)
 
--   :material-email-outline:{ .lg .middle } **Écrire trois courriels professionnels adaptés à trois destinataires**
+-   :material-email-outline:{ .lg .middle } <span class="zt-step">2</span> **Écrire trois courriels professionnels adaptés à trois destinataires**
 
     ---
 
@@ -24,7 +24,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/messagerie-communication-professionnelle.md)
 
--   :material-magnify:{ .lg .middle } **Construire un tableau de veille professionnelle en évaluant l'IA comme source**
+-   :material-magnify:{ .lg .middle } <span class="zt-step">3</span> **Construire un tableau de veille professionnelle en évaluant l'IA comme source**
 
     ---
 
@@ -32,7 +32,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/veille-documentaire-ia-professionnelle.md)
 
--   :material-clipboard-text-outline:{ .lg .middle } **Réaliser une fiche métier composite pour un forum recrutement**
+-   :material-clipboard-text-outline:{ .lg .middle } <span class="zt-step">4</span> **Réaliser une fiche métier composite pour un forum recrutement**
 
     ---
 
@@ -40,7 +40,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/fiche-metier-composite-vente.md)
 
--   :material-shield-lock-outline:{ .lg .middle } **Analyser un incident de cybersécurité en structure professionnelle**
+-   :material-shield-lock-outline:{ .lg .middle } <span class="zt-step">5</span> **Analyser un incident de cybersécurité en structure professionnelle**
 
     ---
 
@@ -48,7 +48,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/cybersecurite-structure-professionnelle.md)
 
--   :material-web:{ .lg .middle } **Modifier une page vitrine d'une structure sur un CMS simple**
+-   :material-web:{ .lg .middle } <span class="zt-step">6</span> **Modifier une page vitrine d'une structure sur un CMS simple**
 
     ---
 
@@ -56,7 +56,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/cms-page-vitrine-structure.md)
 
--   :material-map-marker-path:{ .lg .middle } **Organiser une tournée de partenaires France services**
+-   :material-map-marker-path:{ .lg .middle } <span class="zt-step">7</span> **Organiser une tournée de partenaires France services**
 
     ---
 
@@ -64,7 +64,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/tournee-aide-domicile.md)
 
--   :material-calculator-variant-outline:{ .lg .middle } **Construire un simulateur de caisse pour un marché de producteurs**
+-   :material-calculator-variant-outline:{ .lg .middle } <span class="zt-step">8</span> **Construire un simulateur de caisse pour un marché de producteurs**
 
     ---
 
@@ -72,7 +72,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/tableur-caisse-vente-directe.md)
 
--   :material-calendar-check-outline:{ .lg .middle } **Concevoir un planning d'interventions accessible**
+-   :material-calendar-check-outline:{ .lg .middle } <span class="zt-step">9</span> **Concevoir un planning d'interventions accessible**
 
     ---
 
@@ -80,7 +80,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/planning-interventions-accessible.md)
 
--   :material-email-fast-outline:{ .lg .middle } **Réaliser un publipostage de courriers de convocation**
+-   :material-email-fast-outline:{ .lg .middle } <span class="zt-step">10</span> **Réaliser un publipostage de courriers de convocation**
 
     ---
 
@@ -88,7 +88,7 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/publipostage-courrier-convocation.md)
 
--   :material-tag-multiple-outline:{ .lg .middle } **Publipostage avancé — étiquettes filtrées et bilan de trimestre**
+-   :material-tag-multiple-outline:{ .lg .middle } <span class="zt-step">11</span> **Publipostage avancé — étiquettes filtrées et bilan de trimestre**
 
     ---
 

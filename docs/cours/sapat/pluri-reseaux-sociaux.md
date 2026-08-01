@@ -8,7 +8,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
 <div class="grid cards" markdown>
 
--   :material-map-outline:{ .lg .middle } **Cartographier ses propres usages des réseaux sociaux**
+-   :material-map-outline:{ .lg .middle } <span class="zt-step">1</span> **Cartographier ses propres usages des réseaux sociaux**
 
     ---
 
@@ -16,7 +16,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/panorama-identite-numerique.md)
 
--   :material-lock-outline:{ .lg .middle } **Auditer et sécuriser les paramètres de confidentialité d'un compte**
+-   :material-lock-outline:{ .lg .middle } <span class="zt-step">2</span> **Auditer et sécuriser les paramètres de confidentialité d'un compte**
 
     ---
 
@@ -24,7 +24,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/confidentialite-securite-comptes.md)
 
--   :material-lifebuoy:{ .lg .middle } **Identifier une situation de cyberharcèlement et les recours**
+-   :material-lifebuoy:{ .lg .middle } <span class="zt-step">3</span> **Identifier une situation de cyberharcèlement et les recours**
 
     ---
 
@@ -32,7 +32,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/cyberharcelement-reflexes-signalement.md)
 
--   :material-briefcase-outline:{ .lg .middle } **Corriger un profil professionnel fictif pour préparer sa recherche d'emploi**
+-   :material-briefcase-outline:{ .lg .middle } <span class="zt-step">4</span> **Corriger un profil professionnel fictif pour préparer sa recherche d'emploi**
 
     ---
 
@@ -40,7 +40,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/e-reputation-emploi.md)
 
--   :material-magnify:{ .lg .middle } **Vérifier une information selon une méthode SIFT simplifiée**
+-   :material-magnify:{ .lg .middle } <span class="zt-step">5</span> **Vérifier une information selon une méthode SIFT simplifiée**
 
     ---
 
@@ -48,7 +48,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/fake-news-verification-sift.md)
 
--   :material-drama-masks:{ .lg .middle } **Distinguer un contenu authentique d'un deepfake**
+-   :material-drama-masks:{ .lg .middle } <span class="zt-step">6</span> **Distinguer un contenu authentique d'un deepfake**
 
     ---
 
@@ -56,7 +56,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/deepfakes-ia-generative-detection.md)
 
--   :material-circle-multiple-outline:{ .lg .middle } **Comparer sa bulle de filtres à celle de ses camarades**
+-   :material-circle-multiple-outline:{ .lg .middle } <span class="zt-step">7</span> **Comparer sa bulle de filtres à celle de ses camarades**
 
     ---
 
@@ -64,7 +64,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/bulles-de-filtres-personnalisation.md)
 
--   :material-scale-balance:{ .lg .middle } **Décrire le cadre légal d'une publication avec des personnes identifiables**
+-   :material-scale-balance:{ .lg .middle } <span class="zt-step">8</span> **Décrire le cadre légal d'une publication avec des personnes identifiables**
 
     ---
 
@@ -72,7 +72,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/droit-image-rgpd-publication.md)
 
--   :material-pencil-outline:{ .lg .middle } **Formaliser sa méthode de publication responsable**
+-   :material-pencil-outline:{ .lg .middle } <span class="zt-step">9</span> **Formaliser sa méthode de publication responsable**
 
     ---
 
@@ -80,7 +80,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/methode-publication-responsable.md)
 
--   :material-format-text:{ .lg .middle } **Rédiger un post adapté à un public cible**
+-   :material-format-text:{ .lg .middle } <span class="zt-step">10</span> **Rédiger un post adapté à un public cible**
 
     ---
 
@@ -88,7 +88,7 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/pluri-reseaux-sociaux/publier-texte-public-cible.md)
 
--   :material-image-outline:{ .lg .middle } **Créer un visuel accessible pour accompagner un message**
+-   :material-image-outline:{ .lg .middle } <span class="zt-step">11</span> **Créer un visuel accessible pour accompagner un message**
 
     ---
 
