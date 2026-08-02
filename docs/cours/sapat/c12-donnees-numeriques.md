@@ -14,31 +14,7 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
 <div class="grid cards" markdown>
 
--   :material-hospital-box-outline:{ .lg .middle } <span class="zt-step">1</span> **Maternités en baisse ?**
-
-    ---
-
-    Île-de-France, 2013-2023 : les capacités d'accueil en maternité évoluent-elles ?
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/maternites-ile-de-france.md)
-
--   :material-food-apple-outline:{ .lg .middle } <span class="zt-step">2</span> **Manger local**
-
-    ---
-
-    Circuits courts et alimentation sur le territoire.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
-
--   :material-paw-outline:{ .lg .middle } <span class="zt-step">3</span> **Les espèces non indigènes** · _entraînement ECCF_
-
-    ---
-
-    Les espèces venues d'ailleurs, commune par commune (support d'entraînement à l'épreuve).
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
-
--   :material-flash-outline:{ .lg .middle } <span class="zt-step">4</span> **Précarité énergétique**
+-   :material-flash-outline:{ .lg .middle } <span class="zt-step">1</span> **Précarité énergétique**
 
     ---
 
@@ -46,13 +22,37 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/energie-lcbc.md)
 
--   :material-account-heart-outline:{ .lg .middle } <span class="zt-step">5</span> **Vieillir en Bretagne Centre**
+-   :material-account-heart-outline:{ .lg .middle } <span class="zt-step">2</span> **Vieillir en Bretagne Centre**
 
     ---
 
     Population âgée et besoins d'accompagnement.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/sante-bretagne.md)
+
+-   :material-food-apple-outline:{ .lg .middle } <span class="zt-step">3</span> **Manger local**
+
+    ---
+
+    Circuits courts et alimentation sur le territoire.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
+
+-   :material-hospital-box-outline:{ .lg .middle } <span class="zt-step">4</span> **Maternités en baisse ?**
+
+    ---
+
+    Île-de-France, 2013-2023 : les capacités d'accueil en maternité évoluent-elles ?
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/maternites-ile-de-france.md)
+
+-   :material-paw-outline:{ .lg .middle } <span class="zt-step">5</span> **Les espèces non indigènes** · _entraînement ECCF_
+
+    ---
+
+    Les espèces venues d'ailleurs, commune par commune (support d'entraînement à l'épreuve).
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
 
 </div>
 
