@@ -47,6 +47,16 @@ officielle, puis l'appliquer à des cas concrets pour t'entraîner à repérer l
    générées) et note ton verdict pour chacun avec les indices observés.
 2. Compare ton verdict à la réponse donnée en classe et identifie ce qui t'a fait te tromper, si c'est le cas.
 
+??? example "Si tu n'as pas eu les cas fournis en classe (absence, retard)"
+    Utilise ces 3 cas de remplacement, décrits ici sans image à charger :
+    1. Une vidéo où une personnalité connue semble prononcer une phrase inhabituelle : les lèvres bougent presque
+       en rythme avec le son, mais avec un très léger décalage, et le clignement des yeux paraît trop régulier.
+    2. Un audio où une voix familière tient des propos surprenants : le débit est très régulier, sans les
+       hésitations ou reprises d'une vraie conversation, et le fond sonore reste parfaitement silencieux.
+    3. Une photo de groupe où un visage semble légèrement flou ou déformé par rapport aux autres, avec une
+       lumière sur ce visage qui ne correspond pas à la direction de la lumière sur le reste de la photo.
+    Applique ta grille de détection à ces 3 descriptions comme si tu visionnais les fichiers réels.
+
 ### C — Je construis ma conduite à tenir
 
 1. Rédige une conduite à tenir en 3 étapes pour un contenu suspect qui circule sur tes réseaux (vérifier, ne pas

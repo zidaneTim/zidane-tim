@@ -21,6 +21,12 @@ Tu vas auditer les paramètres de confidentialité et de sécurité d'un **compt
 ton compte personnel), pour repérer les réglages laissés par défaut et corriger ceux qui exposent trop
 d'informations.
 
+??? example "Si aucun compte de test ne t'a été fourni en classe (absence, retard)"
+    Crée toi-même un compte de test avant de commencer : utilise une adresse e-mail dédiée (jamais ton compte
+    personnel principal), un nom d'utilisateur fictif, et n'y renseigne aucune information réelle te concernant
+    (photo, localisation, contacts). Une fois ce compte de test créé sur le réseau social de ton choix, réalise
+    l'audit demandé en A, B et C sur ce compte.
+
 !!! question "Problématique"
     « Quels réglages par défaut d'un compte de réseau social exposent le plus d'informations, et comment les
     corriger sans perdre les fonctionnalités utiles ? »

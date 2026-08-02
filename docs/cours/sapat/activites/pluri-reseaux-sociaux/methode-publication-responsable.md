@@ -55,6 +55,12 @@ réutiliseras directement pour publier un texte puis un visuel dans les prochain
    révèle.
 2. Ajuste ta méthode si une étape s'est révélée inutile ou si une vérification manquait.
 
+??? example "Si tu n'as pas eu l'exemple fourni en classe (absence, retard)"
+    Utilise cet exemple de remplacement : un post prêt à publier annonce « Record de chaleur historique dans notre
+    région, du jamais vu ! » avec une photo d'un thermomètre affichant 42°C, sans source citée, et tague par erreur
+    un camarade de classe visible en arrière-plan de la photo sans que celui-ci ait donné son accord. Applique ta
+    méthode en 4 étapes à cet exemple comme s'il t'avait été fourni en classe.
+
 ### Questions de synthèse
 
 - Quelle étape de ta méthode t'a semblé la plus utile en la testant sur l'exemple fourni ?

@@ -17,7 +17,7 @@
 
 ## Mise en situation
 
-Tu reviens de ta première semaine de stage E6 dans un **EHPAD**. Pendant l'observation, tu as suivi la situation de
+Tu es agent dans un **EHPAD**. Depuis une semaine, tu suis la situation de
 **Mme Le Roux, 84 ans**, résidente depuis six mois : ses deux enfants, qui vivent à plus de 300 km, appellent
 chaque jour le personnel pour savoir « comment s'est passée la journée », ce qui mobilise beaucoup de temps
 soignant en appels redondants.
@@ -55,7 +55,7 @@ qui appellent séparément le même jour.
 
 ### A — Je diagnostique la redondance des transmissions
 
-À partir de ce que tu as observé en stage, identifie ce qui rend les appels des familles redondants pour le
+À partir de ce que tu as observé dans la structure, identifie ce qui rend les appels des familles redondants pour le
 personnel.
 
 **Ta production doit montrer :**

@@ -39,8 +39,8 @@ cadre légal, applicable à des cas de publication concrets fournis en classe.
 
 ### A — Je construis ma fiche cadre légal
 
-1. Sur la page [CNIL — Hypertrucage (deepfake), comment se protéger](https://www.cnil.fr/fr/hypertrucage-deepfake){ target="_blank" rel="noopener" } et le site de la CNIL (page consentement et droits), relève les règles principales concernant le consentement à la publication d'une image et le cas particulier des mineurs.
-2. Relève également, sur le même site, en quoi consiste le droit à l'oubli et ses limites.
+1. Sur la page [CNIL — Utilisation des photos des élèves : faut-il l'accord des parents ?](https://www.cnil.fr/fr/cnil-direct/question/utilisation-des-photos-des-eleves-faut-il-laccord-des-parents){ target="_blank" rel="noopener" }, relève les règles principales concernant le consentement à la publication d'une image et le cas particulier des mineurs.
+2. Sur la page [CNIL — Droit au déréférencement](https://www.cnil.fr/fr/comprendre-mes-droits/droit-au-dereferencement){ target="_blank" rel="noopener" }, relève en quoi consiste le droit à l'oubli (déréférencement) et ses limites.
 
 ### B — J'applique le cadre à des cas concrets
 
@@ -70,7 +70,8 @@ cadre légal, applicable à des cas de publication concrets fournis en classe.
 
 ## Ressources et outils
 
-- **CNIL** : source officielle sur le droit à l'image, le consentement et le droit à l'oubli — [lien](https://www.cnil.fr){ target="_blank" rel="noopener" }.
+- **CNIL — Utilisation des photos des élèves** : consentement des parents pour la publication d'une image de mineur — [lien](https://www.cnil.fr/fr/cnil-direct/question/utilisation-des-photos-des-eleves-faut-il-laccord-des-parents){ target="_blank" rel="noopener" }.
+- **CNIL — Droit au déréférencement** : ce qu'est le droit à l'oubli et ses limites — [lien](https://www.cnil.fr/fr/comprendre-mes-droits/droit-au-dereferencement){ target="_blank" rel="noopener" }.
 
 ## Grille d'évaluation Droit à l'image et RGPD (Pluri MG2)
 

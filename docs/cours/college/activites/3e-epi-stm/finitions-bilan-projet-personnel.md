@@ -1,0 +1,93 @@
+# 🪛 Finaliser mon objet et bilan de projet
+
+<p class="zt-kicker">3e EA — EPI STM · Mon projet</p>
+
+<p class="zt-lede">Ton objet est imprimé : il te reste à le finir proprement, puis à dresser le bilan de ton projet.</p>
+
+<div class="zt-meta" markdown>
+  <span>:material-clock-outline: 125 min</span>
+  <span>:material-school-outline: EPI STM — Mon projet</span>
+  <span>:material-tag-outline: Finitions · Bilan de projet</span>
+</div>
+
+## Mise en situation
+
+Ton objet vient de sortir de l'imprimante 3D (ou en est aux dernières étapes) : il porte encore les traces du
+procédé de fabrication — supports d'impression, petites bavures. Une pièce bien finie se reconnaît à ces détails.
+C'est aussi le moment de prendre du recul sur tout le chemin parcouru depuis ton croquis coté initial.
+
+!!! question "Problématique"
+    Qu'est-ce qui distingue un objet imprimé « brut » d'un objet fini, et qu'ai-je réellement appris en menant ce
+    projet du croquis à l'objet terminé ?
+
+## Objectifs
+
+<div class="zt-objectifs" markdown>
+
+- Finir son objet imprimé avec un outillage simple à main (retrait des supports, ébavurage léger).
+- Dresser le bilan de son projet personnel, du croquis initial à l'objet terminé.
+
+</div>
+
+## Travail à faire
+
+### A — Finaliser mon objet imprimé
+
+**Réaliser les finitions manuelles de ma pièce.**
+
+1. Identifier sur ta pièce les supports d'impression à retirer (fines structures ayant servi à soutenir les
+   porte-à-faux pendant l'impression).
+2. Retirer délicatement ces supports avec un cutter, en travaillant dans le sens qui évite d'abîmer la surface de
+   la pièce.
+3. Ébavurer les bords avec une lime à ongle ou un outil équivalent, pour supprimer les petites irrégularités
+   laissées par l'impression.
+4. Comparer ta pièce finie à ton cahier des charges initial : la fonction prévue est-elle remplie ? les dimensions
+   sont-elles conformes ?
+
+### B — Dresser le bilan de mon projet
+
+**Revenir sur l'ensemble du projet, du croquis à l'objet fini.**
+
+1. Reprendre, dans l'ordre chronologique, les grandes étapes de ton projet : croquis coté, tutoriel SketchUp,
+   cahier des charges, modélisation personnelle, tranchage, impression, finitions.
+2. Pour chaque étape, noter une difficulté rencontrée et comment tu l'as surmontée (ou pas encore).
+3. Comparer l'objet fini à l'idée de départ : qu'est-ce qui a changé entre le croquis initial et l'objet final, et
+   pourquoi (contrainte de temps d'impression, épaisseur de paroi, porte-à-faux...) ?
+4. Formuler ce que tu referais différemment si tu devais recommencer ce projet.
+
+### Questions de synthèse
+
+- Pourquoi une pièce imprimée en 3D nécessite-t-elle presque toujours une étape de finition manuelle ?
+- Quelle a été la contrainte technique qui a le plus influencé la différence entre ton croquis initial et ton
+  objet final ?
+
+??? tip "Vérifier mes réponses"
+    - Les supports d'impression, nécessaires pour soutenir les parties en porte-à-faux pendant la fabrication,
+      laissent des traces et de petites irrégularités qu'il faut retirer et lisser après l'impression pour obtenir
+      une pièce propre et utilisable.
+    - La réponse dépend de ton projet réel : les contraintes les plus fréquentes sont le temps d'impression
+      maximum fixé (qui limite la taille ou la complexité) et l'épaisseur de paroi minimale nécessaire pour que la
+      pièce ne soit pas trop fragile.
+
+!!! tip "Où répondre ?"
+    Dépose une photo de ton objet fini et ton bilan de projet dans ton bloc-notes **OneNote**, section
+    *EPI STM — Mon projet*.
+
+## Ressources et outils
+
+- **Outillage de finition (cutter, lime à ongle)** : mis à disposition en classe — activité intrinsèquement
+  collective ; si tu es absent, demande à ton professeur de conserver ta pièce pour la finir à ta prochaine
+  présence, le bilan écrit reste réalisable à distance à partir des photos des étapes précédentes.
+- **Ton cahier des charges et ton croquis coté** (séances précédentes) : base de comparaison pour le bilan.
+
+## Grille d'évaluation Finitions et bilan de projet (obj. 5)
+
+<div class="zt-grille" markdown>
+
+| Critère | Indicateurs observables | Niveau |
+|---|---|---|
+| Qualité des finitions | Supports retirés proprement, bavures traitées, pièce utilisable | -- / - / + / ++ |
+| Conformité au cahier des charges | L'objet fini est comparé point par point au cahier des charges initial | -- / - / + / ++ |
+| Bilan réflexif | Difficultés, écarts et pistes d'amélioration sont formulés avec des exemples concrets | -- / - / + / ++ |
+
+</div>

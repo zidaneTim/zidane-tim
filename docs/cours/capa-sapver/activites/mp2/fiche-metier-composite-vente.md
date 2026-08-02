@@ -18,8 +18,8 @@
 
 ## Mise en situation
 
-Tu es en immersion sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du Pays de
-Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
+Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du
+Pays de Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
 métier imprimable présentant le métier de vendeur/vendeuse en circuit court, pour attirer des jeunes intéressés par
 la vente en espace rural.
 

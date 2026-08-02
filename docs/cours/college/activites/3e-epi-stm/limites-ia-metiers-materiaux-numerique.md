@@ -1,0 +1,119 @@
+# 🧠 Les limites de l'IA et les métiers des matériaux
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+</div>
+
+<p class="zt-kicker">3e EA — EPI STM · Intelligence artificielle (enrichissement local)</p>
+
+<p class="zt-lede">Pourquoi une IA se trompe-t-elle parfois, et quels métiers se cachent derrière la conception, l'impression et la donnée ?</p>
+
+<div class="zt-meta" markdown>
+  <span>:material-clock-outline: 125 min</span>
+  <span>:material-school-outline: EPI STM — IA · Orientation</span>
+  <span>:material-tag-outline: Limites de l'IA · Métiers du secteur</span>
+</div>
+
+## Mise en situation
+
+Tu as entraîné un modèle d'IA il y a quelques séances, et tu as sans doute observé qu'il se trompait parfois. C'est
+normal : une IA ne « comprend » pas au sens humain, elle repère des motifs dans les exemples qu'on lui a donnés.
+Aujourd'hui, tu vas analyser pourquoi ton modèle s'est trompé, apprendre à repérer une erreur dans un texte produit
+par une IA générative, et découvrir des métiers liés au secteur des matériaux et du numérique.
+
+!!! question "Problématique"
+    Pourquoi une intelligence artificielle peut-elle se tromper, et comment repérer une erreur qu'elle a produite ?
+
+## Objectifs
+
+<div class="zt-objectifs" markdown>
+
+- Analyser pourquoi le modèle d'IA entraîné en séance précédente s'est parfois trompé.
+- Repérer une erreur ou une affirmation fausse dans un texte produit par une IA générative, et identifier des métiers du secteur.
+
+</div>
+
+## Travail à faire
+
+### A — Comprendre les erreurs de mon modèle d'IA
+
+**Revenir sur le modèle entraîné avec Vittascience.**
+
+1. Reprendre les captures de ton modèle entraîné et le cas d'erreur que tu avais noté.
+2. Pour ce cas d'erreur, formuler une hypothèse : exemple ambigu, catégories trop proches, pas assez d'exemples
+   fournis pour une catégorie, mauvaise qualité de la photo ?
+3. Proposer une amélioration concrète qui réduirait cette erreur (plus d'exemples, exemples plus variés, meilleur
+   éclairage...).
+
+### B — Repérer une erreur dans un texte produit par une IA
+
+**Analyser un texte pour y trouver ce qui est faux.**
+
+1. Lire attentivement le texte ci-dessous, rédigé dans le style d'une réponse d'IA générative sur l'impression 3D
+   et les matériaux :
+
+    !!! note "Texte à analyser"
+        « L'impression 3D par dépôt de filament fondu (FDM) fonctionne en faisant fondre un filament de
+        plastique, comme le PLA, qui commence à ramollir dès 60 °C environ — une température facilement atteinte
+        avec un simple sèche-cheveux. La buse dépose ensuite la matière couche par couche pour construire l'objet.
+        Les imprimantes FDM grand public, comme celles utilisées dans les collèges, peuvent aussi imprimer
+        directement des pièces métalliques en faisant fondre un filament d'acier, ce qui permet de fabriquer des
+        objets aussi résistants qu'une pièce usinée. Enfin, tout objet imprimé en plastique PLA se dégrade
+        naturellement en quelques semaines s'il est laissé dehors, ce qui en fait un matériau totalement sans
+        impact sur l'environnement. »
+
+2. Repérer, phrase par phrase, ce qui te semble correct ou incorrect, en t'appuyant sur ce que tu as observé et
+   appris pendant les séances précédentes (température de la buse, matériau du filament, expérience de
+   dégradation des matériaux).
+3. Reformuler chaque erreur repérée avec la bonne information, dans tes propres mots.
+4. Expliquer pourquoi un texte produit par une IA peut sembler convaincant tout en contenant des erreurs.
+
+### C — Découvrir des métiers du secteur
+
+**Rechercher des métiers liés aux matériaux et au numérique.**
+
+1. Choisir deux métiers parmi : prototypiste, dessinateur industriel, technicien de fab lab, technicien en
+   impression 3D, métiers de la donnée ou de l'IA.
+2. Pour chacun, rechercher les missions principales et la formation généralement nécessaire, sur un site
+   d'orientation fiable.
+3. Relier chaque métier choisi à une compétence que tu as toi-même mobilisée cette année (dessin technique,
+   modélisation 3D, impression, entraînement d'un modèle d'IA...).
+
+### Questions de synthèse
+
+- Cite une des erreurs du texte étudié et la correction que tu y apportes.
+- En quoi ton expérience avec ton propre modèle Vittascience t'aide-t-elle à mieux comprendre pourquoi une IA
+  générative peut se tromper dans un texte ?
+
+??? tip "Vérifier mes réponses"
+    - Trois erreurs sont présentes dans le texte : le PLA ne ramollit pas dès 60 °C (il faut le chauffer bien
+      davantage pour l'extruder, un sèche-cheveux ne suffit pas) ; une imprimante FDM grand public ne peut pas
+      imprimer de filament métallique fondu, elle est conçue pour des plastiques à température plus basse que la
+      fusion des métaux ; et un objet en PLA ne se dégrade pas « naturellement en quelques semaines » dehors, sa
+      dégradation réelle nécessite des conditions industrielles de compostage et prend beaucoup plus de temps.
+    - Une IA générative de texte, comme le modèle Vittascience que tu as entraîné, produit une réponse à partir de
+      régularités statistiques apprises sur des exemples : elle peut donc combiner des informations de façon
+      plausible mais fausse, exactement comme ton modèle pouvait confondre deux catégories visuellement proches.
+
+!!! tip "Où répondre ?"
+    Dépose ta fiche « limites de l'IA » (analyse du texte + amélioration proposée pour ton modèle) et ta fiche
+    métiers dans ton bloc-notes **OneNote**, section *EPI STM — Impression 3D et IA*.
+
+## Ressources et outils
+
+- **Onisep** : présentation des métiers et des formations — [rechercher un métier sur onisep.fr](https://www.onisep.fr/recherche/metiers){ target="_blank" rel="noopener" }
+- **Tes captures du modèle Vittascience** (séance précédente) : base de l'analyse d'erreur.
+
+## Grille d'évaluation Limites de l'IA et métiers (obj. 4)
+
+<div class="zt-grille" markdown>
+
+| Critère | Indicateurs observables | Niveau |
+|---|---|---|
+| Analyse du modèle entraîné | Hypothèse d'erreur plausible et amélioration concrète proposée | -- / - / + / ++ |
+| Repérage d'erreurs IA (esprit critique) | Les erreurs du texte sont identifiées et correctement reformulées | -- / - / + / ++ |
+| Métiers du secteur | Deux métiers documentés et reliés à une compétence personnelle réelle | -- / - / + / ++ |
+
+</div>

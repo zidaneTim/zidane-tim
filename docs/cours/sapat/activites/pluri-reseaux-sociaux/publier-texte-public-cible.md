@@ -21,6 +21,13 @@ Un post brouillon te sera fourni, écrit sans attention particulière (fautes, t
 Tu vas le réécrire en appliquant la méthode de publication responsable construite lors de l'activité précédente,
 en l'adaptant à un public cible précis.
 
+??? example "Si tu n'as pas eu le post brouillon ni le public cible attribués en classe (absence, retard)"
+    Utilise ce post brouillon de remplacement : *« g vu un truc de ouf hier au lycée, un prof a explosé un élève
+    devant tt le monde jvous jure. Regardez la photo ci-joint c'est trop drole »* (accompagné d'une photo prise au
+    téléphone montrant un élève identifiable). Ton public cible attribué pour cet exercice : **de futurs
+    employeurs** consultant ton profil avant un entretien de stage. Réécris ce post en appliquant ta méthode et en
+    l'adaptant à ce public.
+
 !!! question "Problématique"
     « Comment réécrire un post pour qu'il soit à la fois vérifié, respectueux des personnes concernées, et adapté
     au public visé ? »

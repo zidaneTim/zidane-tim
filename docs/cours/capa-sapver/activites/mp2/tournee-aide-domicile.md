@@ -86,6 +86,18 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 - Ces adresses sont publiques. Si ce même exercice portait sur une vraie tournée de bénéficiaires du SAAD (noms et
   adresses personnelles), qu'est-ce que cela changerait dans la manière de traiter, stocker et partager le document ?
 
+??? tip "Vérifier mes réponses"
+    - Le nombre exact de points France services dépend du fichier nationale téléchargé au moment de l'activité (le
+      jeu de données évolue) : vérifie que ton compte correspond au nombre de repères posés sur ta carte MyMaps, et
+      que chaque structure retenue appartient bien à une des 38 communes de Loudéac Communauté – Bretagne Centre.
+    - Il n'existe pas un seul bon ordre de passage : ta justification doit citer un critère géographique concret
+      (communes voisines regroupées, allers-retours évités) et correspondre réellement à la colonne « Ordre » de ta
+      feuille de tournée.
+    - Avec des données personnelles de bénéficiaires (noms, adresses privées), le document relèverait du secret
+      professionnel et du RGPD : accès restreint aux seules personnes habilitées, pas de diffusion ni de stockage
+      non sécurisé, conservation limitée dans le temps — contrairement aux adresses professionnelles publiques de
+      cet exercice.
+
 !!! tip "Où répondre ?"
     Dépose ta feuille de tournée Excel, le lien de ta carte MyMaps et tes réponses dans ton bloc-notes **OneNote**,
     section *MP2 — Communication professionnelle*.

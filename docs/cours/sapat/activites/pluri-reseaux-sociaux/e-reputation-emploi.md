@@ -21,6 +21,14 @@ Tu vas bientôt chercher un stage ou un premier emploi. Avant de travailler ta p
 t'entraînes sur un **profil professionnel fictif** (nom d'emprunt) présentant plusieurs points faibles typiques,
 pour apprendre à les repérer avant qu'un recruteur ne le fasse.
 
+??? example "Si tu n'as pas eu le profil fourni en classe (absence, retard)"
+    Utilise ce profil de remplacement (« Lisa D., 18 ans ») : photo de profil prise en soirée, verre à la main ;
+    bio « J'aime faire la fête et dormir 🎉 » ; publication publique récente se plaignant de son ancien employeur
+    (« mon ex-patron était vraiment nul ») ; en revanche, une publication mettant en avant un projet solidaire
+    mené en PFMP (aide aux courses pour des personnes âgées du quartier, avec photo de l'action), et une
+    présentation claire de sa formation Bac Pro SAPAT. Travaille sur ce profil comme s'il t'avait été fourni en
+    classe.
+
 !!! question "Problématique"
     « Quels éléments d'un profil en ligne un recruteur retient-il en premier, et comment corriger ceux qui nuisent
     à l'image professionnelle sans effacer toute trace personnelle ? »

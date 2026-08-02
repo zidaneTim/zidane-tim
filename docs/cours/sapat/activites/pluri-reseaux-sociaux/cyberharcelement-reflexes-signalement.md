@@ -21,6 +21,14 @@ Un cas fictif te sera présenté en classe (échange de messages et commentaires
 élèves d'un lycée). Tu vas l'analyser pour identifier ce qui relève du cyberharcèlement et construire une fiche
 réflexes réutilisable, pour toi ou pour un proche confronté à une situation similaire.
 
+??? example "Si tu n'as pas eu le cas distribué en classe (absence, retard)"
+    Utilise ce cas de remplacement : *« Depuis deux semaines, Camille reçoit chaque soir des messages moqueurs sur
+    son physique de la part d'un groupe de 4 élèves de sa classe, sur un groupe de discussion commun. Un des
+    élèves republie régulièrement une photo ratée de Camille, prise sans son accord, avec des commentaires
+    dégradants. Camille a quitté le groupe une fois mais y a été réintégrée de force par un autre élève. Deux
+    autres élèves du groupe voient les messages mais ne réagissent pas. »* Travaille sur ce cas comme si c'était
+    celui distribué en classe.
+
 !!! question "Problématique"
     « Quels signes permettent de reconnaître une situation de cyberharcèlement, et quels sont les bons réflexes de
     signalement ? »

@@ -17,7 +17,7 @@
 
 ## La situation
 
-En stage dans un EHPAD, tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne.
+Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne.
 
 !!! question "Problématique"
     Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
