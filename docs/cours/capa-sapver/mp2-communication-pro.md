@@ -113,3 +113,5 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 - **Information et données - Socle commun**
 - **Création de contenu - Socle commun**
 - **Cybersécurité (MAJ 2025)**
+- **Collaborer en entreprise**
+- **Bac Pro — Tronc commun MG1**

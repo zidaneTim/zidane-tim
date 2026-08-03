@@ -15,6 +15,8 @@
   <span>:material-tag-outline: Google Sites</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Collaborer en entreprise*</small>
+
 ## Mise en situation
 
 Tu es agent du **SAAD de Loudéac**. Le site vitrine du service n'a pas été mis à jour depuis plusieurs mois : les

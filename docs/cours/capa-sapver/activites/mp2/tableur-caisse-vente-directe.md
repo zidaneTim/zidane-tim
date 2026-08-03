@@ -15,6 +15,8 @@
   <span>:material-tag-outline: Tableur · Formules</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Bac Pro — Tronc commun MG1*</small>
+
 ## Mise en situation
 
 Tu es en mission ponctuelle sur le stand d'une **AMAP du Pays de Loudéac**, au moment du Black Friday : la
