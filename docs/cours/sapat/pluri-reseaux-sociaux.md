@@ -4,6 +4,11 @@
 
 Publier en conscience et en toute sécurité sur les réseaux sociaux numériques : vérifier une information, protéger ses données, publier de façon responsable.
 
+!!! note "Tu as aussi des activités Cadre de vie / Quotidien"
+
+    Le module C8.1/C8.2 (missions de l'aidant numérique) est publié sur une page à part, section *Activités
+    Terminale* : [Voir les activités](c81-c82-cadre-de-vie.md#activites-terminale-missions-de-laidant-numerique).
+
 ## Activités
 
 <div class="grid cards" markdown>

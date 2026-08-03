@@ -4,6 +4,15 @@
 
 L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 
+!!! tip "4 sections à parcourir dans l'ordre"
+
+    1. Environnement numérique, risques et sécurité
+    2. Données personnelles, droits et devoirs
+    3. Projet laïcité — journée du 9 décembre
+    4. Créer des contenus accessibles et professionnels
+
+    Chaque section repart à l'étape 1 : une fois une section terminée, descends à la section suivante.
+
 ## Environnement numérique, risques et sécurité
 
 <div class="grid cards" markdown>
