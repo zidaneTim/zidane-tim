@@ -16,6 +16,8 @@
   <span>:material-tag-outline: Excel</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Bac Pro — Tronc commun MG1*</small>
+
 ## Mise en situation
 
 Après avoir dressé un premier état des lieux du vieillissement de la population du territoire, le **CCAS de

@@ -15,6 +15,8 @@
   <span>:material-tag-outline: Moteur de recherche · Tableur</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Information et données - Socle commun*</small>
+
 ## Mise en situation
 
 Tu es agent du **SAAD de Loudéac**. Une famille s'interroge sur les aides financières disponibles pour financer

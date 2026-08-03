@@ -16,6 +16,8 @@
   <span>:material-tag-outline: Explorateur de fichiers · Pix Orga</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
+
 ## Mise en situation
 
 Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**, pour ta deuxième année de CAPa

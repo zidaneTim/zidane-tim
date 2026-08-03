@@ -42,3 +42,4 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 - **Tableur pour présenter des données**
 - **Cybersécurité (MAJ 2025)**
 - **Information et données - Socle commun**
+- **Bac Pro — Tronc commun MG1**

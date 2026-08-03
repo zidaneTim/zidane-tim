@@ -108,3 +108,8 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 - **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel**
 - **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle**
 - **Tableur pour calculer**
+- **Environnement numérique - Socle commun**
+- **Communication et collaboration - Socle commun**
+- **Information et données - Socle commun**
+- **Création de contenu - Socle commun**
+- **Cybersécurité (MAJ 2025)**

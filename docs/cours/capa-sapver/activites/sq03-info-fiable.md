@@ -15,6 +15,8 @@
   <span>:material-tag-outline: Recherche d'information</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — EMI Collège*</small>
+
 ## La situation
 
 Sur ton téléphone, une vidéo affirme : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Ton cousin y croit et veut essayer. Le même jour, tu vois une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**.

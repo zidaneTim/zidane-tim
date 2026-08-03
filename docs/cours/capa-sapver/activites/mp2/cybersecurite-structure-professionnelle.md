@@ -16,6 +16,8 @@
   <span>:material-tag-outline: cybermalveillance.gouv.fr</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025)*</small>
+
 ## Mise en situation
 
 Tu es agent du **SAAD de Loudéac**. Ce matin, la secrétaire du service a reçu un courriel qui semblait venir de la

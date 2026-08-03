@@ -16,6 +16,8 @@
   <span>:material-tag-outline: Word/traitement de texte · Export PDF</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
+
 ## Mise en situation
 
 Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du

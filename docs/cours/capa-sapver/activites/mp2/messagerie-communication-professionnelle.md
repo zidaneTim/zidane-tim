@@ -15,6 +15,8 @@
   <span>:material-tag-outline: Messagerie ENT · Numérisation</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Communication et collaboration - Socle commun*</small>
+
 ## Mise en situation
 
 Tu es agent du **SAAD de Loudéac**. En une matinée, ta responsable de secteur te demande de gérer trois échanges
