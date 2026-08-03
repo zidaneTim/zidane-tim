@@ -37,9 +37,9 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
 ## Parcours Pix à faire
 
-- **Sciences - 2nde pro (Programme 2019, MAJ 2025)**
-- **Tableur pour calculer**
-- **Tableur pour présenter des données**
-- **Cybersécurité (MAJ 2025)**
-- **Information et données - Socle commun**
-- **Bac Pro — Tronc commun MG1**
+- **Sciences - 2nde pro (Programme 2019, MAJ 2025)** (1)
+- **Tableur pour calculer** (1)
+- **Tableur pour présenter des données** (1)
+- **Cybersécurité (MAJ 2025)** (activité EG4 rattachée — [Organiser et sécuriser son poste](eg4-vivre-ensemble.md#environnement-numerique-risques-et-securite))
+- **Information et données - Socle commun** (activité EG4 rattachée — [Organiser et sécuriser son poste](eg4-vivre-ensemble.md#environnement-numerique-risques-et-securite))
+- **Bac Pro — Tronc commun MG1** (2)

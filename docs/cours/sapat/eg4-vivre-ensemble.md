@@ -144,3 +144,16 @@ L'expérience du vivre et de l'agir ensemble dans le respect de l'autre.
 !!! tip "Où répondre ?"
 
     Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**.
+
+## Parcours Pix à faire
+
+> Cette page a 4 sections, chacune renumérotée de 1 : le numéro entre parenthèses est précédé du nom de la section.
+
+- **Environnement numérique - Socle commun** (Environnement numérique, risques et sécurité, n°1)
+- **Cybersécurité (MAJ 2025)** (Environnement numérique, risques et sécurité, n°2)
+- **Information et données - Socle commun** (Environnement numérique, risques et sécurité, n°2)
+- **Protection et sécurité - Socle commun** (Données personnelles, droits et devoirs, n°1)
+- **Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA »** (Données personnelles, droits et devoirs, n°3 — non obligatoire en 2nde SAPAT, correspondance thématique directe)
+- **EMI Collège** (Projet laïcité — journée du 9 décembre, n°1)
+- **Création de contenu - Socle commun** (Projet laïcité — journée du 9 décembre, n°2)
+- **Communication et collaboration - Socle commun** (Créer des contenus accessibles et professionnels, n°1)

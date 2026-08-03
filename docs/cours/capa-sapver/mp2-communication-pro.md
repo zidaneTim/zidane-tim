@@ -104,14 +104,14 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
 ## Parcours Pix à faire
 
-- **Utiliser un environnement numérique professionnel de manière responsable et autonome**
-- **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel**
-- **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle**
-- **Tableur pour calculer**
-- **Environnement numérique - Socle commun**
-- **Communication et collaboration - Socle commun**
-- **Information et données - Socle commun**
-- **Création de contenu - Socle commun**
-- **Cybersécurité (MAJ 2025)**
-- **Collaborer en entreprise**
-- **Bac Pro — Tronc commun MG1**
+- **Utiliser un environnement numérique professionnel de manière responsable et autonome** (7)
+- **Rechercher et traiter des informations en fonction d'un besoin d'information professionnel** (7)
+- **Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle** (7)
+- **Tableur pour calculer** (7)
+- **Environnement numérique - Socle commun** (1)
+- **Communication et collaboration - Socle commun** (2)
+- **Information et données - Socle commun** (3)
+- **Création de contenu - Socle commun** (4)
+- **Cybersécurité (MAJ 2025)** (5)
+- **Collaborer en entreprise** (6)
+- **Bac Pro — Tronc commun MG1** (8)

@@ -156,3 +156,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**. Seule la
     fiche de notions ci-dessus est prévue pour l'impression.
+
+## Parcours Pix à faire
+
+- **Éducation numérique — émancipation/inclusion** (1)
