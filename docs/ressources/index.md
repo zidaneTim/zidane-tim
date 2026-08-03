@@ -1,5 +1,9 @@
 # Ressources
 
+## Les règles en salle info
+
+Avant de commencer : [découvre les règles à respecter en salle informatique](regles-salle-info.md).
+
 ## Réflexes numériques essentiels
 
 <div class="grid cards" markdown>
@@ -92,5 +96,45 @@ Tu as fini ton travail ? Voici des sites à explorer : jeux sérieux, concours, 
     Association de protection des jeunes en ligne ; ligne d'écoute 3018 (harcèlement, cyberharcèlement).
 
     [:octicons-arrow-right-24: En savoir plus](https://e-enfance.org/)
+
+-   :material-puzzle-outline:{ .lg .middle } **Castor Informatique**
+
+    ---
+
+    Concours national de pensée informatique : énigmes ludiques, de la 6e à la Terminale.
+
+    [:octicons-arrow-right-24: S'entraîner](https://www.castor-informatique.fr/)
+
+-   :material-fish:{ .lg .middle } **Quiz hameçonnage (Google)**
+
+    ---
+
+    8 e-mails à trier : phishing ou légitime ? Teste ton flair en repérant les pièges.
+
+    [:octicons-arrow-right-24: Tester mon flair](https://phishingquiz.withgoogle.com/?hl=fr)
+
+-   :material-flag-checkered:{ .lg .middle } **Concours Algoréa**
+
+    ---
+
+    Concours national gratuit de programmation (Scratch, Blockly, Python), du CM1 à la Terminale.
+
+    [:octicons-arrow-right-24: Se qualifier](https://algorea.org/)
+
+-   :material-keyboard-outline:{ .lg .middle } **Tapotons**
+
+    ---
+
+    Apprends à taper au clavier avec tes 10 doigts : exercices, XP et niveaux pour progresser.
+
+    [:octicons-arrow-right-24: S'entraîner](https://tapotons.fr/)
+
+-   :material-account-lock-outline:{ .lg .middle } **Ta vie privée, c'est secret !**
+
+    ---
+
+    Quiz de la CNIL (Les Incollables) sur les données personnelles et les réseaux sociaux.
+
+    [:octicons-arrow-right-24: Faire le quiz](https://quiz-digital-incollables.playbac.fr/ta-vie-privee-cest-secret/30)
 
 </div>
