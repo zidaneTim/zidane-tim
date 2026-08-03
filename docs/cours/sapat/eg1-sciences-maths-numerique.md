@@ -40,6 +40,6 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 - **Sciences - 2nde pro (Programme 2019, MAJ 2025)** (1)
 - **Tableur pour calculer** (1)
 - **Tableur pour présenter des données** (1)
-- **Cybersécurité (MAJ 2025)** (activité EG4 rattachée — [Organiser et sécuriser son poste](eg4-vivre-ensemble.md#environnement-numerique-risques-et-securite))
-- **Information et données - Socle commun** (activité EG4 rattachée — [Organiser et sécuriser son poste](eg4-vivre-ensemble.md#environnement-numerique-risques-et-securite))
+- **Cybersécurité (MAJ 2025)** (2)
+- **Information et données - Socle commun** (2)
 - **Bac Pro — Tronc commun MG1** (2)
