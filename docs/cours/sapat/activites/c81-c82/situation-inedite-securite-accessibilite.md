@@ -69,7 +69,7 @@ Prépare, à partir du diagnostic, un plan de sécurisation du compte et d'adapt
 
 **Ta production doit montrer :**
 
-- Un nouveau mot de passe robuste préparé selon la méthode vue en séance 2, avec double authentification si
+- Un nouveau mot de passe robuste préparé selon la méthode vue précédemment, avec double authentification si
   possible.
 - Des réglages d'accessibilité auditive envisagés (volume renforcé, sous-titrage automatique, alertes visuelles).
 
