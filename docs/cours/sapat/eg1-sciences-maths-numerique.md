@@ -24,12 +24,15 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg1/ecarts-revenus-lcbc.md)
 
+-   :material-folder-lock-outline:{ .lg .middle } <span class="zt-step">3</span> **Organiser et sécuriser son poste**
+
+    ---
+
+    Arborescence OneDrive, synchronisation, sécurité du poste de travail professionnel — activité du module **EG4**.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/eg4/organisation-securite-poste.md)
+
 </div>
-
-!!! note "Organiser et sécuriser son poste"
-
-    Cette activité (arborescence OneDrive, synchronisation, sécurité du poste) est rattachée au module **EG4** dans
-    la progression de la classe : [Ouvrir l'activité](activites/eg4/organisation-securite-poste.md).
 
 !!! tip "Où répondre ?"
 
@@ -40,6 +43,6 @@ Interpréter des phénomènes variés à l'aide de démarches et d'outils scient
 - **Sciences - 2nde pro (Programme 2019, MAJ 2025)** (1)
 - **Tableur pour calculer** (1)
 - **Tableur pour présenter des données** (1)
-- **Cybersécurité (MAJ 2025)** (2)
-- **Information et données - Socle commun** (2)
+- **Cybersécurité (MAJ 2025)** (3)
+- **Information et données - Socle commun** (3)
 - **Bac Pro — Tronc commun MG1** (2)
