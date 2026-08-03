@@ -46,7 +46,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/charte-accompagnement-numerique.md)
 
--   :material-monitor-cog:{ .lg .middle } <span class="zt-step">4</span><span class="zt-year zt-year--1ere">1ère</span> **Mettre en service un poste**
+-   :material-cog-outline:{ .lg .middle } <span class="zt-step">4</span><span class="zt-year zt-year--1ere">1ère</span> **Mettre en service un poste**
 
     ---
 
