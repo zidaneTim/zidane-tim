@@ -1,5 +1,7 @@
 # 3e — EPI STM
 
+**3e EA — Enseignement agricole**
+
 Enseignement Pratique Interdisciplinaire — Sciences, Technologie, Matériaux.
 
 ## Au programme cette année

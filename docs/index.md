@@ -90,6 +90,14 @@ Retrouve ici les activités de ton cours de **TIM** (informatique et multimédia
 
     [:octicons-arrow-right-24: Voir les activités](cours/sapat/c81-c82-cadre-de-vie.md)
 
+-   :material-account-network-outline:{ .lg .middle } **Terminale SAPAT — Pluri MG2**
+
+    ---
+
+    Réseaux sociaux numériques : vérifier une information, protéger ses données, publier de façon responsable.
+
+    [:octicons-arrow-right-24: Voir les activités](cours/sapat/pluri-reseaux-sociaux.md)
+
 </div>
 
 ## Envie de découvrir autre chose ? {: .zt-filiere }
