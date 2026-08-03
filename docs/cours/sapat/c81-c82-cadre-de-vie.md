@@ -4,20 +4,25 @@
 
 Utiliser les outils numériques au service du cadre de vie et de la vie quotidienne des personnes accompagnées.
 
-!!! info "Tu es en 1ère ou en Terminale ?"
+!!! info "Repère-toi sur cette page"
 
-    Cette page réunit les deux années. **1ère** → section *Activités 1ère* juste en dessous. **Terminale** → descends
-    jusqu'à la section *Activités Terminale*, plus bas sur la page.
+    Ce module se travaille sur 2 ans : les 16 activités ci-dessous sont numérotées **en continu de la 1ère à la
+    Terminale**. Repère-toi avec l'étiquette **1ère** ou **Terminale** affichée sur chaque carte, pas avec ton
+    année scolaire seule — tu n'as à faire que les cartes qui portent ton étiquette.
+
+!!! note "Terminale : tu as aussi des activités Réseaux sociaux numériques"
+
+    Le module Pluri MG2 (réseaux sociaux) est publié sur une page à part : [Voir les activités](pluri-reseaux-sociaux.md).
 
 ## Réviser
 
 [:material-book-open-variant: Notions à connaître](activites/c81-c82/Notions-C81-C82.html){ target="_blank" rel="noopener" .md-button .md-button--primary }
 
-## Activités 1ère — Missions de l'aidant numérique
+## Activités — parcours 2 ans, missions de l'aidant numérique
 
 <div class="grid cards" markdown>
 
--   :material-account-heart-outline:{ .lg .middle } <span class="zt-step">1</span> **L'inclusion numérique**
+-   :material-account-heart-outline:{ .lg .middle } <span class="zt-step">1</span><span class="zt-year zt-year--1ere">1ère</span> **L'inclusion numérique**
 
     ---
 
@@ -25,7 +30,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/inclusion-numerique-illectronisme.md)
 
--   :material-clipboard-pulse-outline:{ .lg .middle } <span class="zt-step">2</span> **Le diagnostic numérique**
+-   :material-clipboard-pulse-outline:{ .lg .middle } <span class="zt-step">2</span><span class="zt-year zt-year--1ere">1ère</span> **Le diagnostic numérique**
 
     ---
 
@@ -33,7 +38,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/diagnostic-competences-numeriques-usager.md)
 
--   :material-file-document-edit-outline:{ .lg .middle } <span class="zt-step">3</span> **La charte de l'accompagnement**
+-   :material-file-document-edit-outline:{ .lg .middle } <span class="zt-step">3</span><span class="zt-year zt-year--1ere">1ère</span> **La charte de l'accompagnement**
 
     ---
 
@@ -41,7 +46,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/charte-accompagnement-numerique.md)
 
--   :material-monitor-cog:{ .lg .middle } <span class="zt-step">4</span> **Mettre en service un poste**
+-   :material-monitor-cog:{ .lg .middle } <span class="zt-step">4</span><span class="zt-year zt-year--1ere">1ère</span> **Mettre en service un poste**
 
     ---
 
@@ -49,7 +54,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/mise-en-service-poste-accessibilite.md)
 
--   :material-folder-multiple-outline:{ .lg .middle } <span class="zt-step">5</span> **Aider la famille Le Gall à classer et conserver ses documents**
+-   :material-folder-multiple-outline:{ .lg .middle } <span class="zt-step">5</span><span class="zt-year zt-year--1ere">1ère</span> **Aider la famille Le Gall à classer et conserver ses documents**
 
     ---
 
@@ -57,19 +62,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/gerer-conserver-ses-contenus.md)
 
-</div>
-
----
-
-## Activités Terminale — Missions de l'aidant numérique
-
-!!! note "Tu as aussi des activités Réseaux sociaux numériques"
-
-    Le module Pluri MG2 (réseaux sociaux) est publié sur une page à part : [Voir les activités](pluri-reseaux-sociaux.md).
-
-<div class="grid cards" markdown>
-
--   :material-refresh:{ .lg .middle } <span class="zt-step">1</span> **Faire le bilan de sa première année d'aidant numérique**
+-   :material-refresh:{ .lg .middle } <span class="zt-step">6</span><span class="zt-year zt-year--term">Terminale</span> **Faire le bilan de sa première année d'aidant numérique**
 
     ---
 
@@ -77,7 +70,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/bilan-reactivation-terminale.md)
 
--   :material-shield-key-outline:{ .lg .middle } <span class="zt-step">2</span> **Aider Mme Rannou à sécuriser ses comptes après un piratage**
+-   :material-shield-key-outline:{ .lg .middle } <span class="zt-step">7</span><span class="zt-year zt-year--term">Terminale</span> **Aider Mme Rannou à sécuriser ses comptes après un piratage**
 
     ---
 
@@ -85,7 +78,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/securiser-comptes-usager-piratage.md)
 
--   :material-drama-masks:{ .lg .middle } <span class="zt-step">3</span> **Aider Mme Even à démêler le vrai du faux après un appel suspect**
+-   :material-drama-masks:{ .lg .middle } <span class="zt-step">8</span><span class="zt-year zt-year--term">Terminale</span> **Aider Mme Even à démêler le vrai du faux après un appel suspect**
 
     ---
 
@@ -93,7 +86,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/risques-en-ligne-deepfake-arnaque.md)
 
--   :material-compass-outline:{ .lg .middle } <span class="zt-step">4</span> **Concevoir sa fiche d'observation numérique avant le stage E6**
+-   :material-compass-outline:{ .lg .middle } <span class="zt-step">9</span><span class="zt-year zt-year--term">Terminale</span> **Concevoir sa fiche d'observation numérique avant le stage E6**
 
     ---
 
@@ -101,7 +94,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/fiche-observation-stage-e6.md)
 
--   :material-notebook-outline:{ .lg .middle } <span class="zt-step">5</span> **Formaliser un cahier de liaison numérique pour la famille de Mme Le Roux**
+-   :material-notebook-outline:{ .lg .middle } <span class="zt-step">10</span><span class="zt-year zt-year--term">Terminale</span> **Formaliser un cahier de liaison numérique pour la famille de Mme Le Roux**
 
     ---
 
@@ -109,7 +102,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/cahier-liaison-numerique-famille.md)
 
--   :material-account-child-outline:{ .lg .middle } <span class="zt-step">6</span> **Conseiller la famille Kerouedan sur les écrans de leurs enfants**
+-   :material-account-child-outline:{ .lg .middle } <span class="zt-step">11</span><span class="zt-year zt-year--term">Terminale</span> **Conseiller la famille Kerouedan sur les écrans de leurs enfants**
 
     ---
 
@@ -117,7 +110,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/e-parentalite-controle-parental.md)
 
--   :material-puzzle-outline:{ .lg .middle } <span class="zt-step">7</span> **Simplifier l'interface numérique de M. Cadoret**
+-   :material-puzzle-outline:{ .lg .middle } <span class="zt-step">12</span><span class="zt-year zt-year--term">Terminale</span> **Simplifier l'interface numérique de M. Cadoret**
 
     ---
 
@@ -125,7 +118,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/accessibilite-interface-simplifiee-alzheimer.md)
 
--   :material-mouse-outline:{ .lg .middle } <span class="zt-step">8</span> **Adapter un poste pour M. Le Floch après son AVC**
+-   :material-mouse-outline:{ .lg .middle } <span class="zt-step">13</span><span class="zt-year zt-year--term">Terminale</span> **Adapter un poste pour M. Le Floch après son AVC**
 
     ---
 
@@ -133,7 +126,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/poste-adapte-handicap-moteur.md)
 
--   :material-target:{ .lg .middle } <span class="zt-step">9</span> **Situation inédite — sécuriser et adapter le poste de M. Perrot**
+-   :material-target:{ .lg .middle } <span class="zt-step">14</span><span class="zt-year zt-year--term">Terminale</span> **Situation inédite — sécuriser et adapter le poste de M. Perrot**
 
     ---
 
@@ -141,7 +134,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/situation-inedite-securite-accessibilite.md)
 
--   :material-bus:{ .lg .middle } <span class="zt-step">10</span> **Organiser les déplacements de Mme Le Bris sans voiture**
+-   :material-bus:{ .lg .middle } <span class="zt-step">15</span><span class="zt-year zt-year--term">Terminale</span> **Organiser les déplacements de Mme Le Bris sans voiture**
 
     ---
 
@@ -149,7 +142,7 @@ Utiliser les outils numériques au service du cadre de vie et de la vie quotidie
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c81-c82/itineraire-mobilite-transports-commun.md)
 
--   :material-tractor:{ .lg .middle } <span class="zt-step">11</span> **Construire une solution de mobilité pour M. Guéguen, isolé en campagne**
+-   :material-tractor:{ .lg .middle } <span class="zt-step">16</span><span class="zt-year zt-year--term">Terminale</span> **Construire une solution de mobilité pour M. Guéguen, isolé en campagne**
 
     ---
 

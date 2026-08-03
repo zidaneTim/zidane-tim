@@ -6,8 +6,8 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
 !!! note "Tu as aussi des activités Cadre de vie / Quotidien"
 
-    Le module C8.1/C8.2 (missions de l'aidant numérique) est publié sur une page à part, section *Activités
-    Terminale* : [Voir les activités](c81-c82-cadre-de-vie.md#activites-terminale-missions-de-laidant-numerique).
+    Le module C8.1/C8.2 (missions de l'aidant numérique) est publié sur une page à part — repère-toi avec
+    l'étiquette **Terminale** sur chaque carte : [Voir les activités](c81-c82-cadre-de-vie.md).
 
 ## Activités
 

@@ -392,6 +392,31 @@
   flex-shrink: 0;
 }
 
+/* Étiquette d'année : distingue visuellement 1ère / Terminale sur une page qui
+   couvre les deux années avec une numérotation continue (ex. C8.1/C8.2) —
+   réutilise le marine et l'or de la charte plutôt qu'une 3e couleur. */
+.md-typeset .grid.cards .zt-year {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.3rem;
+  border-radius: 999px;
+  font-size: 0.6rem;
+  font-weight: 700;
+  line-height: 1.4;
+  vertical-align: middle;
+}
+
+.md-typeset .grid.cards .zt-year--1ere {
+  background-color: rgba(26, 46, 92, 0.12);
+  color: var(--md-primary-fg-color);
+}
+
+.md-typeset .grid.cards .zt-year--term {
+  background-color: rgba(185, 130, 47, 0.18);
+  color: var(--md-accent-fg-color);
+}
+
 /* ---------- Éléments communs ---------- */
 
 /* Tableaux : lisibles, sans lourdeur */
