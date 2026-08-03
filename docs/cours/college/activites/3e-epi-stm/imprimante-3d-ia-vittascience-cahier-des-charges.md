@@ -38,44 +38,33 @@ charges réaliste, compatible avec la machine et le temps disponible.
 
 ## Travail à faire
 
-### A — Comprendre l'imprimante 3D
+### A — Comprendre l'imprimante 3D (en binôme)
 
-**Observer et schématiser le fonctionnement de la Creality Ender 6.**
+**Observer le schéma commenté et relier chaque composant à sa fonction.**
 
-1. Observer le schéma commenté de la machine présenté par ton professeur : buse, plateau chauffant, moteurs,
-   bobine de filament, structure CoreXY.
-2. Relier chaque composant à sa fonction : quel élément fait fondre le plastique ? quel élément déplace la buse ?
-   quel élément maintient la première couche en place ?
-3. Faire le lien avec la séance sur les matériaux : de quelle famille de matériau est fait le filament utilisé
-   (bois, métal, plastique, composite) ?
-4. Schématiser en une phrase le principe général : un fil de plastique fondu, déposé couche par couche, qui
-   construit un volume.
+1. En binôme, relier chaque composant de la machine (buse, plateau chauffant, moteurs, bobine de filament) à sa
+   fonction, et identifier la famille de matériau du filament utilisé (lien avec la séance sur les matériaux).
+2. Formuler en une phrase le principe général de l'impression FDM.
 
-### B — Entraîner un modèle d'intelligence artificielle
+    🆘 **Binôme absent ?** Travaille seul à partir du schéma affiché ; compare avec un camarade dès que possible.
 
-**Découvrir concrètement l'apprentissage d'une IA, en petit groupe.**
+### B — Entraîner un modèle d'intelligence artificielle (en petit groupe)
 
-1. Te connecter à Vittascience (module IA) avec l'accès indiqué par ton professeur (poste ou compte de classe).
-2. Choisir avec ton groupe un thème lié au tri des déchets ou des matériaux (par exemple : reconnaître un
-   emballage plastique, du papier, un déchet métallique...).
-3. Constituer un petit jeu d'exemples (photos ou webcam) pour chaque catégorie que le modèle doit apprendre à
-   reconnaître.
-4. Entraîner le modèle, puis le tester sur de nouveaux exemples non utilisés pendant l'entraînement.
-5. Noter au moins un cas où le modèle s'est trompé, et essayer de comprendre pourquoi (exemple ambigu, catégories
-   trop proches, pas assez d'exemples fournis...).
+**Découvrir concrètement l'apprentissage d'une IA.**
 
-### C — Rédiger le cahier des charges de mon objet
+1. Sur Vittascience (module IA), choisir avec ton groupe un thème lié au tri des déchets ou des matériaux, et
+   constituer un petit jeu d'exemples pour chaque catégorie à reconnaître.
+2. Entraîner le modèle, le tester sur des exemples nouveaux, et noter au moins un cas d'erreur en essayant de
+   comprendre pourquoi.
 
-**Fixer les contraintes réelles de mon projet, à partir de mon croquis coté.**
+### C — Cahier des charges de mon objet (individuel)
 
-1. Reprendre le croquis coté réalisé en séance de dessin technique : quelle fonction doit remplir mon objet ?
-2. Vérifier que les dimensions prévues respectent le volume maximum de la machine (250 × 250 × 400 mm) — en
-   pratique, viser un objet nettement plus petit qu'une pièce du croquis d'origine si besoin.
-3. Respecter la contrainte de temps d'impression fixée pour l'exercice : **temps d'impression maximum ≈ 3 heures
-   par pièce**, une seule imprimante devant produire les objets de tous les élèves du groupe sur les prochaines
-   séances. Si ton objet dépasse cette limite, simplifie sa forme ou réduis sa taille.
-4. Rédiger un cahier des charges court : fonction de l'objet, dimensions prévues, contraintes de temps
-   d'impression, matériau (filament) envisagé.
+**Fixer les contraintes réelles de mon projet personnel, à partir de mon croquis coté.**
+
+1. À partir de ton croquis coté, vérifie que les dimensions prévues respectent le volume maximum de la machine
+   (250 × 250 × 400 mm) et la limite de temps d'impression fixée pour l'exercice (**≈ 3 heures par pièce**, une
+   seule imprimante pour tout le groupe) — simplifie ou réduis ton objet si besoin.
+2. Rédige un cahier des charges court : fonction, dimensions prévues, temps d'impression, matériau envisagé.
 
 ### Questions de synthèse
 

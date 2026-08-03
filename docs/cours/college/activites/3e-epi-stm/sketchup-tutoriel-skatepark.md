@@ -37,7 +37,7 @@ projet complet une première fois — c'est ce que tu vas faire aujourd'hui, en 
 
 ## Travail à faire
 
-### A — Suivre le tutoriel vidéo pas à pas
+### A — Suivre le tutoriel vidéo pas à pas (individuel)
 
 **Modéliser le skatepark du tutoriel, à ton rythme.**
 

@@ -32,27 +32,24 @@ propre projet, plus tard dans l'année.
 
 ## Travail à faire
 
-### A — Étudier un objet technique transformant l'énergie
+### A — Fiche d'un objet technique transformant l'énergie (en binôme)
 
-**Analyser le fonctionnement énergétique d'un objet réel.**
+**Choisir, analyser et produire une fiche illustrée.**
 
-1. Choisir, parmi les objets apportés en classe (ou photographiés), un objet qui transforme clairement une forme
-   d'énergie en une autre (moteur électrique, ampoule, pile, dynamo...).
-2. Identifier la forme d'énergie qui entre dans l'objet et la forme d'énergie qui en sort.
-3. Schématiser cette transformation avec des flèches et des mots simples : énergie d'entrée → objet → énergie de
-   sortie (+ éventuellement une perte, comme la chaleur).
-4. Nommer deux autres objets du quotidien qui réalisent la même transformation d'énergie.
+1. En binôme, choisir un objet technique réel (apporté, photographié, ou observé chez toi) qui transforme
+   clairement une forme d'énergie en une autre, et identifier ce qui entre et ce qui sort.
+2. Produire une fiche courte avec un schéma (flèches + mots simples : énergie d'entrée → objet → énergie de
+   sortie, perte éventuelle) et deux autres exemples d'objets réalisant la même transformation.
 
-### B — Identifier corrosion et usure sur des échantillons dégradés
+    🆘 **Binôme absent ?** Choisis et analyse ton objet seul ; compare ta fiche avec un autre binôme dès que possible.
 
-**Observer, comparer, relier à un traitement de protection.**
+### B — Corrosion et usure sur échantillons dégradés (individuel)
 
-1. Observer les échantillons dégradés fournis (métal rouillé, plastique fissuré, bois attaqué par l'humidité...).
-2. Pour chaque échantillon, identifier s'il s'agit de corrosion (réaction chimique, souvent avec l'humidité ou
-   l'air) ou d'usure mécanique (frottement, choc répété).
-3. Comparer avec un échantillon neuf du même matériau pour repérer précisément les différences visibles.
-4. Associer à chaque échantillon dégradé un traitement de protection connu (peinture, vernis, galvanisation,
-   traitement anti-UV...) qui aurait pu limiter la dégradation.
+**Observer, comparer, relier à un traitement.**
+
+1. Pour chaque échantillon dégradé, identifie s'il s'agit de corrosion ou d'usure mécanique, en comparant avec un
+   échantillon neuf du même matériau.
+2. Associe chaque échantillon à un traitement de protection connu qui aurait pu limiter la dégradation.
 
 ### Questions de synthèse
 

@@ -30,30 +30,24 @@ qu'il utilise des vues, une cotation précise et un vocabulaire technique partag
 
 ## Travail à faire
 
-### A — Lire un dessin technique existant
+### A — Lire un dessin technique existant (individuel)
 
-**Décoder un plan fourni en classe.**
+**Décoder le plan fourni.**
 
-1. Repérer sur le plan les différentes vues représentées (face, dessus, profil) et expliquer pourquoi plusieurs
-   vues sont nécessaires pour une seule pièce.
-2. Relever les cotes indiquées (longueur, largeur, épaisseur) et vérifier leur cohérence entre les vues.
-3. Identifier l'échelle du dessin et calculer la dimension réelle d'un élément à partir de sa dimension sur le
-   papier.
-4. Nommer les éléments du vocabulaire technique présents sur le plan (trait continu fort, trait d'axe, ligne de
-   cote, flèche de cote...).
+1. Repère les différentes vues du plan (face, dessus, profil), relève les cotes et vérifie leur cohérence entre
+   les vues, et calcule la dimension réelle d'un élément à partir de l'échelle indiquée.
+2. Nomme trois éléments du vocabulaire technique présents sur le plan (trait continu fort, trait d'axe, ligne de
+   cote...).
 
-### B — Réaliser ton propre croquis coté
+### B — Réaliser ton propre croquis coté (individuel)
 
-**Dessiner à la main la pièce simple qui servira de base à ton projet.**
+**Dessiner à la main la pièce qui servira de base à ton projet de l'année.**
 
-1. Choisir une pièce simple (support, boîtier, pièce utilitaire) dont tu as une idée précise de la forme et de
-   l'usage — cette idée sera le point de départ du projet que tu mèneras toute l'année.
-2. Dessiner au moins deux vues de la pièce (face et dessus au minimum), à main levée mais avec des proportions
-   respectées.
-3. Coter précisément chaque dimension utile (longueur, largeur, épaisseur, diamètre d'un trou éventuel) avec des
-   lignes de cote et des flèches correctement tracées.
-4. Vérifier la cohérence de tes cotes entre les différentes vues (une même dimension doit être identique partout
-   où elle apparaît).
+1. Choisis une pièce simple (support, boîtier, pièce utilitaire) dont tu as une idée précise de la forme et de
+   l'usage — c'est le point de départ de ton projet personnel.
+2. Dessine au moins deux vues (face et dessus au minimum), à main levée mais avec des proportions respectées, et
+   cote précisément chaque dimension utile.
+3. Vérifie que tes cotes sont cohérentes entre les vues.
 
 ### Questions de synthèse
 

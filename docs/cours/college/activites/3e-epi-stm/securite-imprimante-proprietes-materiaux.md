@@ -38,30 +38,24 @@ fabriquer un objet.
 
 ## Travail à faire
 
-### A — Sécurité spécifique de l'imprimante 3D
+### A — Sécurité spécifique de l'imprimante 3D (individuel)
 
-**Observer une démonstration encadrée et en retenir les règles.**
+**Observer la démonstration et en retenir l'essentiel.**
 
-1. Observer la démonstration de ton professeur : mise en chauffe de la buse et du plateau, zone d'exclusion à
-   respecter pendant l'impression.
-2. Relever les températures maximales atteintes par la buse et par le plateau (indiquées sur la fiche technique de
-   la machine affichée en salle).
-3. Identifier pourquoi la structure semi-fermée (dessus ouvert) de cette imprimante impose une vigilance
-   particulière, contrairement à une imprimante totalement fermée.
-4. Lister ce qu'il faut faire en cas de filament particulier (type PETG ou ABS) qui dégage plus d'odeur : quelle
-   précaution de ventilation appliquer ?
+1. Pendant la démonstration, relève les températures maximales de la buse et du plateau (fiche technique affichée
+   en salle) et identifie pourquoi le dessus ouvert de la machine impose une vigilance particulière.
+2. Note la précaution à appliquer en cas de filament odorant (type PETG ou ABS).
 
-### B — Tester les propriétés des matériaux
+### B — Tester les propriétés des matériaux (en binôme)
 
-**Réaliser des tests simples et comparer les résultats.**
+**Réaliser des tests simples et comparer vos résultats.**
 
-1. Sur chaque échantillon fourni, réaliser un test de dureté (rayer légèrement avec un objet dur autorisé par le
-   professeur) et noter la résistance observée.
-2. Réaliser un test de conductivité électrique simple (circuit avec pile et lampe) sur chaque échantillon et noter
-   s'il conduit ou non.
-3. Comparer la densité de deux échantillons de même taille en les soupesant, puis vérifier avec une balance si
-   disponible.
-4. Consigner tes résultats dans un tableau : matériau, dureté observée, conducteur ou non, densité relative.
+1. En binôme, réaliser sur chaque échantillon un test de dureté, un test de conductivité électrique (pile + lampe)
+   et une comparaison de densité par pesée.
+2. Consigner les résultats dans un tableau : matériau, dureté, conducteur ou non, densité relative.
+
+    🆘 **Binôme absent ?** Réalise les trois tests seul avec le matériel disponible ; compare tes résultats avec
+    un autre binôme dès que possible.
 
 ### Questions de synthèse
 

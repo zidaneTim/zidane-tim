@@ -32,27 +32,27 @@ bois, métaux, plastiques, composites.
 
 ## Travail à faire
 
-### A — Identifier les règles de sécurité de la salle
+### A — Affiche de sécurité de la salle (en binôme)
 
-**Repérer les zones à risque et formuler des règles.**
+**Repérer les zones à risque et produire une affiche.**
 
-1. Repérer, sur le plan de la salle affiché par ton professeur, les zones à vigilance : postes informatiques et
-   câblage électrique, zone de l'imprimante 3D (buse et plateau chauffants).
-2. Lister avec ton groupe les comportements à ne jamais avoir dans cette salle (toucher une pièce chauffante en
-   fonctionnement, débrancher un câble sous tension, encombrer un passage...).
-3. Rédiger 5 règles de sécurité dans tes propres mots — pas une recopie du règlement intérieur de l'établissement.
-4. Comparer tes règles avec celles d'un autre groupe et compléter ta liste si besoin.
+1. En binôme, repérer sur le plan de la salle les zones à vigilance (postes informatiques, câblage, zone de
+   l'imprimante 3D) et lister les comportements à ne jamais avoir.
+2. En déduire 5 règles de sécurité dans vos propres mots — pas une recopie du règlement intérieur.
+3. Mettre ces règles en forme sur une affiche claire (traitement de texte ou outil de mise en page), destinée à
+   être imprimée et collée dans la salle.
 
-### B — Classer des échantillons de matériaux
+    🆘 **Binôme absent ?** Reprends seul les zones à vigilance et rédige tes 5 règles ; la mise en forme de
+    l'affiche peut attendre le retour de ton binôme.
 
-**Manipuler et classer des échantillons.**
+### B — Classement des échantillons (individuel)
 
-1. Observer chaque échantillon distribué : aspect, poids en main, toucher, réaction à un aimant si tu suspectes un
-   métal.
-2. Classer chaque échantillon dans l'une des quatre familles : bois, métaux, plastiques, composites.
-3. Pour chaque famille représentée, noter une propriété caractéristique observée (conduit-il la chaleur ou
-   l'électricité ? est-il rigide, souple, cassant ?).
-4. Associer chaque échantillon à un exemple d'objet du quotidien fabriqué dans ce matériau.
+**Observer et classer.**
+
+1. Observer chaque échantillon distribué (aspect, poids, toucher, réaction à un aimant) et le classer dans l'une
+   des quatre familles : bois, métaux, plastiques, composites.
+2. Pour chaque famille représentée, noter une propriété caractéristique observée et un exemple d'objet du
+   quotidien fabriqué dans ce matériau.
 
 ### Questions de synthèse
 
@@ -68,8 +68,8 @@ bois, métaux, plastiques, composites.
       n'est constitué que d'une seule matière.
 
 !!! tip "Où répondre ?"
-    Dépose ta charte de sécurité et ton tableau de classement des échantillons dans ton bloc-notes **OneNote**,
-    section *EPI STM — Sécurité et matériaux*.
+    Dépose le fichier ou une photo de ton affiche de sécurité, ainsi que ton tableau de classement des échantillons,
+    dans ton bloc-notes **OneNote**, section *EPI STM — Sécurité et matériaux*.
 
 ## Ressources et outils
 

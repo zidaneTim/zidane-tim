@@ -31,29 +31,21 @@ C'est aussi le moment de prendre du recul sur tout le chemin parcouru depuis ton
 
 ## Travail à faire
 
-### A — Finaliser mon objet imprimé
+### A — Finaliser mon objet imprimé (individuel)
 
 **Réaliser les finitions manuelles de ma pièce.**
 
-1. Identifier sur ta pièce les supports d'impression à retirer (fines structures ayant servi à soutenir les
-   porte-à-faux pendant l'impression).
-2. Retirer délicatement ces supports avec un cutter, en travaillant dans le sens qui évite d'abîmer la surface de
-   la pièce.
-3. Ébavurer les bords avec une lime à ongle ou un outil équivalent, pour supprimer les petites irrégularités
-   laissées par l'impression.
-4. Comparer ta pièce finie à ton cahier des charges initial : la fonction prévue est-elle remplie ? les dimensions
-   sont-elles conformes ?
+1. Retire délicatement les supports d'impression au cutter et ébavure les bords à la lime à ongle.
+2. Compare ta pièce finie à ton cahier des charges : la fonction est-elle remplie, les dimensions conformes ?
 
-### B — Dresser le bilan de mon projet
+### B — Dresser le bilan de mon projet (individuel)
 
 **Revenir sur l'ensemble du projet, du croquis à l'objet fini.**
 
-1. Reprendre, dans l'ordre chronologique, les grandes étapes de ton projet : croquis coté, tutoriel SketchUp,
-   cahier des charges, modélisation personnelle, tranchage, impression, finitions.
-2. Pour chaque étape, noter une difficulté rencontrée et comment tu l'as surmontée (ou pas encore).
-3. Comparer l'objet fini à l'idée de départ : qu'est-ce qui a changé entre le croquis initial et l'objet final, et
-   pourquoi (contrainte de temps d'impression, épaisseur de paroi, porte-à-faux...) ?
-4. Formuler ce que tu referais différemment si tu devais recommencer ce projet.
+1. Reprends les grandes étapes de ton projet et note, pour au moins deux d'entre elles, une difficulté rencontrée
+   et comment tu l'as surmontée.
+2. Compare l'objet fini à l'idée de départ (qu'est-ce qui a changé, et pourquoi) et formule ce que tu referais
+   différemment.
 
 ### Questions de synthèse
 

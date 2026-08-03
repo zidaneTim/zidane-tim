@@ -37,17 +37,15 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
 
 ## Travail à faire
 
-### A — Comprendre les erreurs de mon modèle d'IA
+### A — Comprendre les erreurs de mon modèle d'IA (individuel)
 
 **Revenir sur le modèle entraîné avec Vittascience.**
 
-1. Reprendre les captures de ton modèle entraîné et le cas d'erreur que tu avais noté.
-2. Pour ce cas d'erreur, formuler une hypothèse : exemple ambigu, catégories trop proches, pas assez d'exemples
-   fournis pour une catégorie, mauvaise qualité de la photo ?
-3. Proposer une amélioration concrète qui réduirait cette erreur (plus d'exemples, exemples plus variés, meilleur
-   éclairage...).
+1. Reprends le cas d'erreur noté sur ton modèle et formule une hypothèse sur sa cause (exemple ambigu, catégories
+   trop proches, pas assez d'exemples, mauvaise qualité de photo).
+2. Propose une amélioration concrète qui réduirait cette erreur.
 
-### B — Repérer une erreur dans un texte produit par une IA
+### B — Repérer une erreur dans un texte produit par une IA (en binôme)
 
 **Analyser un texte pour y trouver ce qui est faux.**
 
@@ -64,22 +62,23 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
         naturellement en quelques semaines s'il est laissé dehors, ce qui en fait un matériau totalement sans
         impact sur l'environnement. »
 
-2. Repérer, phrase par phrase, ce qui te semble correct ou incorrect, en t'appuyant sur ce que tu as observé et
-   appris pendant les séances précédentes (température de la buse, matériau du filament, expérience de
-   dégradation des matériaux).
-3. Reformuler chaque erreur repérée avec la bonne information, dans tes propres mots.
-4. Expliquer pourquoi un texte produit par une IA peut sembler convaincant tout en contenant des erreurs.
+2. En binôme, repérez phrase par phrase ce qui vous semble correct ou incorrect, en vous appuyant sur ce que vous
+   avez observé pendant les séances précédentes, et reformulez chaque erreur avec la bonne information.
+3. Expliquez en une phrase pourquoi un texte produit par une IA peut sembler convaincant tout en étant faux.
 
-### C — Découvrir des métiers du secteur
+    🆘 **Binôme absent ?** Analyse le texte seul ; compare ton repérage avec un autre binôme dès que possible.
 
-**Rechercher des métiers liés aux matériaux et au numérique.**
+### C — Fiche métier du secteur (en binôme)
 
-1. Choisir deux métiers parmi : prototypiste, dessinateur industriel, technicien de fab lab, technicien en
-   impression 3D, métiers de la donnée ou de l'IA.
-2. Pour chacun, rechercher les missions principales et la formation généralement nécessaire, sur un site
-   d'orientation fiable.
-3. Relier chaque métier choisi à une compétence que tu as toi-même mobilisée cette année (dessin technique,
-   modélisation 3D, impression, entraînement d'un modèle d'IA...).
+**Rechercher un métier et produire une fiche.**
+
+1. En binôme, choisissez un métier parmi : prototypiste, dessinateur industriel, technicien de fab lab, technicien
+   en impression 3D, métiers de la donnée ou de l'IA.
+2. Recherchez ses missions principales et la formation nécessaire sur un site d'orientation fiable, puis produisez
+   une fiche courte (format libre : fiche illustrée, mini-affiche) reliant ce métier à une compétence que vous avez
+   vous-mêmes mobilisée cette année (dessin technique, modélisation 3D, impression, entraînement d'un modèle d'IA...).
+
+    🆘 **Binôme absent ?** Choisis et documente ton métier seul ; complète le lien avec ta propre expérience.
 
 ### Questions de synthèse
 
@@ -98,8 +97,9 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
       plausible mais fausse, exactement comme ton modèle pouvait confondre deux catégories visuellement proches.
 
 !!! tip "Où répondre ?"
-    Dépose ta fiche « limites de l'IA » (analyse du texte + amélioration proposée pour ton modèle) et ta fiche
-    métiers dans ton bloc-notes **OneNote**, section *EPI STM — Impression 3D et IA*.
+    Dépose ta fiche « limites de l'IA » (analyse du texte + amélioration proposée pour ton modèle) dans ton
+    bloc-notes **OneNote**, section *EPI STM — Impression 3D et IA*, et une photo ou le fichier de ta fiche/affiche
+    métier dans la même section.
 
 ## Ressources et outils
 
@@ -114,6 +114,6 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
 |---|---|---|
 | Analyse du modèle entraîné | Hypothèse d'erreur plausible et amélioration concrète proposée | -- / - / + / ++ |
 | Repérage d'erreurs IA (esprit critique) | Les erreurs du texte sont identifiées et correctement reformulées | -- / - / + / ++ |
-| Métiers du secteur | Deux métiers documentés et reliés à une compétence personnelle réelle | -- / - / + / ++ |
+| Métiers du secteur | Le métier choisi est documenté (missions, formation) et relié à une compétence personnelle réelle | -- / - / + / ++ |
 
 </div>

@@ -36,30 +36,21 @@ l'air correct à l'écran.
 
 ## Travail à faire
 
-### A — Modéliser mon objet
+### A — Modéliser mon objet (individuel)
 
 **Reproduire mon croquis coté en 3D sous SketchUp.**
 
-1. Reprendre ton croquis coté et ton cahier des charges (dimensions, temps d'impression maximum).
-2. Modéliser la forme générale de l'objet en réutilisant les commandes apprises au tutoriel (Rectangle,
-   Pousser/Tirer, Suivez-moi selon les formes nécessaires).
-3. Respecter une épaisseur de paroi minimale (au moins 2 mm) pour que la pièce ne soit pas trop fragile une fois
-   imprimée.
-4. Éviter les porte-à-faux importants (parties du modèle qui « flottent » sans appui en dessous) : si ta forme en
-   comporte un, prévois un support ou modifie légèrement la conception.
-5. Vérifier tes dimensions finales avec l'outil de mesure de SketchUp et les comparer à ton cahier des charges.
+1. À partir de ton croquis coté et de ton cahier des charges, modélise la forme générale de ton objet en
+   respectant une épaisseur de paroi minimale (2 mm) et en évitant les porte-à-faux non supportés.
+2. Vérifie tes dimensions finales avec l'outil de mesure de SketchUp et compare-les à ton cahier des charges.
 
-### B — Préparer le fichier pour l'impression
+### B — Préparer le fichier pour l'impression (individuel)
 
-**Trancher le modèle et vérifier sa faisabilité avant validation.**
+**Trancher le modèle et vérifier sa faisabilité.**
 
-1. Exporter ton modèle SketchUp au format compatible avec le logiciel de tranchage (Cura).
-2. Ouvrir le fichier dans Cura et lancer le tranchage (aperçu des couches que la machine va imprimer).
-3. Vérifier dans Cura le temps d'impression estimé : reste-t-il compatible avec la limite fixée dans ton cahier
-   des charges (environ 3 heures) ?
-4. Si le temps estimé dépasse la limite, réduire la taille de l'objet ou diminuer le taux de remplissage
-   (infill) proposé par Cura, puis retrancher.
-5. Faire valider ton fichier tranché par ton professeur avant le lancement de l'impression.
+1. Exporte ton modèle vers Cura, lance le tranchage et vérifie que le temps d'impression estimé respecte la
+   limite fixée (≈ 3 heures) — sinon, réduis la taille ou le taux de remplissage.
+2. Fais valider ton fichier tranché par ton professeur avant le lancement de l'impression.
 
 ### Questions de synthèse
 

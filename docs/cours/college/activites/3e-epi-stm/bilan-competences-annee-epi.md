@@ -37,36 +37,29 @@ dessin technique, modélisation 3D, impression, et usage de l'intelligence artif
 
 ## Travail à faire
 
-### A — Présenter mon objet au groupe
+### A — Présenter mon objet au groupe (collectif)
 
 **Préparer et réaliser une présentation courte.**
 
-1. Préparer une présentation de 2 à 3 minutes de ton objet : sa fonction, les grandes étapes de sa conception, une
-   difficulté surmontée.
-2. Présenter ton objet fini à un petit groupe d'élèves, en montrant la pièce physique.
-3. Écouter les présentations d'au moins deux autres élèves et noter une idée ou une solution technique que tu
-   n'avais pas envisagée.
+1. Prépare une présentation de 2 à 3 minutes de ton objet (fonction, grandes étapes, une difficulté surmontée) et
+   présente-la à un petit groupe en montrant la pièce physique.
+2. Écoute au moins deux autres présentations et note une idée que tu n'avais pas envisagée.
 
-### B — Dresser le bilan de mes compétences
+### B — Dresser le bilan de mes compétences (individuel)
 
 **Faire le point sur l'ensemble de l'année.**
 
-1. Reprendre chaque grand domaine travaillé cette année : sécurité, matériaux, dessin technique, modélisation 3D,
-   impression 3D, intelligence artificielle.
-2. Pour chaque domaine, t'auto-évaluer sur ce que tu sais faire maintenant, avec un exemple concret tiré de ton
-   propre travail.
-3. Identifier le domaine où tu te sens le plus à l'aise et celui où tu voudrais encore progresser.
+1. Pour chaque grand domaine travaillé (sécurité, matériaux, dessin technique, modélisation 3D, impression, IA),
+   auto-évalue-toi avec un exemple concret tiré de ton propre travail.
+2. Identifie le domaine où tu te sens le plus à l'aise et celui où tu voudrais encore progresser.
 
-### C — Porter un regard critique sur l'IA dans mon projet
+### C — Regard critique sur l'IA dans mon projet (individuel)
 
-**Revenir précisément sur l'usage de l'IA fait en séance de Vittascience.**
+**Revenir sur l'usage de l'IA fait en séance de Vittascience.**
 
-1. Reprendre ton expérience d'entraînement de modèle sur Vittascience et l'analyse d'erreur de la séance sur les
-   limites de l'IA.
-2. Répondre honnêtement : cette expérience t'a-t-elle été utile pour comprendre comment fonctionne une IA ? sur
-   quels points precisément ?
-3. Lister une limite de l'IA que tu as toi-même observée (pas une limite générale apprise par cœur) et une
-   situation où tu ferais davantage confiance à un résultat produit par une IA, et une où tu t'en méfierais.
+1. Cette expérience t'a-t-elle été utile pour comprendre comment fonctionne une IA, et sur quels points précis ?
+2. Cite une limite de l'IA que tu as toi-même observée (pas une limite générale apprise par cœur) et une situation
+   où tu ferais davantage confiance à un résultat d'IA, et une où tu t'en méfierais.
 
 ### Questions de synthèse
 
