@@ -4,45 +4,6 @@
 
 Avant de commencer : [découvre les règles à respecter en salle informatique](regles-salle-info.md).
 
-## Réflexes numériques essentiels
-
-<div class="grid cards" markdown>
-
--   :material-cellphone-message:{ .lg .middle } **SMS suspect**
-
-    ---
-
-    Le signaler au **33700** (numéro officiel, gratuit).
-
--   :material-email-alert-outline:{ .lg .middle } **Courriel suspect**
-
-    ---
-
-    Le signaler sur **signal-spam.fr**.
-
--   :material-lock-outline:{ .lg .middle } **Mots de passe**
-
-    ---
-
-    Un mot de passe long et **différent pour chaque service**.
-
--   :material-update:{ .lg .middle } **Mises à jour**
-
-    ---
-
-    Les activer automatiquement : elles corrigent les failles de sécurité.
-
-</div>
-
-## Liens utiles
-
-| Site | À quoi ça sert |
-|---|---|
-| [Pix](https://pix.fr) | Tester et certifier ses compétences numériques |
-| [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr) | Aide en cas d'arnaque ou de piratage |
-| [Signal Spam](https://www.signal-spam.fr) | Signaler un courriel frauduleux |
-| [Service-public.gouv.fr](https://www.service-public.gouv.fr) | Démarches administratives officielles |
-
 ## Envie de découvrir autre chose ?
 
 Tu as fini ton travail ? Voici des sites à explorer : jeux sérieux, concours, plateformes de code.
