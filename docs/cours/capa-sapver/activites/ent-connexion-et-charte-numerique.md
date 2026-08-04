@@ -1,4 +1,4 @@
-# 🖥️ SQ01 — Mon ENT et la charte numérique
+# 🖥️ Se connecter à l'ENT et respecter la charte numérique
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
@@ -11,7 +11,7 @@
 <p class="zt-lede">Se connecter seul à l'espace numérique du lycée et connaître les règles de bon usage.</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
+  <span>:material-clock-outline: 1 séance</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Environnement numérique</span>
 </div>
@@ -75,27 +75,8 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! example "Consigne 2 — seul ou en binôme (10 min)"
     Lire les 5 règles de la charte, seul ou en binôme si possible. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire. Si seul, compare tes exemples avec un camarade dès que possible.
 
-## 🎯 Atelier : je deviens autonome sur l'ENT
-
-**Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.
-
-!!! example "Consigne 1 — seul (10 min)"
-    Compléter mon **profil** : vérifier mon nom, ajouter (si c'est permis) une photo ou un avatar **correct** (pas de photo choquante, pas la photo de quelqu'un d'autre).
-
-!!! example "Consigne 2 — seul (15 min)"
-    Écrire un **premier message poli** à mon professeur via la messagerie de l'ENT. Le message doit contenir : une **formule de politesse** au début (« Bonjour Monsieur/Madame »), une **phrase claire** (« je vous écris pour vérifier que je sais utiliser la messagerie »), et une **signature** à la fin (mon prénom et ma classe).
-
-!!! tip "Coup de pouce"
-    Un message poli = **Bonjour** → **ma phrase** → **Merci / Cordialement** → **mon prénom + ma classe**. Je me relis avant d'envoyer.
-
-!!! example "Consigne 3 — seul (10 min)"
-    Déposer un fichier de test (par exemple un document texte contenant mon nom) dans l'**espace de stockage** de l'ENT, puis vérifier que je sais le **retrouver**.
-
-!!! success "Défi (pour aller plus loin) ⭐"
-    Repérer dans l'ENT **où on trouve l'emploi du temps de demain** et le noter. Puis expliquer à un camarade comment y accéder en 3 étapes.
-
 !!! tip "Où répondre ?"
-    Note tes réponses (les 3 rubriques, tes exemples de la charte, le fait que ton message est envoyé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
+    Note tes réponses (les 3 rubriques, tes exemples de la charte) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
 
@@ -103,7 +84,7 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Autonomie sur l'ENT | L'élève se connecte seul, ouvre 3 rubriques, envoie un message poli complet (politesse + phrase + signature) et retrouve un fichier déposé. | -- / - / + / ++ |
+| Connexion et repérage dans l'ENT | L'élève se connecte seul et ouvre 3 rubriques différentes en notant ce qu'il y trouve. | -- / - / + / ++ |
 | Connaissance de la charte | L'élève cite au moins 3 règles de la charte et donne un exemple concret pour chacune. | -- / - / + / ++ |
 
 </div>

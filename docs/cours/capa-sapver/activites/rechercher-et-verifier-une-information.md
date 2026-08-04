@@ -1,4 +1,4 @@
-# 🔎 SQ03 — Trouver une information fiable
+# 🔎 Rechercher une information et la vérifier
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
@@ -7,10 +7,10 @@
 
 <p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
 
-<p class="zt-lede">Chercher une info, croiser les sources et repérer les fausses nouvelles, même à l'ère de l'IA.</p>
+<p class="zt-lede">Chercher une info avec de bons mots-clés et croiser les sources, même à l'ère de l'IA.</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
+  <span>:material-clock-outline: 1 séance</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Recherche d'information</span>
 </div>
@@ -31,7 +31,7 @@ Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fab
 <div class="zt-objectifs" markdown>
 
 - Être capable de **faire une recherche** avec des mots-clés efficaces.
-- Être capable de **vérifier une information** en croisant au moins 2 sources et en repérant une infox.
+- Être capable d'**appliquer 3 questions de vérification** à une information.
 
 </div>
 
@@ -77,35 +77,8 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
 
-## 🎯 Atelier : le tableau de vérification
-
-**Ta mission :** tu es le « vérificateur » de la classe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
-
-!!! example "Consigne 1 — seul (15 min)"
-    Recopier ce tableau dans OneNote et le compléter pour les 4 informations ci-dessous :
-
-    | Info | Qui le dit ? | Trouvée ailleurs ? | But (informer / vendre / faire réagir) | Verdict : FIABLE ou TROMPEUSE |
-    |---|---|---|---|---|
-
-    **Info A** — « Se laver les mains évite de nombreuses maladies » — source : site du ministère de la Santé (`sante.gouv.fr`).
-    **Info B** — « Un bracelet magnétique à 39 € soigne le mal de dos en 3 jours, garanti ! » — source : une publicité sur un réseau social.
-    **Info C** — « Le tri des déchets est obligatoire en France » — source : `service-public.fr` (site officiel de l'administration).
-    **Info D** — « Une célébrité dit avoir gagné 10 000 € par jour avec cette appli, cliquez vite » — image un peu floue, aucun nom de journal.
-
-!!! example "Consigne 2 — seul ou en binôme (10 min)"
-    Comparer vos verdicts. Pour chaque info **trompeuse**, écrire **le signe** qui vous a alertés (titre choc, pas de source, but de vendre, image bizarre). Si seul, fais cette relecture toi-même puis compare avec un camarade dès que possible.
-
-!!! example "Consigne 3 — seul (10 min)"
-    Écrire avec tes mots : les **3 questions** à se poser devant une information, et **un exemple** d'infox que tu as déjà croisée.
-
-!!! success "Défi (pour aller plus loin) ⭐"
-    Trouver toi-même **une information vraie** sur un sujet de la vie courante (santé, alimentation, sécurité), et citer les **2 sources sérieuses** qui la confirment.
-
 !!! tip "Où répondre ?"
-    Dépose ton tableau des 4 infos, tes signes d'alerte et tes réponses de la consigne 3 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
-
-!!! note "Avant le stage (PFMP)"
-    Pendant ta prochaine période en entreprise, **repère une situation où il a fallu vérifier une information** avant de la croire ou de la transmettre (une consigne orale, une information sur une personne accompagnée, une rumeur entre collègues) : comment la personne s'y est-elle prise pour vérifier ? Note-le : on en reparlera au retour.
+    Note ta source et ta conclusion dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
 
@@ -114,6 +87,6 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Recherche d'information | L'élève utilise des mots-clés adaptés et trouve une source sérieuse. | -- / - / + / ++ |
-| Vérification et esprit critique | Sur les 4 infos de l'atelier, les verdicts sont corrects et chaque « trompeuse » est justifiée par au moins un signe d'alerte. | -- / - / + / ++ |
+| Application des 3 questions | Les 3 questions (qui, ailleurs, pourquoi) sont appliquées correctement à l'affirmation étudiée. | -- / - / + / ++ |
 
 </div>

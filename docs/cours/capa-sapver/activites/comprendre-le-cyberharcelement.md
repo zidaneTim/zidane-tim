@@ -1,18 +1,16 @@
-# 🛡️ SQ06 — Cyberharcèlement : comprendre et réagir
+# 🛡️ Comprendre le cyberharcèlement et connaître les recours
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
   <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-  <span title="Partager et publier">CRCN 2.2</span>
 </div>
 
 <p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
 
-<p class="zt-lede">Reconnaître le cyberharcèlement, connaître les recours et sensibiliser les autres.</p>
+<p class="zt-lede">Reconnaître le cyberharcèlement et connaître les recours (numéros, signalement).</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
+  <span>:material-clock-outline: 1 séance</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Citoyenneté numérique</span>
 </div>
@@ -31,7 +29,6 @@ Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **
 <div class="zt-objectifs" markdown>
 
 - Être capable de **décrire** le cyberharcèlement et de citer **les recours** (numéros, signalement).
-- Être capable de **concevoir une affiche** de sensibilisation claire.
 
 </div>
 
@@ -80,30 +77,11 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 !!! tip "Coup de pouce"
     La meilleure réaction **protège la victime** et **garde une preuve**. La pire **encourage** les auteurs.
 
-## 🎯 Atelier : l'affiche de sensibilisation
-
-**Ta mission :** créer une **affiche** qui apprend aux élèves du lycée à réagir face au cyberharcèlement. Elle sera affichée dans le couloir.
-
-!!! example "Consigne 1 — seul (5 min)"
-    Choisir **un message principal** court et fort pour ton affiche (exemple : « Un témoin qui parle, c'est un harcèlement qui s'arrête »).
-
-!!! example "Consigne 2 — seul (20 min)"
-    Créer l'affiche avec **Canva** (modèle « affiche » gratuit). Elle doit contenir : le **message principal** bien visible, **les 4 réflexes**, le **numéro 3018**, et **une image libre de droits** (banque d'images intégrée à Canva).
-
-!!! tip "Coup de pouce"
-    Une bonne affiche = **peu de texte**, **gros titre**, **couleurs contrastées** (texte foncé sur fond clair). On doit la comprendre en 3 secondes, de loin.
-
-!!! example "Consigne 3 — seul ou en binôme (10 min)"
-    Échanger son affiche avec un camarade et vérifier : le message est-il **clair de loin** ? Le **3018** est-il présent ? L'image est-elle **libre de droits** ? Si seul, fais la même relecture en te mettant à la place d'un camarade, puis fais vérifier par un camarade ou l'enseignant dès que possible.
-
-!!! success "Défi (pour aller plus loin) ⭐"
-    Ajouter sur l'affiche une **phrase pour les témoins** qui donne envie d'agir (pas de culpabiliser). Exemple à améliorer : « Ne reste pas spectateur ».
-
-!!! tip "Où répondre ?"
-    Exporte ton affiche en image (ou PDF) et dépose-la, avec le classement des réactions (je m'entraîne, consigne 2), dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
-
 !!! info "Besoin d'aide, pour soi ou un ami"
     **3018** — numéro national contre le cyberharcèlement (gratuit, anonyme, appli disponible) · **3020** pour le harcèlement à l'école.
+
+!!! tip "Où répondre ?"
+    Note tes réponses (rôles, classement des réactions) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
 
@@ -112,6 +90,5 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Comprendre et réagir | L'élève décrit le cyberharcèlement (répété, intentionnel), distingue victime/auteur/témoin et cite au moins 3 réflexes dont le 3018. | -- / - / + / ++ |
-| Production de l'affiche | L'affiche est lisible de loin (message court, contraste), contient les 4 réflexes, le 3018 et une image libre de droits. | -- / - / + / ++ |
 
 </div>

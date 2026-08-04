@@ -1,4 +1,4 @@
-# 💶 SQ10 — Mon premier budget au tableur
+# 💶 Découvrir le tableur : cellules et formule SOMME
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
@@ -7,10 +7,10 @@
 
 <p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
 
-<p class="zt-lede">Découvrir le tableur en calculant tout seul le budget d'un repas de fête.</p>
+<p class="zt-lede">Découvrir le tableur : lignes, colonnes, cellules et formule SOMME.</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
+  <span>:material-clock-outline: 1 séance</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Tableur</span>
 </div>
@@ -22,14 +22,14 @@
 Pour les fêtes, ta famille te confie une mission : organiser le **repas de Noël pour 6 personnes** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur, et t'aurait prévenu.
 
 !!! question "Problématique"
-    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
+    Comment utiliser un tableur pour calculer sans se tromper ?
 
 ## Objectifs
 
 <div class="zt-objectifs" markdown>
 
 - Être capable de **saisir des données** dans un tableur (lignes, colonnes, cellules).
-- Être capable d'utiliser la **formule SOMME** et le **format monétaire**.
+- Être capable d'utiliser la **formule SOMME**.
 
 </div>
 
@@ -75,27 +75,8 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 !!! tip "Coup de pouce"
     Si le résultat affiche la formule au lieu du nombre, vérifie que tu as bien commencé par le signe **`=`** et qu'il n'y a pas d'espace avant.
 
-## 🎯 Atelier : le budget du repas de fête
-
-**Ta mission :** préparer, au tableur, le **budget du repas de Noël pour 6 personnes**, sans dépasser **60 €**.
-
-!!! example "Consigne 1 — seul (10 min)"
-    Créer un tableau avec les colonnes : **A = Aliment**, **B = Quantité**, **C = Prix**. Saisir au moins **6 aliments** (entrée, plat, dessert, boisson…) avec des prix réalistes de ton choix.
-
-!!! example "Consigne 2 — seul (10 min)"
-    En bas de la colonne **C**, calculer le **total** avec `=SOMME(C2:C7)` (adapte les numéros de ligne à ton tableau).
-
-!!! example "Consigne 3 — seul (5 min)"
-    Appliquer le **format monétaire (€)** à toute la colonne des prix et au total.
-
-!!! example "Consigne 4 — seul (10 min)"
-    Comparer ton total au budget de **60 €**. Répondre dans OneNote : **suis-je dans le budget ?** Si non, **quels aliments** je change pour y arriver ? Puis modifier un prix et **regarder le total se recalculer tout seul**.
-
-!!! success "Défi (pour aller plus loin) ⭐"
-    Ajouter une colonne **D = Prix pour 12 personnes** en doublant chaque prix avec une formule (`=C2*2`), puis calculer le nouveau total.
-
 !!! tip "Où répondre ?"
-    Dépose ton fichier tableur (ou une capture) et ta réponse à la consigne 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
+    Dépose ton fichier tableur (ou une capture) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
 
@@ -103,7 +84,7 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Saisie et organisation | Le tableau a des colonnes titrées et au moins 6 lignes de données correctement saisies. | -- / - / + / ++ |
-| Formule et format | Le total est calculé avec `=SOMME(...)` (pas à la main) et le format monétaire € est appliqué ; l'élève constate le recalcul automatique. | -- / - / + / ++ |
+| Saisie et organisation | Le tableau a des colonnes titrées et 3 lignes de données correctement saisies. | -- / - / + / ++ |
+| Formule SOMME | Le total est calculé avec `=SOMME(...)` (pas à la main). | -- / - / + / ++ |
 
 </div>
