@@ -5,7 +5,7 @@
   <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème santé maternelle</p>
+<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème santé maternelle · Entraînement ECCF</p>
 
 <p class="zt-lede">Évolution des capacités d'accueil des maternités en Île-de-France entre 2013 et 2023</p>
 
@@ -14,6 +14,9 @@
   <span>:material-school-outline: TIM × Mathématiques</span>
   <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
 </div>
+
+!!! warning "Statut de cette activité — support d'entraînement ECCF"
+    Ce thème **n'est pas enseigné en cours** : il sert de cas pratique pour t'entraîner à l'épreuve certificative ECCF E1.2, sur un sujet que tu découvres le jour même — exactement comme le jour de l'épreuve. Tu mobilises seul les **3 critères** vus toute l'année (Analyse → Traitement → Exposition) sur des données que tu n'as jamais manipulées.
 
 <small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité - Socle commun*</small>
 
