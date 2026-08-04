@@ -72,11 +72,8 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! tip "Coup de pouce"
     Si la connexion échoue : je vérifie les **majuscules/minuscules**, l'absence d'**espace** avant ou après, et que je suis bien sur le site de **l'ENT du lycée** (pas un autre site). Toujours bloqué → je demande à un adulte.
 
-!!! example "Consigne 2 — en binôme (10 min)"
-    Lire ensemble les 5 règles de la charte. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire.
-
-!!! tip "🆘 Seul ?"
-    Lis seul les 5 règles de la charte et note, pour chacune, un exemple concret de ce qu'il ne faut pas faire. Compare tes exemples avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Lire les 5 règles de la charte, seul ou en binôme si possible. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire. Si seul, compare tes exemples avec un camarade dès que possible.
 
 ## 🎯 Atelier : je deviens autonome sur l'ENT
 

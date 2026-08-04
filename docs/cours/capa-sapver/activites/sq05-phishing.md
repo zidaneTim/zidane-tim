@@ -72,20 +72,14 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (10 min)"
-    Reprendre le SMS « Chronopost » ci-dessus. Retrouver ensemble les indices de piège qu'il contient.
+!!! example "Consigne 1 — seul ou en classe entière (10 min)"
+    Reprendre le SMS « Chronopost » ci-dessus et retrouver les indices de piège qu'il contient. Si seul, compare avec la classe dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Relis seul le SMS « Chronopost » et note les indices de piège qu'il contient. Compare avec la classe dès que possible.
-
-!!! example "Consigne 2 — en binôme (10 min)"
-    Lire le message ci-dessous et repérer les indices de piège qu'il contient.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Lire le message ci-dessous et repérer les indices de piège qu'il contient. Si seul, compare avec un camarade dès que possible.
 
     **De :** service-clients@caf-remboursement.net · **Objet :** URGENT — Remboursement en attente
     « Chère allocatère, vous avez droit à un remboursement de 128,40 €. Cliquez ici avant ce soir et saisissez vos coordonées bancaire pour recevoir votre virement. »
-
-!!! tip "🆘 Seul ?"
-    Lis seul ce message et note les indices de piège qu'il contient. Compare avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Compare l'adresse de l'expéditeur avec le vrai site de la CAF : **caf.fr**. Compte les fautes d'orthographe. Regarde ce qu'on te demande de donner.
@@ -124,11 +118,8 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 6. **Courriel** — De : facturation@compte-verification-video.com · Objet : Votre abonnement est suspendu
    « Votre paiement n'a pas pu être prélevé. Votre compte de streaming sera supprimé sous 48 h. Mettez à jour votre carte bancaire ici : compte-verification-video.com/maj »
 
-!!! example "Consigne 2 — en binôme (15 min)"
-    Comparer vos réponses. Pour chaque message, noter : verdict (piège/fiable) + au moins 1 indice qui vous a alertés (numéro de l'indice de la partie « notion », ou le mot qui vous a mis la puce à l'oreille).
-
-!!! tip "🆘 Seul ?"
-    Relis seul tes 6 verdicts et note, pour chacun, au moins 1 indice qui t'a alerté. Compare avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (15 min)"
+    Comparer vos réponses. Pour chaque message, noter : verdict (piège/fiable) + au moins 1 indice qui vous a alertés (numéro de l'indice de la partie « notion », ou le mot qui vous a mis la puce à l'oreille). Si seul, note au moins 1 indice par message puis compare avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Pose-toi 3 questions dans l'ordre. 1) Qui envoie ce message (adresse exacte) ? 2) Est-ce qu'on me presse ? 3) Est-ce qu'on me demande de payer ou de donner une information secrète ? Un seul « oui » à la question 3 = très mauvais signe.
@@ -137,10 +128,7 @@ Avant de faire confiance à un site, quelques réflexes rapides :
     Rédiger ta checklist personnelle anti-arnaque : les 4 vérifications que tu feras désormais avant de cliquer.
 
 !!! example "Consigne 4 — mise en commun (10 min)"
-    Mise en commun au vidéoprojecteur : verdicts de la classe, indices retenus, rappel des numéros et sites de signalement.
-
-!!! tip "🆘 Seul ?"
-    Relis seul ta checklist personnelle (consigne 3) et vérifie qu'elle reprend bien les 4 réflexes et les numéros de signalement. Compare-la avec la mise en commun de la classe dès que possible.
+    Mise en commun au vidéoprojecteur : verdicts de la classe, indices retenus, rappel des numéros et sites de signalement. Si tu travailles seul, relis d'abord ta checklist personnelle (consigne 3) et vérifie qu'elle reprend bien les 4 réflexes et les numéros de signalement, puis compare-la avec la mise en commun dès que possible.
 
 !!! success "Défi (pour les détectives rapides)"
     Écrire 3 conseils anti-arnaque simples pour un membre de ta famille qui se ferait facilement piéger (grand-parent, petit frère…). Format libre : carte mémo, mini-affiche…

@@ -58,11 +58,8 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (5 min)"
-    Reprendre l'affiche du menu (texte gris clair sur fond jaune, écriture fantaisie, en photo). Lister ensemble **3 problèmes** d'accessibilité.
-
-!!! tip "🆘 Seul ?"
-    Relis seul la description de l'affiche du menu et liste 3 problèmes d'accessibilité. Compare avec la classe dès que possible.
+!!! example "Consigne 1 — seul ou en classe entière (5 min)"
+    Reprendre l'affiche du menu (texte gris clair sur fond jaune, écriture fantaisie, en photo) et lister **3 problèmes** d'accessibilité. Si seul, compare avec la classe dès que possible.
 
 !!! example "Consigne 2 — seul (10 min)"
     Sur l'ordinateur, essayer **2 aides** : agrandir un texte avec `Ctrl` + molette, puis activer le **lecteur d'écran** quelques secondes. Noter ce que ça change.
@@ -83,11 +80,8 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! example "Consigne 3 — seul (10 min)"
     **Tester** : activer le lecteur d'écran et vérifier qu'il lit bien le menu **et** le texte alternatif de l'image.
 
-!!! example "Consigne 4 — en binôme (10 min)"
-    Échanger avec un camarade. Vérifier avec la **check-list des 5 règles** : chaque règle est-elle respectée ? Noter ce qui reste à améliorer.
-
-!!! tip "🆘 Seul ?"
-    Relis seul ton document avec la check-list des 5 règles : chaque règle est-elle respectée ? Note ce qui reste à améliorer. Fais vérifier par un camarade ou l'enseignant dès que possible.
+!!! example "Consigne 4 — seul ou en binôme (10 min)"
+    Échanger avec un camarade et vérifier avec la **check-list des 5 règles** : chaque règle est-elle respectée ? Noter ce qui reste à améliorer. Si seul, fais cette vérification toi-même puis fais vérifier par un camarade ou l'enseignant dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Écrire **2 conseils** que tu donnerais à un collègue pour créer des documents accessibles aux personnes âgées.

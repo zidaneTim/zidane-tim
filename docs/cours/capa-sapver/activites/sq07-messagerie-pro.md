@@ -63,17 +63,11 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (10 min)"
-    Reprendre le message *« slt jvoudré 1 stage chez vou »*. Ensemble, lister **tout ce qui manque** (objet, politesse, dates, signature, PJ).
+!!! example "Consigne 1 — seul ou en classe entière (10 min)"
+    Reprendre le message *« slt jvoudré 1 stage chez vou »* et lister **tout ce qui manque** (objet, politesse, dates, signature, PJ). Si seul, compare ta liste avec la classe dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Relis seul ce message et liste tout ce qui manque (objet, politesse, dates, signature, PJ). Compare ta liste avec la classe dès que possible.
-
-!!! example "Consigne 2 — en binôme (10 min)"
-    Écrire **un objet** de courriel correct pour une demande de stage, et **une formule de politesse** de fin. Comparer avec un autre binôme.
-
-!!! tip "🆘 Seul ?"
-    Écris seul un objet de courriel correct et une formule de politesse de fin. Compare avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Écrire **un objet** de courriel correct pour une demande de stage, et **une formule de politesse** de fin. Si seul, compare avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Un bon objet = **de quoi ça parle + qui tu es** en 4-5 mots. Exemple : « Demande de stage — CAPa SAPVER ».
@@ -91,11 +85,8 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 !!! tip "Coup de pouce"
     Corps en 3 phrases : *« Je suis élève en CAPa SAPVER au lycée Xavier Grall. Je recherche un stage du __ au __. Vous trouverez ma présentation en pièce jointe. »*
 
-!!! example "Consigne 3 — en binôme (10 min)"
-    Avant d'envoyer : échanger l'écran avec un camarade. Vérifier ensemble la **check-list** : objet ✔ · politesse ✔ · pas de langage SMS ✔ · pièce jointe visible ✔ · signature ✔. Corriger, puis **envoyer**.
-
-!!! tip "🆘 Seul ?"
-    Avant d'envoyer, relis seul ta check-list : objet ✔ · politesse ✔ · pas de langage SMS ✔ · pièce jointe visible ✔ · signature ✔. Corrige, puis envoie. Fais vérifier par un camarade ou l'enseignant dès que possible.
+!!! example "Consigne 3 — seul ou en binôme (10 min)"
+    Avant d'envoyer : échanger l'écran avec un camarade et vérifier ensemble la **check-list** : objet ✔ · politesse ✔ · pas de langage SMS ✔ · pièce jointe visible ✔ · signature ✔. Corriger, puis **envoyer**. Si seul, fais cette vérification toi-même, corrige, envoie, puis fais vérifier par un camarade ou l'enseignant dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Imaginer la **réponse positive** de la structure, puis écrire un **court courriel de remerciement** correct (« Je vous remercie de votre réponse… »).

@@ -68,17 +68,11 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (10 min)"
-    Reprendre l'affirmation « le citron chaud fait maigrir de 5 kg en une semaine ». Chercher ensemble avec de bons mots-clés, et trouver **une source sérieuse** (site santé, `.gouv.fr`) qui en parle.
+!!! example "Consigne 1 — seul ou en classe entière (10 min)"
+    Reprendre l'affirmation « le citron chaud fait maigrir de 5 kg en une semaine ». Chercher avec de bons mots-clés, et trouver **une source sérieuse** (site santé, `.gouv.fr`) qui en parle. Si seul, compare ta source avec la classe dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Cherche seul, avec de bons mots-clés, une source sérieuse (site santé, `.gouv.fr`) qui parle de cette affirmation sur le citron. Compare ta source avec la classe dès que possible.
-
-!!! example "Consigne 2 — en binôme (10 min)"
-    Appliquer les **3 questions** (Qui ? Ailleurs ? Pourquoi ?) à cette phrase et dire si on peut y croire.
-
-!!! tip "🆘 Seul ?"
-    Applique seul les 3 questions (Qui ? Ailleurs ? Pourquoi ?) à cette phrase et écris ta conclusion. Compare avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Appliquer les **3 questions** (Qui ? Ailleurs ? Pourquoi ?) à cette phrase et dire si on peut y croire. Si seul, compare ta conclusion avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
@@ -98,11 +92,8 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
     **Info C** — « Le tri des déchets est obligatoire en France » — source : `service-public.fr` (site officiel de l'administration).
     **Info D** — « Une célébrité dit avoir gagné 10 000 € par jour avec cette appli, cliquez vite » — image un peu floue, aucun nom de journal.
 
-!!! example "Consigne 2 — en binôme (10 min)"
-    Comparer vos verdicts. Pour chaque info **trompeuse**, écrire **le signe** qui vous a alertés (titre choc, pas de source, but de vendre, image bizarre).
-
-!!! tip "🆘 Seul ?"
-    Relis seul ton tableau et écris, pour chaque info trompeuse, le signe qui t'a alerté. Compare avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Comparer vos verdicts. Pour chaque info **trompeuse**, écrire **le signe** qui vous a alertés (titre choc, pas de source, but de vendre, image bizarre). Si seul, fais cette relecture toi-même puis compare avec un camarade dès que possible.
 
 !!! example "Consigne 3 — seul (10 min)"
     Écrire avec tes mots : les **3 questions** à se poser devant une information, et **un exemple** d'infox que tu as déjà croisée.
@@ -114,7 +105,7 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
     Dépose ton tableau des 4 infos, tes signes d'alerte et tes réponses de la consigne 3 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 !!! note "Avant le stage (PFMP)"
-    Pendant ta prochaine période en entreprise, **repère les outils numériques** utilisés dans la structure (ordinateur, logiciel de planning, tablette, téléphone pro…) et note-les : on en reparlera au retour.
+    Pendant ta prochaine période en entreprise, **repère une situation où il a fallu vérifier une information** avant de la croire ou de la transmettre (une consigne orale, une information sur une personne accompagnée, une rumeur entre collègues) : comment la personne s'y est-elle prise pour vérifier ? Note-le : on en reparlera au retour.
 
 ## Grille d'évaluation
 

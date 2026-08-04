@@ -80,12 +80,10 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! example "Consigne 1 — seul (10 min)"
     Créer sur l'ordinateur (ou dans l'espace ENT) l'arborescence : dossier `CAPa1` → sous-dossier `MG1-Vie-sociale`.
 
-!!! example "Consigne 2 — en binôme (10 min)"
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
     Voici 4 noms de fichiers. Réécrire chacun selon la règle `AAAA-MM-JJ_Intitulé_Prénom` (invente une date) :
     `photo (2)` · `Document sans titre` · `mon cv final vraiment final` · `réunion.docx`
-
-!!! tip "🆘 Seul ?"
-    Réécris seul les 4 noms de fichiers selon la règle. Compare tes réponses avec un camarade dès que possible.
+    Si seul, compare tes réponses avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Je repère d'abord **de quoi ça parle** (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
@@ -103,11 +101,8 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! example "Consigne 3 — seul (10 min)"
     Enregistrer le fichier avec le **bon nom** : `AAAA-MM-JJ_Fiche-presentation_MonPrénom`, dans le sous-dossier `MG1-Vie-sociale`.
 
-!!! example "Consigne 4 — en binôme (10 min)"
-    Échanger sa fiche avec un camarade. Chacun vérifie : le nom du fichier est-il correct ? Y a-t-il une information **privée** qui n'aurait pas dû être écrite (adresse, téléphone) ?
-
-!!! tip "🆘 Seul ?"
-    Relis seul ta propre fiche comme si tu étais un camarade : le nom du fichier est-il correct ? Y a-t-il une information privée à retirer ? Fais vérifier par un camarade ou l'enseignant dès que possible.
+!!! example "Consigne 4 — seul ou en binôme (10 min)"
+    Échanger sa fiche avec un camarade et vérifier : le nom du fichier est-il correct ? Y a-t-il une information **privée** qui n'aurait pas dû être écrite (adresse, téléphone) ? Si seul, fais la même relecture en te mettant à la place d'un camarade, puis fais vérifier par un camarade ou l'enseignant dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Dresser deux listes pour un **profil de réseau social** : 3 informations que tu accepterais d'y mettre, 3 informations que tu refuserais d'y mettre. Justifier en une phrase chaque refus.

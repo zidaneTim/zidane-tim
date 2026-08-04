@@ -71,17 +71,11 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (10 min)"
-    Reprendre la situation du début. Dire qui est la **victime**, qui sont les **auteurs**, qui sont les **témoins** — et ce que **chaque témoin** aurait pu faire.
+!!! example "Consigne 1 — seul ou en classe entière (10 min)"
+    Reprendre la situation du début. Dire qui est la **victime**, qui sont les **auteurs**, qui sont les **témoins** — et ce que **chaque témoin** aurait pu faire. Si seul, compare avec la classe dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Relis seul la situation du début et identifie la victime, les auteurs et les témoins, puis note ce que chaque témoin aurait pu faire. Compare avec la classe dès que possible.
-
-!!! example "Consigne 2 — en binôme (10 min)"
-    Classer ces 4 réactions de la **meilleure** à la **pire** : répondre par une insulte · faire une capture et prévenir un adulte · liker le message moqueur · ne rien faire.
-
-!!! tip "🆘 Seul ?"
-    Classe seul ces 4 réactions de la meilleure à la pire. Compare ton classement avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Classer ces 4 réactions de la **meilleure** à la **pire** : répondre par une insulte · faire une capture et prévenir un adulte · liker le message moqueur · ne rien faire. Si seul, compare ton classement avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     La meilleure réaction **protège la victime** et **garde une preuve**. La pire **encourage** les auteurs.
@@ -99,11 +93,8 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 !!! tip "Coup de pouce"
     Une bonne affiche = **peu de texte**, **gros titre**, **couleurs contrastées** (texte foncé sur fond clair). On doit la comprendre en 3 secondes, de loin.
 
-!!! example "Consigne 3 — en binôme (10 min)"
-    Échanger son affiche avec un camarade. Vérifier : le message est-il **clair de loin** ? Le **3018** est-il présent ? L'image est-elle **libre de droits** ?
-
-!!! tip "🆘 Seul ?"
-    Relis seul ton affiche en te mettant à la place d'un camarade : le message est-il clair de loin ? Le 3018 est-il présent ? L'image est-elle libre de droits ? Fais vérifier par un camarade ou l'enseignant dès que possible.
+!!! example "Consigne 3 — seul ou en binôme (10 min)"
+    Échanger son affiche avec un camarade et vérifier : le message est-il **clair de loin** ? Le **3018** est-il présent ? L'image est-elle **libre de droits** ? Si seul, fais la même relecture en te mettant à la place d'un camarade, puis fais vérifier par un camarade ou l'enseignant dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Ajouter sur l'affiche une **phrase pour les témoins** qui donne envie d'agir (pas de culpabiliser). Exemple à améliorer : « Ne reste pas spectateur ».

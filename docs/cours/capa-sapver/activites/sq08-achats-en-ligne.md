@@ -38,6 +38,8 @@
 
 ### 1) Un site marchand fiable : les indices
 
+Tu as déjà vu le cadenas et le `https://` en SQ05 (Phishing) : on les retrouve ici, appliqués cette fois à l'achat en ligne.
+
 | Indice | Ce que je regarde |
 |---|---|
 | **Le cadenas et `https://`** | Un cadenas fermé + une adresse en **https** = la connexion est chiffrée (protégée). |
@@ -59,17 +61,11 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 
 ## ✏️ Je m'entraîne
 
-!!! example "Consigne 1 — en classe entière (10 min)"
-    Reprendre l'offre « baskets à 19 € ». Lister ensemble **3 indices** qui doivent alerter.
+!!! example "Consigne 1 — seul ou en classe entière (10 min)"
+    Reprendre l'offre « baskets à 19 € » et lister **3 indices** qui doivent alerter. Si seul, compare avec la classe dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Relis seul l'offre « baskets à 19 € » et liste 3 indices qui doivent alerter. Compare avec la classe dès que possible.
-
-!!! example "Consigne 2 — en binôme (10 min)"
-    Classer ces moyens de paiement du plus **prudent** au moins prudent : payer avec code SMS (3D Secure) · envoyer son numéro de carte par message · payer sur un site avec cadenas et mentions légales.
-
-!!! tip "🆘 Seul ?"
-    Classe seul ces moyens de paiement du plus prudent au moins prudent. Compare ton classement avec un camarade dès que possible.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Classer ces moyens de paiement du plus **prudent** au moins prudent : payer avec code SMS (3D Secure) · envoyer son numéro de carte par message · payer sur un site avec cadenas et mentions légales. Si seul, compare ton classement avec un camarade dès que possible.
 
 !!! tip "Coup de pouce"
     Le plus prudent **protège la carte** (code SMS, site sécurisé). Le moins prudent, c'est **donner son numéro** en clair à un inconnu.
@@ -88,17 +84,11 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
     - **Site 2** — inconnu, pas de cadenas, aucune adresse d'entreprise, « −90 % dernier jour », uniquement des avis 5 étoiles identiques.
     - **Site 3** — boutique locale, `https`, mentions légales présentes, prix corrects, quelques avis datés, paiement avec code SMS.
 
-!!! example "Consigne 2 — en binôme (10 min)"
-    Comparer vos verdicts. Pour le site **douteux**, écrire les **2 indices** les plus parlants.
+!!! example "Consigne 2 — seul ou en binôme (10 min)"
+    Comparer vos verdicts. Pour le site **douteux**, écrire les **2 indices** les plus parlants. Si seul, note ces 2 indices toi-même puis compare avec un camarade dès que possible.
 
-!!! tip "🆘 Seul ?"
-    Relis seul tes verdicts et note, pour le site douteux, les 2 indices les plus parlants. Compare avec un camarade dès que possible.
-
-!!! example "Consigne 3 — en petit groupe (10 min)"
-    **Débat : acheter moins, acheter mieux ?** Chacun donne **un argument pour** et **un argument contre** le fait d'attendre les grosses promotions pour acheter.
-
-!!! tip "🆘 Seul ?"
-    Liste seul 2 arguments pour et 2 arguments contre le fait d'attendre les grosses promotions pour acheter, puis compare avec un camarade à l'oral quand c'est possible.
+!!! example "Consigne 3 — seul ou en petit groupe (10 min)"
+    **Débat : acheter moins, acheter mieux ?** Chacun donne **un argument pour** et **un argument contre** le fait d'attendre les grosses promotions pour acheter. Si seul, liste 2 arguments pour et 2 arguments contre, puis compare avec un camarade à l'oral dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Rédiger **3 conseils** pour un membre de ta famille qui achète souvent en ligne : un sur la **sécurité**, un sur les **avis**, un sur la **consommation responsable**.
