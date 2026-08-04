@@ -96,7 +96,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/comprendre-le-cyberharcelement.md)
 
--   :material-poster-outline:{ .lg .middle } <span class="zt-step">12</span> **Créer une affiche de sensibilisation au cyberharcèlement**
+-   :material-image-outline:{ .lg .middle } <span class="zt-step">12</span> **Créer une affiche de sensibilisation au cyberharcèlement**
 
     ---
 
@@ -112,7 +112,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/ecrire-un-courriel-professionnel.md)
 
--   :material-email-send-outline:{ .lg .middle } <span class="zt-step">14</span> **Envoyer une candidature de stage par courriel**
+-   :material-email-fast-outline:{ .lg .middle } <span class="zt-step">14</span> **Envoyer une candidature de stage par courriel**
 
     ---
 
@@ -128,7 +128,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/site-marchand-fiable-et-consommation-responsable.md)
 
--   :material-cart-check-outline:{ .lg .middle } <span class="zt-step">16</span> **Trois sites marchands au banc d'essai**
+-   :material-cart-check:{ .lg .middle } <span class="zt-step">16</span> **Trois sites marchands au banc d'essai**
 
     ---
 
