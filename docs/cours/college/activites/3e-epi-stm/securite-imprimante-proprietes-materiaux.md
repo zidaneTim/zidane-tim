@@ -64,7 +64,7 @@ fabriquer un objet.
   électrique ? Justifie avec un résultat de test.
 
 ??? tip "Vérifier mes réponses"
-    - La buse peut dépasser 200 °C et le plateau chauffant peut rester chaud plusieurs minutes après l'arrêt de
+    - La buse peut atteindre 260 °C et le plateau chauffant peut rester chaud plusieurs minutes après l'arrêt de
       l'impression : un contact provoque une brûlure, même après la fin du cycle.
     - Un plastique non conducteur et de faible densité est en général le meilleur choix pour un objet léger et
       isolant — ta réponse doit s'appuyer sur le résultat réel de ton test de conductivité et de densité, pas sur
