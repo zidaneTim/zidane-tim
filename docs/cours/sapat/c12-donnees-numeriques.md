@@ -38,13 +38,13 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/alimentation-bretagne.md)
 
--   :material-hospital-box-outline:{ .lg .middle } <span class="zt-step">4</span> **Maternités en baisse ?** · _entraînement ECCF_
+-   :material-water-outline:{ .lg .middle } <span class="zt-step">4</span> **L'eau du robinet, sûre et bien gérée ?**
 
     ---
 
-    Île-de-France, 2013-2023 : les capacités d'accueil en maternité évoluent-elles ? (support d'entraînement à l'épreuve).
+    Qualité sanitaire et rendement du réseau d'eau potable sur Loudéac Communauté Bretagne Centre.
 
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/maternites-ile-de-france.md)
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/eau-lcbc.md)
 
 -   :material-paw-outline:{ .lg .middle } <span class="zt-step">5</span> **Les espèces non indigènes** · _entraînement ECCF_
 
@@ -53,6 +53,14 @@ Chaque activité part de données réelles du territoire. **Fais-les dans l'ordr
     Les espèces venues d'ailleurs, commune par commune (support d'entraînement à l'épreuve).
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/biodiversite-bretagne.md)
+
+-   :material-hospital-box-outline:{ .lg .middle } <span class="zt-step">6</span> **Maternités en baisse ?** · _entraînement ECCF_
+
+    ---
+
+    Île-de-France, 2013-2023 : les capacités d'accueil en maternité évoluent-elles ? (ressource d'entraînement supplémentaire, pas de créneau dédié).
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/c12/maternites-ile-de-france.md)
 
 </div>
 
