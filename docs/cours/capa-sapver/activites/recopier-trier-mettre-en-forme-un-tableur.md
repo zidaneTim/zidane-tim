@@ -17,7 +17,7 @@
 
 ## La situation
 
-Après ton budget de Noël, on te confie une **liste de 15 courses** avec, pour chaque produit, un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Le tableur sait **recopier** une formule d'un seul geste. Et pour t'y retrouver, il sait aussi **trier** et **mettre en couleur**.
+Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Le tableur sait **recopier** une formule d'un seul geste. Et pour t'y retrouver, il sait aussi **trier** et **mettre en couleur**.
 
 !!! question "Problématique"
     Comment aller plus vite au tableur en recopiant, triant et mettant en forme un tableau ?

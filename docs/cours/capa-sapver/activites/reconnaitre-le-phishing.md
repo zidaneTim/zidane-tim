@@ -17,13 +17,13 @@
 
 ## La situation
 
-Samedi matin, tu reçois ce SMS sur ton téléphone :
+Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
 
 !!! quote "SMS reçu"
     **De :** +33 7 44 XX XX XX
     « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
 
-Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, ta voisine raconte qu'elle a reçu le même message et qu'elle a cliqué : 240 € ont disparu de son compte.
+Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où. Le soir, une collègue raconte qu'une autre résidente a reçu le même message la semaine dernière et qu'elle a cliqué : 240 € ont disparu de son compte.
 
 !!! question "Problématique"
     Comment reconnaître un message piège, et que faire quand on en reçoit un ?

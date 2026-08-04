@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais maintenant filtrer un tableau de dépenses. Mais si tu en fais un **graphique**, la réponse à « où part l'argent ? » **saute aux yeux** : un poste de dépense est bien plus gros que les autres.
+Tu sais maintenant filtrer un tableau de dépenses. Dans le cadre de ton accompagnement de la famille Morel, un **graphique** va rendre la réponse à « où part l'argent ? » encore plus parlante : un poste de dépense est bien plus gros que les autres.
 
 !!! question "Problématique"
     Comment faire parler un tableau de chiffres avec un graphique ?
@@ -40,7 +40,7 @@ Un graphique se **commente** : on repère le **plus grand**, le **plus petit**, 
 
 ## 🎯 Atelier : où part l'argent des Morel ?
 
-**Ta mission :** tu es le « conseiller budget » de la famille Morel. Tu dois leur montrer, avec un graphique, **où part leur argent** et leur donner **un conseil**.
+**Ta mission :** en tant qu'agent de l'association, tu es le « conseiller budget » de la famille Morel. Tu dois leur montrer, avec un graphique, **où part leur argent** et leur donner **un conseil**.
 
 !!! example "Consigne 1 — seul (10 min)"
     À partir du tableau des dépenses (Janvier à Mars), calculer avec `=SOMME.SI(...)` **ou** un petit tableau à la main le **total par poste** sur les 3 mois : total Courses, total Loisirs, total Transport.

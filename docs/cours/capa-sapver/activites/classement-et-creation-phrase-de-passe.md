@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en pratique : tu es le « conseiller sécurité » de ta famille.
+Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en pratique : dans l'EHPAD où tu es agent, on te confie le rôle de « référent sécurité numérique » de l'équipe.
 
 !!! question "Problématique"
     Comment reconnaître le plus fort d'une liste de mots de passe, et créer le sien ?
@@ -28,7 +28,7 @@ Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en prati
 
 ## 🎯 Atelier : le classement des mots de passe
 
-**Ta mission :** tu es le « conseiller sécurité » de ta famille. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
+**Ta mission :** tu es le « référent sécurité numérique » de l'équipe. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
 
 !!! example "Consigne 1 — seul (10 min)"
     Classer ces 6 mots de passe du plus **FAIBLE** au plus **FORT**, et noter pour chacun **un défaut** (trop court, info perso, trop simple…) :
@@ -47,7 +47,7 @@ Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en prati
     Créer **ta** phrase de passe personnelle (à partir d'une phrase que **toi seul** connais). Vérifier qu'elle a : au moins 12 caractères, une majuscule, un chiffre, un signe, **aucune** info personnelle évidente. **Ne la partage avec personne** — note seulement qu'elle respecte les règles.
 
 !!! success "Défi (pour aller plus loin) ⭐"
-    Expliquer en 2 phrases à ton grand frère pourquoi il ne faut **pas** utiliser le même mot de passe partout, et ce qu'un **gestionnaire de mots de passe** peut lui apporter.
+    Expliquer en 2 phrases à un collègue pourquoi il ne faut **pas** utiliser le même mot de passe partout, et ce qu'un **gestionnaire de mots de passe** peut lui apporter.
 
 !!! tip "Où répondre ?"
     Dépose ton classement des 6 mots de passe (avec les défauts) et la **vérification** de ta phrase de passe (les règles respectées, pas le mot de passe lui-même) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).

@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais désormais poser les bonnes questions face à une information. Passe maintenant à la pratique : il faut trier le vrai du faux dans une série d'informations trouvées en ligne.
+Tu sais désormais poser les bonnes questions face à une information. Dans l'EHPAD où tu es agent, cela sert tous les jours : passe à la pratique en triant le vrai du faux dans une série d'informations trouvées en ligne.
 
 !!! question "Problématique"
     Comment distinguer une information fiable d'une information trompeuse ?
@@ -28,7 +28,7 @@ Tu sais désormais poser les bonnes questions face à une information. Passe mai
 
 ## 🎯 Atelier : le tableau de vérification
 
-**Ta mission :** tu es le « vérificateur » de la classe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
+**Ta mission :** tu es le « vérificateur » de l'équipe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
 
 !!! example "Consigne 1 — seul (15 min)"
     Recopier ce tableau dans OneNote et le compléter pour les 4 informations ci-dessous :

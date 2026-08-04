@@ -19,7 +19,7 @@
 
 ## La situation
 
-La famille Morel n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une liste de chiffres, difficile de répondre.
+Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une liste de chiffres, difficile de répondre.
 
 !!! question "Problématique"
     Comment retrouver rapidement une partie précise des données d'un grand tableau ?

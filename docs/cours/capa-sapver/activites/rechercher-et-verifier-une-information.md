@@ -19,9 +19,9 @@
 
 ## La situation
 
-Sur ton téléphone, une vidéo affirme : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Ton cousin y croit et veut essayer. Le même jour, tu vois une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**.
+Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son téléphone : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Il veut l'essayer avant même d'en parler à son médecin. Le même jour, une collègue te montre une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**.
 
-Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image. **Comment savoir ce qui est vrai ?**
+Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image. **Comment savoir ce qui est vrai, avant de conseiller quelqu'un ?**
 
 !!! question "Problématique"
     Comment vérifier si une information trouvée en ligne est fiable ?

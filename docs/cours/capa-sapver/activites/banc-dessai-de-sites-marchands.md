@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réflexes en pratique : tu es le « conseiller achats » de ta famille.
+Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réflexes en pratique : dans le commerce où tu es agent, on te confie le rôle de « conseiller achats » pour la clientèle.
 
 !!! question "Problématique"
     Comment analyser la fiabilité de plusieurs sites marchands, et comment argumenter sur la consommation responsable ?
@@ -28,7 +28,7 @@ Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réf
 
 ## 🎯 Atelier : les 3 sites au banc d'essai
 
-**Ta mission :** tu es le « conseiller achats » de ta famille. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
+**Ta mission :** tu es le « conseiller achats » du commerce. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
 
 !!! example "Consigne 1 — seul (15 min)"
     Recopier ce tableau dans OneNote et l'utiliser pour analyser les **3 sites** décrits ci-dessous :
@@ -47,7 +47,7 @@ Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réf
     **Débat : acheter moins, acheter mieux ?** Chacun donne **un argument pour** et **un argument contre** le fait d'attendre les grosses promotions pour acheter. Si seul, liste 2 arguments pour et 2 arguments contre, puis compare avec un camarade à l'oral dès que possible.
 
 !!! success "Défi (pour aller plus loin) ⭐"
-    Rédiger **3 conseils** pour un membre de ta famille qui achète souvent en ligne : un sur la **sécurité**, un sur les **avis**, un sur la **consommation responsable**.
+    Rédiger **3 conseils** pour une cliente ou un client qui achète souvent en ligne : un sur la **sécurité**, un sur les **avis**, un sur la **consommation responsable**.
 
 !!! tip "Où répondre ?"
     Dépose ton tableau des 3 sites, tes indices et tes arguments du débat dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).

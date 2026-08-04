@@ -19,7 +19,7 @@
 
 ## La situation
 
-Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps, parce que le mot de passe était partout le même. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait.
+Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps, parce que le mot de passe était partout le même. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait.
 
 !!! question "Problématique"
     Comment créer un mot de passe solide, facile à retenir mais impossible à deviner ?

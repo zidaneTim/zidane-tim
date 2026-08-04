@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais maintenant repérer les indices d'un message piège. Mets tes réflexes à l'épreuve sur une série de messages réels.
+Tu sais maintenant repérer les indices d'un message piège. Dans l'EHPAD où tu es agent, mets tes réflexes à l'épreuve sur une série de messages réels.
 
 !!! question "Problématique"
     Face à plusieurs messages reçus, comment trier ceux qui sont fiables de ceux qui sont des pièges ?
@@ -28,7 +28,7 @@ Tu sais maintenant repérer les indices d'un message piège. Mets tes réflexes 
 
 ## 🕵️ Atelier : la chasse au phishing
 
-**Ta mission :** tu es le « détective anti-arnaque » de ta famille. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de la maison. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
+**Ta mission :** tu es le « référent anti-arnaque » de l'équipe. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de résidents et de collègues. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 
 !!! example "Consigne 1 — seul (10 min)"
     Lire les 6 messages ci-dessous. Pour chacun, noter ton premier avis : PIÈGE ou FIABLE.
@@ -36,8 +36,8 @@ Tu sais maintenant repérer les indices d'un message piège. Mets tes réflexes 
 1. **SMS** — De : +33 6 51 XX XX XX
    « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
 
-2. **Courriel** — De : vie-scolaire@mon-lycee.fr · Objet : Rappel — réunion parents-professeurs
-   « Bonjour, nous vous rappelons que la réunion parents-professeurs aura lieu vendredi de 17 h à 20 h en salle polyvalente. Cordialement, le secrétariat. »
+2. **Courriel** — De : direction@ehpad-exemple.fr · Objet : Rappel — réunion d'équipe de vendredi
+   « Bonjour, nous vous rappelons que la réunion d'équipe aura lieu vendredi de 17 h à 18 h en salle de réunion. Merci de confirmer votre présence. Cordialement, la direction. »
 
 3. **Courriel** — De : service-clients@caf-remboursement.net · Objet : URGENT — Remboursement en attente
    « Chère allocatère, vous avez droit à un remboursement de 128,40 €. Cliquez ici avant ce soir et saisissez vos coordonées bancaire pour recevoir votre virement. »
@@ -64,7 +64,7 @@ Tu sais maintenant repérer les indices d'un message piège. Mets tes réflexes 
     Mise en commun au vidéoprojecteur : verdicts de la classe, indices retenus, rappel des numéros et sites de signalement. Si tu travailles seul, relis d'abord ta checklist personnelle (consigne 3) et vérifie qu'elle reprend bien les 4 réflexes et les numéros de signalement, puis compare-la avec la mise en commun dès que possible.
 
 !!! success "Défi (pour les détectives rapides)"
-    Écrire 3 conseils anti-arnaque simples pour un membre de ta famille qui se ferait facilement piéger (grand-parent, petit frère…). Format libre : carte mémo, mini-affiche…
+    Écrire 3 conseils anti-arnaque simples pour un résident ou un collègue qui se ferait facilement piéger. Format libre : carte mémo, mini-affiche…
 
 !!! tip "Où répondre ?"
     Dépose le tableau des 6 verdicts, ta checklist personnelle et (si tu l'as fait) ton défi dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). La checklist sert de base à la mini-évaluation.

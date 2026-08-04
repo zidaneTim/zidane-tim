@@ -12,7 +12,7 @@
 
 ## La situation
 
-Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en pratique sur un vrai budget.
+Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en pratique sur le vrai budget des résidents.
 
 !!! question "Problématique"
     Comment construire et suivre un budget complet au tableur ?
@@ -28,7 +28,7 @@ Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en
 
 ## 🎯 Atelier : le budget du repas de fête
 
-**Ta mission :** préparer, au tableur, le **budget du repas de Noël pour 6 personnes**, sans dépasser **60 €**.
+**Ta mission :** préparer, au tableur, le **budget du repas de Noël des résidents pour 6 personnes**, sans dépasser **60 €**.
 
 !!! example "Consigne 1 — seul (10 min)"
     Créer un tableau avec les colonnes : **A = Aliment**, **B = Quantité**, **C = Prix**. Saisir au moins **6 aliments** (entrée, plat, dessert, boisson…) avec des prix réalistes de ton choix.
@@ -43,7 +43,7 @@ Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en
     Comparer ton total au budget de **60 €**. Répondre dans OneNote : **suis-je dans le budget ?** Si non, **quels aliments** je change pour y arriver ? Puis modifier un prix et **regarder le total se recalculer tout seul**.
 
 !!! success "Défi (pour aller plus loin) ⭐"
-    Ajouter une colonne **D = Prix pour 12 personnes** en doublant chaque prix avec une formule (`=C2*2`), puis calculer le nouveau total.
+    Ajouter une colonne **D = Prix pour 12 résidents** en doublant chaque prix avec une formule (`=C2*2`), puis calculer le nouveau total.
 
 !!! tip "Où répondre ?"
     Dépose ton fichier tableur (ou une capture) et ta réponse à la consigne 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).

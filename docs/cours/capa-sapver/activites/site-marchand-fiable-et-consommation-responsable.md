@@ -20,7 +20,7 @@
 
 ## La situation
 
-À l'approche du **Black Friday**, tu vois une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site que tu ne connais pas. Ta cousine a commandé : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. Au même moment, une amie te dit : « Moi j'achète tout le temps, même ce dont je n'ai pas besoin, parce que c'est pas cher. »
+Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub sur son téléphone : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente, la semaine dernière, a commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. Une collègue ajoute : « Moi j'achète tout le temps en ligne, même ce dont je n'ai pas besoin, parce que c'est pas cher. »
 
 !!! question "Problématique"
     Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?

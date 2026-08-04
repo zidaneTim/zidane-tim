@@ -19,7 +19,7 @@
 
 ## La situation
 
-Pour les fêtes, ta famille te confie une mission : organiser le **repas de Noël pour 6 personnes** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur, et t'aurait prévenu.
+Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur, et t'aurait prévenu.
 
 !!! question "Problématique"
     Comment utiliser un tableur pour calculer sans se tromper ?
