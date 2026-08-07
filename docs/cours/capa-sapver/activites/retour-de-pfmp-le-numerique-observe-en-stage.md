@@ -15,8 +15,6 @@
   <span>:material-tag-outline: Retour de stage</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — CAPA — Utiliser les outils numériques pour communiquer (vie pro.)*</small>
-
 ## La situation
 
 Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre à plat ce que tu as observé côté numérique dans ta structure : quels outils, quelles habitudes, quelles règles ? Ce retour nourrit ta culture professionnelle et prépare les séances suivantes sur les usages numériques en service.

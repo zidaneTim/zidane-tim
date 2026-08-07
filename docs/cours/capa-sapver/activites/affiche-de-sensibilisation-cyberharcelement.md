@@ -16,8 +16,6 @@
   <span>:material-tag-outline: Citoyenneté numérique</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
-
 ## La situation
 
 Tu connais maintenant les bons réflexes face au cyberharcèlement. Mets-les au service des autres élèves du lycée, en les résumant sur une affiche.

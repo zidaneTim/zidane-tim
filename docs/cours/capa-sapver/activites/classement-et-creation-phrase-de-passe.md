@@ -10,8 +10,6 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025)*</small>
-
 ## La situation
 
 Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en pratique : dans l'EHPAD où tu es agent, on te confie le rôle de « référent sécurité numérique » de l'équipe.

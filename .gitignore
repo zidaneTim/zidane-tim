@@ -15,3 +15,7 @@ Thumbs.db
 
 # Fichiers temporaires Office
 ~$*
+
+# Corbeilles locales de restructuration (hors suivi git)
+docs/cours/capa-sapver/activites/.trash-pre-split-2026-08-04/
+docs/cours/capa-sapver/activites/.trash-merge-2026-08-07/

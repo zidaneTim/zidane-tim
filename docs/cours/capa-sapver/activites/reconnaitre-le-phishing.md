@@ -15,8 +15,6 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025)*</small>
-
 ## La situation
 
 Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :

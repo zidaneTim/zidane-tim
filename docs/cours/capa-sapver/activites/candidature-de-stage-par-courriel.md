@@ -10,8 +10,6 @@
   <span>:material-tag-outline: Communication</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — CAPA — Utiliser les outils numériques pour communiquer (vie pro.)*</small>
-
 ## La situation
 
 Tu connais maintenant les 6 parties d'un courriel professionnel. Il est temps de rédiger et d'envoyer ta propre demande de stage.

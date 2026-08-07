@@ -15,8 +15,6 @@
   <span>:material-tag-outline: Tableur</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — Tableur pour calculer*</small>
-
 ## La situation
 
 Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Le tableur sait **recopier** une formule d'un seul geste. Et pour t'y retrouver, il sait aussi **trier** et **mettre en couleur**.
