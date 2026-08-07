@@ -31,7 +31,7 @@
 Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
 
 !!! note "Retour de PFMP"
-    Tu reviens de stage. As-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
+    Lors de ta dernière PFMP, as-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
 
 ## Problématique
 
