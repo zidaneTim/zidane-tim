@@ -41,17 +41,21 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Consommation annuelle d'électricité et gaz par commune
-    **Producteur :** Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
-    **URL :** [data.gouv.fr — Consommation annuelle d'électricité et gaz par commune](https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune)
-    **Format :** CSV (fichier national volumineux, > 800 Mo) — utiliser le filtre en ligne du portail Agence ORE, à l'adresse directe [opendata.agenceore.fr — Consommation annuelle d'électricité et gaz par commune](https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune) (vue filtrable : ajouter le suffixe `/table` à l'URL), pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · **Licence :** Licence Ouverte / Open Licence 2.0
-    **Colonnes réelles utiles** (en-têtes vérifiés sur export réel) : `OPERATEUR`, `FILIERE`, `Code Commune`, `Nom Commune`, `Code EPCI`, `Nom EPCI`, `CODE GRAND SECTEUR`, `Nb sites`, `Conso totale (MWh)`, `Conso moyenne (MWh)` (déjà calculée par le producteur), `Nombre de mailles secretisées`.
-    **Particularités à gérer :**
+    **Téléchargement :** [Consommation annuelle d'électricité et gaz par commune — portail Agence ORE](https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune) (vue filtrable : ajouter `/table` à l'URL)
 
-    1. **Le fichier mélange gaz et électricité** dans les mêmes lignes (colonne `FILIERE`) — une commune peut avoir des lignes « Gaz » ET des lignes électricité. Il faut isoler la filière électricité avant tout calcul, sous peine de mélanger deux énergies non comparables.
-    2. **Une commune peut apparaître sur plusieurs lignes** : le fichier distingue les opérateurs (`OPERATEUR` — Enedis, mais aussi des fournisseurs de gaz hors réseau comme Antargaz-Finagaz) et les secteurs. Après filtrage, il faut vérifier s'il reste plusieurs lignes pour une même commune et, si oui, les regrouper avant de calculer un indicateur par commune.
-    3. **Secret statistique** : pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (signalé par `Nombre de mailles secretisées` > 0) : la cellule `Conso totale`/`Conso moyenne` peut apparaître vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.
-    4. **Encodage** : l'export du portail peut afficher les caractères accentués de façon incorrecte (`Ã©`, `Ã´`...) selon l'encodage choisi à l'import. Si c'est le cas, reprends l'import (Données → À partir d'un fichier texte/CSV) en testant un autre encodage (UTF-8, puis 1252 Europe de l'Ouest si besoin) jusqu'à obtenir un affichage correct.
+    | Colonne | Signification |
+    |---|---|
+    | `OPERATEUR` | gestionnaire de réseau |
+    | `FILIERE` | électricité ou gaz |
+    | `Code Commune` | code INSEE de la commune |
+    | `Nom Commune` | nom de la commune |
+    | `Code EPCI` | code de l'intercommunalité |
+    | `Nom EPCI` | nom de l'intercommunalité |
+    | `CODE GRAND SECTEUR` | secteur de consommation (résidentiel...) |
+    | `Nb sites` | nombre de sites raccordés |
+    | `Conso totale (MWh)` | consommation totale |
+    | `Conso moyenne (MWh)` | consommation moyenne par site |
+    | `Nombre de mailles secretisées` | nombre de valeurs masquées (secret statistique) |
 
 ## Travail à faire
 
@@ -59,7 +63,7 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 **Récupérer, comprendre et nettoyer les données**
 
-1. Sur le portail Agence ORE (lien direct en Ressources et outils — ouvrir la vue `/table`), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel (vérifier l'encodage des caractères accentués, voir Source de données).
+1. Sur le portail Agence ORE (lien direct en Ressources et outils — ouvrir la vue `/table`), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel. Si les caractères accentués s'affichent mal (`Ã©`, `Ã´`...), reprendre l'import (Données → À partir d'un fichier texte/CSV) en testant un autre encodage (UTF-8, puis 1252 Europe de l'Ouest si besoin) jusqu'à obtenir un affichage correct.
 2. Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).
 3. Filtrer le tableau sur trois critères combinés :
     - `Code EPCI` = **200067460** (code officiel INSEE de Loudéac Communauté – Bretagne Centre — voir Ressources et outils) ;

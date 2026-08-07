@@ -45,11 +45,20 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Espèces non indigènes **par commune** en Bretagne
-    **Producteur :** Observatoire de l'environnement en Bretagne (OEB) — GIP Bretagne environnement, via data.gouv.fr
-    **URL :** [data.gouv.fr — Espèces non indigènes par commune en Bretagne](https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne)
-    **Format :** CSV (~9,5 Mo, ~38 000 lignes, toute la Bretagne) · **Licence :** Licence Ouverte 2.0 · **Mise à jour :** janvier 2026
-    **Particularité à nettoyer :** **une ligne = une espèce dans une commune** — une même commune apparaît donc sur autant de lignes qu'elle compte d'espèces recensées. Le fichier couvre les 4 départements bretons : il faut d'abord isoler les Côtes-d'Armor (code `insee_commune` commençant par **22**) avant tout traitement. Le champ `invasive` distingue 4 statuts : *invasive avérée, invasive potentielle, invasive à surveiller, non invasive*. Enfin, le nombre d'espèces recensées dépend de la **pression d'observation** : une commune très prospectée paraît plus riche qu'une commune peu visitée — ce biais doit être signalé dans la synthèse.
+    **Téléchargement :** [Espèces non indigènes par commune en Bretagne — data.gouv.fr](https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne)
+
+    | Colonne | Signification |
+    |---|---|
+    | `INSEE_COMMUNE` | code INSEE de la commune |
+    | `COMMUNE` | nom de la commune |
+    | `NOM_SCIENTIFIQUE` | nom scientifique de l'espèce |
+    | `NOM_VERNACULAIRE` | nom courant de l'espèce |
+    | `TAXREF_CD_NOM` | code de référence taxonomique |
+    | `GROUP2_INPN` | groupe taxonomique détaillé |
+    | `GROUP1_INPN` | groupe taxonomique général |
+    | `INVASIVE` | statut d'invasivité (avérée/potentielle/à surveiller/non invasive) |
+    | `SOURCE` | source de l'observation |
+    | `MAJ` | date de mise à jour |
 
 ## Travail à faire
 

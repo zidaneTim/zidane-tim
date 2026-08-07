@@ -40,16 +40,23 @@ Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assain
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Services publics d'eau potable — jeux de données exploités pour les rapports nationaux SISPEA
-    **Producteur :** Système d'Information sur l'Eau (SIE) / Office Français de la Biodiversité (OFB), via data.gouv.fr
-    **URL :** [data.gouv.fr — Services publics d'eau potable, jeux de données SISPEA](https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1)
-    **Format :** XLS (un fichier par année) · **Licence :** non renseignée sur la page data.gouv.fr — producteur public (OFB) ; à mentionner dans la note avec cette réserve plutôt que de citer une licence non confirmée.
-    **Colonnes réelles du fichier** (en-têtes vérifiées sur le fichier brut) : `dpt`, `id_sispea_serv`, `Nom_serv`, `Communes_adh_du_serv`, `EPCI_adh_du_serv`, `pop_comm_adh`, `psdc`, indicateurs officiels `d101_0` (nombre d'habitants desservis), `p101_1` (taux de conformité microbiologique), `p102_1` (taux de conformité physico-chimique), `p104_3` (rendement du réseau de distribution), `p107_2` (taux moyen de renouvellement des réseaux) — chaque indicateur est accompagné d'une colonne `verif_<indicateur>` (statut de contrôle) et `calculauto_<indicateur>`. Le fichier contient aussi une centaine de colonnes `vp_...`/`dc_...` (variables brutes de calcul) et des colonnes d'agrégats (`psdc_tot_dpt`, `pop_com_adh_tot_dpt`, `nb_serv_tot_dpt`, `region`…) : **non utilisées dans cette activité**, à ignorer.
-    **Particularités à connaître :**
+    **Téléchargement :** [Services publics d'eau potable — jeux de données SISPEA — data.gouv.fr](https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1)
 
-    1. **Une ligne = un service, pas une commune.** Un service d'eau potable dessert souvent plusieurs communes à la fois (listées dans `Communes_adh_du_serv`). Il ne s'agit donc pas d'un comptage par commune comme pour les activités Santé ou Alimentation.
-    2. **Pas de donnée personnelle** : le fichier décrit des services publics (indicateurs techniques et sanitaires), aucune donnée nominative d'usager.
-    3. **Chaque indicateur a un statut de fiabilité** (`verif_d101_0`, `verif_p101_1`…) : « sans anomalie apparente », « présomption d'anomalie » ou « anomalie ». Un indicateur marqué anomalie ne doit pas être exploité tel quel — le signaler dans la note plutôt que l'ignorer silencieusement.
+    | Colonne | Signification |
+    |---|---|
+    | `dpt` | département du service |
+    | `id_sispea_serv` | identifiant du service |
+    | `Nom_serv` | nom du service d'eau |
+    | `Communes_adh_du_serv` | communes desservies par le service |
+    | `EPCI_adh_du_serv` | EPCI desservi |
+    | `pop_comm_adh` | population des communes adhérentes |
+    | `psdc` | population desservie |
+    | `d101_0` | nombre d'habitants desservis |
+    | `p101_1` | taux de conformité microbiologique |
+    | `p102_1` | taux de conformité physico-chimique |
+    | `p104_3` | rendement du réseau de distribution |
+    | `p107_2` | taux moyen de renouvellement des réseaux |
+    | `verif_<indicateur>` | statut de fiabilité de l'indicateur (anomalie ou non) |
 
 ## Travail à faire
 

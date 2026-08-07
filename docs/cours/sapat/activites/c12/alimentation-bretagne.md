@@ -40,11 +40,17 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Professionnels engagés en BIO (liste officielle des opérateurs notifiés)
-    **Producteur :** Agence Bio — via data.gouv.fr (dernière mise à jour : juin 2026)
-    **URL :** [data.gouv.fr — Professionnels engagés en bio](https://www.data.gouv.fr/datasets/professionnels-engages-en-bio)
-    **Format :** CSV (~8 Mo, fichier national) · **Licence :** Licence Ouverte / Open Licence 2.0
-    **Particularité à nettoyer :** fichier national de plusieurs dizaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement ; certaines cellules regroupent plusieurs activités séparées par des points-virgules ; des doublons de SIRET sont possibles. **Le fichier ne comporte pas de colonne commune** : la seule donnée géographique est `CODE POSTAL SIEGE SOCIAL` — le filtrage sur le territoire LCBC se fait donc par code postal, pas par nom de commune.
+    **Téléchargement :** [Professionnels engagés en BIO — data.gouv.fr](https://www.data.gouv.fr/datasets/professionnels-engages-en-bio)
+
+    | Colonne | Signification |
+    |---|---|
+    | `SIRET` | identifiant de l'établissement |
+    | `NUMERO BIO` | numéro d'engagement bio |
+    | `DENOMINATION` | nom de l'opérateur |
+    | `CODE POSTAL SIEGE SOCIAL` | code postal du siège social |
+    | `DATEENGAGEMENT` | date d'engagement en bio |
+    | `ACTIVITES` | activités déclarées (production, transformation...) |
+    | `ORGANISME CERTIFICATEUR` | organisme certificateur bio |
 
 ## Travail à faire
 

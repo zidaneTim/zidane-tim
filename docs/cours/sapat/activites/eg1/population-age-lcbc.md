@@ -50,17 +50,14 @@ rapport.
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Population 2020 selon l'âge INSEE, en 10 tranches (par sexe, de 0-2 ans à 80 ans et plus)
-    **Producteur :** Ithéa Conseil, à partir de INSEE RP 2020 (Recensement de la population)
-    **URL de téléchargement direct** : [data.gouv.fr — Population 2020 selon l'âge INSEE, en 10 tranches](https://www.data.gouv.fr/datasets/population-2020-selon-lage-insee-en-10-tranches){ target="_blank" rel="noopener" }
-    **Format :** fichier national unique (toutes communes de France), `.xlsx` (~10 Mo) · **Licence :** non précisée par le rediffuseur sur data.gouv.fr (données sources INSEE RP 2020, publiques)
-    **Particularité :** le fichier contient une colonne EPCI — filtrer sur « CC Loudéac Communauté Bretagne Centre »
-    pour ne garder que les 38 communes du territoire (voir [liste officielle des communes](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }
-    en cas de doute sur un nom de commune). Les tranches d'âge du fichier ne correspondent pas exactement à
-    0-19/20-59/60+ : la tranche 55-64 chevauche la limite de 60 ans, ce qui empêche un calcul propre à ce seuil.
-    Cette activité utilise donc le seuil de **65 ans** (tranches 65-79 et 80+), qui correspond à une limite réelle
-    du fichier et reste un indicateur pertinent pour un CCAS (âge de la retraite, entrée dans les dispositifs
-    seniors).
+    **Téléchargement :** [Population 2020 selon l'âge INSEE, en 10 tranches — data.gouv.fr](https://www.data.gouv.fr/datasets/population-2020-selon-lage-insee-en-10-tranches){ target="_blank" rel="noopener" }
+
+    | Colonne | Signification |
+    |---|---|
+    | EPCI | intercommunalité d'appartenance |
+    | F65-79 / F80+ | femmes de 65-79 ans / 80 ans et plus |
+    | H65-79 / H80+ | hommes de 65-79 ans / 80 ans et plus |
+    | Population totale | population totale de la commune |
 
 ## Travail à faire
 

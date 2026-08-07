@@ -43,12 +43,23 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Liste des maternités de France depuis 2000
-    **Producteur :** DREES (Direction de la recherche, des études, de l'évaluation et des statistiques), ministère chargé de la Santé, via data.gouv.fr
-    **URL :** [data.gouv.fr — Liste des maternités de France depuis 2000](https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000)
-    **Format :** CSV et XLSX (fichier national, CSV ~670 Ko / XLSX ~790 Ko, années 2000 puis 2008 à 2024) · **Licence :** Licence Ouverte 2.0
-    **Colonnes réelles du fichier :** `ANNEE`, `NOM_MAT`, `TYPE` (1 / 2a / 2b / 3 — niveau de soins néonatals), `STATUT` (PUBLIC/PRIVÉ), `FI_ET`, `FI_EJ` (codes FINESS), `COM`, `NOMCOM`, `CPO` (code postal), `ADRESSE`, `LIT_OBS` (lits d'obstétrique), `SALTRAV` (salles de travail), `ACCTOT` (accouchements de l'année).
-    **Particularités à connaître :** ⚠️ **il n'existe pas de colonne Région ni Département** — il faut le déduire du code postal (`CPO`, 2 premiers chiffres) ou du code commune (`COM`). Une même maternité apparaît sur plusieurs lignes, une par année où elle était active avec au moins un lit et un accouchement : ce n'est pas un doublon à supprimer. Pas de RGPD bloquant : ce sont des données d'établissements, aucune donnée personnelle de patiente.
+    **Téléchargement :** [Liste des maternités de France depuis 2000 — data.gouv.fr](https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000)
+
+    | Colonne | Signification |
+    |---|---|
+    | `ANNEE` | année de l'observation |
+    | `NOM_MAT` | nom de la maternité |
+    | `TYPE` | niveau de soins néonatals (1/2a/2b/3) |
+    | `STATUT` | public ou privé |
+    | `FI_ET` | code FINESS établissement |
+    | `FI_EJ` | code FINESS entité juridique |
+    | `COM` | code commune |
+    | `NOMCOM` | nom de la commune |
+    | `CPO` | code postal |
+    | `ADRESSE` | adresse de la maternité |
+    | `LIT_OBS` | nombre de lits d'obstétrique |
+    | `SALTRAV` | nombre de salles de travail |
+    | `ACCTOT` | nombre d'accouchements dans l'année |
 
 ## Travail à faire
 
@@ -60,7 +71,7 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 2. Reformuler avec ses propres mots la demande de Mme Le Goff et le phénomène étudié (2-3 phrases).
 3. Définir donnée brute, donnée agrégée et métadonnée ; expliquer en 2-3 phrases en quoi la **Loi Lemaire** (Loi pour une République numérique, 2016) permet la publication de ce jeu de données, et ce que sont le **RGPD** et la **CNIL** — puis justifier pourquoi ce jeu de données précis n'est pas concerné par une donnée personnelle bloquante.
 4. Ouvrir le CSV dans Excel. Ajouter une colonne « num_dép » à côté de `CPO` avec la formule `=GAUCHE(cellule_CPO;2)` (adapter la référence à la colonne réelle).
-5. Filtrer sur `num_dép` parmi les 8 départements franciliens (**75, 77, 78, 91, 92, 93, 94, 95**) et sur `ANNEE = 2013` : copier-coller *en valeurs* dans un nouvel onglet **`2013`**. Refaire la même opération pour `ANNEE = 2023` dans un onglet **`2023`**. Ne jamais modifier la feuille de données d'origine.
+5. Filtrer sur `num_dép` parmi les 8 départements franciliens (**75, 77, 78, 91, 92, 93, 94, 95**) et sur `ANNEE = 2013` : copier-coller *en valeurs* dans un nouvel onglet **`2013`**. Refaire la même opération pour `ANNEE = 2023` dans un onglet **`2023`**. Ne jamais modifier la feuille de données d'origine. (Une même maternité apparaît sur plusieurs lignes du fichier source, une par année d'activité : ce n'est pas un doublon à supprimer avant filtrage.)
 
 ### B — Traitement des données adapté au contexte et à la problématique étudiée
 

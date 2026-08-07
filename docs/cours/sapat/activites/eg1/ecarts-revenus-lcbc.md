@@ -48,18 +48,13 @@ ciblage prioritaire.
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Revenu des Français à la commune (édition 2021)
-    **Producteur :** Geoptis, à partir des données Insee-DGFiP-Cnaf-Cnav-CCMSA, Fichier localisé social et fiscal
-    (Filosofi) 2021
-    **URL de téléchargement direct** : [data.gouv.fr — Revenu des Français à la commune](https://www.data.gouv.fr/datasets/revenu-des-francais-a-la-commune){ target="_blank" rel="noopener" }
-    **Format :** fichier national unique (toutes communes de France), `.csv` (~5 Mo, 34 926 lignes, 57 colonnes) ·
-    **Licence :** Licence Ouverte / Open Licence version 2.0
-    **Particularité :** le fichier couvre toutes les communes de France ; il faut le filtrer sur les 38 communes de
-    Loudéac Communauté – Bretagne Centre (voir liste officielle en Ressources — toutes ces communes ont un code
-    géographique commençant par **22**, Côtes-d'Armor, ce qui peut aider à un premier tri grossier, à vérifier
-    ensuite nom par nom). Pour les très petites communes, certaines colonnes de revenu (quartiles, déciles, médiane)
-    sont **vides** : c'est le secret statistique, appliqué quand le nombre de ménages fiscaux est trop faible pour
-    publier un résultat fiable. Ces lignes doivent être signalées, pas supprimées.
+    **Téléchargement :** [Revenu des Français à la commune — data.gouv.fr](https://www.data.gouv.fr/datasets/revenu-des-francais-a-la-commune){ target="_blank" rel="noopener" }
+
+    | Colonne | Signification |
+    |---|---|
+    | Libellé géographique | nom de la commune |
+    | [DISP] Médiane (€) | niveau de vie médian annuel |
+    | [DISP] Nbre de ménages fiscaux | nombre de ménages fiscaux |
 
 ## Travail à faire
 

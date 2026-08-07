@@ -42,11 +42,16 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** FINESS — Extraction du fichier des établissements
-    **Producteur :** Ministère des Solidarités et de la Santé — répertoire FINESS géré par l'Agence du Numérique en Santé (ANS), via data.gouv.fr
-    **URL :** [data.gouv.fr — FINESS, extraction du fichier des établissements](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/)
-    **Format :** CSV (fichier national volumineux) · **Licence :** Licence Ouverte / Open Licence
-    **Particularité à nettoyer :** fichier national de plusieurs centaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement. Les catégories d'établissement sont codées (code + libellé) : il faut repérer celles qui relèvent des personnes âgées. Des doublons de numéro FINESS peuvent subsister et les colonnes d'adresse comportent des cellules vides.
+    **Téléchargement :** [FINESS — Extraction du fichier des établissements — data.gouv.fr](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/)
+
+    | Colonne | Signification |
+    |---|---|
+    | Numéro FINESS | identifiant de l'établissement |
+    | Raison sociale | nom de l'établissement |
+    | Catégorie d'établissement | type codé (EHPAD, résidence autonomie...) |
+    | Commune | commune d'implantation |
+    | Code postal | code postal |
+    | Adresse | adresse de l'établissement |
 
 ## Travail à faire
 
