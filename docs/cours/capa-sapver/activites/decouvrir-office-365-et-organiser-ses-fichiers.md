@@ -131,7 +131,6 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 |---|---|---|
 | Connexion et repérage des outils | Se connecte seul à Office 365, ouvre OneNote et OneDrive, et explique à quoi sert chacun. | -- / - / + / ++ |
 | Arborescence OneDrive | Crée un dossier principal et un sous-dossier par matière, avec des noms clairs sans espace ni accent. | -- / - / + / ++ |
-| Organisation locale et compréhension local/en ligne | Reproduit la même arborescence dans « Documents » du PC et explique la différence entre stockage local et synchronisation. | -- / - / + / ++ |
-| Méthode de classement | Applique une règle de nommage cohérente à ses fichiers et peut l'expliquer. | -- / - / + / ++ |
+| Organisation locale et méthode de classement | Reproduit la même arborescence dans « Documents » du PC, explique la différence entre stockage local et synchronisation, et applique une règle de nommage cohérente à ses fichiers. | -- / - / + / ++ |
 
 </div>

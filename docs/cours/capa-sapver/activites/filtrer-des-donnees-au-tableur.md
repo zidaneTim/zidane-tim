@@ -100,5 +100,6 @@ Un **graphique** transforme des chiffres en **dessin** (barres, camembert) : **I
 |---|---|---|
 | Filtrer les données | Le filtre est utilisé correctement pour n'afficher que le mois de mars, et le poste le plus élevé est correctement identifié. | -- / - / + / ++ |
 | Graphique et commentaire | Les totaux par poste sont justes, le graphique est titré et lisible, et le commentaire propose un conseil d'économie cohérent. | -- / - / + / ++ |
+| Analyse mensuelle approfondie | Le mois où les Morel ont le plus dépensé est correctement identifié à partir du tableau filtré, et l'explication est cohérente. | -- / - / + / ++ |
 
 </div>

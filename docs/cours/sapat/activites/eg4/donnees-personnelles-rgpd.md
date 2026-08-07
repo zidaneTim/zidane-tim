@@ -135,7 +135,6 @@ responsable du service.
 |---|---|---|
 | Exactitude juridique | Les droits cités correspondent à ceux publiés par la CNIL, sans invention ni approximation | -- / - / + / ++ |
 | Classement des données | Distinction courante/sensible correcte, conséquences pratiques identifiées | -- / - / + / ++ |
-| Clarté pour l'usager | Phrases courtes, sigles explicités, aucun jargon administratif non traduit | -- / - / + / ++ |
-| Qualité de la production | Format A4, lisibilité (taille, contraste), source citée, export PDF réussi | -- / - / + / ++ |
+| Clarté et qualité de la production | Phrases courtes, sigles explicités, aucun jargon administratif non traduit ; format A4, lisibilité (taille, contraste), source citée, export PDF réussi | -- / - / + / ++ |
 
 </div>

@@ -92,5 +92,6 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 |---|---|---|
 | Comprendre et réagir | L'élève décrit le cyberharcèlement, distingue victime/auteur/témoin et cite au moins 3 réflexes dont le 3018. | -- / - / + / ++ |
 | Production de l'affiche | L'affiche est lisible de loin, contient les 4 réflexes, le 3018 et une image libre de droits. | -- / - / + / ++ |
+| Relecture croisée et message aux témoins | La vérification croisée avec un camarade a bien été faite, et le message pour les témoins donne envie d'agir sans culpabiliser. | -- / - / + / ++ |
 
 </div>

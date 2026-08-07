@@ -156,8 +156,7 @@ l'affichage pour les jeunes du territoire par le CCAS de Loudéac (Mme Le Goff).
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Donnée chiffrée | Chiffre réel relevé, exact, et source citée précisément sur l'affiche | -- / - / + / ++ |
-| Message pour les jeunes | Message unique, ton et angle adaptés à un public de jeunes, lien SAPAT explicite | -- / - / + / ++ |
+| Donnée chiffrée et message | Chiffre réel relevé, exact, source citée précisément sur l'affiche ; message unique, ton et angle adaptés à un public de jeunes, lien SAPAT explicite | -- / - / + / ++ |
 | Règles d'accessibilité | Au moins 5 règles appliquées (contraste, police, pictogrammes, sobriété, hiérarchie visuelle) | -- / - / + / ++ |
 | Production | Affiche complète, exportée, message et chiffre retenus en moins de 5 secondes par un tiers | -- / - / + / ++ |
 

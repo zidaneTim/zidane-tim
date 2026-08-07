@@ -130,8 +130,7 @@ mandatée par la direction du lycée.
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Structure du conducteur | Cinq temps présents, minutés, total compris entre 4 et 5 minutes | -- / - / + / ++ |
-| Forme du conducteur | Mots-clés et non texte rédigé ; conducteur réellement utilisable en situation | -- / - / + / ++ |
+| Structure et forme du conducteur | Cinq temps présents, minutés, total compris entre 4 et 5 minutes ; mots-clés et non texte rédigé, conducteur réellement utilisable en situation | -- / - / + / ++ |
 | Autoévaluation | Trois points d'amélioration identifiés, deuxième prise effectuée, écart analysé | -- / - / + / ++ |
 | Anticipation des questions | Deux questions plausibles, réponses courtes et appuyées sur une source | -- / - / + / ++ |
 

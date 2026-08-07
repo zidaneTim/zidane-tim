@@ -108,5 +108,6 @@ Avant de faire confiance à un site : le cadenas et `https://` protègent la con
 |---|---|---|
 | Reconnaissance des indices et navigation sécurisée | Les indices de piège des messages étudiés sont identifiés ; cadenas/https/cookies sont correctement repérés. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Tri et checklist | Sur les 6 messages, le verdict est correct et justifié ; la checklist liste les 4 réflexes essentiels. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Conseils de prévention | Les 3 conseils anti-arnaque destinés à un résident ou un collègue sont clairs, adaptés et applicables. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 
 </div>

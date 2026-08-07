@@ -88,5 +88,6 @@ Trois sources principales d'impact : **la fabrication des appareils** (l'étape 
 |---|---|---|
 | Comprendre l'impact du numérique | Les 3 sources d'impact sont citées avec un exemple pertinent ; les 4 gestes sont correctement reliés. | -- / - / + / ++ |
 | Nettoyage effectif et bilan | La boîte mail et l'espace de stockage sont réellement nettoyés et le bilan chiffré compare correctement avant/après. | -- / - / + / ++ |
+| Habitude durable proposée | L'habitude mensuelle proposée pour éviter le ré-encombrement est concrète et réellement applicable. | -- / - / + / ++ |
 
 </div>

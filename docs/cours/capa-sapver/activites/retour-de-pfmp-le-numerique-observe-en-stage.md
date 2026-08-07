@@ -52,5 +52,6 @@ Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre 
 |---|---|---|
 | Observation du numérique en stage | Les 4 questions sont renseignées avec des observations concrètes et cohérentes avec un contexte professionnel réel. | -- / - / + / ++ |
 | Communication à l'oral | L'observation choisie est présentée clairement à la classe en 1-2 minutes. | -- / - / + / ++ |
+| Mise en perspective avec la PFMP précédente | La comparaison avec l'observation de la première PFMP identifie correctement une évolution ou un point commun. | -- / - / + / ++ |
 
 </div>

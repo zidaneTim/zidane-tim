@@ -135,7 +135,6 @@ contrôle remplie pour un camarade — à destination de l'équipe projet mandat
 |---|---|---|
 | Contrôle qualité | Grille remplie intégralement, remarques précises et actionnables | -- / - / + / ++ |
 | Prise en compte du retour | Au moins 2 corrections effectuées et réexportées ; désaccords argumentés | -- / - / + / ++ |
-| Conformité du fichier | Format, nommage, poids et accessibilité conformes aux consignes | -- / - / + / ++ |
-| Dépôt et traçabilité | Fichier déposé sur l'ENT, vérifié après dépôt, fiche technique complète | -- / - / + / ++ |
+| Conformité et dépôt | Format, nommage, poids et accessibilité conformes aux consignes ; fichier déposé sur l'ENT, vérifié après dépôt, fiche technique complète | -- / - / + / ++ |
 
 </div>

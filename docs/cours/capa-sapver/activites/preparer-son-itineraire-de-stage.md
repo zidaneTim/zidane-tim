@@ -92,5 +92,6 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
 |---|---|---|
 | Recherche et comparaison d'itinéraire | Le trajet est calculé sur une carte interactive et 2 modes de transport sont comparés avec durée et avantage/inconvénient. | -- / - / + / ++ |
 | Repérage de services et fiche pratique | 3 services utiles sont repérés et la fiche pratique finale, complète et bien nommée, est déposée sur l'ENT. | -- / - / + / ++ |
+| Anticipation des imprévus | Un itinéraire de secours ou un contact à prévenir en cas d'imprévu est correctement identifié et ajouté à la fiche. | -- / - / + / ++ |
 
 </div>

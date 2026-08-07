@@ -92,5 +92,6 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 |---|---|---|
 | Mise à jour du CV | Les 5 PFMP et au moins 4 compétences numériques de l'année sont intégrées et mises en forme. | -- / - / + / ++ |
 | Bilan formatif CRCN | La grille d'auto-évaluation est renseignée avec cohérence, 2 compétences à approfondir sont identifiées et justifiées. | -- / - / + / ++ |
+| Relecture et qualité formelle | Le CV a été relu (seul ou avec un camarade), sans faute d'orthographe et avec une mise en page homogène. | -- / - / + / ++ |
 
 </div>

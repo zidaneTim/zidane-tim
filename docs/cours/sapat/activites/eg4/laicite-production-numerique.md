@@ -147,8 +147,7 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Message | Un message unique, identifiable en quelques secondes, conforme à la fiche de cadrage | -- / - / + / ++ |
-| Adaptation au support | Lisibilité à distance ou audibilité en lieu de passage ; format et durée respectés | -- / - / + / ++ |
+| Adaptation et qualité technique | Lisibilité à distance ou audibilité en lieu de passage, format et durée respectés ; export réussi au bon format, nommage conforme, montage propre (son normalisé / mise en page nette) | -- / - / + / ++ |
 | Droits et sources | Ressources sous licence vérifiée, bloc de crédits complet (titre, auteur, licence, source) | -- / - / + / ++ |
-| Qualité technique | Export réussi au bon format, nommage conforme, montage propre (son normalisé / mise en page nette) | -- / - / + / ++ |
 
 </div>

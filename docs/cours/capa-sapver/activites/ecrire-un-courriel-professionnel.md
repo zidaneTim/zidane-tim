@@ -99,5 +99,6 @@ Une **pièce jointe** (PJ) est un fichier qu'on **accroche** au courriel : on cl
 |---|---|---|
 | Repérer les manques et rédiger objet/politesse | L'élève liste correctement les éléments manquants et rédige un objet et une politesse adaptés. | -- / - / + / ++ |
 | Envoi de la candidature | Le courriel contient les 6 parties sans langage SMS, la pièce jointe est bien nommée et attachée, l'envoi est fait au bon destinataire. | -- / - / + / ++ |
+| Vérification croisée avant envoi | La check-list (objet, politesse, pas de langage SMS, PJ visible, signature) a bien été vérifiée avec un camarade avant l'envoi. | -- / - / + / ++ |
 
 </div>

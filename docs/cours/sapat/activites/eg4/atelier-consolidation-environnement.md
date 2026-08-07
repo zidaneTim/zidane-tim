@@ -135,7 +135,6 @@ et consultables par ta responsable de service.
 |---|---|---|
 | Autopositionnement | Deux points fragiles identifiés à partir de l'autodiagnostic, choix justifié | -- / - / + / ++ |
 | Réalisation des parcours | Étapes du parcours effectuées complètement, pas seulement lues | -- / - / + / ++ |
-| Preuves | Preuve vérifiable produite pour chaque parcours traité | -- / - / + / ++ |
-| Recul | Autodiagnostic mis à jour, reste à faire identifié et daté | -- / - / + / ++ |
+| Preuves et recul | Preuve vérifiable produite pour chaque parcours traité ; autodiagnostic mis à jour, reste à faire identifié et daté | -- / - / + / ++ |
 
 </div>

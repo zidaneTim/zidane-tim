@@ -97,5 +97,6 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 |---|---|---|
 | Reconnaître et transformer | Les 3 raisons de faiblesse et la phrase de passe transformée respectent les règles vues. | -- / - / + / ++ |
 | Classer et créer sa phrase de passe | Le classement des 6 mots de passe est correct et justifié ; la phrase de passe personnelle respecte les 4 règles sans info personnelle évidente. | -- / - / + / ++ |
+| Argumentation et sensibilisation | L'explication donnée à un collègue sur le danger de réutiliser un mot de passe et l'intérêt d'un gestionnaire est claire et correcte. | -- / - / + / ++ |
 
 </div>

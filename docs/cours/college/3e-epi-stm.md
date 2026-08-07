@@ -14,13 +14,7 @@ Enseignement Pratique Interdisciplinaire — Sciences, Technologie, Matériaux.
 
     Propriétés, usages, choix et impact environnemental.
 
--   :material-cat:{ .lg .middle } <span class="zt-step">2</span> **Programmation Scratch**
-
-    ---
-
-    Créer des programmes, animations et jeux par blocs.
-
--   :material-brain:{ .lg .middle } <span class="zt-step">3</span> **Intelligence artificielle**
+-   :material-brain:{ .lg .middle } <span class="zt-step">2</span> **Intelligence artificielle**
 
     ---
 

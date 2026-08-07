@@ -137,8 +137,7 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Courriel | Objet explicite, structure en 4 blocs, signature professionnelle, registre adapté à un destinataire externe | -- / - / + / ++ |
-| Note de service | Mentions obligatoires présentes, corps factuel de 5 lignes maximum, mise en forme affichable, export PDF | -- / - / + / ++ |
-| Diaporama | 6 diapositives, règle 6×6 respectée, lisibilité en projection, notes de présentation renseignées | -- / - / + / ++ |
+| Note de service et diaporama | Mentions obligatoires présentes, corps factuel de 5 lignes maximum, mise en forme affichable, export PDF ; diaporama de 6 diapositives respectant la règle 6×6, lisible en projection, notes de présentation renseignées | -- / - / + / ++ |
 | Adaptation au destinataire | Les trois écrits disent le même message avec un registre et un niveau de détail distincts | -- / - / + / ++ |
 
 </div>

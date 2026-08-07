@@ -145,7 +145,6 @@ citée dans la mise en situation.
 |---|---|---|
 | Arborescence | Dossiers thématiques cohérents, nommage tenu, fichier explicatif présent | -- / - / + / ++ |
 | Synchronisation | Statut de synchronisation vérifié, distinction stockage local/cloud correctement expliquée | -- / - / + / ++ |
-| Sécurité du poste | Verrouillage de session réglé, mot de passe conforme aux critères | -- / - / + / ++ |
-| Partage et confidentialité | Partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
+| Sécurité et confidentialité | Verrouillage de session réglé, mot de passe conforme aux critères ; partage en lecture seule correctement paramétré, risques liés aux données sensibles identifiés | -- / - / + / ++ |
 
 </div>

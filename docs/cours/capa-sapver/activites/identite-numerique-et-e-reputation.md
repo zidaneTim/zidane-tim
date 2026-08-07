@@ -84,5 +84,6 @@ L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'emp
 |---|---|---|
 | Comprendre l'identité numérique | Les définitions sont correctes et personnelles ; les 5 traces sont pertinentes et leur visibilité correctement évaluée. | -- / - / + / ++ |
 | Vérification et ajustement | La recherche de son nom est effectuée, au moins 2 réglages sont ajustés, le bilan identifie une action de surveillance future. | -- / - / + / ++ |
+| Image professionnelle projetée | La réflexion sur ce qu'un futur employeur trouverait est honnête et reliée à l'image professionnelle recherchée. | -- / - / + / ++ |
 
 </div>

@@ -136,7 +136,6 @@ quelles sources, et selon quel plan de travail.
 |---|---|---|
 | Recherche à la source | Informations prélevées sur les sites institutionnels indiqués, sources notées précisément | -- / - / + / ++ |
 | Compréhension du principe | Les 2 articles retenus sont reformulés justement, sans contresens ni recopie | -- / - / + / ++ |
-| Cadrage du projet | Message unique, public identifié, format choisi et justifié | -- / - / + / ++ |
-| Plan de travail | 4 jalons présents, chacun avec un critère de fin explicite | -- / - / + / ++ |
+| Cadrage et plan de travail | Message unique, public identifié, format choisi et justifié ; 4 jalons présents, chacun avec un critère de fin explicite | -- / - / + / ++ |
 
 </div>

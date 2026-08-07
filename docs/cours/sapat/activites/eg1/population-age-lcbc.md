@@ -97,9 +97,8 @@ rapport.
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Lecture et compréhension des données | Le tableau est lu correctement ; la commune la plus/moins peuplée est identifiée. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Lecture, compréhension et interprétation | Le tableau est lu correctement ; la commune la plus/moins peuplée est identifiée ; les questions de synthèse montrent une lecture correcte du phénomène de vieillissement territorial. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Traitement des données | La formule de pourcentage est exacte ; le tri et la mise en forme conditionnelle sont fonctionnels ; `NB.SI()` renvoie le bon résultat. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 | Représentation graphique | Le graphique est complet (titre, axes, source) et lisible. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-| Interprétation | Les questions de synthèse montrent une lecture correcte du phénomène de vieillissement territorial. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
 
 </div>

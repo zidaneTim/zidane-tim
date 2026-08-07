@@ -133,7 +133,6 @@ d'autoévaluation renseignée, remises à l'équipe projet mandatée par la dire
 |---|---|---|
 | Diffusion effective | Production installée ou diffusée, contraintes du lieu prises en compte et ajustement noté | -- / - / + / ++ |
 | Trace numérique | Photo sans personne identifiable, légende complète et sourcée, archivage rangé | -- / - / + / ++ |
-| Autoévaluation | Chaque critère positionné et justifié par un fait, pas par une impression | -- / - / + / ++ |
-| Recul critique | Deux retours réels recueillis, écart au message analysé, deux pistes d'amélioration concrètes | -- / - / + / ++ |
+| Autoévaluation et recul critique | Chaque critère positionné et justifié par un fait, pas par une impression ; deux retours réels recueillis, écart au message analysé, deux pistes d'amélioration concrètes | -- / - / + / ++ |
 
 </div>

@@ -137,9 +137,8 @@ et consultables par ta responsable de service.
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Test initial | Liste écrite de mémoire puis complétée, écart mesuré honnêtement | -- / - / + / ++ |
+| Test initial et recul | Liste écrite de mémoire puis complétée, écart mesuré honnêtement ; preuves déposées, autodiagnostic mis à jour, action concrète annoncée | -- / - / + / ++ |
 | Réalisation des parcours | Étapes effectuées complètement, productions concrètes et non recopiées | -- / - / + / ++ |
 | Transfert | Les droits ou règles sont formulés dans une situation professionnelle précise, pas en général | -- / - / + / ++ |
-| Preuves et recul | Preuves déposées, autodiagnostic mis à jour, action concrète annoncée | -- / - / + / ++ |
 
 </div>

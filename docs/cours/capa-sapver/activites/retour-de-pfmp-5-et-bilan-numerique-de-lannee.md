@@ -83,5 +83,6 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
 |---|---|---|
 | Bilan de PFMP 5 et de l'année | Les 4 questions sont renseignées avec des observations concrètes ; le bilan de l'année identifie un point commun entre plusieurs PFMP et une évolution personnelle. | -- / - / + / ++ |
 | Consolidation autonome | L'élève choisit une compétence pertinente à consolider et progresse réellement par rapport à sa première réalisation. | -- / - / + / ++ |
+| Transmission et entraide | Le conseil donné à un futur élève de CAPa 1, ou l'aide apportée à un camarade, est pertinent et formulé sans faire à sa place. | -- / - / + / ++ |
 
 </div>

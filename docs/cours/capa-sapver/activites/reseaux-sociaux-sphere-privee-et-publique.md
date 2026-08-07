@@ -90,5 +90,6 @@ La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie 
 |---|---|---|
 | Distinction privé/public et analyse | Le classement des 4 informations est correct ; les 3 arguments et la solution protègent effectivement les personnes concernées. | -- / - / + / ++ |
 | Charte personnelle | La charte comprend 6 règles concrètes, vérifiables et rédigées à la première personne. | -- / - / + / ++ |
+| Participation au débat | La situation apportée et la position exprimée lors du débat sont argumentées et respectueuses des personnes concernées. | -- / - / + / ++ |
 
 </div>

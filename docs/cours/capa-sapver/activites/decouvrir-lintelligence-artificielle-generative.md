@@ -92,5 +92,6 @@ Un assistant conversationnel (type ChatGPT, Copilot, ou l'outil mis à dispositi
 |---|---|---|
 | Comprendre le fonctionnement et les limites de l'IA | La définition de l'hallucination est correcte et illustrée ; les 3 réponses sont vérifiées et correctement qualifiées. | -- / - / + / ++ |
 | Analyse critique des réponses au défi de prompts | La comparaison des deux versions de prompt est pertinente, l'avis critique est argumenté. | -- / - / + / ++ |
+| Règle d'usage professionnel | La règle personnelle distingue clairement les cas d'usage acceptables et les cas à ne jamais confier seuls à une IA, avec un exemple du secteur SAPVER. | -- / - / + / ++ |
 
 </div>

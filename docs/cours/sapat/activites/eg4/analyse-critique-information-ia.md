@@ -137,8 +137,7 @@ santé et remise à Mme Riou, coordinatrice.
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Méthode SIFT | Les 4 gestes sont effectués et tracés, y compris quand la recherche n'aboutit pas | -- / - / + / ++ |
-| Fait / opinion | Les 3 affirmations sont classées correctement et le classement est justifié | -- / - / + / ++ |
+| Méthode SIFT et fait / opinion | Les 4 gestes sont effectués et tracés, y compris quand la recherche n'aboutit pas ; les 3 affirmations sont classées correctement et le classement est justifié | -- / - / + / ++ |
 | Détection IA | Au moins 2 indices de génération automatique recherchés ; sources citées par l'IA effectivement ouvertes et vérifiées | -- / - / + / ++ |
 | Conclusion | Conclusion nuancée, conduite à tenir formulée, aucune affirmation catégorique non étayée | -- / - / + / ++ |
 

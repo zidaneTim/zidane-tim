@@ -87,5 +87,6 @@ Un planning organise des informations selon deux axes : les jours (colonnes) et 
 |---|---|---|
 | Organisation et présentation du planning hebdomadaire | Les 8 activités sont réparties de façon équilibrée et le planning est lisible sans explication orale. | -- / - / + / ++ |
 | Construction du second planning au tableur | Le tableau est complet, cohérent, et le total est calculé par formule. | -- / - / + / ++ |
+| Mise en forme pour l'affichage | Les deux plannings sont mis en forme (titres en gras, couleurs, bordures) pour une lecture claire sans explication orale. | -- / - / + / ++ |
 
 </div>

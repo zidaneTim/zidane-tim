@@ -89,5 +89,6 @@ Les sites officiels de l'administration française se reconnaissent à quelques 
 |---|---|---|
 | Identifier un site officiel | Les sites officiels et imitateurs sont correctement distingués, avec indices à l'appui ; les conseils pour M. Le Roux sont pertinents. | -- / - / + / ++ |
 | Réaliser une démarche en ligne | La simulation est menée à son terme, le mode d'emploi en 5 étapes est clair et réutilisable. | -- / - / + / ++ |
+| Recherche documentaire ciblée | Les 3 étapes indiquées par service-public.fr sont correctement identifiées et le résumé du défi cybermalveillance.gouv.fr est pertinent. | -- / - / + / ++ |
 
 </div>

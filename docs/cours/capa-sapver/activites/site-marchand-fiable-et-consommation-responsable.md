@@ -104,5 +104,6 @@ Consommer de façon responsable, c'est se demander : en ai-je vraiment besoin ? 
 |---|---|---|
 | Indices d'alerte et moyens de paiement | Les 3 indices relevés sont pertinents et le classement des moyens de paiement est correct et justifié. | -- / - / + / ++ |
 | Vérifier la fiabilité et argumenter | Sur les 3 sites, les verdicts sont corrects et justifiés ; l'élève donne au moins un argument pour et un argument contre lors du débat. | -- / - / + / ++ |
+| Conseils à la clientèle | Les 3 conseils rédigés pour un client (sécurité, avis, consommation responsable) sont clairs et directement applicables. | -- / - / + / ++ |
 
 </div>

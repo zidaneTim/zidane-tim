@@ -95,5 +95,6 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 |---|---|---|
 | Comprendre l'accessibilité | L'élève cite au moins 3 besoins/aides et 3 problèmes du document de départ. | -- / - / + / ++ |
 | Adapter et tester le document | Le document corrigé respecte les 5 règles et le test au lecteur d'écran confirme une lecture correcte. | -- / - / + / ++ |
+| Texte alternatif et vérification croisée | Le texte alternatif de l'image est pertinent et la check-list des 5 règles a bien été vérifiée (seul ou avec un camarade). | -- / - / + / ++ |
 
 </div>

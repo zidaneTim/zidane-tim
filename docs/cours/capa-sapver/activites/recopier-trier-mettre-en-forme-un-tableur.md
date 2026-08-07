@@ -88,5 +88,6 @@ Une formule écrite une fois peut être **recopiée** sur toutes les lignes suiv
 |---|---|---|
 | Recopier, trier, mettre en forme | La formule `=B2*C2` est recopiée avec la poignée, le tableau est trié et la ligne de titres mise en forme. | -- / - / + / ++ |
 | Positionnement Pix | L'élève a terminé le parcours et identifie 2 points forts et 2 points à travailler. | -- / - / + / ++ |
+| Action de progression | L'action concrète choisie pour progresser sur un domaine à travailler est réaliste et réellement applicable d'ici la fin de l'année. | -- / - / + / ++ |
 
 </div>

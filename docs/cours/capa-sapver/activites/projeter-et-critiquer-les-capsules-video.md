@@ -57,5 +57,6 @@ Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se t
 |---|---|---|
 | Critique constructive donnée | Les retours donnés sont précis, argumentés et respectueux. | -- / - / + / ++ |
 | Bilan personnel | Le bilan identifie un apprentissage concret et un axe de progression. | -- / - / + / ++ |
+| Réception de la critique | L'élève identifie un retour reçu pertinent et explique clairement comment il l'appliquerait. | -- / - / + / ++ |
 
 </div>

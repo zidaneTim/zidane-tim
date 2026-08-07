@@ -96,5 +96,6 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 |---|---|---|
 | Bases du montage vidéo | Le premier montage assemble correctement images, texte et musique libre de droits, puis s'exporte sans erreur. | -- / - / + / ++ |
 | Réalisation de la capsule SAPVER | La capsule respecte la durée demandée, le thème SAPVER est cohérent et la légende est adaptée. | -- / - / + / ++ |
+| Respect du droit d'auteur | Toutes les musiques et images utilisées proviennent bien des banques libres de droits intégrées à l'outil. | -- / - / + / ++ |
 
 </div>

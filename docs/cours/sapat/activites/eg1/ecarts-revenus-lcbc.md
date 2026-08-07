@@ -132,7 +132,6 @@ La production attendue est un classeur transmis à la coordinatrice du CCAS de L
 |---|---|---|
 | Filtrage et nettoyage des données | Les 38 communes sont correctement isolées ; les données manquantes sont signalées, jamais supprimées ou inventées. | -- / - / + / ++ |
 | Formule conditionnelle (SI) | La formule SI est exacte, commentée, et gère correctement le cas des données non disponibles. | -- / - / + / ++ |
-| Comptage et somme (NB.SI, SOMME.SI) | Les deux formules renvoient des résultats cohérents avec le filtrage réalisé. | -- / - / + / ++ |
-| Tri, mise en forme et interprétation | Le tri et la mise en forme conditionnelle sont fonctionnels ; les réponses de synthèse sont cohérentes avec les données. | -- / - / + / ++ |
+| Comptage, tri et interprétation | Les formules NB.SI et SOMME.SI renvoient des résultats cohérents avec le filtrage réalisé ; le tri et la mise en forme conditionnelle sont fonctionnels ; les réponses de synthèse sont cohérentes avec les données. | -- / - / + / ++ |
 
 </div>

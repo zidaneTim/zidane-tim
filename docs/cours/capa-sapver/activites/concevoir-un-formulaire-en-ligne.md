@@ -95,5 +95,6 @@ Un formulaire trop long décourage les réponses : il vaut mieux **peu de questi
 |---|---|---|
 | Choix des types de questions et conception | Chaque type de question choisi est adapté à l'information recherchée ; les deux formulaires sont complets et fonctionnels. | -- / - / + / ++ |
 | Diffusion et analyse des résultats | L'enquête est diffusée, les résultats sont lus correctement et la synthèse tire une conclusion pertinente. | -- / - / + / ++ |
+| Test et fiabilisation du formulaire | Le formulaire a été testé avant diffusion (réponse par l'élève lui-même) et les questions indispensables sont correctement rendues obligatoires. | -- / - / + / ++ |
 
 </div>

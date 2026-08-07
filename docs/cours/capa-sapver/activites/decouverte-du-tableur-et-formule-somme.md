@@ -86,5 +86,6 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 |---|---|---|
 | Saisie et formule SOMME | Le tableau a des colonnes titrées, 3 lignes de données, et un total calculé avec `=SOMME(...)`. | -- / - / + / ++ |
 | Construction du budget | Le tableau comporte au moins 6 aliments avec des prix réalistes, un total calculé, le format monétaire € appliqué et le recalcul automatique constaté. | -- / - / + / ++ |
+| Analyse et adaptation du budget | La comparaison au budget de 60 € est correcte et argumentée, et les aliments sont ajustés si besoin pour respecter la contrainte. | -- / - / + / ++ |
 
 </div>

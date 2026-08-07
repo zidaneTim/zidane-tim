@@ -93,5 +93,6 @@ Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des
 |---|---|---|
 | Lisibilité et structuration du diaporama | Chaque diapositive respecte les 3 règles (≤ 30 mots, contraste, une idée). | -- / - / + / ++ |
 | Présentation orale | L'élève présente sa structure et ses missions en environ 3 minutes, sans lire un texte rédigé. | -- / - / + / ++ |
+| Auto-évaluation et amélioration | L'auto-évaluation identifie clairement le respect du temps, le contact avec le public et un axe d'amélioration réaliste. | -- / - / + / ++ |
 
 </div>

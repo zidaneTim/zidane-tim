@@ -96,5 +96,6 @@ Une **infox** (fausse information) s'alerte par : un titre choc qui promet un mi
 |---|---|---|
 | Recherche et vérification | L'élève utilise des mots-clés adaptés, trouve une source sérieuse et applique correctement les 3 questions. | -- / - / + / ++ |
 | Tri des informations | Sur les 4 infos de l'atelier, les verdicts sont corrects et chaque « trompeuse » est justifiée par au moins un signe d'alerte. | -- / - / + / ++ |
+| Restitution personnelle | Les 3 questions de vérification sont reformulées avec ses propres mots et illustrées par un exemple d'infox déjà croisée. | -- / - / + / ++ |
 
 </div>

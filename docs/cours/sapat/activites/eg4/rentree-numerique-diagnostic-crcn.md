@@ -135,7 +135,6 @@ scolaire qui t'a confié le rôle de relais numérique.
 |---|---|---|
 | Prise en main de l'environnement | ENT et OneNote ouverts, bloc-notes créé et nommé correctement, capture d'écran présente | -- / - / + / ++ |
 | Sécurité des accès | Les 3 vérifications sont faites et leur résultat est noté, y compris quand la réponse est « non actif » | -- / - / + / ++ |
-| Autodiagnostic CRCN | Au moins 5 compétences positionnées, chacune avec un exemple concret et non générique | -- / - / + / ++ |
-| Objectifs personnels | 3 objectifs formulés avec un verbe d'action, cohérents avec l'autodiagnostic | -- / - / + / ++ |
+| Autodiagnostic et objectifs | Au moins 5 compétences positionnées, chacune avec un exemple concret et non générique ; 3 objectifs formulés avec un verbe d'action, cohérents avec l'autodiagnostic | -- / - / + / ++ |
 
 </div>

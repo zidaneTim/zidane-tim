@@ -107,6 +107,6 @@ Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assain
 |---|---|---|
 | 1 — Analyse du contexte et de la problématique | La demande de l'élu est reformulée correctement ; l'absence de donnée personnelle est justifiée ; le sous-ensemble Côtes-d'Armor puis LCBC est correctement construit (EPCI ou communes) ; les statuts de fiabilité des indicateurs sont vérifiés. | -- / - / + / ++ |
 | 2 — Traitement des données adapté au contexte et à la problématique étudiée | Le tableau récapitulatif est correct ; `MOYENNE.SI.ENS` et `NB.SI.ENS` sont fonctionnels et excluent bien les anomalies ; les écarts sont justes et la mise en forme conditionnelle est cohérente. | -- / - / + / ++ |
-| 3 — Exposition des données adaptée et représentative de la problématique étudiée | Le graphique comparatif est complet et lisible ; la note répond clairement à la problématique, chiffres à l'appui, sans présenter comme certain un indicateur signalé en anomalie. | -- / - / + / ++ |
+| 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Le graphique comparatif est complet et lisible ; la note répond clairement à la problématique, chiffres à l'appui, sans présenter comme certain un indicateur signalé en anomalie. | -- / - / + / ++ |
 
 </div>
