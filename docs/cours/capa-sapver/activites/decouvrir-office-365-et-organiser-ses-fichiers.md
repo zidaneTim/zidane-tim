@@ -47,8 +47,7 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
     1. Sur quel site te connectes-tu pour ouvrir Office 365 ? (le lien est donné dans les Ressources de cette fiche)
     2. Quel identifiant et quel mot de passe utilises-tu ? D'où viennent-ils ?
     3. Une fois connecté, où cliques-tu pour afficher la liste des applications (le « lanceur d'applications », petite grille de points en haut à gauche de l'écran) ?
-    4. Combien d'applications différentes vois-tu dans cette liste ?
-    5. Parmi elles, lesquelles reconnais-tu déjà (Word, Excel, PowerPoint) ? Lesquelles sont nouvelles pour toi (OneNote, OneDrive, Teams) ?
+    4. Parmi les applications affichées, lesquelles reconnais-tu déjà (Word, Excel, PowerPoint) ? Lesquelles sont nouvelles pour toi (OneNote, OneDrive, Teams) ?
 
     !!! tip "Coup de pouce"
         Si la connexion échoue : vérifie les **majuscules/minuscules**, l'absence d'**espace** avant ou après ton identifiant, et que tu es bien sur le bon site. Toujours bloqué → demande à un adulte.
@@ -70,9 +69,8 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 !!! example "Étape 3 — seul (10 min)"
     1. Dans la liste des applications, quelle icône cliques-tu pour ouvrir **OneDrive** ?
     2. D'après ce que tu observes (fichiers déjà présents, bouton « Créer »/« Charger »), à quoi sert OneDrive ?
-    3. Combien de fichiers ou de dossiers y a-t-il déjà dans ton espace OneDrive ?
-    4. Où trouves-tu l'espace de stockage total disponible pour ton compte (regarde en bas de la page ou dans les paramètres) ?
-    5. Si tu déposes un fichier dans OneDrive depuis l'ordinateur de la salle info, peux-tu le retrouver depuis un autre ordinateur du lycée ? Comment le vérifier ?
+    3. Où trouves-tu l'espace de stockage total disponible pour ton compte (regarde en bas de la page ou dans les paramètres) ?
+    4. Si tu déposes un fichier dans OneDrive depuis l'ordinateur de la salle info, peux-tu le retrouver depuis un autre ordinateur du lycée ? Comment le vérifier ?
 
     !!! tip "Coup de pouce"
         OneDrive n'est pas un dossier « en plus » : c'est ton espace personnel en ligne, relié à ton compte, pas à un ordinateur précis.
