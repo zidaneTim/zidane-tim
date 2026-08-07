@@ -37,7 +37,7 @@ En stage dans une association de quartier, on te demande de donner un coup de ma
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — sphère privée, sphère publique
+### 📘 Notion — sphère privée, sphère publique
 
 La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie de famille, santé, opinions, adresse) : elle mérite protection. La **sphère publique** regroupe ce qu'une personne choisit de rendre visible à tous. Sur un réseau social, la frontière n'est **pas automatique** : c'est **chaque publication** qui doit être pensée en fonction de qui elle concerne et de qui peut la voir. Publier une information concernant **une autre personne** sans son accord peut porter atteinte à sa vie privée et à son **droit à l'image**, même sans mauvaise intention.
 
@@ -53,7 +53,7 @@ La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie 
 !!! example "Consigne 3 — seul (10 min)"
     Rédiger 4 questions à se poser avant toute publication concernant d'autres personnes.
 
-### 🎯 Atelier (vendredi) — débat et charte personnelle
+### 🎯 Atelier — débat et charte personnelle
 
 **Ta mission :** débattre des usages des réseaux sociaux avec la classe, puis rédiger ta propre charte de bonnes pratiques.
 

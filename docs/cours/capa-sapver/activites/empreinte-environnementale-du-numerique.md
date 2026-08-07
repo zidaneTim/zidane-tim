@@ -35,7 +35,7 @@ Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, u
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le numérique n'est pas immatériel
+### 📘 Notion — le numérique n'est pas immatériel
 
 Trois sources principales d'impact : **la fabrication des appareils** (l'étape la plus polluante), **les centres de données** (« le cloud », des bâtiments remplis de serveurs consommant de l'électricité en continu) et **les réseaux** (Wi-Fi, 4G/5G, box).
 
@@ -51,7 +51,7 @@ Trois sources principales d'impact : **la fabrication des appareils** (l'étape 
 !!! tip "Coup de pouce"
     Trie par expéditeur ou utilise la recherche pour repérer d'un coup toutes les newsletters ou publicités jamais ouvertes.
 
-### 🎯 Atelier (vendredi) — Digital Cleanup Day
+### 🎯 Atelier — Digital Cleanup Day
 
 **Ta mission :** nettoyer réellement ta boîte mail, ton espace de stockage et tes abonnements inutiles, puis mesurer ce que tu as accompli.
 

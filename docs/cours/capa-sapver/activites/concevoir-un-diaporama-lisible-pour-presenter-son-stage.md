@@ -38,7 +38,7 @@ La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en 
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — un diaporama, ça se lit de loin
+### 📘 Notion — un diaporama, ça se lit de loin
 
 Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des phrases lues à voix haute), **bon contraste** (texte foncé sur fond clair), **une idée par diapositive**.
 
@@ -54,7 +54,7 @@ Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des
 !!! example "Consigne 3 — seul ou en binôme (15 min)"
     Test de lisibilité (reculer ou réduire la fenêtre) et correction si besoin.
 
-### 🎯 Atelier (vendredi) — oral formatif : ma structure, mes missions
+### 🎯 Atelier — oral formatif : ma structure, mes missions
 
 **Ta mission :** t'entraîner puis présenter ton stage à l'oral en 3 minutes, à l'aide de ton diaporama.
 

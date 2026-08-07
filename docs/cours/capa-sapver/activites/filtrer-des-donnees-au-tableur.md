@@ -37,7 +37,7 @@ Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille M
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le filtre
+### 📘 Notion — le filtre
 
 Un **filtre** permet de n'afficher que les lignes qui **m'intéressent**, sans supprimer les autres. On sélectionne le tableau, puis **Données → Filtrer** : de petites flèches apparaissent sur les titres. Le filtre ne **supprime rien** : pour tout revoir, je reclique sur la flèche et je coche **« (Tout) »**.
 
@@ -62,7 +62,7 @@ Un **filtre** permet de n'afficher que les lignes qui **m'intéressent**, sans s
 !!! tip "Coup de pouce"
     Le filtre ne **supprime rien** : pour tout revoir, je reclique sur la flèche et je coche **« (Tout) »**.
 
-### 🎯 Atelier (vendredi) — où part l'argent des Morel ?
+### 🎯 Atelier — où part l'argent des Morel ?
 
 **Ta mission :** en tant qu'agent de l'association, tu es le « conseiller budget » de la famille Morel. Tu dois leur montrer, avec un graphique, **où part leur argent** et leur donner **un conseil**.
 

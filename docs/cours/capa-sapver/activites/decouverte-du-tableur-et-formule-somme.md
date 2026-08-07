@@ -37,7 +37,7 @@ Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le tableur
+### 📘 Notion — le tableur
 
 Un **tableur** est un grand quadrillage : les **colonnes** sont des lettres (A, B, C…), les **lignes** des chiffres (1, 2, 3…), une **cellule** est repérée par sa colonne + sa ligne (**B2**, **C5**). Une formule commence toujours par **`=`** : `=3+2` affiche `5`, `=B2+B3` affiche la somme des cellules B2 et B3.
 
@@ -52,7 +52,7 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 !!! tip "Coup de pouce"
     Si le résultat affiche la formule au lieu du nombre, vérifie que tu as bien commencé par le signe **`=`** et qu'il n'y a pas d'espace avant.
 
-### 🎯 Atelier (vendredi) — le budget du repas de fête
+### 🎯 Atelier — le budget du repas de fête
 
 **Ta mission :** préparer, au tableur, le **budget du repas de Noël des résidents pour 6 personnes**, sans dépasser **60 €**.
 

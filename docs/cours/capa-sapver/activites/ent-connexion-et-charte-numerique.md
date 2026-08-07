@@ -40,7 +40,7 @@ Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolot
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — l'ENT et ses règles
+### 📘 Notion — l'ENT et ses règles
 
 L'**ENT** (Espace Numérique de Travail) est le **site privé du lycée**. Chaque élève a son **compte personnel** (un identifiant + un mot de passe qui n'appartiennent qu'à lui). On y accède avec un navigateur, sur ordinateur ou téléphone.
 
@@ -65,7 +65,7 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! example "Consigne 2 — seul ou en binôme (10 min)"
     Lire les 5 règles de la charte. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire. Si seul, compare tes exemples avec un camarade dès que possible.
 
-### 🎯 Atelier (vendredi) — je deviens autonome sur l'ENT
+### 🎯 Atelier — je deviens autonome sur l'ENT
 
 **Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.
 

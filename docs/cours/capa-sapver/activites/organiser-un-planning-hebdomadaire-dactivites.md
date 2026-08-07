@@ -37,7 +37,7 @@ Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — construire un planning
+### 📘 Notion — construire un planning
 
 Un planning organise des informations selon deux axes : les jours (colonnes) et les horaires (lignes). Chaque case contient une activité et, si besoin, un lieu ou un intervenant.
 
@@ -53,7 +53,7 @@ Un planning organise des informations selon deux axes : les jours (colonnes) et 
 !!! example "Consigne 3 — seul (15 min)"
     Mettre en forme le planning pour l'affichage : titres en gras, couleur de fond par type d'activité, taille de police suffisante.
 
-### 🎯 Atelier (vendredi) — un second planning au tableur
+### 🎯 Atelier — un second planning au tableur
 
 **Ta mission :** choisir un des deux plannings (entretien des locaux **ou** menu hebdomadaire) et le construire au tableur.
 

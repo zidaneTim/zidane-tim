@@ -35,7 +35,7 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — mon dernier retour de stage
+### 📘 Notion — mon dernier retour de stage
 
 !!! example "Consigne 1 — seul (15 min)"
     Répondre aux mêmes 4 questions qu'à chaque retour de PFMP : outils numériques observés, qui les utilise, pour quoi faire, règle de sécurité ou confidentialité observée.
@@ -52,7 +52,7 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
 !!! example "Consigne 4 — seul (10 min)"
     Choisir, pour la séance suivante, la ou les compétences numériques de l'année sur lesquelles tu souhaites t'entraîner en priorité.
 
-### 🎯 Atelier (vendredi) — séance de régulation et consolidation
+### 🎯 Atelier — séance de régulation et consolidation
 
 **Ta mission :** consacrer cette dernière séance à consolider, en autonomie, la ou les compétences numériques identifiées comme fragiles.
 

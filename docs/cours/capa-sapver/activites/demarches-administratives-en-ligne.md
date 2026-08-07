@@ -35,7 +35,7 @@ M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile o�
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — reconnaître un site administratif officiel
+### 📘 Notion — reconnaître un site administratif officiel
 
 Les sites officiels de l'administration française se reconnaissent à quelques indices : l'adresse se termine en **`.gouv.fr`** (ex. `service-public.fr`, `ants.gouv.fr`, `ameli.fr`, `caf.fr`) ou appartient à un organisme officiel connu. **Attention** : de nombreux sites imitateurs apparaissent dans les premiers résultats de recherche (souvent en tant que publicité) et **facturent** des démarches qui sont **gratuites** sur le site officiel. Le portail **[service-public.fr](https://www.service-public.fr/)** centralise l'accès à la plupart des démarches administratives officielles et gratuites.
 
@@ -54,7 +54,7 @@ Les sites officiels de l'administration française se reconnaissent à quelques 
 !!! example "Consigne 4 — seul (10 min)"
     Sur [service-public.fr](https://www.service-public.fr/), rechercher la démarche « renouvellement carte nationale d'identité » et noter les 3 grandes étapes indiquées par le site officiel.
 
-### 🎯 Atelier (vendredi) — simuler une démarche administrative
+### 🎯 Atelier — simuler une démarche administrative
 
 **Ta mission :** réaliser, dans un environnement d'entraînement encadré, la simulation d'une démarche administrative du quotidien.
 

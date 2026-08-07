@@ -38,7 +38,7 @@ Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…)
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le courriel professionnel
+### 📘 Notion — le courriel professionnel
 
 | Partie | Rôle | Exemple |
 |---|---|---|
@@ -63,7 +63,7 @@ Une **pièce jointe** (PJ) est un fichier qu'on **accroche** au courriel : on cl
 !!! tip "Coup de pouce"
     Un bon objet = **de quoi ça parle + qui tu es** en 4-5 mots. Exemple : « Demande de stage — CAPa SAPVER ».
 
-### 🎯 Atelier (vendredi) — ma candidature de stage
+### 🎯 Atelier — ma candidature de stage
 
 **Ta mission :** écrire et envoyer (via l'ENT, à l'adresse de ton professeur qui joue le rôle de la structure) un **vrai courriel de demande de stage**, avec une pièce jointe.
 

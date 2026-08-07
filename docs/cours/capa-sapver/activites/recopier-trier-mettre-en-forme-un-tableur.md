@@ -37,7 +37,7 @@ Après le budget de Noël des résidents, on te confie la **liste de 15 courses*
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — gagner du temps au tableur
+### 📘 Notion — gagner du temps au tableur
 
 Une formule écrite une fois peut être **recopiée** sur toutes les lignes suivantes grâce à la **poignée de recopie** : le petit **carré en bas à droite** de la cellule. En **D2** je tape `=B2*C2` (prix × quantité), je tire la poignée vers le bas : D3 devient `=B3*C3`, D4 devient `=B4*C4`… **automatiquement**.
 
@@ -52,7 +52,7 @@ Une formule écrite une fois peut être **recopiée** sur toutes les lignes suiv
 !!! tip "Coup de pouce"
     La poignée de recopie = le **petit carré plein** en bas à droite de la cellule sélectionnée. Le curseur devient une **petite croix noire**.
 
-### 🎯 Atelier (vendredi) — mon positionnement Pix
+### 🎯 Atelier — mon positionnement Pix
 
 **Ta mission :** te connecter à Pix et **répondre au parcours de positionnement** communiqué par ton professeur, pour découvrir ton niveau.
 

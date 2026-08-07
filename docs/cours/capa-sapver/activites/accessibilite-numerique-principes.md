@@ -40,7 +40,7 @@ Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** 
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — l'accessibilité numérique
+### 📘 Notion — l'accessibilité numérique
 
 L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **tous**, y compris les personnes qui voient mal, entendent mal, ou ont des difficultés de lecture. Dans les métiers du **service à la personne**, c'est essentiel.
 
@@ -61,7 +61,7 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Coup de pouce"
     Pour tester le contraste : plisse les yeux devant l'écran. Si tu ne lis plus, une personne malvoyante non plus.
 
-### 🎯 Atelier (vendredi) — je rends le document accessible
+### 🎯 Atelier — je rends le document accessible
 
 **Ta mission :** corriger le document du menu pour qu'il soit lisible par les résidents de l'EHPAD.
 

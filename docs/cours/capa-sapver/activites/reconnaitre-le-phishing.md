@@ -41,7 +41,7 @@ Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le phishing (hameçonnage)
+### 📘 Notion — le phishing (hameçonnage)
 
 Le **phishing** est une arnaque : un fraudeur envoie un faux message pour te faire « mordre à l'hameçon », dans le but de voler tes mots de passe, ton numéro de carte ou ton argent. 5 indices : **l'expéditeur** (adresse bizarre), **l'urgence** (« sous 24h »), **les fautes** d'orthographe, **le lien** (adresse qui ne ressemble pas au site officiel), **la demande** (payer ou donner un mot de passe — un organisme sérieux ne le fait jamais par message).
 
@@ -67,7 +67,7 @@ Avant de faire confiance à un site : le cadenas et `https://` protègent la con
 !!! example "Consigne 4 — seul (5 min)"
     Observe la barre d'adresse de deux sites que tu utilises. Pour chacun, note si le cadenas et le `https://` sont présents, et si un bandeau de cookies apparaît.
 
-### 🎯 Atelier (vendredi) — la chasse au phishing
+### 🎯 Atelier — la chasse au phishing
 
 **Ta mission :** tu es le « référent anti-arnaque » de l'équipe. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de résidents et de collègues. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 

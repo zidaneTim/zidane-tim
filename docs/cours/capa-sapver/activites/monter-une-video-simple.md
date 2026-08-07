@@ -35,7 +35,7 @@ L'association où tu es agent souhaite publier de courtes capsules vidéo sur se
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — les bases du montage vidéo
+### 📘 Notion — les bases du montage vidéo
 
 Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même principe : une **ligne de temps** sur laquelle on place des **éléments** (images, clips, texte) les uns après les autres ou en superposition.
 
@@ -61,7 +61,7 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 !!! example "Consigne 4 — seul (10 min)"
     Exporter le montage et vérifier que le fichier obtenu se lit correctement.
 
-### 🎯 Atelier (vendredi) — réaliser une capsule vidéo SAPVER
+### 🎯 Atelier — réaliser une capsule vidéo SAPVER
 
 **Ta mission :** réaliser une capsule vidéo de 30 secondes à 1 minute sur un thème du secteur SAPVER.
 

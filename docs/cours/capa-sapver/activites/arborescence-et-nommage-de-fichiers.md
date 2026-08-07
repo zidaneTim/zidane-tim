@@ -39,7 +39,7 @@ En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — ranger ses fichiers
+### 📘 Notion — ranger ses fichiers
 
 Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des dossiers (des **sous-dossiers**) : c'est l'**arborescence**.
 
@@ -63,7 +63,7 @@ Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On 
 !!! tip "Coup de pouce"
     Je repère d'abord **de quoi ça parle** (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
 
-### 🎯 Atelier (vendredi) — ma fiche de présentation
+### 🎯 Atelier — ma fiche de présentation
 
 **Ta mission :** créer une **fiche de présentation** de toi pour la classe (texte + une image), en choisissant bien ce que tu partages.
 

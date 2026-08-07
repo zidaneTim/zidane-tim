@@ -39,7 +39,7 @@ Tu es agent dans un commerce de proximité en espace rural. À l'approche du **B
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — acheter en sécurité et consommer responsable
+### 📘 Notion — acheter en sécurité et consommer responsable
 
 | Indice | Ce que je regarde |
 |---|---|
@@ -63,7 +63,7 @@ Consommer de façon responsable, c'est se demander : en ai-je vraiment besoin ? 
 !!! tip "Coup de pouce"
     Le plus prudent **protège la carte**. Le moins prudent, c'est **donner son numéro** en clair à un inconnu.
 
-### 🎯 Atelier (vendredi) — les 3 sites au banc d'essai
+### 🎯 Atelier — les 3 sites au banc d'essai
 
 **Ta mission :** tu es le « conseiller achats » du commerce. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
 

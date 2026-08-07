@@ -39,7 +39,7 @@ Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vr
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — comment fonctionne un assistant conversationnel ?
+### 📘 Notion — comment fonctionne un assistant conversationnel ?
 
 Un assistant conversationnel (type ChatGPT, Copilot, ou l'outil mis à disposition par ton établissement) est un programme entraîné sur d'énormes quantités de textes. Il ne « comprend » pas comme un humain : il **prédit** le mot le plus probable pour continuer une phrase. Cela explique deux choses importantes : il peut donner une réponse **fausse avec assurance** (une **hallucination**), et il peut refléter des **biais** présents dans les textes sur lesquels il a été entraîné. Une IA générative est un **outil d'aide**, pas une source d'autorité : toute réponse importante doit être **vérifiée** ailleurs.
 
@@ -58,7 +58,7 @@ Un assistant conversationnel (type ChatGPT, Copilot, ou l'outil mis à dispositi
 !!! example "Consigne 4 — seul (10 min)"
     Rédiger une règle personnelle : dans quel(s) cas utiliserais-tu une IA générative dans ta future vie professionnelle, et dans quel(s) cas ne lui ferais-tu jamais confiance seule (une information médicale, un chiffre officiel) ?
 
-### 🎯 Atelier (vendredi) — défi prompts et analyse critique
+### 🎯 Atelier — défi prompts et analyse critique
 
 **Ta mission :** tester la qualité des réponses d'une IA sur un défi de rédaction et de traduction, et juger leur fiabilité.
 

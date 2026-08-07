@@ -37,7 +37,7 @@ Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son t�
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — chercher et vérifier
+### 📘 Notion — chercher et vérifier
 
 Un **moteur de recherche** trouve mieux quand on lui donne des **mots-clés précis**, pas une phrase entière (ex. `citron maigrir avis santé publique` plutôt que « est-ce que le citron fait maigrir ? »).
 
@@ -54,7 +54,7 @@ Une **infox** (fausse information) s'alerte par : un titre choc qui promet un mi
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
 
-### 🎯 Atelier (vendredi) — le tableau de vérification
+### 🎯 Atelier — le tableau de vérification
 
 **Ta mission :** tu es le « vérificateur » de l'équipe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
 

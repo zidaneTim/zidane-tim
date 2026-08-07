@@ -35,7 +35,7 @@ L'association où tu es agent organise une sortie pour ses bénéficiaires et ve
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — les types de questions d'un formulaire
+### 📘 Notion — les types de questions d'un formulaire
 
 Un bon formulaire choisit le **bon type de question** pour chaque information :
 
@@ -61,7 +61,7 @@ Un formulaire trop long décourage les réponses : il vaut mieux **peu de questi
 !!! tip "Coup de pouce"
     Dans la plupart des outils, le type de question se choisit dans un menu déroulant au-dessus de chaque question ; teste toujours ton formulaire en le remplissant toi-même avant de le diffuser.
 
-### 🎯 Atelier (vendredi) — enquête sur les usages numériques de la classe
+### 🎯 Atelier — enquête sur les usages numériques de la classe
 
 **Ta mission :** concevoir un second formulaire, cette fois sur les usages numériques de la classe, puis diffuser une enquête et lire ses résultats.
 

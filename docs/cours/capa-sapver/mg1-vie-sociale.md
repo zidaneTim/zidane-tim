@@ -8,7 +8,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
 <div class="grid cards" markdown>
 
--   :material-monitor-dashboard:{ .lg .middle } <span class="zt-step">1-2</span> **Se connecter à l'ENT et respecter la charte numérique**
+-   :material-monitor-dashboard:{ .lg .middle } <span class="zt-step">1</span> **Se connecter à l'ENT et respecter la charte numérique**
 
     ---
 
@@ -16,7 +16,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/ent-connexion-et-charte-numerique.md)
 
--   :material-folder-multiple:{ .lg .middle } <span class="zt-step">3-4</span> **Organiser ses fichiers et créer sa fiche de présentation**
+-   :material-folder-multiple:{ .lg .middle } <span class="zt-step">2</span> **Organiser ses fichiers et créer sa fiche de présentation**
 
     ---
 
@@ -24,7 +24,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/arborescence-et-nommage-de-fichiers.md)
 
--   :material-magnify:{ .lg .middle } <span class="zt-step">5-6</span> **Rechercher une information et la vérifier**
+-   :material-magnify:{ .lg .middle } <span class="zt-step">3</span> **Rechercher une information et la vérifier**
 
     ---
 
@@ -32,7 +32,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/rechercher-et-verifier-une-information.md)
 
--   :material-lock:{ .lg .middle } <span class="zt-step">7-8</span> **Reconnaître et créer un mot de passe solide**
+-   :material-lock:{ .lg .middle } <span class="zt-step">4</span> **Reconnaître et créer un mot de passe solide**
 
     ---
 
@@ -40,7 +40,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/creer-un-mot-de-passe-solide.md)
 
--   :material-fish:{ .lg .middle } <span class="zt-step">9-10</span> **Reconnaître le phishing et naviguer en sécurité**
+-   :material-fish:{ .lg .middle } <span class="zt-step">5</span> **Reconnaître le phishing et naviguer en sécurité**
 
     ---
 
@@ -48,7 +48,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/reconnaitre-le-phishing.md)
 
--   :material-shield-account:{ .lg .middle } <span class="zt-step">11-12</span> **Comprendre le cyberharcèlement et créer une affiche de sensibilisation**
+-   :material-shield-account:{ .lg .middle } <span class="zt-step">6</span> **Comprendre le cyberharcèlement et créer une affiche de sensibilisation**
 
     ---
 
@@ -56,7 +56,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/comprendre-le-cyberharcelement.md)
 
--   :material-email-outline:{ .lg .middle } <span class="zt-step">13-14</span> **Connaître les règles du courriel professionnel**
+-   :material-email-outline:{ .lg .middle } <span class="zt-step">7</span> **Connaître les règles du courriel professionnel**
 
     ---
 
@@ -64,7 +64,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/ecrire-un-courriel-professionnel.md)
 
--   :material-cart-outline:{ .lg .middle } <span class="zt-step">15-16</span> **Reconnaître un site marchand fiable et consommer responsable**
+-   :material-cart-outline:{ .lg .middle } <span class="zt-step">8</span> **Reconnaître un site marchand fiable et consommer responsable**
 
     ---
 
@@ -72,7 +72,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/site-marchand-fiable-et-consommation-responsable.md)
 
--   :material-human-wheelchair:{ .lg .middle } <span class="zt-step">17-18</span> **Comprendre l'accessibilité numérique et adapter un document**
+-   :material-human-wheelchair:{ .lg .middle } <span class="zt-step">9</span> **Comprendre l'accessibilité numérique et adapter un document**
 
     ---
 
@@ -80,7 +80,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/accessibilite-numerique-principes.md)
 
--   :material-table:{ .lg .middle } <span class="zt-step">19-20</span> **Découvrir le tableur et construire un budget de fête**
+-   :material-table:{ .lg .middle } <span class="zt-step">10</span> **Découvrir le tableur et construire un budget de fête**
 
     ---
 
@@ -88,7 +88,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/decouverte-du-tableur-et-formule-somme.md)
 
--   :material-table-arrow-down:{ .lg .middle } <span class="zt-step">21-22</span> **Recopier, trier, mettre en forme un tableur et se positionner sur Pix**
+-   :material-table-arrow-down:{ .lg .middle } <span class="zt-step">11</span> **Recopier, trier, mettre en forme un tableur et se positionner sur Pix**
 
     ---
 
@@ -96,7 +96,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/recopier-trier-mettre-en-forme-un-tableur.md)
 
--   :material-filter-outline:{ .lg .middle } <span class="zt-step">23-24</span> **Filtrer des données et créer un graphique de dépenses**
+-   :material-filter-outline:{ .lg .middle } <span class="zt-step">12</span> **Filtrer des données et créer un graphique de dépenses**
 
     ---
 
@@ -104,7 +104,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/filtrer-des-donnees-au-tableur.md)
 
--   :material-map-marker-path:{ .lg .middle } <span class="zt-step">25-26</span> **Préparer son itinéraire de stage**
+-   :material-map-marker-path:{ .lg .middle } <span class="zt-step">13</span> **Préparer son itinéraire de stage**
 
     ---
 
@@ -112,7 +112,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/preparer-son-itineraire-de-stage.md)
 
--   :material-lock-outline:{ .lg .middle } <span class="zt-step">27-28</span> **Comprendre le RGPD et ses droits**
+-   :material-lock-outline:{ .lg .middle } <span class="zt-step">14</span> **Comprendre le RGPD et ses droits**
 
     ---
 
@@ -120,7 +120,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/comprendre-le-rgpd-et-ses-droits.md)
 
--   :material-account-group-outline:{ .lg .middle } <span class="zt-step">29-30</span> **Réseaux sociaux : sphère privée et sphère publique**
+-   :material-account-group-outline:{ .lg .middle } <span class="zt-step">15</span> **Réseaux sociaux : sphère privée et sphère publique**
 
     ---
 
@@ -128,7 +128,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/reseaux-sociaux-sphere-privee-et-publique.md)
 
--   :material-account-search-outline:{ .lg .middle } <span class="zt-step">31-32</span> **Identité numérique et e-réputation**
+-   :material-account-search-outline:{ .lg .middle } <span class="zt-step">16</span> **Identité numérique et e-réputation**
 
     ---
 
@@ -136,7 +136,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/identite-numerique-et-e-reputation.md)
 
--   :material-presentation:{ .lg .middle } <span class="zt-step">33-34</span> **Concevoir un diaporama lisible pour présenter son stage**
+-   :material-presentation:{ .lg .middle } <span class="zt-step">17</span> **Concevoir un diaporama lisible pour présenter son stage**
 
     ---
 
@@ -144,7 +144,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/concevoir-un-diaporama-lisible-pour-presenter-son-stage.md)
 
--   :material-calendar-week:{ .lg .middle } <span class="zt-step">35-36</span> **Organiser un planning hebdomadaire d'activités**
+-   :material-calendar-week:{ .lg .middle } <span class="zt-step">18</span> **Organiser un planning hebdomadaire d'activités**
 
     ---
 
@@ -152,7 +152,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/organiser-un-planning-hebdomadaire-dactivites.md)
 
--   :material-leaf:{ .lg .middle } <span class="zt-step">37-38</span> **L'empreinte environnementale du numérique**
+-   :material-leaf:{ .lg .middle } <span class="zt-step">19</span> **L'empreinte environnementale du numérique**
 
     ---
 
@@ -160,7 +160,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/empreinte-environnementale-du-numerique.md)
 
--   :material-briefcase-outline:{ .lg .middle } <span class="zt-step">39</span> **Retour de PFMP : le numérique observé en stage**
+-   :material-briefcase-outline:{ .lg .middle } <span class="zt-step">20</span> **Retour de PFMP : le numérique observé en stage**
 
     ---
 
@@ -168,7 +168,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/retour-de-pfmp-le-numerique-observe-en-stage.md)
 
--   :material-form-select:{ .lg .middle } <span class="zt-step">40-41</span> **Concevoir un formulaire en ligne**
+-   :material-form-select:{ .lg .middle } <span class="zt-step">21</span> **Concevoir un formulaire en ligne**
 
     ---
 
@@ -176,7 +176,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/concevoir-un-formulaire-en-ligne.md)
 
--   :material-robot-outline:{ .lg .middle } <span class="zt-step">42-43</span> **Découvrir l'intelligence artificielle générative**
+-   :material-robot-outline:{ .lg .middle } <span class="zt-step">22</span> **Découvrir l'intelligence artificielle générative**
 
     ---
 
@@ -184,7 +184,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/decouvrir-lintelligence-artificielle-generative.md)
 
--   :material-movie-open-outline:{ .lg .middle } <span class="zt-step">44-45</span> **Monter une vidéo simple**
+-   :material-movie-open-outline:{ .lg .middle } <span class="zt-step">23</span> **Monter une vidéo simple**
 
     ---
 
@@ -192,7 +192,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/monter-une-video-simple.md)
 
--   :material-account-voice:{ .lg .middle } <span class="zt-step">46</span> **Projeter et critiquer les capsules vidéo**
+-   :material-account-voice:{ .lg .middle } <span class="zt-step">24</span> **Projeter et critiquer les capsules vidéo**
 
     ---
 
@@ -200,7 +200,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/projeter-et-critiquer-les-capsules-video.md)
 
--   :material-bank-outline:{ .lg .middle } <span class="zt-step">47-48</span> **Les démarches administratives en ligne**
+-   :material-bank-outline:{ .lg .middle } <span class="zt-step">25</span> **Les démarches administratives en ligne**
 
     ---
 
@@ -208,7 +208,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/demarches-administratives-en-ligne.md)
 
--   :material-file-account-outline:{ .lg .middle } <span class="zt-step">49-50</span> **Mettre à jour son CV et bilan formatif annuel**
+-   :material-file-account-outline:{ .lg .middle } <span class="zt-step">26</span> **Mettre à jour son CV et bilan formatif annuel**
 
     ---
 
@@ -216,7 +216,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mettre-a-jour-son-cv.md)
 
--   :material-flag-checkered:{ .lg .middle } <span class="zt-step">51-52</span> **Retour de PFMP 5 et clôture d'année**
+-   :material-flag-checkered:{ .lg .middle } <span class="zt-step">27</span> **Retour de PFMP 5 et clôture d'année**
 
     ---
 
@@ -232,29 +232,29 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
-> **Règle de non-répétition respectée (révisé le 2026-08-07)** : un même parcours Pix n'apparaît qu'une seule fois par classe/année scolaire (§14 de [[Referentiel-Pix-Parcours-Catalogue]] — jamais suspendue). Le catalogue disponible pour l'objectif 2.2 étant plus restreint que le nombre de séances, la majorité des activités n'ont **aucun** parcours Pix associé : seules celles listées ci-dessous en ont un, chacune une fois. Chaque référence renvoie à une page (séance unique ou semaine fusionnée lundi+vendredi = une seule activité).
+> **Règle de non-répétition respectée (révisé le 2026-08-07)** : un même parcours Pix n'apparaît qu'une seule fois par classe/année scolaire (§14 de [[Referentiel-Pix-Parcours-Catalogue]] — jamais suspendue). Le catalogue disponible pour l'objectif 2.2 étant plus restreint que le nombre de séances, la majorité des activités n'ont **aucun** parcours Pix associé : seules celles listées ci-dessous en ont un, chacune une fois. Chaque référence renvoie à une page (activité unique numérotée dans l'ordre logique de la progression).
 
-- **Environnement numérique - Socle commun** (1-2)
-- **Gérer ses fichiers numériques** (3-4, notion)
-- **Information et données - Socle commun · Création de contenu - Socle commun** (3-4, atelier)
-- **EMI Collège** (5-6)
-- **Cybersécurité (MAJ 2025)** (7-8)
-- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (11-12)
-- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (13-14)
-- **Protection et sécurité - Socle commun** (15-16, notion)
-- **Éducation numérique — espace de vigilance** (15-16, atelier)
-- **Éducation numérique — émancipation/inclusion** (17-18)
-- **Tableur pour calculer** (19-20)
-- **Tableur pour présenter des données** (23-24)
-- **Éducation numérique — espace de droit** (27-28)
-- **Communiquer via les réseaux sociaux** (29-30)
-- **Créer des supports pour valoriser un produit** (33-34)
-- **Communiquer en entreprise** (35-36)
-- **Décrypter le fonctionnement et les enjeux de l'IA** (42-43, notion)
-- **Utiliser l'IA générative de façon éclairée et efficace** (42-43, atelier)
-- **Collaborer en entreprise** (46)
+- **Environnement numérique - Socle commun** (1)
+- **Gérer ses fichiers numériques** (2, notion)
+- **Information et données - Socle commun · Création de contenu - Socle commun** (2, atelier)
+- **EMI Collège** (3)
+- **Cybersécurité (MAJ 2025)** (4)
+- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (6)
+- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (7)
+- **Protection et sécurité - Socle commun** (8, notion)
+- **Éducation numérique — espace de vigilance** (8, atelier)
+- **Éducation numérique — émancipation/inclusion** (9)
+- **Tableur pour calculer** (10)
+- **Tableur pour présenter des données** (12)
+- **Éducation numérique — espace de droit** (14)
+- **Communiquer via les réseaux sociaux** (15)
+- **Créer des supports pour valoriser un produit** (17)
+- **Communiquer en entreprise** (18)
+- **Décrypter le fonctionnement et les enjeux de l'IA** (22, notion)
+- **Utiliser l'IA générative de façon éclairée et efficace** (22, atelier)
+- **Collaborer en entreprise** (24)
 
 **Parcours Pix Orga réellement lancés** (positionnement/certification, distincts des parcours associés ci-dessus, non soumis à la règle de non-répétition car catégorie différente) :
 
-- **Parcours de rentrée - CAP** — séances 21-22 (atelier), positionnement diagnostic
-- **Complément parcours rentrée CAP (certification)** — séances 49-50 (atelier), bilan formatif annuel
+- **Parcours de rentrée - CAP** — activité 11 (atelier), positionnement diagnostic
+- **Complément parcours rentrée CAP (certification)** — activité 26 (atelier), bilan formatif annuel

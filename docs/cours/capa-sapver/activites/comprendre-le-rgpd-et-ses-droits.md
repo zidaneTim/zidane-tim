@@ -37,7 +37,7 @@ Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « 
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — les 5 droits RGPD
+### 📘 Notion — les 5 droits RGPD
 
 Le **RGPD** (Règlement Général sur la Protection des Données) est une loi européenne qui protège les données personnelles (nom, adresse, santé, habitudes...). Elle donne à chacun **5 droits principaux** :
 
@@ -61,7 +61,7 @@ Le **RGPD** (Règlement Général sur la Protection des Données) est une loi eu
 !!! example "Consigne 3 — seul ou en binôme (15 min)"
     Pour 3 situations (correction d'une adresse, suppression totale après décès, récupération d'un dossier pour un nouvel établissement), indiquer quel droit RGPD s'applique.
 
-### 🎯 Atelier (vendredi) — paramétrer la confidentialité d'un compte
+### 🎯 Atelier — paramétrer la confidentialité d'un compte
 
 **Ta mission :** régler les paramètres de confidentialité du compte de l'association et produire un aide-mémoire RGPD.
 

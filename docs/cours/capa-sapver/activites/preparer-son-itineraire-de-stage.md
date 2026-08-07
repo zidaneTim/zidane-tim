@@ -35,7 +35,7 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — rechercher et comparer un itinéraire
+### 📘 Notion — rechercher et comparer un itinéraire
 
 !!! example "Consigne 1 — seul (10 min)"
     Sur une carte interactive, saisir l'adresse de ta structure de PFMP. Noter la **distance** et la **durée** depuis ton domicile en voiture.
@@ -52,7 +52,7 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
 !!! example "Consigne 4 — seul (10 min)"
     Rédiger une courte **fiche pratique** provisoire (5-6 lignes) avec : l'adresse exacte de la structure, le mode de transport retenu et sa durée, et les 3 services repérés.
 
-### 🎯 Atelier (vendredi) — comparer les 2 itinéraires et déposer sa fiche
+### 🎯 Atelier — comparer les 2 itinéraires et déposer sa fiche
 
 **Ta mission :** comparer précisément 2 itinéraires complets et déposer une fiche pratique claire sur l'ENT, consultable depuis ton téléphone le jour J.
 

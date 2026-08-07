@@ -35,7 +35,7 @@ L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'emp
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — identité numérique, traces, e-réputation
+### 📘 Notion — identité numérique, traces, e-réputation
 
 - **Identité numérique** : l'ensemble des informations qui te représentent en ligne (profils, publications, commentaires, photos, avis).
 - **Trace numérique** : chaque action laisse une trace, parfois sans qu'on s'en rende compte.
@@ -53,7 +53,7 @@ L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'emp
 !!! example "Consigne 4 — seul (10 min)"
     Répondre : si un futur employeur recherchait ton prénom demain, que penses-tu qu'il trouverait ? Est-ce que cela correspond à l'image professionnelle que tu veux donner ?
 
-### 🎯 Atelier (vendredi) — Safer Internet Day : vérifier sa visibilité
+### 🎯 Atelier — Safer Internet Day : vérifier sa visibilité
 
 **Ta mission :** rechercher ton nom en ligne et vérifier la visibilité de tes profils, dans le respect de ta vie privée (tu ne partages avec personne ce que tu trouves de personnel, sauf si tu le souhaites).
 

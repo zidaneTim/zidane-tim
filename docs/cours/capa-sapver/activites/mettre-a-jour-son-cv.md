@@ -38,7 +38,7 @@ L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé 
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — un CV vivant, qui évolue
+### 📘 Notion — un CV vivant, qui évolue
 
 Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle. Deux rubriques évoluent particulièrement cette année : l'**expérience** (chaque PFMP est une ligne, avec la structure, les dates et 1-2 missions réalisées) et les **compétences** (les compétences numériques travaillées en MG1 méritent d'y figurer).
 
@@ -57,7 +57,7 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 !!! example "Consigne 4 — seul ou en binôme (10 min)"
     Relire son CV en entier : orthographe, mise en page homogène, informations à jour. Si seul, relis-toi à voix haute puis fais relire par un camarade dès que possible.
 
-### 🎯 Atelier (vendredi) — bilan formatif annuel CRCN
+### 🎯 Atelier — bilan formatif annuel CRCN
 
 **Ta mission :** répondre au quiz récapitulatif de l'année et t'auto-évaluer sur une grille CRCN pour préparer ta 2e année.
 

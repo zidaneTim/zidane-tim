@@ -40,7 +40,7 @@ Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout*
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le mot de passe
+### 📘 Notion — le mot de passe
 
 Un mot de passe est **faible** quand il est facile à deviner : `123456`/`azerty` (les plus testés au monde), `Léa2009` (prénom + date de naissance trouvables), `chat` (trop court). D'après la **CNIL**, un bon mot de passe est **long** (au moins **12 caractères**) et **mélange** majuscules, minuscules, chiffres et signes, **sans info personnelle**.
 
@@ -55,7 +55,7 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 !!! tip "Coup de pouce"
     Je remplace certains mots par des chiffres ou des symboles : *au* → `o`, *avec* → `&`, *et* → `+`. J'ajoute une **majuscule** et un **!** à la fin.
 
-### 🎯 Atelier (vendredi) — le classement des mots de passe
+### 🎯 Atelier — le classement des mots de passe
 
 **Ta mission :** tu es le « référent sécurité numérique » de l'équipe. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
 

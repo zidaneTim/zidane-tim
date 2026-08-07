@@ -39,7 +39,7 @@ Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **
 
 ## Travail à faire
 
-### 📘 Notion (lundi) — le cyberharcèlement
+### 📘 Notion — le cyberharcèlement
 
 Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries **méchants** contre une personne, en ligne. Trois choses le caractérisent : c'est **répété**, **intentionnel**, et il y a un **rapport de force**. Trois rôles : la **victime**, les **auteurs**, les **témoins** (liker ou partager, c'est déjà participer — un témoin qui réagit peut tout arrêter).
 
@@ -57,7 +57,7 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 !!! tip "Coup de pouce"
     La meilleure réaction **protège la victime** et **garde une preuve**. La pire **encourage** les auteurs.
 
-### 🎯 Atelier (vendredi) — l'affiche de sensibilisation
+### 🎯 Atelier — l'affiche de sensibilisation
 
 **Ta mission :** créer une **affiche** qui apprend aux élèves du lycée à réagir face au cyberharcèlement. Elle sera affichée dans le couloir.
 
