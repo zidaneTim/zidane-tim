@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Tableur</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Tableur pour calculer*</small>
+
 ## La situation
 
 Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en pratique sur le vrai budget des résidents.

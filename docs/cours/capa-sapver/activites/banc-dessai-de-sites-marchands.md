@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Consommation</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Éducation numérique — espace de vigilance*</small>
+
 ## La situation
 
 Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réflexes en pratique : dans le commerce où tu es agent, on te confie le rôle de « conseiller achats » pour la clientèle.

@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Recherche d'information</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Information et données - Socle commun*</small>
+
 ## La situation
 
 Tu sais désormais poser les bonnes questions face à une information. Dans l'EHPAD où tu es agent, cela sert tous les jours : passe à la pratique en triant le vrai du faux dans une série d'informations trouvées en ligne.

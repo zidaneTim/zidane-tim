@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Environnement numérique</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
+
 ## La situation
 
 Tu sais maintenant te connecter à l'ENT et retrouver ses rubriques. Il reste à montrer que tu sais vraiment t'en servir au quotidien : compléter ton profil, écrire un message correct, et déposer un fichier que tu pourras retrouver plus tard.

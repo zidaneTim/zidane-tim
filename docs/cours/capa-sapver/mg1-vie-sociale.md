@@ -200,6 +200,230 @@ Agir dans son environnement social et numérique de façon responsable.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/graphique-depenses-famille-morel.md)
 
+-   :material-map-marker-path:{ .lg .middle } <span class="zt-step">25</span> **Préparer son itinéraire de stage**
+
+    ---
+
+    Utiliser une carte interactive pour préparer son trajet avant sa PFMP.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/preparer-son-itineraire-de-stage.md)
+
+-   :material-bus-clock:{ .lg .middle } <span class="zt-step">26</span> **Calculer un itinéraire et déposer sa fiche pratique**
+
+    ---
+
+    Comparer deux modes de transport et déposer sa fiche pratique sur l'ENT.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/calculer-un-itineraire-et-deposer-sa-fiche-pratique.md)
+
+-   :material-lock-outline:{ .lg .middle } <span class="zt-step">27</span> **Comprendre le RGPD et ses droits**
+
+    ---
+
+    Découvrir les 5 droits RGPD et savoir les expliquer simplement.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/comprendre-le-rgpd-et-ses-droits.md)
+
+-   :material-cog-outline:{ .lg .middle } <span class="zt-step">28</span> **Paramétrer la confidentialité d'un compte**
+
+    ---
+
+    Régler les paramètres de confidentialité d'un compte professionnel.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/parametrer-la-confidentialite-dun-compte.md)
+
+-   :material-account-group-outline:{ .lg .middle } <span class="zt-step">29</span> **Réseaux sociaux : sphère privée et sphère publique**
+
+    ---
+
+    Distinguer ce qui relève du privé et du public avant de publier en ligne.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/reseaux-sociaux-sphere-privee-et-publique.md)
+
+-   :material-script-text-outline:{ .lg .middle } <span class="zt-step">30</span> **Ma charte personnelle d'usage des réseaux**
+
+    ---
+
+    Débattre des usages des réseaux sociaux et rédiger sa charte personnelle.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/charte-personnelle-usage-des-reseaux.md)
+
+-   :material-account-search-outline:{ .lg .middle } <span class="zt-step">31</span> **Identité numérique et e-réputation**
+
+    ---
+
+    Comprendre ce que sont l'identité numérique et l'empreinte numérique.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/identite-numerique-et-e-reputation.md)
+
+-   :material-shield-search:{ .lg .middle } <span class="zt-step">32</span> **Safer Internet Day : vérifier sa visibilité en ligne**
+
+    ---
+
+    Rechercher son nom en ligne et paramétrer la visibilité de ses profils.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/safer-internet-day-verifier-sa-visibilite-en-ligne.md)
+
+-   :material-presentation:{ .lg .middle } <span class="zt-step">33</span> **Concevoir un diaporama lisible pour présenter son stage**
+
+    ---
+
+    Appliquer les règles de lisibilité d'un diaporama pour sa PFMP.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/concevoir-un-diaporama-lisible-pour-presenter-son-stage.md)
+
+-   :material-microphone-outline:{ .lg .middle } <span class="zt-step">34</span> **Présenter oralement son stage en 3 minutes**
+
+    ---
+
+    S'entraîner puis présenter oralement sa PFMP en 3 minutes.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/presenter-oralement-son-stage-en-3-minutes.md)
+
+-   :material-calendar-week:{ .lg .middle } <span class="zt-step">35</span> **Organiser un planning hebdomadaire d'activités**
+
+    ---
+
+    Organiser des activités par jour et par heure, comme dans un service.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/organiser-un-planning-hebdomadaire-dactivites.md)
+
+-   :material-silverware-fork-knife:{ .lg .middle } <span class="zt-step">36</span> **Concevoir un planning d'entretien ou un menu hebdomadaire**
+
+    ---
+
+    Construire au tableur un second planning de service.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/concevoir-un-planning-dentretien-ou-un-menu-hebdomadaire.md)
+
+-   :material-leaf:{ .lg .middle } <span class="zt-step">37</span> **L'empreinte environnementale du numérique**
+
+    ---
+
+    Comprendre pourquoi le numérique a un impact environnemental.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/empreinte-environnementale-du-numerique.md)
+
+-   :material-recycle:{ .lg .middle } <span class="zt-step">38</span> **Digital Cleanup Day : nettoyer son espace numérique**
+
+    ---
+
+    Nettoyer concrètement son stockage, ses courriels et ses abonnements.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/digital-cleanup-day-nettoyer-son-espace-numerique.md)
+
+-   :material-briefcase-outline:{ .lg .middle } <span class="zt-step">39</span> **Retour de PFMP : le numérique observé en stage**
+
+    ---
+
+    Faire le bilan des usages numériques observés en PFMP.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/retour-de-pfmp-le-numerique-observe-en-stage.md)
+
+-   :material-form-select:{ .lg .middle } <span class="zt-step">40</span> **Concevoir un formulaire en ligne**
+
+    ---
+
+    Créer un questionnaire en ligne avec des types de questions variés.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/concevoir-un-formulaire-en-ligne.md)
+
+-   :material-poll:{ .lg .middle } <span class="zt-step">41</span> **Enquête sur les usages numériques de la classe**
+
+    ---
+
+    Créer une enquête, la faire remplir et analyser les résultats.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/enquete-sur-les-usages-numeriques-de-la-classe.md)
+
+-   :material-robot-outline:{ .lg .middle } <span class="zt-step">42</span> **Découvrir l'intelligence artificielle générative**
+
+    ---
+
+    Tester un assistant conversationnel et comprendre ses limites.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/decouvrir-lintelligence-artificielle-generative.md)
+
+-   :material-message-question-outline:{ .lg .middle } <span class="zt-step">43</span> **Défi prompts et analyse critique des réponses de l'IA**
+
+    ---
+
+    Formuler des prompts précis et analyser les réponses obtenues.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/defi-prompts-et-analyse-critique-des-reponses-ia.md)
+
+-   :material-movie-open-outline:{ .lg .middle } <span class="zt-step">44</span> **Monter une vidéo simple**
+
+    ---
+
+    Découvrir les bases du montage vidéo : images, texte, musique, export.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/monter-une-video-simple.md)
+
+-   :material-video-vintage:{ .lg .middle } <span class="zt-step">45</span> **Réaliser une capsule vidéo sur un thème SAPVER**
+
+    ---
+
+    Créer une capsule vidéo courte de 30 s à 1 min pour l'association.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/realiser-une-capsule-video-sur-un-theme-sapver.md)
+
+-   :material-account-voice:{ .lg .middle } <span class="zt-step">46</span> **Projeter et critiquer les capsules vidéo**
+
+    ---
+
+    Projeter sa capsule et formuler une critique constructive entre pairs.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/projeter-et-critiquer-les-capsules-video.md)
+
+-   :material-bank-outline:{ .lg .middle } <span class="zt-step">47</span> **Les démarches administratives en ligne**
+
+    ---
+
+    Identifier les sites officiels pour une démarche administrative en ligne.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/demarches-administratives-en-ligne.md)
+
+-   :material-clipboard-text-clock-outline:{ .lg .middle } <span class="zt-step">48</span> **Simuler une démarche administrative en ligne**
+
+    ---
+
+    Dérouler pas à pas une démarche officielle, comme pour accompagner un usager.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/simuler-une-demarche-administrative-en-ligne.md)
+
+-   :material-file-account-outline:{ .lg .middle } <span class="zt-step">49</span> **Mettre à jour son CV**
+
+    ---
+
+    Intégrer ses PFMP et ses compétences numériques de l'année à son CV.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mettre-a-jour-son-cv.md)
+
+-   :material-clipboard-check-multiple-outline:{ .lg .middle } <span class="zt-step">50</span> **Bilan formatif annuel : quiz et grille CRCN**
+
+    ---
+
+    Répondre à un quiz récapitulatif et s'auto-évaluer sur la grille CRCN.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/bilan-formatif-annuel-quiz-et-grille-crcn.md)
+
+-   :material-flag-checkered:{ .lg .middle } <span class="zt-step">51</span> **Retour de PFMP 5 et bilan numérique de l'année**
+
+    ---
+
+    Dresser le bilan des outils numériques observés en dernière PFMP.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/retour-de-pfmp-5-et-bilan-numerique-de-lannee.md)
+
+-   :material-wrench-outline:{ .lg .middle } <span class="zt-step">52</span> **Séance de régulation et de consolidation**
+
+    ---
+
+    Consolider, à son rythme, les compétences numériques encore fragiles.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/seance-de-regulation-et-consolidation.md)
+
 </div>
 
 !!! tip "Où répondre ?"
@@ -208,14 +432,30 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
-- **Environnement numérique - Socle commun** (1)
+> **52 séances, 52 activités, chacune pourvue d'un parcours Pix (complété le 2026-08-07)**. Le catalogue disponible pour l'objectif 2.2 étant plus restreint que 52 séances, plusieurs parcours reviennent légitimement à plusieurs reprises dans l'année (voir [[Referentiel-Pix-Parcours-Catalogue]] § 17) — liste ci-dessous en union simple, un numéro par séance qui le mobilise.
+
+- **Environnement numérique - Socle commun** (1, 2)
 - **Gérer ses fichiers numériques** (3)
-- **Information et données - Socle commun** (4)
-- **Création de contenu - Socle commun** (4)
-- **EMI Collège** (5)
-- **Cybersécurité (MAJ 2025)** (7)
+- **Information et données - Socle commun** (4, 6)
+- **Création de contenu - Socle commun** (4, 12, 33, 40)
+- **EMI Collège** (5, 25, 26)
+- **Cybersécurité (MAJ 2025)** (7, 8, 9)
+- **Protection et sécurité - Socle commun** (10, 15, 28, 32, 37, 38)
 - **Protection et sécurité (cyberharcèlement, MAJ 2025)** (11)
-- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (13)
-- **Protection et sécurité - Socle commun** (15)
-- **Tableur pour calculer** (19)
-- **Tableur pour présenter des données** (23)
+- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (13, 14, 39, 51)
+- **Éducation numérique — espace de vigilance** (16, 29, 31)
+- **Éducation numérique — émancipation/inclusion** (17, 18)
+- **Tableur pour calculer** (19, 20, 21, 36)
+- **Tableur pour présenter des données** (23, 24, 41)
+- **Éducation numérique — espace de droit** (27, 47, 48)
+- **Communiquer via les réseaux sociaux** (30)
+- **Créer des supports pour valoriser un produit** (34, 44, 45, 49)
+- **Communiquer en entreprise** (35)
+- **Collaborer en entreprise** (46)
+- **Décrypter le fonctionnement et les enjeux de l'IA** (42)
+- **Utiliser l'IA générative de façon éclairée et efficace** (43)
+
+**Parcours Pix Orga réellement lancés** (positionnement/certification, distincts des parcours associés ci-dessus) :
+
+- **Parcours de rentrée - CAP** — séance 22, positionnement diagnostic
+- **Complément parcours rentrée CAP (certification)** — séance 50, bilan formatif annuel

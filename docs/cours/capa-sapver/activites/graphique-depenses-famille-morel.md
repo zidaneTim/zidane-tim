@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Tableur · Données</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Tableur pour présenter des données*</small>
+
 ## La situation
 
 Tu sais maintenant filtrer un tableau de dépenses. Dans le cadre de ton accompagnement de la famille Morel, un **graphique** va rendre la réponse à « où part l'argent ? » encore plus parlante : un poste de dépense est bien plus gros que les autres.

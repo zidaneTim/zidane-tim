@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Sécurité numérique</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité - Socle commun*</small>
+
 ## La situation
 
 Tu sais maintenant repérer les indices d'un message piège. Dans l'EHPAD où tu es agent, mets tes réflexes à l'épreuve sur une série de messages réels.

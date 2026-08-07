@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Pix</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix Orga utilisé — Parcours de rentrée - CAP*</small>
+
 ## La situation
 
 Tu as déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…). C'est le moment de faire le point sur **ce que tu sais déjà faire**, grâce à **Pix**.

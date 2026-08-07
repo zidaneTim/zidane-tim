@@ -10,6 +10,8 @@
   <span>:material-tag-outline: Accessibilité</span>
 </div>
 
+<small style="color:#7239f6">*Parcours Pix associé — Éducation numérique — émancipation/inclusion*</small>
+
 ## La situation
 
 Tu es chargé de **corriger** le document du menu de l'EHPAD pour qu'il soit lisible par les résidents.
