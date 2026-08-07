@@ -74,7 +74,7 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
     Rédiger un bilan personnel de 5-6 lignes sur ce qui a été le plus utile dans l'année, en lien avec le numérique.
 
 !!! success "Défi (pour aller plus loin) ⭐"
-    Comparer ton auto-évaluation avec ton positionnement Pix de mi-année (séance 22) : les deux se rejoignent-ils ? Ajouter une ligne « Certifications » sur ton CV mentionnant ce positionnement.
+    Comparer ton auto-évaluation avec ton positionnement Pix de mi-année : les deux se rejoignent-ils ? Ajouter une ligne « Certifications » sur ton CV mentionnant ce positionnement.
 
 !!! tip "Où répondre ?"
     Dépose ton CV mis à jour, ta grille d'auto-évaluation CRCN et ton bilan personnel dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif annuel** de la matière.

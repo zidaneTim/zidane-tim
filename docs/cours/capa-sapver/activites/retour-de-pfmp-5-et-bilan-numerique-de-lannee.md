@@ -47,7 +47,7 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
     Rédiger un court bilan de fin d'année (8-10 phrases) : ce que tu as appris sur les usages numériques professionnels du secteur SAPVER, une évolution que tu as remarquée dans ta propre aisance numérique, et une question qu'il te reste pour la suite.
 
 !!! tip "Coup de pouce"
-    Compare ton tout premier bilan de septembre (séance 5) à celui d'aujourd'hui : le vocabulaire utilisé, la précision des observations ont probablement évolué — c'est un signe de progression à souligner.
+    Compare ton tout premier bilan de septembre à celui d'aujourd'hui : le vocabulaire utilisé, la précision des observations ont probablement évolué — c'est un signe de progression à souligner.
 
 !!! example "Consigne 4 — seul (10 min)"
     Choisir, pour la séance suivante, la ou les compétences numériques de l'année sur lesquelles tu souhaites t'entraîner en priorité.

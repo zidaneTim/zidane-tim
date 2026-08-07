@@ -232,7 +232,7 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
-> **Règle de non-répétition respectée (révisé le 2026-08-07)** : un même parcours Pix n'apparaît qu'une seule fois par classe/année scolaire (§14 de [[Referentiel-Pix-Parcours-Catalogue]] — jamais suspendue). Le catalogue disponible pour l'objectif 2.2 étant plus restreint que le nombre de séances, la majorité des activités n'ont **aucun** parcours Pix associé : seules celles listées ci-dessous en ont un, chacune une fois. Chaque référence renvoie à une page (activité unique numérotée dans l'ordre logique de la progression).
+> Seules les activités listées ci-dessous ont un parcours Pix associé, chacune une fois ; les autres activités de la page n'en ont pas.
 
 - **Environnement numérique - Socle commun** (1)
 - **Gérer ses fichiers numériques** (2, notion)
@@ -254,7 +254,7 @@ Agir dans son environnement social et numérique de façon responsable.
 - **Utiliser l'IA générative de façon éclairée et efficace** (22, atelier)
 - **Collaborer en entreprise** (24)
 
-**Parcours Pix Orga réellement lancés** (positionnement/certification, distincts des parcours associés ci-dessus, non soumis à la règle de non-répétition car catégorie différente) :
+**Parcours Pix Orga** (positionnement et certification, distincts des parcours ci-dessus) :
 
 - **Parcours de rentrée - CAP** — activité 11 (atelier), positionnement diagnostic
 - **Complément parcours rentrée CAP (certification)** — activité 26 (atelier), bilan formatif annuel

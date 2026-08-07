@@ -80,7 +80,7 @@ premier trimestre.
 
 - **Traitement de texte (Word)** : fonction *Étiquettes* du publipostage.
 - **Tableur (Excel)** : filtre automatique sur la colonne *Canal préféré*.
-- **Référentiel CRCN (Pix)** : pour documenter la grille de bilan — [[Referentiel-CRCN-Pix]].
+- **Référentiel CRCN (Pix)** : pour documenter la grille de bilan (support fourni en classe).
 
 ## Grille d'évaluation Publipostage avancé et bilan (4.2.7)
 

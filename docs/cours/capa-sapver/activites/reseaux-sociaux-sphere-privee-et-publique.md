@@ -28,7 +28,7 @@
 
 ## Mise en situation
 
-En stage dans une association de quartier, on te demande de donner un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
+Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
 
 ## Problématique
 

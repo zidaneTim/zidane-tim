@@ -77,7 +77,7 @@ identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une
 ## Ressources et outils
 
 - **Pix Orga** : parcours de positionnement diagnostic — [lien](https://orga.pix.fr){ target="_blank" rel="noopener" }.
-- **Référentiel CRCN (Pix)** : table des 16 compétences pour documenter le bilan — [[Referentiel-CRCN-Pix]].
+- **Référentiel CRCN (Pix)** : table des 16 compétences pour documenter le bilan (support fourni en classe).
 
 ## Grille d'évaluation Environnement numérique professionnel (4.1)
 

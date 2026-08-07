@@ -77,7 +77,7 @@ qu'il utilise des vues, une cotation précise et un vocabulaire technique partag
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
 | Lecture de plan (obj. 3) | Vues, cotes et échelle du plan fourni sont correctement identifiées | -- / - / + / ++ |
-| Croquis coté (obj. 3, prescrit verbatim) | Au moins deux vues cohérentes, cotées précisément et lisibles | -- / - / + / ++ |
+| Croquis coté (obj. 3) | Au moins deux vues cohérentes, cotées précisément et lisibles | -- / - / + / ++ |
 | Vocabulaire technique | Les éléments du dessin technique sont nommés correctement | -- / - / + / ++ |
 
 </div>

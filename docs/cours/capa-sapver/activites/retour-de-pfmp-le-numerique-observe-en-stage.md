@@ -39,7 +39,7 @@ Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre 
     Chacun présente en 1-2 minutes son observation la plus intéressante. La classe note au passage les outils numériques cités qui reviennent dans plusieurs structures différentes. Si tu travailles seul, prépare ta présentation et prévois de la partager dès le retour en classe.
 
 !!! success "Défi (pour aller plus loin) ⭐"
-    Comparer ton observation à celle notée en séance 5 (outils numériques repérés en PFMP 1) : y a-t-il une évolution ou un point commun ?
+    Comparer ton observation à celle notée lors de ta première PFMP (outils numériques repérés en PFMP 1) : y a-t-il une évolution ou un point commun ?
 
 !!! tip "Où répondre ?"
     Dépose tes réponses aux 4 questions et ton observation développée dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).

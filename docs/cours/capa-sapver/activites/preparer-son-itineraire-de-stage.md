@@ -69,7 +69,7 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
     Rédiger la **fiche pratique finale** : adresse de la structure, heure de départ de chez toi, mode de transport retenu et pourquoi, numéro de téléphone de la structure (si connu), un service utile à proximité, et le numéro d'un proche à prévenir en cas d'imprévu.
 
 !!! example "Consigne 4 — seul (10 min)"
-    Déposer la fiche pratique dans l'espace de stockage de l'**ENT**, dans un dossier nommé selon la convention vue en séance 3 (`AAAA-MM-JJ_FichePFMP_MonPrénom`).
+    Déposer la fiche pratique dans l'espace de stockage de l'**ENT**, dans un dossier nommé selon la convention déjà vue (`AAAA-MM-JJ_FichePFMP_MonPrénom`).
 
 !!! success "Défi (pour aller plus loin) ⭐"
     Chercher s'il existe un **itinéraire de secours** (un 2e mode de transport possible en cas de panne ou de grève) et l'ajouter à la fiche.
