@@ -8,197 +8,101 @@ Agir dans son environnement social et numérique de façon responsable.
 
 <div class="grid cards" markdown>
 
--   :material-monitor-dashboard:{ .lg .middle } <span class="zt-step">1</span> **Se connecter à l'ENT et respecter la charte numérique**
+-   :material-monitor-dashboard:{ .lg .middle } <span class="zt-step">1-2</span> **Se connecter à l'ENT et respecter la charte numérique**
 
     ---
 
-    Se connecter seul à l'espace numérique du lycée et connaître les règles de bon usage.
+    Se connecter seul à l'ENT, connaître les règles de bon usage, puis devenir autonome (profil, message, fichier).
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/ent-connexion-et-charte-numerique.md)
 
--   :material-account-edit:{ .lg .middle } <span class="zt-step">2</span> **Devenir autonome sur l'ENT : profil, message et fichier**
+-   :material-folder-multiple:{ .lg .middle } <span class="zt-step">3-4</span> **Organiser ses fichiers et créer sa fiche de présentation**
 
     ---
 
-    Compléter son profil, envoyer un message professionnel poli et déposer un fichier dans son espace de stockage.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/ent-profil-message-et-depot-fichier.md)
-
--   :material-folder-multiple:{ .lg .middle } <span class="zt-step">3</span> **Organiser ses fichiers et bien les nommer**
-
-    ---
-
-    Créer une arborescence et nommer correctement ses fichiers.
+    Créer une arborescence et bien nommer ses fichiers, puis rédiger sa fiche de présentation en triant ce qu'on partage.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/arborescence-et-nommage-de-fichiers.md)
 
--   :material-card-account-details-outline:{ .lg .middle } <span class="zt-step">4</span> **Créer sa fiche de présentation en choisissant ce qu'on partage**
+-   :material-magnify:{ .lg .middle } <span class="zt-step">5-6</span> **Rechercher une information et la vérifier**
 
     ---
 
-    Rédiger une fiche de présentation en triant ce qui se partage et ce qui reste privé.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/fiche-de-presentation-personnelle.md)
-
--   :material-magnify:{ .lg .middle } <span class="zt-step">5</span> **Rechercher une information et la vérifier**
-
-    ---
-
-    Chercher avec de bons mots-clés et croiser les sources, même à l'ère de l'IA.
+    Chercher avec de bons mots-clés et croiser les sources, puis trier des informations fiables et trompeuses.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/rechercher-et-verifier-une-information.md)
 
--   :material-clipboard-check-outline:{ .lg .middle } <span class="zt-step">6</span> **Trier des informations fiables et trompeuses**
+-   :material-lock:{ .lg .middle } <span class="zt-step">7-8</span> **Reconnaître et créer un mot de passe solide**
 
     ---
 
-    Passer au crible 4 informations trouvées en ligne et justifier son verdict.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/tableau-de-verification-des-sources.md)
-
--   :material-lock:{ .lg .middle } <span class="zt-step">7</span> **Reconnaître et créer un mot de passe solide**
-
-    ---
-
-    Reconnaître un mot de passe faible et transformer une phrase en mot de passe solide.
+    Reconnaître un mot de passe faible, transformer une phrase en mot de passe solide, puis classer des mots de passe.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/creer-un-mot-de-passe-solide.md)
 
--   :material-lock-check-outline:{ .lg .middle } <span class="zt-step">8</span> **Classer des mots de passe et créer sa phrase de passe**
+-   :material-fish:{ .lg .middle } <span class="zt-step">9-10</span> **Reconnaître le phishing et naviguer en sécurité**
 
     ---
 
-    Classer des mots de passe du plus faible au plus fort et créer le sien.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/classement-et-creation-phrase-de-passe.md)
-
--   :material-fish:{ .lg .middle } <span class="zt-step">9</span> **Reconnaître le phishing et naviguer en sécurité**
-
-    ---
-
-    Reconnaître un message piégé et connaître les bons réflexes de signalement.
+    Reconnaître un message piégé, naviguer en sécurité, puis mener sa propre chasse au phishing.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/reconnaitre-le-phishing.md)
 
--   :material-magnify-scan:{ .lg .middle } <span class="zt-step">10</span> **La chasse au phishing**
+-   :material-shield-account:{ .lg .middle } <span class="zt-step">11-12</span> **Comprendre le cyberharcèlement et créer une affiche de sensibilisation**
 
     ---
 
-    Trier 6 messages reçus et rédiger sa checklist personnelle anti-arnaque.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/chasse-au-phishing.md)
-
--   :material-shield-account:{ .lg .middle } <span class="zt-step">11</span> **Comprendre le cyberharcèlement et connaître les recours**
-
-    ---
-
-    Reconnaître le cyberharcèlement et connaître les recours (3018).
+    Reconnaître le cyberharcèlement, connaître les recours (3018), puis concevoir une affiche pour les élèves du lycée.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/comprendre-le-cyberharcelement.md)
 
--   :material-image-outline:{ .lg .middle } <span class="zt-step">12</span> **Créer une affiche de sensibilisation au cyberharcèlement**
+-   :material-email-outline:{ .lg .middle } <span class="zt-step">13-14</span> **Connaître les règles du courriel professionnel**
 
     ---
 
-    Concevoir une affiche claire pour apprendre à réagir face au cyberharcèlement.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/affiche-de-sensibilisation-cyberharcelement.md)
-
--   :material-email-outline:{ .lg .middle } <span class="zt-step">13</span> **Connaître les règles du courriel professionnel**
-
-    ---
-
-    Connaître les 6 parties d'un courriel professionnel et les pièges à éviter.
+    Connaître les 6 parties d'un courriel professionnel, puis rédiger et envoyer une vraie candidature de stage.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/ecrire-un-courriel-professionnel.md)
 
--   :material-email-fast-outline:{ .lg .middle } <span class="zt-step">14</span> **Envoyer une candidature de stage par courriel**
+-   :material-cart-outline:{ .lg .middle } <span class="zt-step">15-16</span> **Reconnaître un site marchand fiable et consommer responsable**
 
     ---
 
-    Rédiger et envoyer un courriel complet de demande de stage, avec pièce jointe.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/candidature-de-stage-par-courriel.md)
-
--   :material-cart-outline:{ .lg .middle } <span class="zt-step">15</span> **Reconnaître un site marchand fiable et consommer responsable**
-
-    ---
-
-    Vérifier la fiabilité d'un site marchand et payer en sécurité.
+    Vérifier la fiabilité d'un site marchand, payer en sécurité, puis passer trois sites au banc d'essai.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/site-marchand-fiable-et-consommation-responsable.md)
 
--   :material-cart-check:{ .lg .middle } <span class="zt-step">16</span> **Trois sites marchands au banc d'essai**
+-   :material-human-wheelchair:{ .lg .middle } <span class="zt-step">17-18</span> **Comprendre l'accessibilité numérique et adapter un document**
 
     ---
 
-    Analyser trois sites marchands et débattre de la consommation responsable.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/banc-dessai-de-sites-marchands.md)
-
--   :material-human-wheelchair:{ .lg .middle } <span class="zt-step">17</span> **Comprendre l'accessibilité numérique**
-
-    ---
-
-    Comprendre pourquoi un document doit être lisible par tous.
+    Comprendre pourquoi un document doit être lisible par tous, puis corriger un document pour le rendre accessible.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/accessibilite-numerique-principes.md)
 
--   :material-file-check-outline:{ .lg .middle } <span class="zt-step">18</span> **Adapter un document pour le rendre accessible**
+-   :material-table:{ .lg .middle } <span class="zt-step">19-20</span> **Découvrir le tableur et construire un budget de fête**
 
     ---
 
-    Corriger un document pour qu'il respecte les règles d'accessibilité.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/adapter-un-document-accessible.md)
-
--   :material-table:{ .lg .middle } <span class="zt-step">19</span> **Découvrir le tableur : cellules et formule SOMME**
-
-    ---
-
-    Découvrir le tableur : lignes, colonnes, cellules et formule SOMME.
+    Découvrir le tableur (cellules, formule SOMME), puis construire au tableur le budget d'un repas de fête.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/decouverte-du-tableur-et-formule-somme.md)
 
--   :material-cash-multiple:{ .lg .middle } <span class="zt-step">20</span> **Construire le budget d'un repas de fête au tableur**
+-   :material-table-arrow-down:{ .lg .middle } <span class="zt-step">21-22</span> **Recopier, trier, mettre en forme un tableur et se positionner sur Pix**
 
     ---
 
-    Préparer au tableur le budget complet d'un repas de fête.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/budget-repas-de-fete-au-tableur.md)
-
--   :material-table-arrow-down:{ .lg .middle } <span class="zt-step">21</span> **Recopier une formule, trier et mettre en forme un tableur**
-
-    ---
-
-    Gagner du temps au tableur grâce à la recopie, au tri et à la mise en forme.
+    Gagner du temps au tableur (recopie, tri, mise en forme), puis se positionner sur un parcours diagnostic Pix.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/recopier-trier-mettre-en-forme-un-tableur.md)
 
--   :material-compass-outline:{ .lg .middle } <span class="zt-step">22</span> **Se positionner sur un parcours diagnostic Pix**
+-   :material-filter-outline:{ .lg .middle } <span class="zt-step">23-24</span> **Filtrer des données et créer un graphique de dépenses**
 
     ---
 
-    Faire le point sur ses compétences numériques grâce à Pix.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/positionnement-pix-diagnostic.md)
-
--   :material-filter-outline:{ .lg .middle } <span class="zt-step">23</span> **Filtrer des données au tableur**
-
-    ---
-
-    Utiliser un filtre pour n'afficher qu'une partie des données.
+    Utiliser un filtre pour n'afficher qu'une partie des données, puis créer et commenter un graphique de dépenses.
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/filtrer-des-donnees-au-tableur.md)
-
--   :material-chart-bar:{ .lg .middle } <span class="zt-step">24</span> **Créer et commenter un graphique de dépenses**
-
-    ---
-
-    Calculer des totaux par poste, créer un graphique et en tirer une conclusion.
-
-    [:octicons-arrow-right-24: Ouvrir l'activité](activites/graphique-depenses-famille-morel.md)
 
 -   :material-map-marker-path:{ .lg .middle } <span class="zt-step">25-26</span> **Préparer son itinéraire de stage**
 
@@ -328,21 +232,20 @@ Agir dans son environnement social et numérique de façon responsable.
 
 ## Parcours Pix à faire
 
-> **Règle de non-répétition respectée (révisé le 2026-08-07)** : un même parcours Pix n'apparaît qu'une seule fois par classe/année scolaire (§14 de [[Referentiel-Pix-Parcours-Catalogue]] — jamais suspendue). Le catalogue disponible pour l'objectif 2.2 étant plus restreint que le nombre de séances, la majorité des séances/activités n'ont **aucun** parcours Pix associé : seules celles listées ci-dessous en ont un, chacune une fois. Chaque numéro renvoie à une séance ou à une semaine fusionnée (lundi+vendredi = une seule activité, un seul parcours).
+> **Règle de non-répétition respectée (révisé le 2026-08-07)** : un même parcours Pix n'apparaît qu'une seule fois par classe/année scolaire (§14 de [[Referentiel-Pix-Parcours-Catalogue]] — jamais suspendue). Le catalogue disponible pour l'objectif 2.2 étant plus restreint que le nombre de séances, la majorité des activités n'ont **aucun** parcours Pix associé : seules celles listées ci-dessous en ont un, chacune une fois. Chaque référence renvoie à une page (séance unique ou semaine fusionnée lundi+vendredi = une seule activité).
 
-- **Environnement numérique - Socle commun** (1)
-- **Gérer ses fichiers numériques** (3)
-- **Information et données - Socle commun** (4)
-- **Création de contenu - Socle commun** (4)
-- **EMI Collège** (5)
-- **Cybersécurité (MAJ 2025)** (7)
-- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (11)
-- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (13)
-- **Protection et sécurité - Socle commun** (15)
-- **Éducation numérique — espace de vigilance** (16)
-- **Éducation numérique — émancipation/inclusion** (17)
-- **Tableur pour calculer** (19)
-- **Tableur pour présenter des données** (23)
+- **Environnement numérique - Socle commun** (1-2)
+- **Gérer ses fichiers numériques** (3-4, notion)
+- **Information et données - Socle commun · Création de contenu - Socle commun** (3-4, atelier)
+- **EMI Collège** (5-6)
+- **Cybersécurité (MAJ 2025)** (7-8)
+- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (11-12)
+- **CAPA — Utiliser les outils numériques pour communiquer (vie professionnelle)** (13-14)
+- **Protection et sécurité - Socle commun** (15-16, notion)
+- **Éducation numérique — espace de vigilance** (15-16, atelier)
+- **Éducation numérique — émancipation/inclusion** (17-18)
+- **Tableur pour calculer** (19-20)
+- **Tableur pour présenter des données** (23-24)
 - **Éducation numérique — espace de droit** (27-28)
 - **Communiquer via les réseaux sociaux** (29-30)
 - **Créer des supports pour valoriser un produit** (33-34)
@@ -353,5 +256,5 @@ Agir dans son environnement social et numérique de façon responsable.
 
 **Parcours Pix Orga réellement lancés** (positionnement/certification, distincts des parcours associés ci-dessus, non soumis à la règle de non-répétition car catégorie différente) :
 
-- **Parcours de rentrée - CAP** — séance 22, positionnement diagnostic
-- **Complément parcours rentrée CAP (certification)** — séances 49-50, bilan formatif annuel
+- **Parcours de rentrée - CAP** — séances 21-22 (atelier), positionnement diagnostic
+- **Complément parcours rentrée CAP (certification)** — séances 49-50 (atelier), bilan formatif annuel

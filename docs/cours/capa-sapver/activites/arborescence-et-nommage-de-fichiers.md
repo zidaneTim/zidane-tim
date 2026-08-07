@@ -1,4 +1,4 @@
-# 🗂️ Organiser ses fichiers et bien les nommer
+# 🗂️ Organiser ses fichiers et créer sa fiche de présentation
 
 <div class="zt-pix" markdown>
   <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
@@ -8,37 +8,40 @@
 
 <p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
 
-<p class="zt-lede">Ranger ses fichiers pour les retrouver, avec une arborescence et des noms clairs.</p>
+<p class="zt-lede">Ranger ses fichiers avec une arborescence et des noms clairs, puis créer sa fiche de présentation en choisissant ce qu'on partage.</p>
 
 <div class="zt-meta" markdown>
-  <span>:material-clock-outline: 1 séance</span>
+  <span>:material-clock-outline: 2 séances</span>
   <span>:material-school-outline: MG1 — Vie sociale</span>
   <span>:material-tag-outline: Gestion des fichiers</span>
 </div>
 
-<small style="color:#7239f6">*Parcours Pix associé — Gérer ses fichiers numériques*</small>
+<small style="color:#7239f6">*Parcours Pix associé (notion) — Gérer ses fichiers numériques*</small><br>
+<small style="color:#7239f6">*Parcours Pix associé (atelier) — Information et données - Socle commun · Création de contenu - Socle commun*</small>
 
-## La situation
-
-En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**.
-
-!!! question "Problématique"
-    Comment ranger mes fichiers pour les retrouver facilement ?
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
-- Être capable de **créer une arborescence** simple.
-- Être capable de **nommer** un fichier selon une règle.
+- Être capable de **créer une arborescence** simple et de **nommer** un fichier selon une règle.
+- Être capable de **trier** les informations personnelles (ce qui se partage / ce qui reste privé) et de **créer et nommer correctement** une fiche de présentation.
 
 </div>
 
-## La notion : ranger ses fichiers
+## Mise en situation
 
-### Dossiers et sous-dossiers
+En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**. On te demande ensuite une **fiche de présentation** de toi pour la classe : qu'est-ce que tu peux mettre, et qu'est-ce que tu gardes pour toi ?
 
-Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des dossiers (des **sous-dossiers**). C'est l'**arborescence** : comme les branches d'un arbre.
+## Problématique
+
+!!! question "Problématique"
+    Comment ranger mes fichiers pour les retrouver facilement, et quelles informations sur moi puis-je partager ou dois-je garder privées ?
+
+## Travail à faire
+
+### 📘 Notion (lundi) — ranger ses fichiers
+
+Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des dossiers (des **sous-dossiers**) : c'est l'**arborescence**.
 
 ```
 📁 CAPa1
@@ -47,21 +50,7 @@ Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des
    📁 Stage
 ```
 
-### Bien nommer un fichier : la règle du lycée
-
-Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On utilise la règle :
-
-> **`AAAA-MM-JJ_Intitulé_Prénom`**
-
-| Élément | Exemple | Pourquoi |
-|---|---|---|
-| **Date à l'envers** | `2026-09-14` | Les fichiers se rangent tout seuls du plus ancien au plus récent. |
-| **Intitulé clair** | `Fiche-presentation` | On sait ce que c'est sans l'ouvrir. |
-| **Prénom** | `Lea` | On sait à qui il appartient. |
-
-**À éviter :** les espaces, les accents et les noms vides (`Document1`). On les remplace par des **tirets** `-` ou `_`.
-
-## ✏️ Je m'entraîne
+Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On utilise la règle : **`AAAA-MM-JJ_Intitulé_Prénom`**. La date à l'envers range les fichiers tout seuls du plus ancien au plus récent, l'intitulé clair dit ce que c'est, le prénom dit à qui il appartient. **À éviter :** les espaces, les accents et les noms vides — on les remplace par des tirets `-` ou `_`.
 
 !!! example "Consigne 1 — seul (10 min)"
     Créer sur l'ordinateur (ou dans l'espace ENT) l'arborescence : dossier `CAPa1` → sous-dossier `MG1-Vie-sociale`.
@@ -74,8 +63,33 @@ Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On 
 !!! tip "Coup de pouce"
     Je repère d'abord **de quoi ça parle** (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
 
+### 🎯 Atelier (vendredi) — ma fiche de présentation
+
+**Ta mission :** créer une **fiche de présentation** de toi pour la classe (texte + une image), en choisissant bien ce que tu partages.
+
+Quand je me présente en ligne, je choisis ce que je montre. Certaines informations sont **publiques** (mon prénom, ma classe, mes loisirs, le métier visé), d'autres sont **privées** (mon adresse exacte, mon numéro de téléphone, mon mot de passe). **La règle d'or :** je ne mets en ligne que ce que j'accepterais de dire **devant toute la classe**.
+
+!!! example "Consigne 1 — seul (15 min)"
+    Dans un traitement de texte, écrire une fiche avec : un **titre** (« Qui suis-je ? »), **mon prénom**, **ma classe**, **2 loisirs**, **1 qualité**, et **le métier que je vise**. Soigner la mise en forme.
+
+!!! example "Consigne 2 — seul (5 min)"
+    Ajouter **une image** qui me représente (dessin, logo, image libre de droits). **Pas** de photo d'une autre personne sans son accord.
+
+!!! example "Consigne 3 — seul (10 min)"
+    Enregistrer le fichier avec le **bon nom** : `AAAA-MM-JJ_Fiche-presentation_MonPrénom`, dans le sous-dossier `MG1-Vie-sociale`.
+
+!!! example "Consigne 4 — seul ou en binôme (10 min)"
+    Échanger sa fiche avec un camarade et vérifier : le nom du fichier est-il correct ? Y a-t-il une information **privée** qui n'aurait pas dû être écrite ? Si seul, fais la même relecture toi-même, puis fais vérifier par un camarade ou l'enseignant dès que possible.
+
+!!! success "Défi (pour aller plus loin) ⭐"
+    Dresser deux listes pour un **profil de réseau social** : 3 informations que tu accepterais d'y mettre, 3 que tu refuserais, en justifiant chaque refus en une phrase.
+
 !!! tip "Où répondre ?"
-    Note tes 4 noms de fichiers corrigés dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
+    Dépose tes 4 noms de fichiers corrigés et ta fiche de présentation (au bon endroit, au bon nom) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
+
+## Ressources
+
+- Un traitement de texte (accessible via l'ENT).
 
 ## Grille d'évaluation
 
@@ -83,6 +97,7 @@ Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On 
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Organisation et nommage | L'arborescence est créée et les 4 noms de fichiers sont corrigés selon la règle `AAAA-MM-JJ_Intitulé_Prénom` (sans espace ni accent). | -- / - / + / ++ |
+| Organisation et nommage | L'arborescence est créée et les 4 noms de fichiers sont corrigés selon la règle `AAAA-MM-JJ_Intitulé_Prénom`. | -- / - / + / ++ |
+| Fiche de présentation | Le fichier est enregistré selon la règle dans le bon sous-dossier ; la fiche ne contient que des informations partageables. | -- / - / + / ++ |
 
 </div>
