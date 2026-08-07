@@ -897,11 +897,57 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Espèces non indigènes <strong>par commune</strong> en Bretagne
-<strong>Producteur :</strong> Observatoire de l'environnement en Bretagne (OEB) — GIP Bretagne environnement, via data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne">data.gouv.fr — Espèces non indigènes par commune en Bretagne</a>
-<strong>Format :</strong> CSV (~9,5 Mo, ~38 000 lignes, toute la Bretagne) · <strong>Licence :</strong> Licence Ouverte 2.0 · <strong>Mise à jour :</strong> janvier 2026
-<strong>Particularité à nettoyer :</strong> <strong>une ligne = une espèce dans une commune</strong> — une même commune apparaît donc sur autant de lignes qu'elle compte d'espèces recensées. Le fichier couvre les 4 départements bretons : il faut d'abord isoler les Côtes-d'Armor (code <code>insee_commune</code> commençant par <strong>22</strong>) avant tout traitement. Le champ <code>invasive</code> distingue 4 statuts : <em>invasive avérée, invasive potentielle, invasive à surveiller, non invasive</em>. Enfin, le nombre d'espèces recensées dépend de la <strong>pression d'observation</strong> : une commune très prospectée paraît plus riche qu'une commune peu visitée — ce biais doit être signalé dans la synthèse.</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/especes-non-indigenes-par-commune-en-bretagne">Espèces non indigènes par commune en Bretagne — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>INSEE_COMMUNE</code></td>
+<td>code INSEE de la commune</td>
+</tr>
+<tr>
+<td><code>COMMUNE</code></td>
+<td>nom de la commune</td>
+</tr>
+<tr>
+<td><code>NOM_SCIENTIFIQUE</code></td>
+<td>nom scientifique de l'espèce</td>
+</tr>
+<tr>
+<td><code>NOM_VERNACULAIRE</code></td>
+<td>nom courant de l'espèce</td>
+</tr>
+<tr>
+<td><code>TAXREF_CD_NOM</code></td>
+<td>code de référence taxonomique</td>
+</tr>
+<tr>
+<td><code>GROUP2_INPN</code></td>
+<td>groupe taxonomique détaillé</td>
+</tr>
+<tr>
+<td><code>GROUP1_INPN</code></td>
+<td>groupe taxonomique général</td>
+</tr>
+<tr>
+<td><code>INVASIVE</code></td>
+<td>statut d'invasivité (avérée/potentielle/à surveiller/non invasive)</td>
+</tr>
+<tr>
+<td><code>SOURCE</code></td>
+<td>source de l'observation</td>
+</tr>
+<tr>
+<td><code>MAJ</code></td>
+<td>date de mise à jour</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>

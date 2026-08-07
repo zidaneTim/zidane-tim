@@ -893,11 +893,41 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> FINESS — Extraction du fichier des établissements
-<strong>Producteur :</strong> Ministère des Solidarités et de la Santé — répertoire FINESS géré par l'Agence du Numérique en Santé (ANS), via data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/">data.gouv.fr — FINESS, extraction du fichier des établissements</a>
-<strong>Format :</strong> CSV (fichier national volumineux) · <strong>Licence :</strong> Licence Ouverte / Open Licence
-<strong>Particularité à nettoyer :</strong> fichier national de plusieurs centaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement. Les catégories d'établissement sont codées (code + libellé) : il faut repérer celles qui relèvent des personnes âgées. Des doublons de numéro FINESS peuvent subsister et les colonnes d'adresse comportent des cellules vides.</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/">FINESS — Extraction du fichier des établissements — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Numéro FINESS</td>
+<td>identifiant de l'établissement</td>
+</tr>
+<tr>
+<td>Raison sociale</td>
+<td>nom de l'établissement</td>
+</tr>
+<tr>
+<td>Catégorie d'établissement</td>
+<td>type codé (EHPAD, résidence autonomie...)</td>
+</tr>
+<tr>
+<td>Commune</td>
+<td>commune d'implantation</td>
+</tr>
+<tr>
+<td>Code postal</td>
+<td>code postal</td>
+</tr>
+<tr>
+<td>Adresse</td>
+<td>adresse de l'établissement</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>

@@ -862,17 +862,33 @@ quelles communes sont les plus concernées par le vieillissement ? »</p>
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Population 2020 selon l'âge INSEE, en 10 tranches (par sexe, de 0-2 ans à 80 ans et plus)
-<strong>Producteur :</strong> Ithéa Conseil, à partir de INSEE RP 2020 (Recensement de la population)
-<strong>URL de téléchargement direct</strong> : <a href="https://www.data.gouv.fr/datasets/population-2020-selon-lage-insee-en-10-tranches" rel="noopener" target="_blank">data.gouv.fr — Population 2020 selon l'âge INSEE, en 10 tranches</a>
-<strong>Format :</strong> fichier national unique (toutes communes de France), <code>.xlsx</code> (~10 Mo) · <strong>Licence :</strong> non précisée par le rediffuseur sur data.gouv.fr (données sources INSEE RP 2020, publiques)
-<strong>Particularité :</strong> le fichier contient une colonne EPCI — filtrer sur « CC Loudéac Communauté Bretagne Centre »
-pour ne garder que les 38 communes du territoire (voir <a href="https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes" rel="noopener" target="_blank">liste officielle des communes</a>
-en cas de doute sur un nom de commune). Les tranches d'âge du fichier ne correspondent pas exactement à
-0-19/20-59/60+ : la tranche 55-64 chevauche la limite de 60 ans, ce qui empêche un calcul propre à ce seuil.
-Cette activité utilise donc le seuil de <strong>65 ans</strong> (tranches 65-79 et 80+), qui correspond à une limite réelle
-du fichier et reste un indicateur pertinent pour un CCAS (âge de la retraite, entrée dans les dispositifs
-seniors).</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/population-2020-selon-lage-insee-en-10-tranches" rel="noopener" target="_blank">Population 2020 selon l'âge INSEE, en 10 tranches — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EPCI</td>
+<td>intercommunalité d'appartenance</td>
+</tr>
+<tr>
+<td>F65-79 / F80+</td>
+<td>femmes de 65-79 ans / 80 ans et plus</td>
+</tr>
+<tr>
+<td>H65-79 / H80+</td>
+<td>hommes de 65-79 ans / 80 ans et plus</td>
+</tr>
+<tr>
+<td>Population totale</td>
+<td>population totale de la commune</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <p><strong>Télécharger, filtrer, calculer, mettre en évidence</strong></p>

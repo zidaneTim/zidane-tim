@@ -892,17 +892,69 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Services publics d'eau potable — jeux de données exploités pour les rapports nationaux SISPEA
-<strong>Producteur :</strong> Système d'Information sur l'Eau (SIE) / Office Français de la Biodiversité (OFB), via data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1">data.gouv.fr — Services publics d'eau potable, jeux de données SISPEA</a>
-<strong>Format :</strong> XLS (un fichier par année) · <strong>Licence :</strong> non renseignée sur la page data.gouv.fr — producteur public (OFB) ; à mentionner dans la note avec cette réserve plutôt que de citer une licence non confirmée.
-<strong>Colonnes réelles du fichier</strong> (en-têtes vérifiées sur le fichier brut) : <code>dpt</code>, <code>id_sispea_serv</code>, <code>Nom_serv</code>, <code>Communes_adh_du_serv</code>, <code>EPCI_adh_du_serv</code>, <code>pop_comm_adh</code>, <code>psdc</code>, indicateurs officiels <code>d101_0</code> (nombre d'habitants desservis), <code>p101_1</code> (taux de conformité microbiologique), <code>p102_1</code> (taux de conformité physico-chimique), <code>p104_3</code> (rendement du réseau de distribution), <code>p107_2</code> (taux moyen de renouvellement des réseaux) — chaque indicateur est accompagné d'une colonne <code>verif_&lt;indicateur&gt;</code> (statut de contrôle) et <code>calculauto_&lt;indicateur&gt;</code>. Le fichier contient aussi une centaine de colonnes <code>vp_...</code>/<code>dc_...</code> (variables brutes de calcul) et des colonnes d'agrégats (<code>psdc_tot_dpt</code>, <code>pop_com_adh_tot_dpt</code>, <code>nb_serv_tot_dpt</code>, <code>region</code>…) : <strong>non utilisées dans cette activité</strong>, à ignorer.
-<strong>Particularités à connaître :</strong></p>
-<ol>
-<li><strong>Une ligne = un service, pas une commune.</strong> Un service d'eau potable dessert souvent plusieurs communes à la fois (listées dans <code>Communes_adh_du_serv</code>). Il ne s'agit donc pas d'un comptage par commune comme pour les activités Santé ou Alimentation.</li>
-<li><strong>Pas de donnée personnelle</strong> : le fichier décrit des services publics (indicateurs techniques et sanitaires), aucune donnée nominative d'usager.</li>
-<li><strong>Chaque indicateur a un statut de fiabilité</strong> (<code>verif_d101_0</code>, <code>verif_p101_1</code>…) : « sans anomalie apparente », « présomption d'anomalie » ou « anomalie ». Un indicateur marqué anomalie ne doit pas être exploité tel quel — le signaler dans la note plutôt que l'ignorer silencieusement.</li>
-</ol>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1">Services publics d'eau potable — jeux de données SISPEA — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>dpt</code></td>
+<td>département du service</td>
+</tr>
+<tr>
+<td><code>id_sispea_serv</code></td>
+<td>identifiant du service</td>
+</tr>
+<tr>
+<td><code>Nom_serv</code></td>
+<td>nom du service d'eau</td>
+</tr>
+<tr>
+<td><code>Communes_adh_du_serv</code></td>
+<td>communes desservies par le service</td>
+</tr>
+<tr>
+<td><code>EPCI_adh_du_serv</code></td>
+<td>EPCI desservi</td>
+</tr>
+<tr>
+<td><code>pop_comm_adh</code></td>
+<td>population des communes adhérentes</td>
+</tr>
+<tr>
+<td><code>psdc</code></td>
+<td>population desservie</td>
+</tr>
+<tr>
+<td><code>d101_0</code></td>
+<td>nombre d'habitants desservis</td>
+</tr>
+<tr>
+<td><code>p101_1</code></td>
+<td>taux de conformité microbiologique</td>
+</tr>
+<tr>
+<td><code>p102_1</code></td>
+<td>taux de conformité physico-chimique</td>
+</tr>
+<tr>
+<td><code>p104_3</code></td>
+<td>rendement du réseau de distribution</td>
+</tr>
+<tr>
+<td><code>p107_2</code></td>
+<td>taux moyen de renouvellement des réseaux</td>
+</tr>
+<tr>
+<td><code>verif_&lt;indicateur&gt;</code></td>
+<td>statut de fiabilité de l'indicateur (anomalie ou non)</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>

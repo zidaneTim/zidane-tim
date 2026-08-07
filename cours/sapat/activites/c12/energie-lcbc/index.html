@@ -893,24 +893,67 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Consommation annuelle d'électricité et gaz par commune
-<strong>Producteur :</strong> Agence ORE (gestionnaires de réseaux électricité et gaz, dont Enedis), relayé sur data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/consommation-annuelle-delectricite-et-gaz-par-commune">data.gouv.fr — Consommation annuelle d'électricité et gaz par commune</a>
-<strong>Format :</strong> CSV (fichier national volumineux, &gt; 800 Mo) — utiliser le filtre en ligne du portail Agence ORE, à l'adresse directe <a href="https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune">opendata.agenceore.fr — Consommation annuelle d'électricité et gaz par commune</a> (vue filtrable : ajouter le suffixe <code>/table</code> à l'URL), pour exporter uniquement les communes des Côtes-d'Armor avant tout traitement, plutôt que de télécharger le fichier national complet. · <strong>Licence :</strong> Licence Ouverte / Open Licence 2.0
-<strong>Colonnes réelles utiles</strong> (en-têtes vérifiés sur export réel) : <code>OPERATEUR</code>, <code>FILIERE</code>, <code>Code Commune</code>, <code>Nom Commune</code>, <code>Code EPCI</code>, <code>Nom EPCI</code>, <code>CODE GRAND SECTEUR</code>, <code>Nb sites</code>, <code>Conso totale (MWh)</code>, <code>Conso moyenne (MWh)</code> (déjà calculée par le producteur), <code>Nombre de mailles secretisées</code>.
-<strong>Particularités à gérer :</strong></p>
-<ol>
-<li><strong>Le fichier mélange gaz et électricité</strong> dans les mêmes lignes (colonne <code>FILIERE</code>) — une commune peut avoir des lignes « Gaz » ET des lignes électricité. Il faut isoler la filière électricité avant tout calcul, sous peine de mélanger deux énergies non comparables.</li>
-<li><strong>Une commune peut apparaître sur plusieurs lignes</strong> : le fichier distingue les opérateurs (<code>OPERATEUR</code> — Enedis, mais aussi des fournisseurs de gaz hors réseau comme Antargaz-Finagaz) et les secteurs. Après filtrage, il faut vérifier s'il reste plusieurs lignes pour une même commune et, si oui, les regrouper avant de calculer un indicateur par commune.</li>
-<li><strong>Secret statistique</strong> : pour préserver l'anonymat, les gestionnaires masquent la valeur de consommation dans les communes ayant trop peu de sites raccordés (signalé par <code>Nombre de mailles secretisées</code> &gt; 0) : la cellule <code>Conso totale</code>/<code>Conso moyenne</code> peut apparaître vide ou marquée « NC ». Ne jamais remplacer ces cellules par 0 — cela fausserait toute moyenne.</li>
-<li><strong>Encodage</strong> : l'export du portail peut afficher les caractères accentués de façon incorrecte (<code>Ã©</code>, <code>Ã´</code>...) selon l'encodage choisi à l'import. Si c'est le cas, reprends l'import (Données → À partir d'un fichier texte/CSV) en testant un autre encodage (UTF-8, puis 1252 Europe de l'Ouest si besoin) jusqu'à obtenir un affichage correct.</li>
-</ol>
+<p><strong>Téléchargement :</strong> <a href="https://opendata.agenceore.fr/datasets/consommation-annuelle-d-electricite-et-gaz-par-commune">Consommation annuelle d'électricité et gaz par commune — portail Agence ORE</a> (vue filtrable : ajouter <code>/table</code> à l'URL)</p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>OPERATEUR</code></td>
+<td>gestionnaire de réseau</td>
+</tr>
+<tr>
+<td><code>FILIERE</code></td>
+<td>électricité ou gaz</td>
+</tr>
+<tr>
+<td><code>Code Commune</code></td>
+<td>code INSEE de la commune</td>
+</tr>
+<tr>
+<td><code>Nom Commune</code></td>
+<td>nom de la commune</td>
+</tr>
+<tr>
+<td><code>Code EPCI</code></td>
+<td>code de l'intercommunalité</td>
+</tr>
+<tr>
+<td><code>Nom EPCI</code></td>
+<td>nom de l'intercommunalité</td>
+</tr>
+<tr>
+<td><code>CODE GRAND SECTEUR</code></td>
+<td>secteur de consommation (résidentiel...)</td>
+</tr>
+<tr>
+<td><code>Nb sites</code></td>
+<td>nombre de sites raccordés</td>
+</tr>
+<tr>
+<td><code>Conso totale (MWh)</code></td>
+<td>consommation totale</td>
+</tr>
+<tr>
+<td><code>Conso moyenne (MWh)</code></td>
+<td>consommation moyenne par site</td>
+</tr>
+<tr>
+<td><code>Nombre de mailles secretisées</code></td>
+<td>nombre de valeurs masquées (secret statistique)</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
 <p><strong>Récupérer, comprendre et nettoyer les données</strong></p>
 <ol>
-<li>Sur le portail Agence ORE (lien direct en Ressources et outils — ouvrir la vue <code>/table</code>), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel (vérifier l'encodage des caractères accentués, voir Source de données).</li>
+<li>Sur le portail Agence ORE (lien direct en Ressources et outils — ouvrir la vue <code>/table</code>), utiliser le filtre en ligne pour n'exporter que les communes du département des Côtes-d'Armor (22), puis ouvrir l'export dans Excel. Si les caractères accentués s'affichent mal (<code>Ã©</code>, <code>Ã´</code>...), reprendre l'import (Données → À partir d'un fichier texte/CSV) en testant un autre encodage (UTF-8, puis 1252 Europe de l'Ouest si besoin) jusqu'à obtenir un affichage correct.</li>
 <li>Reformuler avec ses propres mots le lien entre précarité énergétique et publics fragiles suivis en SAPAT (2-3 phrases).</li>
 <li>Filtrer le tableau sur trois critères combinés :<ul>
 <li><code>Code EPCI</code> = <strong>200067460</strong> (code officiel INSEE de Loudéac Communauté – Bretagne Centre — voir Ressources et outils) ;</li>

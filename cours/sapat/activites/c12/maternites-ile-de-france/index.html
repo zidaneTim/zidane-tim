@@ -896,12 +896,69 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Liste des maternités de France depuis 2000
-<strong>Producteur :</strong> DREES (Direction de la recherche, des études, de l'évaluation et des statistiques), ministère chargé de la Santé, via data.gouv.fr
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000">data.gouv.fr — Liste des maternités de France depuis 2000</a>
-<strong>Format :</strong> CSV et XLSX (fichier national, CSV ~670 Ko / XLSX ~790 Ko, années 2000 puis 2008 à 2024) · <strong>Licence :</strong> Licence Ouverte 2.0
-<strong>Colonnes réelles du fichier :</strong> <code>ANNEE</code>, <code>NOM_MAT</code>, <code>TYPE</code> (1 / 2a / 2b / 3 — niveau de soins néonatals), <code>STATUT</code> (PUBLIC/PRIVÉ), <code>FI_ET</code>, <code>FI_EJ</code> (codes FINESS), <code>COM</code>, <code>NOMCOM</code>, <code>CPO</code> (code postal), <code>ADRESSE</code>, <code>LIT_OBS</code> (lits d'obstétrique), <code>SALTRAV</code> (salles de travail), <code>ACCTOT</code> (accouchements de l'année).
-<strong>Particularités à connaître :</strong> ⚠️ <strong>il n'existe pas de colonne Région ni Département</strong> — il faut le déduire du code postal (<code>CPO</code>, 2 premiers chiffres) ou du code commune (<code>COM</code>). Une même maternité apparaît sur plusieurs lignes, une par année où elle était active avec au moins un lit et un accouchement : ce n'est pas un doublon à supprimer. Pas de RGPD bloquant : ce sont des données d'établissements, aucune donnée personnelle de patiente.</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/liste-des-maternites-de-france-depuis-2000">Liste des maternités de France depuis 2000 — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ANNEE</code></td>
+<td>année de l'observation</td>
+</tr>
+<tr>
+<td><code>NOM_MAT</code></td>
+<td>nom de la maternité</td>
+</tr>
+<tr>
+<td><code>TYPE</code></td>
+<td>niveau de soins néonatals (1/2a/2b/3)</td>
+</tr>
+<tr>
+<td><code>STATUT</code></td>
+<td>public ou privé</td>
+</tr>
+<tr>
+<td><code>FI_ET</code></td>
+<td>code FINESS établissement</td>
+</tr>
+<tr>
+<td><code>FI_EJ</code></td>
+<td>code FINESS entité juridique</td>
+</tr>
+<tr>
+<td><code>COM</code></td>
+<td>code commune</td>
+</tr>
+<tr>
+<td><code>NOMCOM</code></td>
+<td>nom de la commune</td>
+</tr>
+<tr>
+<td><code>CPO</code></td>
+<td>code postal</td>
+</tr>
+<tr>
+<td><code>ADRESSE</code></td>
+<td>adresse de la maternité</td>
+</tr>
+<tr>
+<td><code>LIT_OBS</code></td>
+<td>nombre de lits d'obstétrique</td>
+</tr>
+<tr>
+<td><code>SALTRAV</code></td>
+<td>nombre de salles de travail</td>
+</tr>
+<tr>
+<td><code>ACCTOT</code></td>
+<td>nombre d'accouchements dans l'année</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
@@ -911,7 +968,7 @@
 <li>Reformuler avec ses propres mots la demande de Mme Le Goff et le phénomène étudié (2-3 phrases).</li>
 <li>Définir donnée brute, donnée agrégée et métadonnée ; expliquer en 2-3 phrases en quoi la <strong>Loi Lemaire</strong> (Loi pour une République numérique, 2016) permet la publication de ce jeu de données, et ce que sont le <strong>RGPD</strong> et la <strong>CNIL</strong> — puis justifier pourquoi ce jeu de données précis n'est pas concerné par une donnée personnelle bloquante.</li>
 <li>Ouvrir le CSV dans Excel. Ajouter une colonne « num_dép » à côté de <code>CPO</code> avec la formule <code>=GAUCHE(cellule_CPO;2)</code> (adapter la référence à la colonne réelle).</li>
-<li>Filtrer sur <code>num_dép</code> parmi les 8 départements franciliens (<strong>75, 77, 78, 91, 92, 93, 94, 95</strong>) et sur <code>ANNEE = 2013</code> : copier-coller <em>en valeurs</em> dans un nouvel onglet <strong><code>2013</code></strong>. Refaire la même opération pour <code>ANNEE = 2023</code> dans un onglet <strong><code>2023</code></strong>. Ne jamais modifier la feuille de données d'origine.</li>
+<li>Filtrer sur <code>num_dép</code> parmi les 8 départements franciliens (<strong>75, 77, 78, 91, 92, 93, 94, 95</strong>) et sur <code>ANNEE = 2013</code> : copier-coller <em>en valeurs</em> dans un nouvel onglet <strong><code>2013</code></strong>. Refaire la même opération pour <code>ANNEE = 2023</code> dans un onglet <strong><code>2023</code></strong>. Ne jamais modifier la feuille de données d'origine. (Une même maternité apparaît sur plusieurs lignes du fichier source, une par année d'activité : ce n'est pas un doublon à supprimer avant filtrage.)</li>
 </ol>
 <h3 id="b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudiee">B — Traitement des données adapté au contexte et à la problématique étudiée<a class="headerlink" href="#b-traitement-des-donnees-adapte-au-contexte-et-a-la-problematique-etudiee" title="Permanent link">&para;</a></h3>
 <p><strong>Comparer deux années et faire parler l'évolution</strong></p>

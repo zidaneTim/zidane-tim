@@ -900,18 +900,29 @@ ciblage prioritaire.</p>
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Revenu des Français à la commune (édition 2021)
-<strong>Producteur :</strong> Geoptis, à partir des données Insee-DGFiP-Cnaf-Cnav-CCMSA, Fichier localisé social et fiscal
-(Filosofi) 2021
-<strong>URL de téléchargement direct</strong> : <a href="https://www.data.gouv.fr/datasets/revenu-des-francais-a-la-commune" rel="noopener" target="_blank">data.gouv.fr — Revenu des Français à la commune</a>
-<strong>Format :</strong> fichier national unique (toutes communes de France), <code>.csv</code> (~5 Mo, 34 926 lignes, 57 colonnes) ·
-<strong>Licence :</strong> Licence Ouverte / Open Licence version 2.0
-<strong>Particularité :</strong> le fichier couvre toutes les communes de France ; il faut le filtrer sur les 38 communes de
-Loudéac Communauté – Bretagne Centre (voir liste officielle en Ressources — toutes ces communes ont un code
-géographique commençant par <strong>22</strong>, Côtes-d'Armor, ce qui peut aider à un premier tri grossier, à vérifier
-ensuite nom par nom). Pour les très petites communes, certaines colonnes de revenu (quartiles, déciles, médiane)
-sont <strong>vides</strong> : c'est le secret statistique, appliqué quand le nombre de ménages fiscaux est trop faible pour
-publier un résultat fiable. Ces lignes doivent être signalées, pas supprimées.</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/revenu-des-francais-a-la-commune" rel="noopener" target="_blank">Revenu des Français à la commune — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Libellé géographique</td>
+<td>nom de la commune</td>
+</tr>
+<tr>
+<td>[DISP] Médiane (€)</td>
+<td>niveau de vie médian annuel</td>
+</tr>
+<tr>
+<td>[DISP] Nbre de ménages fiscaux</td>
+<td>nombre de ménages fiscaux</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-recuperer-filtrer-et-nettoyer">A — Récupérer, filtrer et nettoyer<a class="headerlink" href="#a-recuperer-filtrer-et-nettoyer" title="Permanent link">&para;</a></h3>

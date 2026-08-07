@@ -892,11 +892,45 @@
 </div>
 <div class="admonition abstract">
 <p class="admonition-title">Source de données</p>
-<p><strong>Jeu de données :</strong> Professionnels engagés en BIO (liste officielle des opérateurs notifiés)
-<strong>Producteur :</strong> Agence Bio — via data.gouv.fr (dernière mise à jour : juin 2026)
-<strong>URL :</strong> <a href="https://www.data.gouv.fr/datasets/professionnels-engages-en-bio">data.gouv.fr — Professionnels engagés en bio</a>
-<strong>Format :</strong> CSV (~8 Mo, fichier national) · <strong>Licence :</strong> Licence Ouverte / Open Licence 2.0
-<strong>Particularité à nettoyer :</strong> fichier national de plusieurs dizaines de milliers de lignes — un sous-ensemble départemental (Côtes-d'Armor) doit être construit avant tout traitement ; certaines cellules regroupent plusieurs activités séparées par des points-virgules ; des doublons de SIRET sont possibles. <strong>Le fichier ne comporte pas de colonne commune</strong> : la seule donnée géographique est <code>CODE POSTAL SIEGE SOCIAL</code> — le filtrage sur le territoire LCBC se fait donc par code postal, pas par nom de commune.</p>
+<p><strong>Téléchargement :</strong> <a href="https://www.data.gouv.fr/datasets/professionnels-engages-en-bio">Professionnels engagés en BIO — data.gouv.fr</a></p>
+<table>
+<thead>
+<tr>
+<th>Colonne</th>
+<th>Signification</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>SIRET</code></td>
+<td>identifiant de l'établissement</td>
+</tr>
+<tr>
+<td><code>NUMERO BIO</code></td>
+<td>numéro d'engagement bio</td>
+</tr>
+<tr>
+<td><code>DENOMINATION</code></td>
+<td>nom de l'opérateur</td>
+</tr>
+<tr>
+<td><code>CODE POSTAL SIEGE SOCIAL</code></td>
+<td>code postal du siège social</td>
+</tr>
+<tr>
+<td><code>DATEENGAGEMENT</code></td>
+<td>date d'engagement en bio</td>
+</tr>
+<tr>
+<td><code>ACTIVITES</code></td>
+<td>activités déclarées (production, transformation...)</td>
+</tr>
+<tr>
+<td><code>ORGANISME CERTIFICATEUR</code></td>
+<td>organisme certificateur bio</td>
+</tr>
+</tbody>
+</table>
 </div>
 <h2 id="travail-a-faire">Travail à faire<a class="headerlink" href="#travail-a-faire" title="Permanent link">&para;</a></h2>
 <h3 id="a-analyse-du-contexte-et-de-la-problematique">A — Analyse du contexte et de la problématique<a class="headerlink" href="#a-analyse-du-contexte-et-de-la-problematique" title="Permanent link">&para;</a></h3>
