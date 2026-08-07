@@ -18,7 +18,7 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun · Information et données - Socle commun*</small>
 
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -28,8 +28,6 @@
 
 </div>
 
-*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
-
 ## Mise en situation
 
 C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
@@ -38,6 +36,8 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 
 !!! question "Problématique"
     Comment se connecter à Office 365, comprendre à quoi servent OneNote et OneDrive, et mettre en place un rangement de fichiers qui dure toute l'année, même si l'ordinateur change ?
+
+*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
 
 ## Travail à faire
 
