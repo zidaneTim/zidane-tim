@@ -1006,24 +1006,36 @@
 <tr>
 <th>Critère</th>
 <th>Indicateurs observables</th>
-<th>Niveau</th>
+<th>-- (insuffisant)</th>
+<th>- (fragile/partiel)</th>
+<th>+ (satisfaisant)</th>
+<th>++ (très bonne maîtrise)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1 — Analyse du contexte et de la problématique</td>
 <td>Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié.</td>
-<td>-- / - / + / ++</td>
+<td>Le lien logement/consommation/précarité n'est pas reformulé ou l'est de façon erronée (confusion causes/conséquences, ou recopie de la consigne) ; la problématique n'est pas resituée sur LCBC ; le filtrage EPCI/résidentiel/électricité est absent ou faux (ex. gaz non exclu, mauvais EPCI).</td>
+<td>Le lien est reformulé de façon partielle (un des trois éléments logement/consommation/précarité manque) ; la resituation sur LCBC est superficielle ; le filtrage est fait mais comporte au moins une erreur non repérée par l'élève (secteur ou filière mal isolés).</td>
+<td>Le lien logement ancien-mal isolé/consommation électrique/précarité énergétique est reformulé correctement avec ses propres mots ; la problématique est clairement resituée sur LCBC ; le filtrage EPCI 200067460/résidentiel/électricité est correct.</td>
+<td>La reformulation est précise et nuancée (mobilise par exemple le seuil ONPE de 8 % ou la surexposition des zones rurales) ; la resituation sur LCBC est argumentée (lien explicite avec les publics fragiles suivis en SAPAT) ; le filtrage est correct et justifié (pourquoi ces trois critères, comment les valeurs réellement présentes ont été vérifiées).</td>
 </tr>
 <tr>
 <td>2 — Traitement des données adapté au contexte et à la problématique étudiée</td>
 <td>Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents.</td>
-<td>-- / - / + / ++</td>
+<td>Le secret statistique n'est pas géré (valeurs masquées remplacées par 0 ou ignorées sans repérage) ; les formules sont absentes ou non fonctionnelles ; le TCD est absent ou incorrect.</td>
+<td>Le secret statistique est partiellement géré (colonne créée mais incohérente) ; certaines formules fonctionnent mais avec des erreurs (ex. SOMME.SI.ENS mal paramétrée, seuil du SI imbriqué incorrect) ; le TCD est présent mais mal construit.</td>
+<td>Le secret statistique est correctement géré (repérage sans suppression), les doublons de commune sont regroupés si nécessaire ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, le SI imbriqué et le TCD sont tous fonctionnels et cohérents avec la consigne.</td>
+<td>En plus du niveau précédent : vérification croisée effectuée (ex. comparaison de l'indicateur calculé avec la colonne <code>Conso moyenne (MWh)</code> fournie par le producteur) ; les cas limites sont gérés (division par zéro évitée) ; le TCD est exploité avec pertinence pour la suite de l'analyse.</td>
 </tr>
 <tr>
 <td>3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée</td>
 <td>Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé.</td>
-<td>-- / - / + / ++</td>
+<td>Le graphique est absent ou ne correspond pas aux données ; la carte MyMaps est absente ou l'import a échoué ; la fiche est absente ou inadaptée (jargon technique, destinataire non pris en compte).</td>
+<td>Le graphique est incomplet (titre, légende ou unité manquants) ; la carte MyMaps est présente mais incomplète (repères mal placés ou incomplets) ; la fiche est partiellement adaptée, avec des recommandations vagues.</td>
+<td>Le graphique est complet et lisible (titre, légende, unité) ; la carte MyMaps est fonctionnelle avec les relais correctement repérés ; la fiche est claire, sans jargon, directement utilisable par un travailleur social.</td>
+<td>L'ensemble (graphique, carte, fiche) est cohérent et professionnel, directement exploitable sur le terrain ; la fiche est argumentée, avec des repères concrets et un lien vers la carte, précisément adaptée à un destinataire pressé.</td>
 </tr>
 </tbody>
 </table>
