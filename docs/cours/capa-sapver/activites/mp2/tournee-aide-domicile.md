@@ -48,15 +48,15 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 </div>
 
 !!! abstract "Source de données"
-    **Jeu de données :** Liste des structures labellisées France services (adresses, contacts, horaires)
-    **Producteur :** Agence nationale de la cohésion des territoires (ANCT) — via data.gouv.fr
-    **URL :** [data.gouv.fr — Liste des structures labellisées France services](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }
-    **Format :** CSV (fichier national, plusieurs fichiers proposés) · **Licence :** Licence Ouverte / Open Licence 2.0
-    **Particularité à nettoyer :** la page propose plusieurs fichiers CSV — il faut d'abord identifier, à l'aide du
-    fichier de documentation PDF fourni sur la même page, celui qui contient **une ligne par structure avec adresse
-    postale complète** (et non le fichier listant seulement les communes couvertes). Le fichier couvre toute la
-    France : un sous-ensemble Côtes-d'Armor puis Loudéac Communauté – Bretagne Centre doit être construit avant tout
-    traitement.
+    **Téléchargement :** [Liste des structures labellisées France services](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }
+
+    | Colonne | Signification |
+    |---|---|
+    | Nom de la structure | Nom du point France services |
+    | Commune | Commune d'implantation |
+    | Adresse postale | Adresse complète de la structure |
+    | Téléphone | Contact téléphonique |
+    | Horaires d'ouverture | Horaires d'accueil du public |
 
 ## Travail à faire
 
