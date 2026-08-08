@@ -1,7 +1,9 @@
 # 🗂️ Découvrir Office 365 et organiser ses fichiers pour l'année
 
-**CAPa SAPVER 1 — MG1 · Vie sociale**
-CRCN 5.2 · CRCN 1.2
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem; margin: 1.5rem 0; padding: 0.75rem 0; border-bottom: 1px solid #f0f0f0;">
+  <div><strong style="font-size: 1.1rem;">CAPa SAPVER 1 — MG1 · Vie sociale</strong></div>
+  <div style="color: #7239f6; font-size: 0.85rem; white-space: nowrap;">CRCN 5.2 · CRCN 1.2</div>
+</div>
 
 ## Objectifs pédagogiques
 
