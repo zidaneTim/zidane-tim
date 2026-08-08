@@ -1,11 +1,5 @@
 # 💶 Des écarts de revenus entre les communes de Bretagne Centre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG1 · Approche scientifique</p>
 
 <p class="zt-lede">Où se trouvent les ménages aux revenus les plus modestes de Loudéac Communauté – Bretagne Centre ? — Données réelles Insee (Filosofi)</p>
@@ -18,26 +12,7 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Bac Pro — Tronc commun MG1*</small>
 
-## Mise en situation
-
-Après avoir dressé un premier état des lieux du vieillissement de la population du territoire, le **CCAS de
-Loudéac** poursuit son diagnostic social. En 2021, la moitié des habitants de France métropolitaine disposait d'un
-niveau de vie annuel supérieur à **23 000 €**, mais ce chiffre masque de fortes disparités : dans les **Côtes-d'Armor**,
-le niveau de vie médian s'établit à **22 670 €** (Insee, Filosofi 2021). La coordinatrice du CCAS veut savoir si,
-à l'intérieur même de Loudéac Communauté – Bretagne Centre, certaines communes se situent nettement en dessous de
-cette référence départementale — ce qui orienterait en priorité les campagnes d'information sur les aides sociales
-(prime d'activité, chèque énergie, action sociale communale).
-
-**Ton rôle :** tu es agent du CCAS. La coordinatrice te confie une nouvelle mission : à partir d'un fichier réel de
-revenus par commune, isoler les communes de Loudéac Communauté – Bretagne Centre, repérer celles dont le niveau de
-vie médian est inférieur à la référence départementale, et estimer combien de ménages seraient concernés par un
-ciblage prioritaire.
-
-!!! question "Problématique"
-    « Parmi les communes de Loudéac Communauté – Bretagne Centre, lesquelles ont un niveau de vie médian inférieur
-    à celui du département des Côtes-d'Armor, et combien de ménages fiscaux cela représente-t-il ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -55,6 +30,25 @@ ciblage prioritaire.
     | Libellé géographique | nom de la commune |
     | [DISP] Médiane (€) | niveau de vie médian annuel |
     | [DISP] Nbre de ménages fiscaux | nombre de ménages fiscaux |
+
+## Contexte et problématique
+
+Après avoir dressé un premier état des lieux du vieillissement de la population du territoire, le **CCAS de
+Loudéac** poursuit son diagnostic social. En 2021, la moitié des habitants de France métropolitaine disposait d'un
+niveau de vie annuel supérieur à **23 000 €**, mais ce chiffre masque de fortes disparités : dans les **Côtes-d'Armor**,
+le niveau de vie médian s'établit à **22 670 €** (Insee, Filosofi 2021). La coordinatrice du CCAS veut savoir si,
+à l'intérieur même de Loudéac Communauté – Bretagne Centre, certaines communes se situent nettement en dessous de
+cette référence départementale — ce qui orienterait en priorité les campagnes d'information sur les aides sociales
+(prime d'activité, chèque énergie, action sociale communale).
+
+**Ton rôle :** tu es agent du CCAS. La coordinatrice te confie une nouvelle mission : à partir d'un fichier réel de
+revenus par commune, isoler les communes de Loudéac Communauté – Bretagne Centre, repérer celles dont le niveau de
+vie médian est inférieur à la référence départementale, et estimer combien de ménages seraient concernés par un
+ciblage prioritaire.
+
+!!! question "Problématique"
+    « Parmi les communes de Loudéac Communauté – Bretagne Centre, lesquelles ont un niveau de vie médian inférieur
+    à celui du département des Côtes-d'Armor, et combien de ménages fiscaux cela représente-t-il ? »
 
 ## Travail à faire
 
@@ -121,6 +115,14 @@ ciblage prioritaire.
 - [Revenu des Français à la commune — data.gouv.fr](https://www.data.gouv.fr/datasets/revenu-des-francais-a-la-commune){ target="_blank" rel="noopener" } — fichier à télécharger et filtrer (voir Source de données).
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — liste officielle des 38 communes, à utiliser pour le filtrage de l'étape A.
 - [Niveau de vie et pauvreté des territoires en 2021 — Insee](https://www.insee.fr/fr/statistiques/7752770){ target="_blank" rel="noopener" } — source des chiffres de cadrage (niveau de vie médian national et départemental).
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+</div>
 
 ## Grille d'évaluation
 

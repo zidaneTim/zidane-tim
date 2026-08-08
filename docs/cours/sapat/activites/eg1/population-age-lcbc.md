@@ -1,12 +1,5 @@
 # 👵 Une population qui vieillit en Bretagne Centre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG1 · Approche scientifique</p>
 
 <p class="zt-lede">Que disent les chiffres du recensement sur les communes de Loudéac Communauté – Bretagne Centre ? — Données réelles INSEE</p>
@@ -19,26 +12,7 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Sciences - 2nde pro (Programme 2019, MAJ 2025) · Tableur pour calculer · Tableur pour présenter des données*</small>
 
-## Mise en situation
-
-Le **CCAS de Loudéac** prépare son rapport annuel sur les besoins des personnes âgées du territoire (aide à
-domicile, portage de repas, transport). Avant toute chose, la coordinatrice a besoin d'une photographie simple :
-sur les communes de Loudéac Communauté – Bretagne Centre, quelle part de la population a 65 ans ou plus, et cette
-part varie-t-elle beaucoup d'une commune à l'autre ?
-
-L'**INSEE** publie chaque année, dans son recensement de la population, la répartition de chaque commune par
-grandes tranches d'âge — une donnée publique, gratuite et téléchargeable.
-
-**Ton rôle :** tu es agent du CCAS. Tu télécharges toi-même le fichier officiel de recensement (toutes les communes
-de France), tu le filtres pour ne garder que les communes de Loudéac Communauté – Bretagne Centre, puis tu calcules
-la part des 65 ans et plus, tu repères les communes les plus concernées, et tu prépares un petit graphique pour le
-rapport.
-
-!!! question "Problématique"
-    « Quelle part de la population a 65 ans ou plus dans les communes de Loudéac Communauté – Bretagne Centre, et
-    quelles communes sont les plus concernées par le vieillissement ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -58,6 +32,25 @@ rapport.
     | F65-79 / F80+ | femmes de 65-79 ans / 80 ans et plus |
     | H65-79 / H80+ | hommes de 65-79 ans / 80 ans et plus |
     | Population totale | population totale de la commune |
+
+## Contexte et problématique
+
+Le **CCAS de Loudéac** prépare son rapport annuel sur les besoins des personnes âgées du territoire (aide à
+domicile, portage de repas, transport). Avant toute chose, la coordinatrice a besoin d'une photographie simple :
+sur les communes de Loudéac Communauté – Bretagne Centre, quelle part de la population a 65 ans ou plus, et cette
+part varie-t-elle beaucoup d'une commune à l'autre ?
+
+L'**INSEE** publie chaque année, dans son recensement de la population, la répartition de chaque commune par
+grandes tranches d'âge — une donnée publique, gratuite et téléchargeable.
+
+**Ton rôle :** tu es agent du CCAS. Tu télécharges toi-même le fichier officiel de recensement (toutes les communes
+de France), tu le filtres pour ne garder que les communes de Loudéac Communauté – Bretagne Centre, puis tu calcules
+la part des 65 ans et plus, tu repères les communes les plus concernées, et tu prépares un petit graphique pour le
+rapport.
+
+!!! question "Problématique"
+    « Quelle part de la population a 65 ans ou plus dans les communes de Loudéac Communauté – Bretagne Centre, et
+    quelles communes sont les plus concernées par le vieillissement ? »
 
 ## Travail à faire
 
@@ -90,6 +83,15 @@ rapport.
 
 - [Population 2020 selon l'âge INSEE, en 10 tranches — data.gouv.fr](https://www.data.gouv.fr/datasets/population-2020-selon-lage-insee-en-10-tranches){ target="_blank" rel="noopener" } — fichier à télécharger et filtrer (voir Source de données).
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — liste officielle des 38 communes, à consulter en cas de doute sur un nom lors du filtrage.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Traiter des données">CRCN 1.3</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+</div>
 
 ## Grille d'évaluation
 
