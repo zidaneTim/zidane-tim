@@ -1,8 +1,5 @@
 # 🗂️ Découvrir Office 365 et organiser ses fichiers pour l'année
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem; margin: 1rem 0; padding: 0.5rem 0; border-bottom: 1px solid #f0f0f0;">
-  <div><strong style="font-size: 1.1rem;">CAPa SAPVER 1 — MG1 · Vie sociale</strong></div>
-
 ## Contexte et problématique
 
 
