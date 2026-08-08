@@ -103,6 +103,15 @@ Publier en conscience et en toute sécurité sur les réseaux sociaux numérique
 
 </div>
 
+## Parcours Pix à faire
+
+- **Éducation numérique — émancipation/inclusion** (1)
+- **Protection et sécurité - Socle commun** (2)
+- **Protection et sécurité (cyberharcèlement, MAJ 2025)** (3)
+- **Information et données - Socle commun** (4)
+- **Cybersécurité (MAJ 2025)** (5)
+- **Création de contenu - Socle commun** (6)
+
 !!! tip "Où répondre ?"
 
     Chaque activité se fait à l'écran : réponds et dépose tes résultats dans ton bloc-notes **OneNote**.
