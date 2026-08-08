@@ -1,5 +1,16 @@
 # 💼 Compiler son portfolio numérique et actualiser son CV de sortie
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Compiler ses meilleures productions des deux années dans un portfolio numérique organisé
+- Actualiser son CV et créer ou vérifier son profil sur une plateforme professionnelle reconnue
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ meilleures productions et un CV actualisé, prêts à être montrés à un recru
 !!! question "Problématique"
     « Comment rassembler deux années de productions en un portfolio numérique cohérent et un CV actualisé,
     exploitables pour une recherche d'emploi ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Compiler ses meilleures productions des deux années dans un portfolio numérique organisé
-- Actualiser son CV et créer ou vérifier son profil sur une plateforme professionnelle reconnue
-
-</div>
 
 ## Travail à faire
 

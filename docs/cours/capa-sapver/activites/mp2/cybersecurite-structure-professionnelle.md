@@ -1,18 +1,5 @@
 # 🛡️ Analyser un incident de cybersécurité en structure professionnelle
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD de Loudéac**. Ce matin, la secrétaire du service a reçu un courriel qui semblait venir de la
-direction, lui demandant de régler en urgence une facture par virement. Ta responsable de secteur, alertée à temps
-avant tout paiement, te demande d'analyser ce type d'incident pour préparer un rappel des bons réflexes à
-destination de toute l'équipe.
-
-!!! question "Problématique"
-    « Comment analyser un incident de cybersécurité survenu dans une structure professionnelle, et quels réflexes de
-    sécurisation des postes et des données proposer à l'équipe ? »
-
 ## Objectifs pédagogiques
 
 
@@ -25,6 +12,19 @@ destination de toute l'équipe.
   protection des données des bénéficiaires)
 
 </div>
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Ce matin, la secrétaire du service a reçu un courriel qui semblait venir de la
+direction, lui demandant de régler en urgence une facture par virement. Ta responsable de secteur, alertée à temps
+avant tout paiement, te demande d'analyser ce type d'incident pour préparer un rappel des bons réflexes à
+destination de toute l'équipe.
+
+!!! question "Problématique"
+    « Comment analyser un incident de cybersécurité survenu dans une structure professionnelle, et quels réflexes de
+    sécurisation des postes et des données proposer à l'équipe ? »
 
 ## Travail à faire
 

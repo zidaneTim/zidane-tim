@@ -1,12 +1,5 @@
 # Préparer son itinéraire de stage
 
-## Contexte et problématique
-
-Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
-
-!!! question "Problématique"
-    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
 - Être capable de **repérer des services** utiles à proximité d'une adresse et de produire une **fiche pratique** déposée sur l'ENT.
 
 </div>
+
+## Contexte et problématique
+
+Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
+
+!!! question "Problématique"
+    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
 
 ## Travail à faire
 

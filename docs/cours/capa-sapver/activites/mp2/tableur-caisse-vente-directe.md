@@ -1,5 +1,16 @@
 # 🧮 Construire un simulateur de caisse pour un marché de producteurs
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Calculer un total de commande (prix × quantités) et un rendu de monnaie à l'aide de formules automatiques
+- Mettre en forme un tableau de caisse clair et utilisable en situation réelle de vente
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ rendu de monnaie, sans erreur de calcul en pleine affluence.
 !!! question "Problématique"
     « Comment construire, avec un tableur, un simulateur de caisse fiable qui calcule automatiquement un montant dû
     et un rendu de monnaie, quel que soit le panier du client ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Calculer un total de commande (prix × quantités) et un rendu de monnaie à l'aide de formules automatiques
-- Mettre en forme un tableau de caisse clair et utilisable en situation réelle de vente
-
-</div>
 
 ## Travail à faire
 

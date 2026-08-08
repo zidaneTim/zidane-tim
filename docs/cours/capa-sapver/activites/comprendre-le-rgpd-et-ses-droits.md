@@ -1,12 +1,5 @@
 # Comprendre le RGPD et ses droits
 
-## Contexte et problématique
-
-Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
-
-!!! question "Problématique"
-    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « 
 - Être capable de **paramétrer la confidentialité** d'un compte professionnel et de produire un aide-mémoire RGPD.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
+
+!!! question "Problématique"
+    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
 
 ## Travail à faire
 

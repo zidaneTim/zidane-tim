@@ -1,17 +1,5 @@
 # 🌐 Modifier une page vitrine d'une structure sur un CMS simple
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD de Loudéac**. Le site vitrine du service n'a pas été mis à jour depuis plusieurs mois : les
-horaires d'accueil téléphonique affichés ne sont plus les bons. Ta responsable de secteur te confie la mise à jour
-de la page avant ton départ en PFMP la semaine prochaine, pour que l'information soit correcte pendant ton absence.
-
-!!! question "Problématique"
-    « Comment modifier une page existante d'un site vitrine professionnel, avec du texte à jour et une image
-    sourcée, sans casser la mise en page existante ? »
-
 ## Objectifs pédagogiques
 
 
@@ -23,6 +11,18 @@ de la page avant ton départ en PFMP la semaine prochaine, pour que l'informatio
   l'information, image professionnelle)
 
 </div>
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Le site vitrine du service n'a pas été mis à jour depuis plusieurs mois : les
+horaires d'accueil téléphonique affichés ne sont plus les bons. Ta responsable de secteur te confie la mise à jour
+de la page avant ton départ en PFMP la semaine prochaine, pour que l'information soit correcte pendant ton absence.
+
+!!! question "Problématique"
+    « Comment modifier une page existante d'un site vitrine professionnel, avec du texte à jour et une image
+    sourcée, sans casser la mise en page existante ? »
 
 ## Travail à faire
 

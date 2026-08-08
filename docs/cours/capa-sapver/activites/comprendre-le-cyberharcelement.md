@@ -1,12 +1,5 @@
 # Comprendre le cyberharcèlement et créer une affiche de sensibilisation
 
-## Contexte et problématique
-
-Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
-
-!!! question "Problématique"
-    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **
 - Être capable de **concevoir une affiche** de sensibilisation claire.
 
 </div>
+
+## Contexte et problématique
+
+Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
+
+!!! question "Problématique"
+    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
 
 ## Travail à faire
 

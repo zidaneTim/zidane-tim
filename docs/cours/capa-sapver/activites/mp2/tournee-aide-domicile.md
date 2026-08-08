@@ -1,23 +1,5 @@
 # 🗺️ Organiser une tournée de partenaires France services
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. De nombreux bénéficiaires du
-service — souvent des personnes âgées isolées — ont aussi besoin d'aide pour leurs démarches administratives
-(retraite, CAF, Assurance Maladie, impôts). Ta responsable de secteur veut nouer un partenariat de proximité avec
-les **points France services** du territoire, pour pouvoir orienter les bénéficiaires du SAAD vers le point le plus
-proche de chez eux.
-
-Elle te confie une mission : identifier tous les points France services du territoire de Loudéac Communauté –
-Bretagne Centre, préparer une tournée de visite (dépôt d'une plaquette de présentation du SAAD auprès de chaque
-point), dans un ordre qui limite les déplacements inutiles entre communes.
-
-!!! question "Problématique"
-    « Comment organiser, à partir d'un vrai jeu de données de structures partenaires, un itinéraire de tournée clair
-    et efficace pour un agent du SAAD ? »
-
 ## Objectifs pédagogiques
 
 
@@ -42,6 +24,24 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
     | Adresse postale | Adresse complète de la structure |
     | Téléphone | Contact téléphonique |
     | Horaires d'ouverture | Horaires d'accueil du public |
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. De nombreux bénéficiaires du
+service — souvent des personnes âgées isolées — ont aussi besoin d'aide pour leurs démarches administratives
+(retraite, CAF, Assurance Maladie, impôts). Ta responsable de secteur veut nouer un partenariat de proximité avec
+les **points France services** du territoire, pour pouvoir orienter les bénéficiaires du SAAD vers le point le plus
+proche de chez eux.
+
+Elle te confie une mission : identifier tous les points France services du territoire de Loudéac Communauté –
+Bretagne Centre, préparer une tournée de visite (dépôt d'une plaquette de présentation du SAAD auprès de chaque
+point), dans un ordre qui limite les déplacements inutiles entre communes.
+
+!!! question "Problématique"
+    « Comment organiser, à partir d'un vrai jeu de données de structures partenaires, un itinéraire de tournée clair
+    et efficace pour un agent du SAAD ? »
 
 ## Travail à faire
 

@@ -1,12 +1,5 @@
 # 🖊️ Mettre à jour son CV et bilan formatif annuel
 
-## Contexte et problématique
-
-L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
-
-!!! question "Problématique"
-    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé 
 - Être capable de **s'auto-évaluer** sur une grille CRCN, en bilan formatif annuel, et d'identifier des compétences à approfondir.
 
 </div>
+
+## Contexte et problématique
+
+L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
+
+!!! question "Problématique"
+    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
 
 ## Travail à faire
 

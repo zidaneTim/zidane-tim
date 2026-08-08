@@ -1,5 +1,16 @@
 # 🖥️ Présenter sa PFMP à l'oral avec un diaporama efficace
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un diaporama respectant la règle 6×6 et un contraste suffisant
+- Mener une présentation orale de 5 minutes et s'auto-évaluer sur une grille
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ professionnel en 5 minutes.
 !!! question "Problématique"
     « Comment concevoir un diaporama lisible et mener une présentation orale de 5 minutes qui tienne le temps
     imparti sans surcharger l'écoute ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un diaporama respectant la règle 6×6 et un contraste suffisant
-- Mener une présentation orale de 5 minutes et s'auto-évaluer sur une grille
-
-</div>
 
 ## Travail à faire
 

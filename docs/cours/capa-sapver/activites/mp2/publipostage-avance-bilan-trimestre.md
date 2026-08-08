@@ -1,5 +1,16 @@
 # 🏷️ Publipostage avancé — étiquettes filtrées et bilan de trimestre
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un publipostage avancé avec filtrage des destinataires (étiquettes papier / courriel selon la préférence)
+- Dresser un bilan individuel de ses compétences numériques du trimestre à l'aide d'une grille CRCN
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -13,17 +24,6 @@ premier trimestre.
 !!! question "Problématique"
     « Comment filtrer une liste de destinataires avant un publipostage d'étiquettes, et comment dresser un bilan
     honnête de ses compétences numériques après un trimestre de mission ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un publipostage avancé avec filtrage des destinataires (étiquettes papier / courriel selon la préférence)
-- Dresser un bilan individuel de ses compétences numériques du trimestre à l'aide d'une grille CRCN
-
-</div>
 
 ## Travail à faire
 

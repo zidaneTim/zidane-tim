@@ -1,12 +1,5 @@
 # Connaître les règles du courriel professionnel
 
-## Contexte et problématique
-
-Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.
-
-!!! question "Problématique"
-    Comment écrire et envoyer un courriel professionnel qui donne envie de me répondre ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…)
 - Être capable de **rédiger un courriel** professionnel complet et de **joindre une pièce jointe** pour l'envoyer via l'ENT.
 
 </div>
+
+## Contexte et problématique
+
+Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.
+
+!!! question "Problématique"
+    Comment écrire et envoyer un courriel professionnel qui donne envie de me répondre ?
 
 ## Travail à faire
 

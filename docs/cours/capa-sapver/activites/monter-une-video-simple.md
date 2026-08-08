@@ -1,12 +1,5 @@
 # Monter une vidéo simple
 
-## Contexte et problématique
-
-L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
-
-!!! question "Problématique"
-    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ L'association où tu es agent souhaite publier de courtes capsules vidéo sur se
 - Être capable de **réaliser une courte capsule vidéo** (30 secondes à 1 minute) sur un thème SAPVER.
 
 </div>
+
+## Contexte et problématique
+
+L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
+
+!!! question "Problématique"
+    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
 
 ## Travail à faire
 

@@ -1,5 +1,17 @@
 # ✉️ Écrire trois courriels professionnels adaptés à trois destinataires
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger trois courriels professionnels adaptés à trois destinataires (collègue, bénéficiaire/famille,
+  fournisseur), avec objet, formule d'appel et formule de politesse cohérents
+- Numériser un document papier au copieur réseau et le joindre correctement à un courriel
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,18 +24,6 @@ de ces trois messages appelle un ton et une forme différents.
 !!! question "Problématique"
     « Comment rédiger, dans la même matinée, trois courriels professionnels au ton et au contenu adaptés à trois
     destinataires très différents ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger trois courriels professionnels adaptés à trois destinataires (collègue, bénéficiaire/famille,
-  fournisseur), avec objet, formule d'appel et formule de politesse cohérents
-- Numériser un document papier au copieur réseau et le joindre correctement à un courriel
-
-</div>
 
 ## Travail à faire
 

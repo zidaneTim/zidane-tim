@@ -1,5 +1,14 @@
 # Reconnaître le phishing et naviguer en sécurité
 
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Être capable de **reconnaître** un message frauduleux grâce à 5 indices et d'**appliquer** les 4 réflexes face à un message piège.
+- Être capable de **trier des messages** entre piège et fiable en justifiant chaque verdict, et de **rédiger une checklist personnelle** anti-arnaque.
+
+</div>
+
 ## Contexte et problématique
 
 Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
@@ -12,15 +21,6 @@ Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où
 
 !!! question "Problématique"
     Comment reconnaître un message piège, que faire quand on en reçoit un, et comment trier plusieurs messages reçus ?
-
-## Objectifs pédagogiques
-
-<div class="zt-objectifs" markdown>
-
-- Être capable de **reconnaître** un message frauduleux grâce à 5 indices et d'**appliquer** les 4 réflexes face à un message piège.
-- Être capable de **trier des messages** entre piège et fiable en justifiant chaque verdict, et de **rédiger une checklist personnelle** anti-arnaque.
-
-</div>
 
 ## Travail à faire
 

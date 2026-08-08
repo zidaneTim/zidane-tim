@@ -1,12 +1,5 @@
 # Concevoir un formulaire en ligne
 
-## Contexte et problématique
-
-L'association où tu es agent organise une sortie pour ses bénéficiaires et veut savoir combien de personnes souhaitent y participer, et si elles ont des besoins particuliers (régime alimentaire, mobilité réduite). Plutôt qu'un papier à faire circuler, un **formulaire en ligne** permettra de recueillir et compter les réponses automatiquement. La classe profite de cette occasion pour concevoir aussi un formulaire sur ses propres usages numériques.
-
-!!! question "Problématique"
-    Comment concevoir un formulaire en ligne efficace, et comment exploiter les résultats d'une enquête ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ L'association où tu es agent organise une sortie pour ses bénéficiaires et ve
 - Être capable de **diffuser une enquête** et de **lire ses résultats** pour en tirer une conclusion.
 
 </div>
+
+## Contexte et problématique
+
+L'association où tu es agent organise une sortie pour ses bénéficiaires et veut savoir combien de personnes souhaitent y participer, et si elles ont des besoins particuliers (régime alimentaire, mobilité réduite). Plutôt qu'un papier à faire circuler, un **formulaire en ligne** permettra de recueillir et compter les réponses automatiquement. La classe profite de cette occasion pour concevoir aussi un formulaire sur ses propres usages numériques.
+
+!!! question "Problématique"
+    Comment concevoir un formulaire en ligne efficace, et comment exploiter les résultats d'une enquête ?
 
 ## Travail à faire
 

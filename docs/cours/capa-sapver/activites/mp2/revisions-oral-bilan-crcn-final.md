@@ -1,5 +1,16 @@
 # 🎓 S'entraîner une dernière fois à l'oral et dresser son bilan CRCN de fin de cycle
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
+- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ d'un bilan complet de tes compétences numériques sur les deux années de forma
 !!! question "Problématique"
     « Comment utiliser ce dernier temps de préparation pour cibler précisément ses derniers réglages avant
     l'épreuve, et faire le bilan de deux années de progression numérique ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
-- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
-
-</div>
 
 ## Travail à faire
 

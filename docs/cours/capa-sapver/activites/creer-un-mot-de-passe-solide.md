@@ -1,5 +1,14 @@
 # Reconnaître et créer un mot de passe solide
 
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Être capable de **reconnaître** un mot de passe faible et un mot de passe fort, et de **transformer une phrase** en mot de passe solide.
+- Être capable de **classer** des mots de passe du plus faible au plus fort et de **créer ma phrase de passe** personnelle solide.
+
+</div>
+
 ## Contexte et problématique
 
 Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
@@ -9,15 +18,6 @@ Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout*
 
 !!! question "Problématique"
     Comment créer un mot de passe solide, facile à retenir mais impossible à deviner, et le reconnaître parmi d'autres ?
-
-## Objectifs pédagogiques
-
-<div class="zt-objectifs" markdown>
-
-- Être capable de **reconnaître** un mot de passe faible et un mot de passe fort, et de **transformer une phrase** en mot de passe solide.
-- Être capable de **classer** des mots de passe du plus faible au plus fort et de **créer ma phrase de passe** personnelle solide.
-
-</div>
 
 ## Travail à faire
 

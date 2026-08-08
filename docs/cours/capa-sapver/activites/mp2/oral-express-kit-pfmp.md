@@ -1,5 +1,16 @@
 # 🎤 Préparer un oral express et un kit de documents pour ta PFMP
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un support d'oral express structuré pour se présenter en moins de 3 minutes
+- Constituer et mettre en page un kit de documents professionnels (CV, fiche structure, consigne d'observation)
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ formation en milieu professionnel (PFMP).
 !!! question "Problématique"
     « Comment préparer en autonomie un support d'oral court et un kit de documents complet avant une période en
     structure ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un support d'oral express structuré pour se présenter en moins de 3 minutes
-- Constituer et mettre en page un kit de documents professionnels (CV, fiche structure, consigne d'observation)
-
-</div>
 
 ## Travail à faire
 

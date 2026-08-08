@@ -1,15 +1,15 @@
 # 🔁 Retour de PFMP : le numérique observé en stage
 
+## Objectifs pédagogiques
+
+_Non renseigné._
+
 ## Contexte et problématique
 
 Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre à plat ce que tu as observé côté numérique dans ta structure : quels outils, quelles habitudes, quelles règles ? Ce retour nourrit ta culture professionnelle et prépare les séances suivantes sur les usages numériques en service.
 
 !!! question "Problématique"
     Qu'ai-je observé du numérique dans ma structure de PFMP, et qu'en retenir ?
-
-## Objectifs pédagogiques
-
-_Non renseigné._
 
 ## Travail à faire
 

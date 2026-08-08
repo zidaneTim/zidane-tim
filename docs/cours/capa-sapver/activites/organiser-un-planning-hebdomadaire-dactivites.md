@@ -1,12 +1,5 @@
 # Organiser un planning hebdomadaire d'activités
 
-## Contexte et problématique
-
-Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **planning hebdomadaire des activités** proposées aux résidents, pour qu'il soit affiché clairement dans le couloir. Elle te demande ensuite, au choix, le planning d'entretien des locaux ou le menu hebdomadaire des résidents.
-
-!!! question "Problématique"
-    Comment organiser un planning hebdomadaire clair, avec des activités réparties par jour et par heure ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **
 - Être capable de **construire au tableur** un second planning de service avec calcul automatique.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **planning hebdomadaire des activités** proposées aux résidents, pour qu'il soit affiché clairement dans le couloir. Elle te demande ensuite, au choix, le planning d'entretien des locaux ou le menu hebdomadaire des résidents.
+
+!!! question "Problématique"
+    Comment organiser un planning hebdomadaire clair, avec des activités réparties par jour et par heure ?
 
 ## Travail à faire
 

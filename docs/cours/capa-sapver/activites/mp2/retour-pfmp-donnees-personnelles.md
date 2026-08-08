@@ -1,5 +1,16 @@
 # 🔒 Décrire sa communication de stage et résoudre des cas de secret professionnel
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
+- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ bénéficiaires, avant ta prochaine mission sur le terrain.
 !!! question "Problématique"
     « Quelles règles de communication et de confidentialité un agent doit-il respecter avec les informations des
     personnes accompagnées ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
-- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
-
-</div>
 
 ## Travail à faire
 

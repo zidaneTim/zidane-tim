@@ -1,12 +1,5 @@
 # Concevoir un diaporama lisible pour présenter son stage
 
-## Contexte et problématique
-
-La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en PFMP. Un diaporama surchargé de texte, illisible depuis le fond de la salle, ne sert à rien : il faut apprendre à faire simple et lisible avant de faire beau, puis s'entraîner à en parler sans le lire.
-
-!!! question "Problématique"
-    Comment construire un diaporama lisible et le présenter oralement de façon claire, dans le temps imparti ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en 
 - Être capable de **présenter oralement** son stage en 3 minutes, sans lire un texte rédigé.
 
 </div>
+
+## Contexte et problématique
+
+La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en PFMP. Un diaporama surchargé de texte, illisible depuis le fond de la salle, ne sert à rien : il faut apprendre à faire simple et lisible avant de faire beau, puis s'entraîner à en parler sans le lire.
+
+!!! question "Problématique"
+    Comment construire un diaporama lisible et le présenter oralement de façon claire, dans le temps imparti ?
 
 ## Travail à faire
 

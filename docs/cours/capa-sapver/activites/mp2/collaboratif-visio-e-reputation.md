@@ -1,5 +1,16 @@
 # 👥 Collaborer à distance et auditer sa présence en ligne avant l'insertion professionnelle
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Produire à deux sur un document partagé en suivant les modifications de chacun
+- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
 !!! question "Problématique"
     « Comment collaborer efficacement à distance et maîtriser l'image que l'on donne de soi en ligne avant de
     chercher un emploi ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Produire à deux sur un document partagé en suivant les modifications de chacun
-- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
-
-</div>
 
 ## Travail à faire
 

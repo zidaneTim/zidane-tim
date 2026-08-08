@@ -1,12 +1,5 @@
 # L'empreinte environnementale du numérique
 
-## Contexte et problématique
-
-Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
-
-!!! question "Problématique"
-    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, u
 - Être capable de **nettoyer** concrètement son stockage, ses courriels et ses abonnements inutiles.
 
 </div>
+
+## Contexte et problématique
+
+Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
+
+!!! question "Problématique"
+    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
 
 ## Travail à faire
 

@@ -1,12 +1,5 @@
 # Filtrer des données et créer un graphique de dépenses
 
-## Contexte et problématique
-
-Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
-
-!!! question "Problématique"
-    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille M
 - Être capable de **créer un graphique** simple et de le **commenter** pour en tirer une conclusion utile.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
+
+!!! question "Problématique"
+    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
 
 ## Travail à faire
 

@@ -1,12 +1,5 @@
 # Réseaux sociaux : sphère privée et sphère publique
 
-## Contexte et problématique
-
-Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
-
-!!! question "Problématique"
-    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans une association de quartier, en charge d'un coup de main sur le
 - Être capable de **rédiger une charte personnelle** de bonnes pratiques pour un usage responsable des réseaux sociaux.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
+
+!!! question "Problématique"
+    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
 
 ## Travail à faire
 

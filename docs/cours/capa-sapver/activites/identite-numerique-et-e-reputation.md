@@ -1,12 +1,5 @@
 # Identité numérique et e-réputation
 
-## Contexte et problématique
-
-L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
-
-!!! question "Problématique"
-    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'emp
 - Être capable de **vérifier** sa visibilité en ligne et d'**ajuster** ses paramètres de confidentialité.
 
 </div>
+
+## Contexte et problématique
+
+L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
+
+!!! question "Problématique"
+    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
 
 ## Travail à faire
 

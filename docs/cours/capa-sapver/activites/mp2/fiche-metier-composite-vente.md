@@ -1,5 +1,17 @@
 # 📋 Réaliser une fiche métier composite pour un forum recrutement
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
+  officielle
+- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,18 +24,6 @@ la vente en espace rural.
 !!! question "Problématique"
     « Comment transformer une fiche métier officielle en un document composite clair, structuré et attractif, prêt
     à être imprimé et distribué sur un stand ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
-  officielle
-- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
-
-</div>
 
 ## Travail à faire
 

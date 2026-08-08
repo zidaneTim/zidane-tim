@@ -1,12 +1,5 @@
 # 🏁 Retour de PFMP 5 et clôture d'année
 
-## Contexte et problématique
-
-C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
-
-!!! question "Problématique"
-    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
 - Être capable de **consolider**, en autonomie, une compétence numérique travaillée dans l'année selon ses besoins identifiés.
 
 </div>
+
+## Contexte et problématique
+
+C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
+
+!!! question "Problématique"
+    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
 
 ## Travail à faire
 

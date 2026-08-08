@@ -1,17 +1,5 @@
 # 📨 Réaliser un publipostage de courriers de convocation
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD de Loudéac**. Chaque année, le service organise une réunion d'information pour les familles
-des bénéficiaires. Ta responsable de secteur te confie l'envoi des courriers de convocation à cinq familles : plutôt
-que de retaper cinq fois la même lettre, elle te demande d'utiliser le publipostage.
-
-!!! question "Problématique"
-    « Comment produire cinq courriers de convocation personnalisés à partir d'une seule lettre type et d'une liste
-    de destinataires ? »
-
 ## Objectifs pédagogiques
 
 
@@ -23,6 +11,18 @@ que de retaper cinq fois la même lettre, elle te demande d'utiliser le publipos
 - Vérifier les données fusionnées avant tout envoi réel
 
 </div>
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Chaque année, le service organise une réunion d'information pour les familles
+des bénéficiaires. Ta responsable de secteur te confie l'envoi des courriers de convocation à cinq familles : plutôt
+que de retaper cinq fois la même lettre, elle te demande d'utiliser le publipostage.
+
+!!! question "Problématique"
+    « Comment produire cinq courriers de convocation personnalisés à partir d'une seule lettre type et d'une liste
+    de destinataires ? »
 
 ## Travail à faire
 

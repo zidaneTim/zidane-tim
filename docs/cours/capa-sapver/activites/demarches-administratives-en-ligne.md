@@ -1,12 +1,5 @@
 # Les démarches administratives en ligne
 
-## Contexte et problématique
-
-M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
-
-!!! question "Problématique"
-    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile o�
 - Être capable de **réaliser une simulation** de démarche administrative en ligne (création de compte, formulaire dématérialisé).
 
 </div>
+
+## Contexte et problématique
+
+M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
+
+!!! question "Problématique"
+    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
 
 ## Travail à faire
 

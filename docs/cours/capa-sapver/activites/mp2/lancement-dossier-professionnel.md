@@ -1,5 +1,16 @@
 # 📁 Choisir son sujet et construire le plan de son dossier professionnel
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Choisir un sujet de dossier professionnel ancré dans une période de formation en milieu professionnel réelle
+- Construire un plan en 4 parties et un modèle de rapport avec styles et pagination
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ construction en t'appuyant sur ce que tu as observé en période de formation en
 !!! question "Problématique"
     « Comment structurer un dossier professionnel en 4 parties et préparer un modèle de rapport avant de
     commencer à rédiger ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Choisir un sujet de dossier professionnel ancré dans une période de formation en milieu professionnel réelle
-- Construire un plan en 4 parties et un modèle de rapport avec styles et pagination
-
-</div>
 
 ## Travail à faire
 

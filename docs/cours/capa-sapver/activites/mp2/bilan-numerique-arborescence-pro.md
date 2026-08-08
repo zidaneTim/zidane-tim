@@ -1,5 +1,17 @@
 # 🔄 Faire le bilan de ses compétences numériques et organiser son espace pro
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
+  parcours diagnostic Pix
+- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,18 +24,6 @@ identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une
 !!! question "Problématique"
     « Comment vérifier que je maîtrise assez d'outils numériques pour travailler efficacement cette année, et
     comment organiser mon espace pour retrouver mes documents professionnels sans perdre de temps ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
-  parcours diagnostic Pix
-- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
-
-</div>
 
 ## Travail à faire
 

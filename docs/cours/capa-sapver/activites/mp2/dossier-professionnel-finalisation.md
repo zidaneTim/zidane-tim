@@ -1,5 +1,16 @@
 # ✅ Finaliser son dossier professionnel — sommaire, bibliographie et relecture
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
+- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ sommaire compris, pour être présentable à un jury.
 !!! question "Problématique"
     « Quelles étapes techniques et de relecture permettent de transformer un dossier rédigé en un document
     professionnel prêt à être remis ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
-- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
-
-</div>
 
 ## Travail à faire
 

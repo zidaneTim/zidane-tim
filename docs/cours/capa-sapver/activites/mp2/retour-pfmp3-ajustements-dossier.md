@@ -1,5 +1,16 @@
 # 🔄 Intégrer les apports de sa dernière PFMP dans le dossier professionnel
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les éléments marquants de sa dernière PFMP en lien avec le sujet du dossier
+- Ajuster le dossier professionnel et le déroulé de l'oral à partir de cette expérience récente
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ Loudéac** te demande de faire le point sur ce que cette dernière PFMP change c
 !!! question "Problématique"
     « En quoi une expérience professionnelle récente peut-elle venir enrichir un dossier déjà rédigé, sans
     remettre en cause tout le travail déjà accompli ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les éléments marquants de sa dernière PFMP en lien avec le sujet du dossier
-- Ajuster le dossier professionnel et le déroulé de l'oral à partir de cette expérience récente
-
-</div>
 
 ## Travail à faire
 

@@ -1,5 +1,16 @@
 # ✍️ Rédiger la présentation du terrain et de l'activité de son dossier professionnel
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger la présentation du terrain de PFMP et la description d'une activité en mise en page professionnelle
+- Nettoyer son espace de travail numérique (courriels, doublons, corbeille) avant de poursuivre la rédaction
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -12,17 +23,6 @@ numérique propre et léger, en particulier avant une remise de document.
 !!! question "Problématique"
     « Comment rédiger une présentation de structure et une description d'activité claires et bien mises en page,
     tout en gardant un espace de travail numérique sobre ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger la présentation du terrain de PFMP et la description d'une activité en mise en page professionnelle
-- Nettoyer son espace de travail numérique (courriels, doublons, corbeille) avant de poursuivre la rédaction
-
-</div>
 
 ## Travail à faire
 

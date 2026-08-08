@@ -1,5 +1,16 @@
 # 🎯 Préparer son oral de dossier professionnel en binôme
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un diaporama d'appui sobre pour l'oral du dossier professionnel
+- S'entraîner en binôme à un oral de 8 minutes suivi de questions de jury
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ imprévues, comme le fera le jury lors de l'épreuve E4.1.
 !!! question "Problématique"
     « Comment préparer un diaporama d'appui efficace pour un oral de 8 minutes et s'entraîner à répondre à des
     questions imprévues ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un diaporama d'appui sobre pour l'oral du dossier professionnel
-- S'entraîner en binôme à un oral de 8 minutes suivi de questions de jury
-
-</div>
 
 ## Travail à faire
 

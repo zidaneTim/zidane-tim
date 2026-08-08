@@ -1,12 +1,5 @@
 # Reconnaître un site marchand fiable et consommer responsable
 
-## Contexte et problématique
-
-Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
-
-!!! question "Problématique"
-    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans un commerce de proximité en espace rural. À l'approche du **B
 - Être capable de **vérifier la fiabilité** de plusieurs sites marchands et d'**argumenter** sur la consommation responsable.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
+
+!!! question "Problématique"
+    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
 
 ## Travail à faire
 

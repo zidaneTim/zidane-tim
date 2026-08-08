@@ -1,18 +1,5 @@
 # 🔎 Construire un tableau de veille professionnelle en évaluant l'IA comme source
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD de Loudéac**. Une famille s'interroge sur les aides financières disponibles pour financer
-des heures d'aide à domicile supplémentaires pour un proche âgé. Ta responsable de secteur te demande de préparer,
-avant le rendez-vous, un tableau des trois principales aides mobilisables, avec leurs conditions générales et une
-source fiable pour chacune.
-
-!!! question "Problématique"
-    « Comment constituer rapidement un tableau de veille fiable sur un sujet professionnel, et quelle est la place
-    d'un assistant IA dans cette recherche ? »
-
 ## Objectifs pédagogiques
 
 
@@ -25,6 +12,19 @@ source fiable pour chacune.
   tirer une règle d'usage professionnel
 
 </div>
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Une famille s'interroge sur les aides financières disponibles pour financer
+des heures d'aide à domicile supplémentaires pour un proche âgé. Ta responsable de secteur te demande de préparer,
+avant le rendez-vous, un tableau des trois principales aides mobilisables, avec leurs conditions générales et une
+source fiable pour chacune.
+
+!!! question "Problématique"
+    « Comment constituer rapidement un tableau de veille fiable sur un sujet professionnel, et quelle est la place
+    d'un assistant IA dans cette recherche ? »
 
 ## Travail à faire
 

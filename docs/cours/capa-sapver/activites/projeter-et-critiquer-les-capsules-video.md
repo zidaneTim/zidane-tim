@@ -1,15 +1,15 @@
 # 👀 Projeter et critiquer les capsules vidéo
 
+## Objectifs pédagogiques
+
+_Non renseigné._
+
 ## Contexte et problématique
 
 Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se termine par une **présentation collective** et des **retours constructifs**, qui permettent de finaliser un projet avant sa diffusion réelle.
 
 !!! question "Problématique"
     Comment donner et recevoir une critique constructive sur un travail créatif ?
-
-## Objectifs pédagogiques
-
-_Non renseigné._
 
 ## Travail à faire
 

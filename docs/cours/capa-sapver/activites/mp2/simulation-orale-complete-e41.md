@@ -1,5 +1,16 @@
 # 🏆 Réaliser une simulation orale complète en conditions d'épreuve
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
+- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ que chacun mesure précisément où il en est avant le jour J.
 !!! question "Problématique"
     « Comment se comporte-t-on en conditions réelles d'épreuve orale, et quels réglages reste-t-il à faire avant
     le jour de l'examen ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
-- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
-
-</div>
 
 ## Travail à faire
 

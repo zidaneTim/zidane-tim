@@ -1,12 +1,5 @@
 # Découvrir le tableur et construire un budget de fête
 
-## Contexte et problématique
-
-Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
-
-!!! question "Problématique"
-    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser
 - Être capable de **construire un tableau** de budget avec plusieurs postes, d'appliquer le **format monétaire** et de constater le **recalcul automatique**.
 
 </div>
+
+## Contexte et problématique
+
+Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
+
+!!! question "Problématique"
+    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
 
 ## Travail à faire
 

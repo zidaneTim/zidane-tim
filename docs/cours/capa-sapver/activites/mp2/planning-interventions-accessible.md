@@ -1,18 +1,5 @@
 # 📅 Concevoir un planning d'interventions accessible
 
-## Contexte et problématique
-
-
-
-Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
-responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
-bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
-souhaite suivre lui-même les jours de passage.
-
-!!! question "Problématique"
-    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
-    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
-
 ## Objectifs pédagogiques
 
 
@@ -25,6 +12,19 @@ souhaite suivre lui-même les jours de passage.
   fragile
 
 </div>
+
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
+responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
+bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
+souhaite suivre lui-même les jours de passage.
+
+!!! question "Problématique"
+    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
+    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
 
 ## Travail à faire
 

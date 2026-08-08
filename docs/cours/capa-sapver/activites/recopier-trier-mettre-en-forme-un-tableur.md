@@ -1,12 +1,5 @@
 # Recopier, trier, mettre en forme un tableur et se positionner sur Pix
 
-## Contexte et problématique
-
-Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Tu as aussi déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…) : c'est le moment de faire le point sur ce que tu sais déjà faire, grâce à **Pix**.
-
-!!! question "Problématique"
-    Comment aller plus vite au tableur, et comment savoir où j'en suis de mes compétences numériques ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Après le budget de Noël des résidents, on te confie la **liste de 15 courses*
 - Être capable de **me positionner** sur un parcours Pix (diagnostic).
 
 </div>
+
+## Contexte et problématique
+
+Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Tu as aussi déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…) : c'est le moment de faire le point sur ce que tu sais déjà faire, grâce à **Pix**.
+
+!!! question "Problématique"
+    Comment aller plus vite au tableur, et comment savoir où j'en suis de mes compétences numériques ?
 
 ## Travail à faire
 

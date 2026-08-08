@@ -1,5 +1,16 @@
 # 📈 Rédiger l'analyse et les perspectives de son dossier professionnel
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger une analyse argumentée de l'activité décrite et des perspectives personnelles
+- Insérer des images et des tableaux légendés dans le dossier professionnel
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ ton parcours — les deux parties qui donnent au dossier sa valeur réflexive, p
 !!! question "Problématique"
     « Comment passer d'une simple description d'activité à une analyse argumentée, et illustrer son dossier avec
     des visuels légendés correctement ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger une analyse argumentée de l'activité décrite et des perspectives personnelles
-- Insérer des images et des tableaux légendés dans le dossier professionnel
-
-</div>
 
 ## Travail à faire
 

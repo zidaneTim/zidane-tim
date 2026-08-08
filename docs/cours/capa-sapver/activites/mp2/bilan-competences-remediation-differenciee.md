@@ -1,5 +1,16 @@
 # 📊 Faire le bilan de ses compétences et s'entraîner sur ses points faibles
 
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
+- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
+
+</div>
+
 ## Contexte et problématique
 
 
@@ -11,17 +22,6 @@ en vue de la certification Pix qui approche.
 !!! question "Problématique"
     « Comment identifier précisément ses points forts et ses points faibles pour organiser efficacement sa
     remédiation avant la certification Pix ? »
-
-## Objectifs pédagogiques
-
-
-
-<div class="zt-objectifs" markdown>
-
-- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
-- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
-
-</div>
 
 ## Travail à faire
 

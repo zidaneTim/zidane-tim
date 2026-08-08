@@ -1,16 +1,5 @@
 # 🗂️ Découvrir Office 365 et organiser ses fichiers pour l'année
 
-## Contexte et problématique
-
-
-C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
-
-L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait enregistré « quelque part » sur l'ordinateur d'une salle informatique, remise à zéro pendant l'été. Il a dû tout refaire. Pour ne pas revivre ça, tu vas construire dès aujourd'hui un système de rangement qui te suit partout, que tu sois sur l'ordinateur de la salle info, sur celui du CDI ou chez toi.
-
-!!! question "Comment se connecter à Office 365, comprendre à quoi servent OneNote et OneDrive, et mettre en place un rangement de fichiers qui dure toute l'année ?"
-
-*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
-
 ## Objectifs pédagogiques
 
 
@@ -21,6 +10,17 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 - Être capable d'expliquer la différence entre un fichier stocké en local et un fichier synchronisé en ligne, et d'appliquer une méthode de classement que je réutiliserai toute l'année.
 
 </div>
+
+## Contexte et problématique
+
+
+C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
+
+L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait enregistré « quelque part » sur l'ordinateur d'une salle informatique, remise à zéro pendant l'été. Il a dû tout refaire. Pour ne pas revivre ça, tu vas construire dès aujourd'hui un système de rangement qui te suit partout, que tu sois sur l'ordinateur de la salle info, sur celui du CDI ou chez toi.
+
+!!! question "Comment se connecter à Office 365, comprendre à quoi servent OneNote et OneDrive, et mettre en place un rangement de fichiers qui dure toute l'année ?"
+
+*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
 
 ## Travail à faire
 

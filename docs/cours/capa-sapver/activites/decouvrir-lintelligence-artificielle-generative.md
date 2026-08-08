@@ -1,12 +1,5 @@
 # Découvrir l'intelligence artificielle générative
 
-## Contexte et problématique
-
-Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vraiment ce qu'il y a « derrière » un assistant conversationnel comme ceux que l'on croise de plus en plus, y compris au travail. Avant de t'en servir un jour dans ta vie professionnelle (préparer un écrit, chercher une idée), il faut comprendre comment ça marche, où sont ses limites, et savoir juger la qualité de ce qu'il produit.
-
-!!! question "Problématique"
-    Comment fonctionne un assistant conversationnel, quelles sont ses limites, et comment juger la qualité de ses réponses ?
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -15,6 +8,13 @@ Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vr
 - Être capable d'**analyser de façon critique** les réponses obtenues à un défi de rédaction et de traduction par IA.
 
 </div>
+
+## Contexte et problématique
+
+Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vraiment ce qu'il y a « derrière » un assistant conversationnel comme ceux que l'on croise de plus en plus, y compris au travail. Avant de t'en servir un jour dans ta vie professionnelle (préparer un écrit, chercher une idée), il faut comprendre comment ça marche, où sont ses limites, et savoir juger la qualité de ce qu'il produit.
+
+!!! question "Problématique"
+    Comment fonctionne un assistant conversationnel, quelles sont ses limites, et comment juger la qualité de ses réponses ?
 
 ## Travail à faire
 
