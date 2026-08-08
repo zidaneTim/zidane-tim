@@ -1,15 +1,19 @@
 # 🍽️ Concevoir un planning d'entretien ou un menu hebdomadaire
 
-## La situation
-
+## Contexte et problématique
 
 Le planning des activités a plu à l'animatrice. Elle te demande maintenant de préparer, au choix, le **planning d'entretien des locaux** de la semaine ou le **menu hebdomadaire** des résidents — deux documents tout aussi utiles au quotidien d'une structure de service à la personne.
 
 !!! question "Problématique"
     Comment construire, au tableur, un second planning de service clair et bien organisé ?
 
-## 🎯 Atelier : mon second planning de service
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : mon second planning de service
 
 **Ta mission :** choisir **un** des deux plannings (entretien des locaux **ou** menu hebdomadaire) et le construire au tableur.
 
@@ -34,8 +38,15 @@ Le planning des activités a plu à l'animatrice. Elle te demande maintenant de 
 !!! tip "Où répondre ?"
     Dépose ton planning (fichier ou capture) et le total calculé dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

@@ -1,15 +1,13 @@
 # 🕵️ La chasse au phishing
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant repérer les indices d'un message piège. Dans l'EHPAD où tu es agent, mets tes réflexes à l'épreuve sur une série de messages réels.
 
 !!! question "Problématique"
     Face à plusieurs messages reçus, comment trier ceux qui sont fiables de ceux qui sont des pièges ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais maintenant repérer les indices d'un message piège. Dans l'EHPAD où tu
 
 </div>
 
-## 🕵️ Atelier : la chasse au phishing
+## Travail à faire
 
+### Atelier : la chasse au phishing
 
 **Ta mission :** tu es le « référent anti-arnaque » de l'équipe. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de résidents et de collègues. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 
@@ -65,8 +64,15 @@ Tu sais maintenant repérer les indices d'un message piège. Dans l'EHPAD où tu
 !!! info "À retenir — les bons numéros"
     SMS frauduleux → transfert au **33700** · courriel frauduleux → **signal-spam.fr** · victime ou doute → **cybermalveillance.gouv.fr** (site officiel du gouvernement, avec un adulte).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

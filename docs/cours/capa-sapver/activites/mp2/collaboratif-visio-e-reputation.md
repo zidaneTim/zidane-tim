@@ -1,6 +1,31 @@
 # 👥 Collaborer à distance et auditer sa présence en ligne avant l'insertion professionnelle
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Une réunion d'équipe doit se tenir à distance avec un binôme en poste sur un
+autre secteur : ta responsable te demande de préparer à deux un compte rendu partagé et de conduire une
+visioconférence de présentation avec partage d'écran. Avant l'entrée définitive dans la vie active, elle te
+recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
+
+!!! question "Problématique"
+    « Comment collaborer efficacement à distance et maîtriser l'image que l'on donne de soi en ligne avant de
+    chercher un emploi ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Produire à deux sur un document partagé en suivant les modifications de chacun
+- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Travail collaboratif et visio
@@ -58,33 +83,18 @@
 ## Ressources et outils
 
 
+
 - **Traitement de texte collaboratif de l'ENT** : suivi des modifications et commentaires.
 - **Outil de visioconférence de l'établissement** : fonction de partage d'écran.
 - **CNIL — Maîtriser sa vie privée en ligne** : leviers d'action sur ses données publiées — [Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles){ target="_blank" rel="noopener" }.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.3.3** — Collaboration à distance.
+- **CRCN 4.1.7** — E-réputation.
 
-Tu es agent du **SAAD de Loudéac**. Une réunion d'équipe doit se tenir à distance avec un binôme en poste sur un
-autre secteur : ta responsable te demande de préparer à deux un compte rendu partagé et de conduire une
-visioconférence de présentation avec partage d'écran. Avant l'entrée définitive dans la vie active, elle te
-recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment collaborer efficacement à distance et maîtriser l'image que l'on donne de soi en ligne avant de
-    chercher un emploi ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Produire à deux sur un document partagé en suivant les modifications de chacun
-- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
-
-</div>
-
-## Grille d'évaluation Collaboration et e-réputation (4.3.3 · 4.1.7)
 
 
 <div class="zt-grille" markdown>

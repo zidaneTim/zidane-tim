@@ -1,7 +1,19 @@
 # Reconnaître le phishing et naviguer en sécurité
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
+
+!!! quote "SMS reçu"
+    **De :** +33 7 44 XX XX XX
+    « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
+
+Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où. Le soir, une collègue raconte qu'une autre résidente a reçu le même message la semaine dernière et qu'elle a cliqué : 240 € ont disparu de son compte. Dans les jours qui suivent, tu deviens le « référent anti-arnaque » de l'équipe.
+
+!!! question "Problématique"
+    Comment reconnaître un message piège, que faire quand on en reçoit un, et comment trier plusieurs messages reçus ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +24,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le phishing (hameçonnage)
+### Notion — le phishing (hameçonnage)
 
 Le **phishing** est une arnaque : un fraudeur envoie un faux message pour te faire « mordre à l'hameçon », dans le but de voler tes mots de passe, ton numéro de carte ou ton argent. 5 indices : **l'expéditeur** (adresse bizarre), **l'urgence** (« sous 24h »), **les fautes** d'orthographe, **le lien** (adresse qui ne ressemble pas au site officiel), **la demande** (payer ou donner un mot de passe — un organisme sérieux ne le fait jamais par message).
 
@@ -39,7 +50,7 @@ Avant de faire confiance à un site : le cadenas et `https://` protègent la con
 !!! example "Consigne 4 — seul (5 min)"
     Observe la barre d'adresse de deux sites que tu utilises. Pour chacun, note si le cadenas et le `https://` sont présents, et si un bandeau de cookies apparaît.
 
-### 🎯 Atelier — la chasse au phishing
+### Atelier — la chasse au phishing
 
 **Ta mission :** tu es le « référent anti-arnaque » de l'équipe. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de résidents et de collègues. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 
@@ -68,30 +79,15 @@ Avant de faire confiance à un site : le cadenas et `https://` protègent la con
 !!! tip "Où répondre ?"
     Dépose tes réponses des consignes 1 à 4 (notion), le tableau des 6 verdicts et ta checklist personnelle (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). La checklist sert de base à la mini-évaluation.
 
-## Mise en situation
-
-
-Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
-
-!!! quote "SMS reçu"
-    **De :** +33 7 44 XX XX XX
-    « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
-
-Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où. Le soir, une collègue raconte qu'une autre résidente a reçu le même message la semaine dernière et qu'elle a cliqué : 240 € ont disparu de son compte. Dans les jours qui suivent, tu deviens le « référent anti-arnaque » de l'équipe.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment reconnaître un message piège, que faire quand on en reçoit un, et comment trier plusieurs messages reçus ?
-
-## Ressources
-
+## Ressources et outils
 
 - **33700** — signalement SMS frauduleux · **signal-spam.fr** — signalement courriel · [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/) — site officiel en cas de doute.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

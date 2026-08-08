@@ -1,7 +1,13 @@
 # Identité numérique et e-réputation
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
+
+!!! question "Problématique"
+    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — identité numérique, traces, e-réputation
+### Notion — identité numérique, traces, e-réputation
 
 - **Identité numérique** : l'ensemble des informations qui te représentent en ligne (profils, publications, commentaires, photos, avis).
 - **Trace numérique** : chaque action laisse une trace, parfois sans qu'on s'en rende compte.
@@ -31,7 +36,7 @@
 !!! example "Consigne 4 — seul (10 min)"
     Répondre : si un futur employeur recherchait ton prénom demain, que penses-tu qu'il trouverait ? Est-ce que cela correspond à l'image professionnelle que tu veux donner ?
 
-### 🎯 Atelier — Safer Internet Day : vérifier sa visibilité
+### Atelier — Safer Internet Day : vérifier sa visibilité
 
 **Ta mission :** rechercher ton nom en ligne et vérifier la visibilité de tes profils, dans le respect de ta vie privée (tu ne partages avec personne ce que tu trouves de personnel, sauf si tu le souhaites).
 
@@ -50,24 +55,15 @@
 !!! tip "Où répondre ?"
     Dépose tes 2 définitions, tes 5 traces analysées, ta réponse sur l'image professionnelle et ton **bilan personnel** (sans détail privé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
-
-## Ressources
-
+## Ressources et outils
 
 - [saferinternetday.fr](https://www.saferinternetday.fr/) — site officiel du Safer Internet Day France
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

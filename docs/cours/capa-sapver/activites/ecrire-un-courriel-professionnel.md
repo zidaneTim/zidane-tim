@@ -1,7 +1,13 @@
 # Connaître les règles du courriel professionnel
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.
+
+!!! question "Problématique"
+    Comment écrire et envoyer un courriel professionnel qui donne envie de me répondre ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le courriel professionnel
+### Notion — le courriel professionnel
 
 | Partie | Rôle | Exemple |
 |---|---|---|
@@ -38,7 +43,7 @@ Une **pièce jointe** (PJ) est un fichier qu'on **accroche** au courriel : on cl
 !!! tip "Coup de pouce"
     Un bon objet = **de quoi ça parle + qui tu es** en 4-5 mots. Exemple : « Demande de stage — CAPa SAPVER ».
 
-### 🎯 Atelier — ma candidature de stage
+### Atelier — ma candidature de stage
 
 **Ta mission :** écrire et envoyer (via l'ENT, à l'adresse de ton professeur qui joue le rôle de la structure) un **vrai courriel de demande de stage**, avec une pièce jointe.
 
@@ -60,24 +65,15 @@ Une **pièce jointe** (PJ) est un fichier qu'on **accroche** au courriel : on cl
 !!! tip "Où répondre ?"
     Dépose la liste de ce qui manquait, ton objet et ta politesse (notion), puis une **capture** de ton courriel envoyé avec la PJ visible et ta check-list (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment écrire et envoyer un courriel professionnel qui donne envie de me répondre ?
-
-## Ressources
-
+## Ressources et outils
 
 - L'ENT (messagerie), pour l'envoi réel de la candidature.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un courriel de demande de stage envoyé via l'ENT au professeur (jouant la structure d'accueil), avec pièce jointe.
 

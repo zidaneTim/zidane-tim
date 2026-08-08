@@ -1,6 +1,30 @@
 # ✅ Finaliser son dossier professionnel — sommaire, bibliographie et relecture
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur te demande de finaliser le dossier avant sa remise
+officielle : un document professionnel complet doit être impeccable dans sa forme autant que dans son contenu,
+sommaire compris, pour être présentable à un jury.
+
+!!! question "Problématique"
+    « Quelles étapes techniques et de relecture permettent de transformer un dossier rédigé en un document
+    professionnel prêt à être remis ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
+- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
+
+</div>
+
 ## Travail à faire
+
 
 
 **Finaliser techniquement, relire, corriger**
@@ -43,31 +67,16 @@
 ## Ressources et outils
 
 
+
 - **Traitement de texte (Word)** : Table des matières automatique, en-têtes/pieds de page, export PDF.
 - **Grille critériée de relecture** : reprise des critères de la grille d'évaluation ci-dessous.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Capacité CP4** — Finalisation du dossier professionnel.
 
-Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur te demande de finaliser le dossier avant sa remise
-officielle : un document professionnel complet doit être impeccable dans sa forme autant que dans son contenu,
-sommaire compris, pour être présentable à un jury.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Quelles étapes techniques et de relecture permettent de transformer un dossier rédigé en un document
-    professionnel prêt à être remis ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
-- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
-
-</div>
-
-## Grille d'évaluation Finalisation du dossier professionnel (CP4)
 
 
 <div class="zt-grille" markdown>

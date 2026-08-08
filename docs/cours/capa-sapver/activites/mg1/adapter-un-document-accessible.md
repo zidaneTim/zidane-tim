@@ -1,15 +1,13 @@
 # ♿ Adapter un document pour le rendre accessible
 
-## La situation
-
+## Contexte et problématique
 
 Tu es chargé de **corriger** le document du menu de l'EHPAD pour qu'il soit lisible par les résidents.
 
 !!! question "Problématique"
     Comment appliquer concrètement les règles d'accessibilité à un document ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu es chargé de **corriger** le document du menu de l'EHPAD pour qu'il soit lis
 
 </div>
 
-## 🎯 Atelier : je rends le document accessible
+## Travail à faire
 
+### Atelier : je rends le document accessible
 
 **Ta mission :** corriger le document du menu pour qu'il soit lisible par les résidents de l'EHPAD.
 
@@ -41,8 +40,15 @@ Tu es chargé de **corriger** le document du menu de l'EHPAD pour qu'il soit lis
 !!! tip "Où répondre ?"
     Dépose ton menu **avant / après**, le texte alternatif de ton image et ta check-list des 5 règles dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

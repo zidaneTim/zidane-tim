@@ -1,15 +1,13 @@
 # 🛡️ SQ06 — Cyberharcèlement : comprendre et réagir
 
-## La situation
-
+## Contexte et problématique
 
 Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout.
 
 !!! question "Problématique"
     Qu'est-ce que le cyberharcèlement, et comment réagir quand on le voit ou qu'on le subit ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,10 +16,11 @@ Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **
 
 </div>
 
-## La notion : le cyberharcèlement
+## Travail à faire
 
+### Notion — le cyberharcèlement
 
-### C'est quoi ?
+#### C'est quoi ?
 
 Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries **méchants** contre une personne, en ligne (réseaux, messagerie, jeux). Trois choses le caractérisent :
 
@@ -29,7 +28,7 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 - C'est **intentionnel** (pour blesser).
 - Il y a un **rapport de force** : la personne visée se sent seule contre tous.
 
-### Qui est concerné ?
+#### Qui est concerné ?
 
 - La **victime** : celle qui subit.
 - Les **auteurs** : ceux qui envoient les messages.
@@ -38,14 +37,14 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 !!! warning "C'est puni par la loi"
     Le cyberharcèlement est un **délit**. Se moquer, insulter ou diffuser des images pour nuire peut être puni, même quand on est mineur.
 
-### Les bons réflexes
+#### Les bons réflexes
 
 1. **Je ne réponds pas** à l'auteur (il cherche une réaction).
 2. **Je garde les preuves** : captures d'écran des messages.
 3. **Je bloque et je signale** la personne sur l'application.
 4. **J'en parle** à un adulte de confiance (parent, prof, CPE, infirmière).
 
-### Les numéros à connaître
+#### Les numéros à connaître
 
 | Situation | Recours |
 |---|---|
@@ -53,8 +52,7 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 | Harcèlement à l'école | **3020** |
 | Contenu choquant ou illégal vu en ligne | **cybermalveillance.gouv.fr** |
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre la situation du début. Dire qui est la **victime**, qui sont les **auteurs**, qui sont les **témoins** — et ce que **chaque témoin** aurait pu faire. Si seul, compare avec la classe dès que possible.
@@ -65,8 +63,7 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 !!! tip "Coup de pouce"
     La meilleure réaction **protège la victime** et **garde une preuve**. La pire **encourage** les auteurs.
 
-## 🎯 Atelier : l'affiche de sensibilisation
-
+### Atelier : l'affiche de sensibilisation
 
 **Ta mission :** créer une **affiche** qui apprend aux élèves du lycée à réagir face au cyberharcèlement. Elle sera affichée dans le couloir.
 
@@ -91,8 +88,15 @@ Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries 
 !!! info "Besoin d'aide, pour soi ou un ami"
     **3018** — numéro national contre le cyberharcèlement (gratuit, anonyme, appli disponible) · **3020** pour le harcèlement à l'école.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

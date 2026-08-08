@@ -1,7 +1,13 @@
 # Rechercher une information et la vérifier
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son téléphone : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Il veut l'essayer avant même d'en parler à son médecin. Le même jour, une collègue te montre une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**. Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image.
+
+!!! question "Problématique"
+    Comment vérifier si une information trouvée en ligne est fiable, avant de conseiller quelqu'un ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — chercher et vérifier
+### Notion — chercher et vérifier
 
 Un **moteur de recherche** trouve mieux quand on lui donne des **mots-clés précis**, pas une phrase entière (ex. `citron maigrir avis santé publique` plutôt que « est-ce que le citron fait maigrir ? »).
 
@@ -30,7 +35,7 @@ Une **infox** (fausse information) s'alerte par : un titre choc qui promet un mi
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
 
-### 🎯 Atelier — le tableau de vérification
+### Atelier — le tableau de vérification
 
 **Ta mission :** tu es le « vérificateur » de l'équipe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
 
@@ -60,24 +65,15 @@ Une **infox** (fausse information) s'alerte par : un titre choc qui promet un mi
 !!! tip "Où répondre ?"
     Dépose ta source et ta conclusion (notion), et ton tableau des 4 infos avec tes signes d'alerte (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son téléphone : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Il veut l'essayer avant même d'en parler à son médecin. Le même jour, une collègue te montre une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**. Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment vérifier si une information trouvée en ligne est fiable, avant de conseiller quelqu'un ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un moteur de recherche accessible via l'ENT.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

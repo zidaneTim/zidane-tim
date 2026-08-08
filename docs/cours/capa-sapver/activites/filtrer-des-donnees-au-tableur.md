@@ -1,7 +1,13 @@
 # Filtrer des données et créer un graphique de dépenses
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
+
+!!! question "Problématique"
+    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le filtre
+### Notion — le filtre
 
 Un **filtre** permet de n'afficher que les lignes qui **m'intéressent**, sans supprimer les autres. On sélectionne le tableau, puis **Données → Filtrer** : de petites flèches apparaissent sur les titres. Le filtre ne **supprime rien** : pour tout revoir, je reclique sur la flèche et je coche **« (Tout) »**.
 
@@ -38,7 +43,7 @@ Un **filtre** permet de n'afficher que les lignes qui **m'intéressent**, sans s
 !!! tip "Coup de pouce"
     Le filtre ne **supprime rien** : pour tout revoir, je reclique sur la flèche et je coche **« (Tout) »**.
 
-### 🎯 Atelier — où part l'argent des Morel ?
+### Atelier — où part l'argent des Morel ?
 
 **Ta mission :** en tant qu'agent de l'association, tu es le « conseiller budget » de la famille Morel. Tu dois leur montrer, avec un graphique, **où part leur argent** et leur donner **un conseil**.
 
@@ -62,24 +67,15 @@ Un **graphique** transforme des chiffres en **dessin** (barres, camembert) : **I
 !!! tip "Où répondre ?"
     Dépose ton tableau et le poste le plus élevé de mars (notion), puis ton graphique titré et ton commentaire en 3 phrases (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un tableur (Excel, Google Sheets ou équivalent, accessible via l'ENT).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un graphique titré des dépenses par poste de la famille Morel, accompagné d'un commentaire de 3 phrases avec un conseil.
 

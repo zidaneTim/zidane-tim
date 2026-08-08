@@ -1,15 +1,13 @@
 # ✉️ SQ07 — Écrire un courriel professionnel
 
-## La situation
-
+## Contexte et problématique
 
 Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…). La directrice t'a donné son adresse mail. Tu ouvres ta boîte et tu écris : *« slt jvoudré 1 stage chez vou »*… puis tu envoies, sans objet, sans pièce jointe. **Résultat : aucune réponse.** Ce n'est pas parce que ta demande est mauvaise — c'est parce que le message ne fait **pas sérieux**.
 
 !!! question "Problématique"
     Comment écrire un courriel professionnel qui donne envie de me répondre ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,10 +16,11 @@ Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…)
 
 </div>
 
-## La notion : le courriel professionnel
+## Travail à faire
 
+### Notion — le courriel professionnel
 
-### Les 6 parties d'un courriel
+#### Les 6 parties d'un courriel
 
 | Partie | Rôle | Exemple |
 |---|---|---|
@@ -32,7 +31,7 @@ Tu dois trouver un stage dans une structure (crèche, EHPAD, école, magasin…)
 | **Formule de politesse** | Pour finir poliment | Je vous remercie. Cordialement, |
 | **Signature** | Mon nom + contact | Léa Martin — CAPa SAPVER 1 |
 
-### La pièce jointe (PJ)
+#### La pièce jointe (PJ)
 
 Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une lettre). On clique sur **📎 « Joindre un fichier »**, on choisit le fichier, et on **vérifie qu'il apparaît** avant d'envoyer.
 
@@ -41,13 +40,12 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
     - **Le langage SMS** (« slt », « jvoudré ») = ça ne fait pas sérieux.
     - **La PJ oubliée** : combien de fois écrit-on « voir ci-joint » sans avoir joint le fichier !
 
-### « Répondre » et « Répondre à tous »
+#### « Répondre » et « Répondre à tous »
 
 - **Répondre** : ta réponse va **à une seule personne**.
 - **Répondre à tous** : ta réponse va à **tout le monde** en copie. À n'utiliser **que** si c'est utile à tous.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre le message *« slt jvoudré 1 stage chez vou »* et lister **tout ce qui manque** (objet, politesse, dates, signature, PJ). Si seul, compare ta liste avec la classe dès que possible.
@@ -58,8 +56,7 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 !!! tip "Coup de pouce"
     Un bon objet = **de quoi ça parle + qui tu es** en 4-5 mots. Exemple : « Demande de stage — CAPa SAPVER ».
 
-## 🎯 Atelier : ma candidature de stage
-
+### Atelier : ma candidature de stage
 
 **Ta mission :** écrire et envoyer (via l'ENT, à l'adresse de ton professeur qui joue le rôle de la structure) un **vrai courriel de demande de stage**, avec une pièce jointe.
 
@@ -81,8 +78,15 @@ Une **pièce jointe** est un fichier qu'on **accroche** au courriel (un CV, une 
 !!! tip "Où répondre ?"
     Dépose une **capture** de ton courriel envoyé (avec la PJ visible) et ta check-list de vérification dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un courriel de demande de stage envoyé via l'ENT au professeur (jouant la structure d'accueil), avec pièce jointe.
 

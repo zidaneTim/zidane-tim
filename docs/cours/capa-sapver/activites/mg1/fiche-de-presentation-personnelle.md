@@ -1,15 +1,13 @@
 # 🗂️ Créer sa fiche de présentation en choisissant ce qu'on partage
 
-## La situation
-
+## Contexte et problématique
 
 On te demande de créer une **fiche de présentation** de toi pour la classe. Tu te demandes : qu'est-ce que je peux mettre, et qu'est-ce que je garde pour moi ?
 
 !!! question "Problématique"
     Quelles informations sur moi puis-je partager, et lesquelles dois-je garder privées ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ On te demande de créer une **fiche de présentation** de toi pour la classe. Tu
 
 </div>
 
-## La notion : ma carte d'identité numérique
+## Travail à faire
 
+### Notion — ma carte d'identité numérique
 
 Quand je me présente en ligne, je choisis ce que je montre. Certaines informations sont **publiques** (sans danger), d'autres sont **privées** (à protéger).
 
@@ -31,8 +30,7 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 
 **La règle d'or :** je ne mets en ligne que ce que j'accepterais de dire **devant toute la classe**.
 
-## 🎯 Atelier : ma fiche de présentation
-
+### Atelier — ma fiche de présentation
 
 **Ta mission :** créer une **fiche de présentation** de toi pour la classe (texte + une image), en choisissant bien ce que tu partages.
 
@@ -54,8 +52,15 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! tip "Où répondre ?"
     Dépose ta fiche de présentation dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

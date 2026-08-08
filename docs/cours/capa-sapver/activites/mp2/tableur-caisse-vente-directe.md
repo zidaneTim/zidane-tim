@@ -1,6 +1,31 @@
 # 🧮 Construire un simulateur de caisse pour un marché de producteurs
 
+## Contexte et problématique
+
+
+
+Tu es en mission ponctuelle sur le stand d'une **AMAP du Pays de Loudéac**, au moment du Black Friday : la
+productrice veut proposer une alternative locale et responsable (« Green Friday ») pour son marché du samedi. Elle
+te confie la caisse et te demande un outil simple pour calculer rapidement le montant dû par chaque client et le
+rendu de monnaie, sans erreur de calcul en pleine affluence.
+
+!!! question "Problématique"
+    « Comment construire, avec un tableur, un simulateur de caisse fiable qui calcule automatiquement un montant dû
+    et un rendu de monnaie, quel que soit le panier du client ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Calculer un total de commande (prix × quantités) et un rendu de monnaie à l'aide de formules automatiques
+- Mettre en forme un tableau de caisse clair et utilisable en situation réelle de vente
+
+</div>
+
 ## Travail à faire
+
 
 
 **Construire le simulateur de caisse**
@@ -41,32 +66,16 @@
 ## Ressources et outils
 
 
+
 - **Tableur (Excel/LibreOffice Calc)** : pour construire le simulateur — formules `SOMME`, multiplication,
   soustraction, mise en forme conditionnelle.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.2.6** — Tableur professionnel.
 
-Tu es en mission ponctuelle sur le stand d'une **AMAP du Pays de Loudéac**, au moment du Black Friday : la
-productrice veut proposer une alternative locale et responsable (« Green Friday ») pour son marché du samedi. Elle
-te confie la caisse et te demande un outil simple pour calculer rapidement le montant dû par chaque client et le
-rendu de monnaie, sans erreur de calcul en pleine affluence.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment construire, avec un tableur, un simulateur de caisse fiable qui calcule automatiquement un montant dû
-    et un rendu de monnaie, quel que soit le panier du client ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Calculer un total de commande (prix × quantités) et un rendu de monnaie à l'aide de formules automatiques
-- Mettre en forme un tableau de caisse clair et utilisable en situation réelle de vente
-
-</div>
-
-## Grille d'évaluation Tableur professionnel (4.2.6)
 
 
 <div class="zt-grille" markdown>

@@ -1,15 +1,19 @@
 # 🎯 Défi prompts et analyse critique des réponses de l'IA
 
-## La situation
-
+## Contexte et problématique
 
 Tu as compris comment fonctionne un assistant conversationnel et ses limites. Reste à apprendre à bien le **solliciter** : la qualité d'une réponse d'IA dépend beaucoup de la façon dont on formule sa demande, appelée **prompt**.
 
 !!! question "Problématique"
     Comment formuler un prompt précis pour obtenir une réponse utile, et comment l'analyser de façon critique ?
 
-## 🎯 Atelier : le défi prompts
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : le défi prompts
 
 **Ta mission :** comparer un prompt vague et un prompt précis, puis analyser de façon critique les réponses obtenues sur une tâche utile à ta formation.
 
@@ -34,8 +38,15 @@ Tu as compris comment fonctionne un assistant conversationnel et ses limites. Re
 !!! tip "Où répondre ?"
     Dépose tes 2 prompts (vague et précis), les réponses obtenues, ta modification proposée et tes 2 conseils dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

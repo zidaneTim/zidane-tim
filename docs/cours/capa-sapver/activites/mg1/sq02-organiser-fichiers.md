@@ -1,7 +1,6 @@
 # 🗂️ SQ02 — Organiser ses fichiers et se présenter
 
-## La situation
-
+## Contexte et problématique
 
 En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**.
 
@@ -10,8 +9,7 @@ Plus tard, on te demande de créer une **fiche de présentation** de toi pour la
 !!! question "Problématique"
     Comment ranger mes fichiers pour les retrouver, et quelles informations sur moi puis-je partager ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -20,10 +18,11 @@ Plus tard, on te demande de créer une **fiche de présentation** de toi pour la
 
 </div>
 
-## La notion : ranger et se présenter
+## Travail à faire
 
+### Notion — ranger et se présenter
 
-### Ranger ses fichiers : dossiers et sous-dossiers
+#### Ranger ses fichiers : dossiers et sous-dossiers
 
 Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des dossiers (des **sous-dossiers**). C'est l'**arborescence** : comme les branches d'un arbre.
 
@@ -34,7 +33,7 @@ Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des
    📁 Stage
 ```
 
-### Bien nommer un fichier : la règle du lycée
+#### Bien nommer un fichier : la règle du lycée
 
 Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On utilise la règle :
 
@@ -48,7 +47,7 @@ Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On 
 
 **À éviter :** les espaces, les accents et les noms vides (`Document1`). On les remplace par des **tirets** `-` ou `_`.
 
-### Ma carte d'identité numérique : privé ou public ?
+#### Ma carte d'identité numérique : privé ou public ?
 
 Quand je me présente en ligne, je choisis ce que je montre. Certaines informations sont **publiques** (sans danger), d'autres sont **privées** (à protéger).
 
@@ -60,8 +59,7 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 
 **La règle d'or :** je ne mets en ligne que ce que j'accepterais de dire **devant toute la classe**.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul (10 min)"
     Créer sur l'ordinateur (ou dans l'espace ENT) l'arborescence : dossier `CAPa1` → sous-dossier `MG1-Vie-sociale`.
@@ -74,8 +72,7 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! tip "Coup de pouce"
     Je repère d'abord **de quoi ça parle** (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
 
-## 🎯 Atelier : ma fiche de présentation
-
+### Atelier : ma fiche de présentation
 
 **Ta mission :** créer une **fiche de présentation** de toi pour la classe (texte + une image), en choisissant bien ce que tu partages.
 
@@ -97,8 +94,15 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! tip "Où répondre ?"
     Dépose ta fiche de présentation et les noms de fichiers corrigés (consigne 2) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

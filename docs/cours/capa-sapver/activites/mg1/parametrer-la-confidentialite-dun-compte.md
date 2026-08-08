@@ -1,15 +1,19 @@
 # 🔧 Paramétrer la confidentialité d'un compte
 
-## La situation
-
+## Contexte et problématique
 
 L'association d'aide à domicile où tu es agent vient d'ouvrir une page sur un réseau social pour communiquer avec les familles. On te confie une mission simple mais importante : vérifier et régler ses **paramètres de confidentialité**, pour ne pas exposer par erreur des informations sur les bénéficiaires.
 
 !!! question "Problématique"
     Comment vérifier et régler les paramètres de confidentialité d'un compte pour protéger les informations qui y sont liées ?
 
-## 🎯 Atelier : je règle la confidentialité d'un compte
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : je règle la confidentialité d'un compte
 
 **Ta mission :** sur un compte (le tien, en mode test, ou celui fourni par le professeur), vérifier et régler les paramètres de confidentialité, puis produire un aide-mémoire RGPD.
 
@@ -34,8 +38,15 @@ L'association d'aide à domicile où tu es agent vient d'ouvrir une page sur un 
 !!! tip "Où répondre ?"
     Dépose tes réglages de confidentialité (captures) et ton aide-mémoire RGPD A5 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un aide-mémoire RGPD au format A5, clair et utilisable sans explication orale.
 

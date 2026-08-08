@@ -1,15 +1,19 @@
 # 🎤 Présenter oralement son stage en 3 minutes
 
-## La situation
-
+## Contexte et problématique
 
 Ton diaporama est prêt. Reste l'étape la plus redoutée : le passage à l'oral devant la classe, en 3 minutes, sans lire ses notes en continu. C'est un exercice que tu retrouveras régulièrement dans ta formation et ta vie professionnelle (réunion d'équipe, transmission).
 
 !!! question "Problématique"
     Comment présenter oralement mon stage de façon claire, dans le temps imparti, sans lire mes notes ?
 
-## 🎯 Atelier : oral formatif — ma structure, mes missions
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : oral formatif — ma structure, mes missions
 
 **Ta mission :** t'entraîner puis présenter ton stage à l'oral en 3 minutes, à l'aide de ton diaporama de 3 à 5 diapositives.
 
@@ -34,8 +38,15 @@ Ton diaporama est prêt. Reste l'étape la plus redoutée : le passage à l'oral
 !!! tip "Où répondre ?"
     Dépose ta fiche de mots-clés et ton auto-évaluation dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif** de la séquence.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** une présentation orale de 3 minutes, appuyée sur un diaporama, en bilan formatif de la séquence.
 

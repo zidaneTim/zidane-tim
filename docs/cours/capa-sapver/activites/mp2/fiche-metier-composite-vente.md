@@ -1,6 +1,32 @@
 # 📋 Réaliser une fiche métier composite pour un forum recrutement
 
+## Contexte et problématique
+
+
+
+Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du
+Pays de Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
+métier imprimable présentant le métier de vendeur/vendeuse en circuit court, pour attirer des jeunes intéressés par
+la vente en espace rural.
+
+!!! question "Problématique"
+    « Comment transformer une fiche métier officielle en un document composite clair, structuré et attractif, prêt
+    à être imprimé et distribué sur un stand ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
+  officielle
+- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
+
+</div>
+
 ## Travail à faire
+
 
 
 **Construire la fiche métier composite**
@@ -42,33 +68,16 @@
 ## Ressources et outils
 
 
+
 - **Fiche métier ONISEP — Auxiliaire de vie sociale (aide à la personne)** : structure de référence à adapter — [lien](https://www.onisep.fr/les-metiers-animes/services/auxiliaire-de-vie-sociale-aide-a-la-personne){ target="_blank" rel="noopener" }.
 - **Pixabay** : banque d'images libres de droits — [lien](https://pixabay.com){ target="_blank" rel="noopener" }.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.2.5** — Document composite professionnel.
 
-Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du
-Pays de Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
-métier imprimable présentant le métier de vendeur/vendeuse en circuit court, pour attirer des jeunes intéressés par
-la vente en espace rural.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment transformer une fiche métier officielle en un document composite clair, structuré et attractif, prêt
-    à être imprimé et distribué sur un stand ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
-  officielle
-- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
-
-</div>
-
-## Grille d'évaluation Document composite professionnel (4.2.5)
 
 
 <div class="zt-grille" markdown>

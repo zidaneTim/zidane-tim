@@ -1,6 +1,30 @@
 # 💼 Compiler son portfolio numérique et actualiser son CV de sortie
 
+## Contexte et problématique
+
+
+
+Tu termines ta formation de CAPa SAPVER. Ta responsable de secteur au **SAAD de Loudéac** te conseille de
+préparer, avant de chercher un emploi ou une poursuite d'études, un portfolio numérique rassemblant tes
+meilleures productions et un CV actualisé, prêts à être montrés à un recruteur.
+
+!!! question "Problématique"
+    « Comment rassembler deux années de productions en un portfolio numérique cohérent et un CV actualisé,
+    exploitables pour une recherche d'emploi ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Compiler ses meilleures productions des deux années dans un portfolio numérique organisé
+- Actualiser son CV et créer ou vérifier son profil sur une plateforme professionnelle reconnue
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Portfolio numérique
@@ -54,31 +78,16 @@
 ## Ressources et outils
 
 
+
 - **Europass** : plateforme européenne officielle de CV et de portfolio de compétences — [europa.eu/europass](https://europa.eu/europass/eportfolio/screen/welcome){ target="_blank" rel="noopener" }.
 - **Traitement de texte (Word)** : mise à jour du CV et du sommaire du portfolio.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Parcours Pix** : mention de la certification Pix si déjà obtenue, à intégrer au portfolio numérique et au CV de sortie (voir *Travail à faire*, partie B). Aucun code CRCN spécifique n'est associé à cette grille d'évaluation.
 
-Tu termines ta formation de CAPa SAPVER. Ta responsable de secteur au **SAAD de Loudéac** te conseille de
-préparer, avant de chercher un emploi ou une poursuite d'études, un portfolio numérique rassemblant tes
-meilleures productions et un CV actualisé, prêts à être montrés à un recruteur.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment rassembler deux années de productions en un portfolio numérique cohérent et un CV actualisé,
-    exploitables pour une recherche d'emploi ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Compiler ses meilleures productions des deux années dans un portfolio numérique organisé
-- Actualiser son CV et créer ou vérifier son profil sur une plateforme professionnelle reconnue
-
-</div>
-
-## Grille d'évaluation Portfolio numérique et CV de sortie
 
 
 <div class="zt-grille" markdown>

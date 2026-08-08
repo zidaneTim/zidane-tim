@@ -1,15 +1,13 @@
 # 🔎 Trier des informations fiables et trompeuses
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais désormais poser les bonnes questions face à une information. Dans l'EHPAD où tu es agent, cela sert tous les jours : passe à la pratique en triant le vrai du faux dans une série d'informations trouvées en ligne.
 
 !!! question "Problématique"
     Comment distinguer une information fiable d'une information trompeuse ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais désormais poser les bonnes questions face à une information. Dans l'EH
 
 </div>
 
-## 🎯 Atelier : le tableau de vérification
+## Travail à faire
 
+### Atelier : le tableau de vérification
 
 **Ta mission :** tu es le « vérificateur » de l'équipe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
 
@@ -49,8 +48,15 @@ Tu sais désormais poser les bonnes questions face à une information. Dans l'EH
 !!! note "Avant le stage (PFMP)"
     Pendant ta prochaine période en entreprise, **repère une situation où il a fallu vérifier une information** avant de la croire ou de la transmettre (une consigne orale, une information sur une personne accompagnée, une rumeur entre collègues) : comment la personne s'y est-elle prise pour vérifier ? Note-le : on en reparlera au retour.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

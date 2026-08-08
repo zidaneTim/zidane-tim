@@ -1,15 +1,13 @@
 # 🔐 Classer des mots de passe et créer sa phrase de passe
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en pratique : dans l'EHPAD où tu es agent, on te confie le rôle de « référent sécurité numérique » de l'équipe.
 
 !!! question "Problématique"
     Comment reconnaître le plus fort d'une liste de mots de passe, et créer le sien ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en prati
 
 </div>
 
-## 🎯 Atelier : le classement des mots de passe
+## Travail à faire
 
+### Atelier : le classement des mots de passe
 
 **Ta mission :** tu es le « référent sécurité numérique » de l'équipe. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
 
@@ -45,8 +44,15 @@ Tu sais maintenant ce qui rend un mot de passe faible ou fort. Mets ça en prati
 !!! tip "Où répondre ?"
     Dépose ton classement des 6 mots de passe (avec les défauts) et la **vérification** de ta phrase de passe (les règles respectées, pas le mot de passe lui-même) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

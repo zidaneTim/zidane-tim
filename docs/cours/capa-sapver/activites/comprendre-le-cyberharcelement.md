@@ -1,7 +1,13 @@
 # Comprendre le cyberharcèlement et créer une affiche de sensibilisation
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
+
+!!! question "Problématique"
+    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le cyberharcèlement
+### Notion — le cyberharcèlement
 
 Le **cyberharcèlement**, c'est **répéter** des messages, images ou moqueries **méchants** contre une personne, en ligne. Trois choses le caractérisent : c'est **répété**, **intentionnel**, et il y a un **rapport de force**. Trois rôles : la **victime**, les **auteurs**, les **témoins** (liker ou partager, c'est déjà participer — un témoin qui réagit peut tout arrêter).
 
@@ -31,7 +36,7 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 !!! tip "Coup de pouce"
     La meilleure réaction **protège la victime** et **garde une preuve**. La pire **encourage** les auteurs.
 
-### 🎯 Atelier — l'affiche de sensibilisation
+### Atelier — l'affiche de sensibilisation
 
 **Ta mission :** créer une **affiche** qui apprend aux élèves du lycée à réagir face au cyberharcèlement. Elle sera affichée dans le couloir.
 
@@ -53,25 +58,16 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 !!! tip "Où répondre ?"
     Dépose tes réponses (rôles, classement des réactions) et ton affiche exportée dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
-
-## Ressources
-
+## Ressources et outils
 
 - Canva (modèle « affiche », accessible via l'ENT).
 - **3018** — numéro national contre le cyberharcèlement · **3020** — harcèlement à l'école.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

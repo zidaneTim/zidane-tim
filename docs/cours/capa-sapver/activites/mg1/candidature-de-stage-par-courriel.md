@@ -1,15 +1,13 @@
 # ✉️ Envoyer une candidature de stage par courriel
 
-## La situation
-
+## Contexte et problématique
 
 Tu connais maintenant les 6 parties d'un courriel professionnel. Il est temps de rédiger et d'envoyer ta propre demande de stage.
 
 !!! question "Problématique"
     Comment rédiger et envoyer un courriel complet qui donne envie de me répondre ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu connais maintenant les 6 parties d'un courriel professionnel. Il est temps de
 
 </div>
 
-## 🎯 Atelier : ma candidature de stage
+## Travail à faire
 
+### Atelier : ma candidature de stage
 
 **Ta mission :** écrire et envoyer (via l'ENT, à l'adresse de ton professeur qui joue le rôle de la structure) un **vrai courriel de demande de stage**, avec une pièce jointe.
 
@@ -41,8 +40,15 @@ Tu connais maintenant les 6 parties d'un courriel professionnel. Il est temps de
 !!! tip "Où répondre ?"
     Dépose une **capture** de ton courriel envoyé (avec la PJ visible) et ta check-list de vérification dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un courriel de demande de stage envoyé via l'ENT au professeur (jouant la structure d'accueil), avec pièce jointe.
 

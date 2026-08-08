@@ -1,7 +1,13 @@
 # Découvrir le tableur et construire un budget de fête
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
+
+!!! question "Problématique"
+    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le tableur
+### Notion — le tableur
 
 Un **tableur** est un grand quadrillage : les **colonnes** sont des lettres (A, B, C…), les **lignes** des chiffres (1, 2, 3…), une **cellule** est repérée par sa colonne + sa ligne (**B2**, **C5**). Une formule commence toujours par **`=`** : `=3+2` affiche `5`, `=B2+B3` affiche la somme des cellules B2 et B3.
 
@@ -28,7 +33,7 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 !!! tip "Astuce technique"
     Une formule commence toujours par **`=`**. Si elle ne fonctionne pas, relire la syntaxe : espace oublié ? Parenthèses appariées ? Cellules existantes ?
 
-### 🎯 Atelier — le budget du repas de fête
+### Atelier — le budget du repas de fête
 
 **Ta mission :** préparer, au tableur, le **budget du repas de Noël des résidents pour 6 personnes**, sans dépasser **60 €**.
 
@@ -50,24 +55,15 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 !!! tip "Où répondre ?"
     Dépose ton fichier tableur d'entraînement (notion), puis ton budget complet et ta réponse sur le respect du budget (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un tableur (Excel, Google Sheets ou équivalent, accessible via l'ENT).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

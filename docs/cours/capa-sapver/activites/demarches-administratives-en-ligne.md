@@ -1,7 +1,13 @@
 # Les démarches administratives en ligne
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
+
+!!! question "Problématique"
+    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — reconnaître un site administratif officiel
+### Notion — reconnaître un site administratif officiel
 
 Les sites officiels de l'administration française se reconnaissent à quelques indices : l'adresse se termine en **`.gouv.fr`** (ex. `service-public.fr`, `ants.gouv.fr`, `ameli.fr`, `caf.fr`) ou appartient à un organisme officiel connu. **Attention** : de nombreux sites imitateurs apparaissent dans les premiers résultats de recherche (souvent en tant que publicité) et **facturent** des démarches qui sont **gratuites** sur le site officiel. Le portail **[service-public.fr](https://www.service-public.fr/)** centralise l'accès à la plupart des démarches administratives officielles et gratuites.
 
@@ -32,7 +37,7 @@ Les sites officiels de l'administration française se reconnaissent à quelques 
 !!! example "Consigne 4 — seul (10 min)"
     Sur [service-public.fr](https://www.service-public.fr/), rechercher la démarche « renouvellement carte nationale d'identité » et noter les 3 grandes étapes indiquées par le site officiel.
 
-### 🎯 Atelier — simuler une démarche administrative
+### Atelier — simuler une démarche administrative
 
 **Ta mission :** réaliser, dans un environnement d'entraînement encadré, la simulation d'une démarche administrative du quotidien.
 
@@ -54,25 +59,16 @@ Les sites officiels de l'administration française se reconnaissent à quelques 
 !!! tip "Où répondre ?"
     Dépose tes verdicts sur les recherches, tes 4 conseils pour M. Le Roux, les 3 étapes de service-public.fr et ton mode d'emploi en 5 étapes dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
-
-## Ressources
-
+## Ressources et outils
 
 - [service-public.fr](https://www.service-public.fr/) — portail officiel des démarches administratives.
 - Un environnement d'entraînement aux démarches administratives (fourni par l'enseignant, sans données réelles).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

@@ -1,7 +1,13 @@
 # Monter une vidéo simple
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
+
+!!! question "Problématique"
+    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — les bases du montage vidéo
+### Notion — les bases du montage vidéo
 
 Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même principe : une **ligne de temps** sur laquelle on place des **éléments** (images, clips, texte) les uns après les autres ou en superposition.
 
@@ -39,7 +44,7 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 !!! example "Consigne 4 — seul (10 min)"
     Exporter le montage et vérifier que le fichier obtenu se lit correctement.
 
-### 🎯 Atelier — réaliser une capsule vidéo SAPVER
+### Atelier — réaliser une capsule vidéo SAPVER
 
 **Ta mission :** réaliser une capsule vidéo de 30 secondes à 1 minute sur un thème du secteur SAPVER.
 
@@ -61,25 +66,16 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 !!! tip "Où répondre ?"
     Dépose ta vidéo d'entraînement, ta capsule finalisée et sa légende dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un outil de montage vidéo simple (Canva Video, Clipchamp ou équivalent, accessible via l'ENT).
 - Une banque de musiques et images libres de droits intégrée à l'outil.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

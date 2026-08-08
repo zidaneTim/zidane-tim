@@ -1,7 +1,13 @@
 # 🏁 Retour de PFMP 5 et clôture d'année
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
+
+!!! question "Problématique"
+    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — mon dernier retour de stage
+### Notion — mon dernier retour de stage
 
 !!! example "Consigne 1 — seul (15 min)"
     Répondre aux mêmes 4 questions qu'à chaque retour de PFMP : outils numériques observés, qui les utilise, pour quoi faire, règle de sécurité ou confidentialité observée.
@@ -30,7 +35,7 @@
 !!! example "Consigne 4 — seul (10 min)"
     Choisir, pour la séance suivante, la ou les compétences numériques de l'année sur lesquelles tu souhaites t'entraîner en priorité.
 
-### 🎯 Atelier — séance de régulation et consolidation
+### Atelier — séance de régulation et consolidation
 
 **Ta mission :** consacrer cette dernière séance à consolider, en autonomie, la ou les compétences numériques identifiées comme fragiles.
 
@@ -49,24 +54,15 @@
 !!! tip "Où répondre ?"
     Dépose tes réponses aux 4 questions, ton bilan de fin d'année et ta production de consolidation dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est la **clôture** de l'année en MG1 — Vie sociale.
 
-## Mise en situation
-
-
-C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
-
-## Ressources
-
+## Ressources et outils
 
 - Les fiches d'activités déjà réalisées dans l'année (disponibles sur le site de la classe), au choix selon la compétence à consolider.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

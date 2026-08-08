@@ -1,7 +1,13 @@
 # L'empreinte environnementale du numérique
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
+
+!!! question "Problématique"
+    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le numérique n'est pas immatériel
+### Notion — le numérique n'est pas immatériel
 
 Trois sources principales d'impact : **la fabrication des appareils** (l'étape la plus polluante), **les centres de données** (« le cloud », des bâtiments remplis de serveurs consommant de l'électricité en continu) et **les réseaux** (Wi-Fi, 4G/5G, box).
 
@@ -29,7 +34,7 @@ Trois sources principales d'impact : **la fabrication des appareils** (l'étape 
 !!! tip "Coup de pouce"
     Trie par expéditeur ou utilise la recherche pour repérer d'un coup toutes les newsletters ou publicités jamais ouvertes.
 
-### 🎯 Atelier — Digital Cleanup Day
+### Atelier — Digital Cleanup Day
 
 **Ta mission :** nettoyer réellement ta boîte mail, ton espace de stockage et tes abonnements inutiles, puis mesurer ce que tu as accompli.
 
@@ -54,24 +59,15 @@ Trois sources principales d'impact : **la fabrication des appareils** (l'étape 
 !!! tip "Où répondre ?"
     Dépose tes réponses (3 sources, 4 gestes reliés, estimation de ta boîte mail) et ton **bilan chiffré avant/après** dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Mise en situation
-
-
-Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
-
-## Ressources
-
+## Ressources et outils
 
 - [ademe.fr](https://www.ademe.fr/) — Agence de la transition écologique, pour les chiffres sur l'impact du numérique.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

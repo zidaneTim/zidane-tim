@@ -1,6 +1,32 @@
 # 🔄 Faire le bilan de ses compétences numériques et organiser son espace pro
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**, pour ta deuxième année de CAPa
+SAPVER. Ta responsable de secteur te demande, avant de te confier ta première mission de l'année, de vérifier que
+ton espace de travail numérique est prêt : dossiers organisés, compétences numériques à jour, points faibles
+identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une famille.
+
+!!! question "Problématique"
+    « Comment vérifier que je maîtrise assez d'outils numériques pour travailler efficacement cette année, et
+    comment organiser mon espace pour retrouver mes documents professionnels sans perdre de temps ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
+  parcours diagnostic Pix
+- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
+
+</div>
+
 ## Travail à faire
+
 
 
 **Faire le bilan et organiser son espace**
@@ -39,33 +65,17 @@
 ## Ressources et outils
 
 
+
 - **Pix Orga** : parcours de positionnement diagnostic — [lien](https://orga.pix.fr){ target="_blank" rel="noopener" }.
 - **Référentiel CRCN (Pix)** : table des 16 compétences pour documenter le bilan (support fourni en classe).
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.1** — Environnement numérique professionnel.
+- **Parcours Pix** : parcours de positionnement de rentrée sur Pix Orga, couvrant les 5 domaines du CRCN (voir *Travail à faire*).
 
-Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**, pour ta deuxième année de CAPa
-SAPVER. Ta responsable de secteur te demande, avant de te confier ta première mission de l'année, de vérifier que
-ton espace de travail numérique est prêt : dossiers organisés, compétences numériques à jour, points faibles
-identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une famille.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment vérifier que je maîtrise assez d'outils numériques pour travailler efficacement cette année, et
-    comment organiser mon espace pour retrouver mes documents professionnels sans perdre de temps ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
-  parcours diagnostic Pix
-- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
-
-</div>
-
-## Grille d'évaluation Environnement numérique professionnel (4.1)
 
 
 <div class="zt-grille" markdown>

@@ -1,6 +1,32 @@
 # 🏷️ Publipostage avancé — étiquettes filtrées et bilan de trimestre
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Pour l'envoi postal des vœux de fin d'année, ta responsable de secteur te
+demande de préparer les étiquettes d'adresses, mais uniquement pour les familles ayant accepté de recevoir du
+courrier papier (certaines ont demandé un envoi uniquement numérique). Tu dois aussi transmettre un courriel de
+publipostage court à celles qui ont choisi le numérique, puis faire le point sur tes compétences numériques de ce
+premier trimestre.
+
+!!! question "Problématique"
+    « Comment filtrer une liste de destinataires avant un publipostage d'étiquettes, et comment dresser un bilan
+    honnête de ses compétences numériques après un trimestre de mission ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un publipostage avancé avec filtrage des destinataires (étiquettes papier / courriel selon la préférence)
+- Dresser un bilan individuel de ses compétences numériques du trimestre à l'aide d'une grille CRCN
+
+</div>
+
 ## Travail à faire
+
 
 
 **Filtrer, fusionner, puis faire le bilan**
@@ -44,34 +70,19 @@
 ## Ressources et outils
 
 
+
 - **Traitement de texte (Word)** : fonction *Étiquettes* du publipostage.
 - **Tableur (Excel)** : filtre automatique sur la colonne *Canal préféré*.
 - **Référentiel CRCN (Pix)** : pour documenter la grille de bilan (support fourni en classe).
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.2.7** — Publipostage avancé et bilan.
+- **Bilan CRCN individuel** : grille couvrant les compétences 2.1, 3.1... travaillées ce trimestre (voir *Travail à faire*).
+- **Référentiel CRCN (Pix)** utilisé comme support (voir *Ressources et outils*).
 
-Tu es agent du **SAAD de Loudéac**. Pour l'envoi postal des vœux de fin d'année, ta responsable de secteur te
-demande de préparer les étiquettes d'adresses, mais uniquement pour les familles ayant accepté de recevoir du
-courrier papier (certaines ont demandé un envoi uniquement numérique). Tu dois aussi transmettre un courriel de
-publipostage court à celles qui ont choisi le numérique, puis faire le point sur tes compétences numériques de ce
-premier trimestre.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment filtrer une liste de destinataires avant un publipostage d'étiquettes, et comment dresser un bilan
-    honnête de ses compétences numériques après un trimestre de mission ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un publipostage avancé avec filtrage des destinataires (étiquettes papier / courriel selon la préférence)
-- Dresser un bilan individuel de ses compétences numériques du trimestre à l'aide d'une grille CRCN
-
-</div>
-
-## Grille d'évaluation Publipostage avancé et bilan (4.2.7)
 
 
 <div class="zt-grille" markdown>

@@ -1,15 +1,19 @@
 # 🎥 Réaliser une capsule vidéo sur un thème SAPVER
 
-## La situation
-
+## Contexte et problématique
 
 L'association valide ton projet : elle veut une vraie capsule, prête à publier sur ses réseaux sociaux, sur un thème utile à son public (nutrition, bien vieillir, sécurité domestique, ou lien social). À toi de la réaliser, en appliquant les bases apprises en séance précédente.
 
 !!! question "Problématique"
     Comment réaliser une capsule vidéo courte, complète et prête à être diffusée ?
 
-## 🎯 Atelier : ma capsule pour l'association
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : ma capsule pour l'association
 
 **Ta mission :** réaliser une capsule vidéo de 30 secondes à 1 minute sur un thème SAPVER de ton choix (nutrition, bien vieillir, sécurité domestique, lien social).
 
@@ -34,8 +38,15 @@ L'association valide ton projet : elle veut une vraie capsule, prête à publier
 !!! tip "Où répondre ?"
     Exporte ta capsule et dépose-la (fichier ou lien) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). Elle sera présentée à la séance suivante.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** une capsule vidéo de 30 secondes à 1 minute sur un thème SAPVER, avec message clair et musique libre de droits.
 

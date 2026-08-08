@@ -1,15 +1,13 @@
 # 🖥️ Devenir autonome sur l'ENT : profil, message et fichier
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant te connecter à l'ENT et retrouver ses rubriques. Il reste à montrer que tu sais vraiment t'en servir au quotidien : compléter ton profil, écrire un message correct, et déposer un fichier que tu pourras retrouver plus tard.
 
 !!! question "Problématique"
     Comment utiliser l'ENT en autonomie complète, comme on te le demandera toute l'année ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -19,8 +17,9 @@ Tu sais maintenant te connecter à l'ENT et retrouver ses rubriques. Il reste à
 
 </div>
 
-## 🎯 Atelier : je deviens autonome sur l'ENT
+## Travail à faire
 
+### Atelier : je deviens autonome sur l'ENT
 
 **Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.
 
@@ -42,8 +41,15 @@ Tu sais maintenant te connecter à l'ENT et retrouver ses rubriques. Il reste à
 !!! tip "Où répondre ?"
     Note tes réponses (le fait que ton message est envoyé, le fichier retrouvé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

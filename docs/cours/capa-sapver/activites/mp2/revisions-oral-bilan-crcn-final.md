@@ -1,6 +1,30 @@
 # 🎓 S'entraîner une dernière fois à l'oral et dresser son bilan CRCN de fin de cycle
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**, à quelques jours de ton épreuve E4.1. Ta responsable de secteur t'accompagne
+une dernière fois avant l'examen : un entraînement individuel ciblé sur tes propres points de vigilance, suivi
+d'un bilan complet de tes compétences numériques sur les deux années de formation.
+
+!!! question "Problématique"
+    « Comment utiliser ce dernier temps de préparation pour cibler précisément ses derniers réglages avant
+    l'épreuve, et faire le bilan de deux années de progression numérique ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
+- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Entraînement individuel à l'oral
@@ -49,31 +73,17 @@
 ## Ressources et outils
 
 
+
 - **Enregistreur audio/vidéo du téléphone ou de l'ordinateur** : entraînement individuel filmé ou enregistré.
 - **Positionnement Pix de début d'année** : profil personnel consulté en début d'année et lors de la remédiation.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Épreuve E4.1** — Révisions dirigées et bilan CRCN final.
+- **Parcours Pix** : comparaison avec le positionnement Pix de début de CAPa 2 (voir *Travail à faire*, partie B).
 
-Tu es agent du **SAAD de Loudéac**, à quelques jours de ton épreuve E4.1. Ta responsable de secteur t'accompagne
-une dernière fois avant l'examen : un entraînement individuel ciblé sur tes propres points de vigilance, suivi
-d'un bilan complet de tes compétences numériques sur les deux années de formation.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment utiliser ce dernier temps de préparation pour cibler précisément ses derniers réglages avant
-    l'épreuve, et faire le bilan de deux années de progression numérique ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
-- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
-
-</div>
-
-## Grille d'évaluation Révisions dirigées et bilan CRCN final (E4.1)
 
 
 <div class="zt-grille" markdown>

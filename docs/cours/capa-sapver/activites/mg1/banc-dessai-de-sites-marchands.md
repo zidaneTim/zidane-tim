@@ -1,15 +1,13 @@
 # 🛒 Trois sites marchands au banc d'essai
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réflexes en pratique : dans le commerce où tu es agent, on te confie le rôle de « conseiller achats » pour la clientèle.
 
 !!! question "Problématique"
     Comment analyser la fiabilité de plusieurs sites marchands, et comment argumenter sur la consommation responsable ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réf
 
 </div>
 
-## 🎯 Atelier : les 3 sites au banc d'essai
+## Travail à faire
 
+### Atelier : les 3 sites au banc d'essai
 
 **Ta mission :** tu es le « conseiller achats » du commerce. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
 
@@ -48,8 +47,15 @@ Tu sais maintenant repérer les indices d'un site marchand fiable. Mets tes réf
 !!! note "Avant le stage (PFMP)"
     Pendant ta prochaine période en entreprise, **repère un outil numérique professionnel** que tu pourras présenter au retour (logiciel, application, appareil connecté).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

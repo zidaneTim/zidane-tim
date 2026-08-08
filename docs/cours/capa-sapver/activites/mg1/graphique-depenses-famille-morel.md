@@ -1,15 +1,13 @@
 # 📈 Créer et commenter un graphique de dépenses
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant filtrer un tableau de dépenses. Dans le cadre de ton accompagnement de la famille Morel, un **graphique** va rendre la réponse à « où part l'argent ? » encore plus parlante : un poste de dépense est bien plus gros que les autres.
 
 !!! question "Problématique"
     Comment faire parler un tableau de chiffres avec un graphique ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais maintenant filtrer un tableau de dépenses. Dans le cadre de ton accompa
 
 </div>
 
-## La notion : le graphique
+## Travail à faire
 
+### Notion — le graphique
 
 Un **graphique** transforme des chiffres en **dessin** (barres, camembert). On sélectionne les données, puis **Insertion → Graphique**, et on choisit un type :
 
@@ -31,8 +30,7 @@ Un **graphique** transforme des chiffres en **dessin** (barres, camembert). On s
 
 Un graphique se **commente** : on repère le **plus grand**, le **plus petit**, et on en tire **une conclusion utile** (« le poste courses est le plus gros : c'est là qu'on peut faire des économies »).
 
-## 🎯 Atelier : où part l'argent des Morel ?
-
+### Atelier — où part l'argent des Morel ?
 
 **Ta mission :** en tant qu'agent de l'association, tu es le « conseiller budget » de la famille Morel. Tu dois leur montrer, avec un graphique, **où part leur argent** et leur donner **un conseil**.
 
@@ -54,8 +52,15 @@ Un graphique se **commente** : on repère le **plus grand**, le **plus petit**, 
 !!! tip "Où répondre ?"
     Dépose ton graphique (capture ou fichier) et ton commentaire en 3 phrases dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un graphique titré des dépenses par poste de la famille Morel, accompagné d'un commentaire de 3 phrases avec un conseil.
 

@@ -1,6 +1,31 @@
 # 📨 Réaliser un publipostage de courriers de convocation
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Chaque année, le service organise une réunion d'information pour les familles
+des bénéficiaires. Ta responsable de secteur te confie l'envoi des courriers de convocation à cinq familles : plutôt
+que de retaper cinq fois la même lettre, elle te demande d'utiliser le publipostage.
+
+!!! question "Problématique"
+    « Comment produire cinq courriers de convocation personnalisés à partir d'une seule lettre type et d'une liste
+    de destinataires ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un publipostage simple (courrier de convocation fusionné) à partir d'une lettre type et d'une source de
+  données destinataires
+- Vérifier les données fusionnées avant tout envoi réel
+
+</div>
+
 ## Travail à faire
+
 
 
 **Créer la source de données et fusionner le courrier**
@@ -39,33 +64,17 @@
 ## Ressources et outils
 
 
+
 - **Traitement de texte (Word)** : fonction *Publipostage* (onglet *Publipostage* → *Démarrer la fusion et le
   publipostage*).
 - **Tableur (Excel)** : pour la source de données destinataires.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.2.7** — Publipostage.
 
-Tu es agent du **SAAD de Loudéac**. Chaque année, le service organise une réunion d'information pour les familles
-des bénéficiaires. Ta responsable de secteur te confie l'envoi des courriers de convocation à cinq familles : plutôt
-que de retaper cinq fois la même lettre, elle te demande d'utiliser le publipostage.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment produire cinq courriers de convocation personnalisés à partir d'une seule lettre type et d'une liste
-    de destinataires ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un publipostage simple (courrier de convocation fusionné) à partir d'une lettre type et d'une source de
-  données destinataires
-- Vérifier les données fusionnées avant tout envoi réel
-
-</div>
-
-## Grille d'évaluation Publipostage (4.2.7)
 
 
 <div class="zt-grille" markdown>

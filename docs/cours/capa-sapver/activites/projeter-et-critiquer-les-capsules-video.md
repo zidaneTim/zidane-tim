@@ -1,15 +1,19 @@
 # 👀 Projeter et critiquer les capsules vidéo
 
-## La situation
-
+## Contexte et problématique
 
 Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se termine par une **présentation collective** et des **retours constructifs**, qui permettent de finaliser un projet avant sa diffusion réelle.
 
 !!! question "Problématique"
     Comment donner et recevoir une critique constructive sur un travail créatif ?
 
-## 🎯 Atelier : projection et critique constructive
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier — projection et critique constructive
 
 **Ta mission :** projeter ta capsule à la classe, recevoir des retours, et en donner à tes camarades.
 
@@ -34,8 +38,15 @@ Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se t
 !!! tip "Où répondre ?"
     Dépose tes retours donnés, les retours reçus et ton bilan personnel dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

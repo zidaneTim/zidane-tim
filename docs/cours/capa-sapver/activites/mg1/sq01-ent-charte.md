@@ -1,7 +1,6 @@
 # 🖥️ SQ01 — Mon ENT et la charte numérique
 
-## La situation
-
+## Contexte et problématique
 
 C'est la rentrée. Le lycée te remet une **feuille avec un identifiant et un mot de passe**. Ils servent à te connecter à l'**ENT** (Espace Numérique de Travail) : le site du lycée où tu retrouves ton emploi du temps, tes cours, tes messages et tes documents.
 
@@ -10,8 +9,7 @@ Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolot
 !!! question "Problématique"
     Comment me connecter et me repérer seul dans l'ENT, et quelles règles dois-je respecter ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -20,14 +18,15 @@ Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolot
 
 </div>
 
-## La notion : l'ENT et ses règles
+## Travail à faire
 
+### Notion — l'ENT et ses règles
 
-### C'est quoi, un ENT ?
+#### C'est quoi, un ENT ?
 
 L'**ENT** (Espace Numérique de Travail) est le **site privé du lycée**. Chaque élève a son **compte personnel** (un identifiant + un mot de passe qui n'appartiennent qu'à lui). On y accède avec un navigateur (Chrome, Edge, Firefox), sur ordinateur ou téléphone.
 
-### Les rubriques que tu utiliseras le plus
+#### Les rubriques que tu utiliseras le plus
 
 | Rubrique | À quoi ça sert |
 |---|---|
@@ -36,7 +35,7 @@ L'**ENT** (Espace Numérique de Travail) est le **site privé du lycée**. Chaqu
 | **Messagerie** | Écrire aux profs et à la vie scolaire (comme un courriel interne). |
 | **Espace de stockage / documents** | Déposer et récupérer tes fichiers (photos, textes, comptes rendus). |
 
-### La charte du numérique : 5 règles à retenir
+#### La charte du numérique : 5 règles à retenir
 
 La **charte** est le contrat de bon usage que tu signes en début d'année. Elle protège **tout le monde**.
 
@@ -49,8 +48,7 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! warning "Le cas du camarade"
     Publier la photo d'un professeur pour se moquer **n'est pas autorisé** : c'est un manque de respect (règle 2) et cela peut être puni par le lycée. En droit, on n'a pas le droit de diffuser l'image d'une personne sans son accord.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul (10 min)"
     Me connecter à l'ENT avec l'identifiant et le mot de passe donnés. Ouvrir **3 rubriques** différentes et noter, pour chacune, une chose que j'y trouve.
@@ -61,8 +59,7 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! example "Consigne 2 — seul ou en binôme (10 min)"
     Lire les 5 règles de la charte, seul ou en binôme si possible. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire. Si seul, compare tes exemples avec un camarade dès que possible.
 
-## 🎯 Atelier : je deviens autonome sur l'ENT
-
+### Atelier : je deviens autonome sur l'ENT
 
 **Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.
 
@@ -84,8 +81,15 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! tip "Où répondre ?"
     Note tes réponses (les 3 rubriques, tes exemples de la charte, le fait que ton message est envoyé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

@@ -1,15 +1,19 @@
 # 🛡️ Safer Internet Day : vérifier sa visibilité en ligne
 
-## La situation
-
+## Contexte et problématique
 
 C'est le **Safer Internet Day**, la journée mondiale pour un internet plus sûr. L'occasion de faire ce que tu ne fais jamais spontanément : chercher ton propre nom en ligne et vérifier ce que voient réellement les autres sur tes profils.
 
 !!! question "Problématique"
     Que trouve-t-on vraiment de moi en ligne, et comment ajuster ce qui doit l'être ?
 
-## 🎯 Atelier : mon audit personnel
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : mon audit personnel
 
 **Ta mission :** rechercher ton nom en ligne et vérifier la visibilité de tes profils, dans le respect de ta vie privée (tu ne montres à personne ce que tu trouves de personnel, sauf si tu le souhaites).
 
@@ -31,8 +35,15 @@ C'est le **Safer Internet Day**, la journée mondiale pour un internet plus sûr
 !!! tip "Où répondre ?"
     Dépose uniquement ton **bilan personnel** (pas le détail de ce que tu as trouvé sur toi, qui reste privé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale) : ce que tu as vérifié, ajusté, et ce que tu surveilleras.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

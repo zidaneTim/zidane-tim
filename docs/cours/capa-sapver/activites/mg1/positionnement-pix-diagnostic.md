@@ -1,15 +1,13 @@
 # 📊 Se positionner sur un parcours diagnostic Pix
 
-## La situation
-
+## Contexte et problématique
 
 Tu as déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…). C'est le moment de faire le point sur **ce que tu sais déjà faire**, grâce à **Pix**.
 
 !!! question "Problématique"
     Comment savoir où j'en suis de mes compétences numériques ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -17,13 +15,9 @@ Tu as déjà pratiqué plusieurs compétences numériques depuis la rentrée (EN
 
 </div>
 
-## La notion : c'est quoi, Pix ?
+## Travail à faire
 
-
-**Pix** est le service **officiel** français pour **évaluer et certifier** ses compétences numériques (site **pix.fr**). On répond à des défis, et Pix indique **notre niveau** dans chaque domaine, avec des conseils pour progresser. Ce n'est **pas une note** : c'est un **point de repère** pour savoir quoi améliorer.
-
-## 🎯 Atelier : mon positionnement Pix
-
+### Atelier : mon positionnement Pix
 
 **Ta mission :** te connecter à Pix et **répondre au parcours de positionnement** communiqué par ton professeur, pour découvrir ton niveau.
 
@@ -45,8 +39,15 @@ Tu as déjà pratiqué plusieurs compétences numériques depuis la rentrée (EN
 !!! tip "Où répondre ?"
     Dépose tes 2 + 2 domaines Pix dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+**Pix** est le service **officiel** français pour **évaluer et certifier** ses compétences numériques (site **pix.fr**). On répond à des défis, et Pix indique **notre niveau** dans chaque domaine, avec des conseils pour progresser. Ce n'est **pas une note** : c'est un **point de repère** pour savoir quoi améliorer.
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

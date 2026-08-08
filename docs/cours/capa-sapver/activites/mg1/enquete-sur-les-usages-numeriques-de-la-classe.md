@@ -1,15 +1,19 @@
 # 📊 Enquête sur les usages numériques de la classe
 
-## La situation
-
+## Contexte et problématique
 
 Après avoir conçu un formulaire pour l'association, mets en pratique la même compétence pour toi-même : créer une enquête sur les usages numériques de ta classe, la faire remplir, puis analyser ce qu'elle révèle.
 
 !!! question "Problématique"
     Comment créer une enquête, recueillir des réponses, puis lire et interpréter les résultats ?
 
-## 🎯 Atelier : notre enquête numérique de classe
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : notre enquête numérique de classe
 
 **Ta mission :** créer une enquête courte sur les usages numériques de la classe, la faire remplir, puis analyser les résultats.
 
@@ -34,8 +38,15 @@ Après avoir conçu un formulaire pour l'association, mets en pratique la même 
 !!! tip "Où répondre ?"
     Dépose ton formulaire, une capture des résultats et ta synthèse dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

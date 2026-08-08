@@ -1,6 +1,33 @@
 # 📅 Concevoir un planning d'interventions accessible
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
+responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
+bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
+souhaite suivre lui-même les jours de passage.
+
+!!! question "Problématique"
+    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
+    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un planning mensuel d'interventions avec repérage automatique des conflits d'horaires par mise en forme
+  conditionnelle
+- Adapter un document en version accessible (contraste, taille de police, structure simplifiée) pour un public
+  fragile
+
+</div>
+
 ## Travail à faire
+
 
 
 **Construire le planning et sa version accessible**
@@ -40,33 +67,15 @@
 ## Ressources et outils
 
 
+
 - **Tableur (Excel/LibreOffice Calc)** : pour le planning et la mise en forme conditionnelle.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 3.3** — Planning et accessibilité.
 
-Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
-responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
-bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
-souhaite suivre lui-même les jours de passage.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
-    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un planning mensuel d'interventions avec repérage automatique des conflits d'horaires par mise en forme
-  conditionnelle
-- Adapter un document en version accessible (contraste, taille de police, structure simplifiée) pour un public
-  fragile
-
-</div>
-
-## Grille d'évaluation Planning et accessibilité (3.3)
 
 
 <div class="zt-grille" markdown>

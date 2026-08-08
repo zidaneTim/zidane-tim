@@ -1,6 +1,30 @@
 # 🎯 Préparer son oral de dossier professionnel en binôme
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. L'oral qui accompagne la remise du dossier professionnel approche : ta
+responsable te demande de préparer un diaporama d'appui sobre et de t'entraîner à répondre à des questions
+imprévues, comme le fera le jury lors de l'épreuve E4.1.
+
+!!! question "Problématique"
+    « Comment préparer un diaporama d'appui efficace pour un oral de 8 minutes et s'entraîner à répondre à des
+    questions imprévues ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un diaporama d'appui sobre pour l'oral du dossier professionnel
+- S'entraîner en binôme à un oral de 8 minutes suivi de questions de jury
+
+</div>
+
 ## Travail à faire
+
 
 
 **Concevoir, s'entraîner, questionner**
@@ -40,31 +64,16 @@
 ## Ressources et outils
 
 
+
 - **Diaporama (PowerPoint ou équivalent)** : construction du diaporama d'appui.
 - **Chronomètre du téléphone ou de l'ordinateur** : minutage de l'oral de 8 minutes.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Épreuve E4.1** — Préparation de l'oral.
 
-Tu es agent du **SAAD de Loudéac**. L'oral qui accompagne la remise du dossier professionnel approche : ta
-responsable te demande de préparer un diaporama d'appui sobre et de t'entraîner à répondre à des questions
-imprévues, comme le fera le jury lors de l'épreuve E4.1.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment préparer un diaporama d'appui efficace pour un oral de 8 minutes et s'entraîner à répondre à des
-    questions imprévues ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un diaporama d'appui sobre pour l'oral du dossier professionnel
-- S'entraîner en binôme à un oral de 8 minutes suivi de questions de jury
-
-</div>
-
-## Grille d'évaluation Préparation de l'oral (E4.1)
 
 
 <div class="zt-grille" markdown>

@@ -1,6 +1,30 @@
 # 🔄 Intégrer les apports de sa dernière PFMP dans le dossier professionnel
 
+## Contexte et problématique
+
+
+
+Tu reviens de ta troisième et dernière période de formation en milieu professionnel avant l'épreuve E4.1. Cette
+expérience récente peut enrichir ton dossier professionnel et ton oral : ta responsable de secteur au **SAAD de
+Loudéac** te demande de faire le point sur ce que cette dernière PFMP change concrètement à ta présentation.
+
+!!! question "Problématique"
+    « En quoi une expérience professionnelle récente peut-elle venir enrichir un dossier déjà rédigé, sans
+    remettre en cause tout le travail déjà accompli ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les éléments marquants de sa dernière PFMP en lien avec le sujet du dossier
+- Ajuster le dossier professionnel et le déroulé de l'oral à partir de cette expérience récente
+
+</div>
+
 ## Travail à faire
+
 
 
 **Analyser sa dernière PFMP, ajuster son dossier**
@@ -42,31 +66,16 @@
 ## Ressources et outils
 
 
+
 - **Dossier professionnel finalisé** : produit des séances précédentes, à ajuster.
 - **Traitement de texte (Word)** : styles déjà en place à respecter pour tout ajout.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.3.1** — Retour PFMP 3 et ajustement du dossier.
 
-Tu reviens de ta troisième et dernière période de formation en milieu professionnel avant l'épreuve E4.1. Cette
-expérience récente peut enrichir ton dossier professionnel et ton oral : ta responsable de secteur au **SAAD de
-Loudéac** te demande de faire le point sur ce que cette dernière PFMP change concrètement à ta présentation.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « En quoi une expérience professionnelle récente peut-elle venir enrichir un dossier déjà rédigé, sans
-    remettre en cause tout le travail déjà accompli ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les éléments marquants de sa dernière PFMP en lien avec le sujet du dossier
-- Ajuster le dossier professionnel et le déroulé de l'oral à partir de cette expérience récente
-
-</div>
-
-## Grille d'évaluation Retour PFMP 3 et ajustement du dossier (4.3.1)
 
 
 <div class="zt-grille" markdown>

@@ -1,6 +1,30 @@
 # 📊 Faire le bilan de ses compétences et s'entraîner sur ses points faibles
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Avant d'entamer la préparation de ton dossier professionnel, ta responsable te
+demande de faire le point sur tes compétences numériques du module et de consolider les points encore fragiles,
+en vue de la certification Pix qui approche.
+
+!!! question "Problématique"
+    « Comment identifier précisément ses points forts et ses points faibles pour organiser efficacement sa
+    remédiation avant la certification Pix ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
+- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Bilan de compétences MP2
@@ -51,31 +75,16 @@
 ## Ressources et outils
 
 
+
 - **Pix** : plateforme de positionnement et de certification des compétences numériques — [pix.org](https://pix.org/fr-fr){ target="_blank" rel="noopener" }.
 - **Tableur (Excel)** : exercices d'entraînement issus des activités MP2 déjà réalisées.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Parcours Pix** : positionnement personnel consulté en séance et modules d'entraînement ciblés sur les domaines les plus faibles (voir *Travail à faire*, partie B). Aucun code CRCN spécifique n'est associé à cette grille d'évaluation.
 
-Tu es agent du **SAAD de Loudéac**. Avant d'entamer la préparation de ton dossier professionnel, ta responsable te
-demande de faire le point sur tes compétences numériques du module et de consolider les points encore fragiles,
-en vue de la certification Pix qui approche.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment identifier précisément ses points forts et ses points faibles pour organiser efficacement sa
-    remédiation avant la certification Pix ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
-- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
-
-</div>
-
-## Grille d'évaluation Bilan et remédiation MP2
 
 
 <div class="zt-grille" markdown>

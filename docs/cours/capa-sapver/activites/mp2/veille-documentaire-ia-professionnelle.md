@@ -1,6 +1,33 @@
 # 🔎 Construire un tableau de veille professionnelle en évaluant l'IA comme source
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Une famille s'interroge sur les aides financières disponibles pour financer
+des heures d'aide à domicile supplémentaires pour un proche âgé. Ta responsable de secteur te demande de préparer,
+avant le rendez-vous, un tableau des trois principales aides mobilisables, avec leurs conditions générales et une
+source fiable pour chacune.
+
+!!! question "Problématique"
+    « Comment constituer rapidement un tableau de veille fiable sur un sujet professionnel, et quelle est la place
+    d'un assistant IA dans cette recherche ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Constituer un tableau de veille documentaire sur un sujet professionnel en évaluant la fiabilité de chaque source
+  (nature de l'organisme, date de mise à jour)
+- Comparer les résultats d'une recherche classique et d'un assistant conversationnel IA sur la même question, et en
+  tirer une règle d'usage professionnel
+
+</div>
+
 ## Travail à faire
+
 
 
 **Rechercher, comparer, structurer la veille**
@@ -40,35 +67,17 @@
 ## Ressources et outils
 
 
+
 - **service-public.fr** : portail officiel pour vérifier les conditions d'aides sociales — [lien](https://www.service-public.fr){ target="_blank" rel="noopener" }.
 - **Moteur de recherche de l'établissement** : pour la recherche classique avec opérateurs avancés.
 - **Assistant conversationnel IA mis à disposition par l'établissement** : pour la comparaison de sources.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.2** — Veille professionnelle.
 
-Tu es agent du **SAAD de Loudéac**. Une famille s'interroge sur les aides financières disponibles pour financer
-des heures d'aide à domicile supplémentaires pour un proche âgé. Ta responsable de secteur te demande de préparer,
-avant le rendez-vous, un tableau des trois principales aides mobilisables, avec leurs conditions générales et une
-source fiable pour chacune.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment constituer rapidement un tableau de veille fiable sur un sujet professionnel, et quelle est la place
-    d'un assistant IA dans cette recherche ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Constituer un tableau de veille documentaire sur un sujet professionnel en évaluant la fiabilité de chaque source
-  (nature de l'organisme, date de mise à jour)
-- Comparer les résultats d'une recherche classique et d'un assistant conversationnel IA sur la même question, et en
-  tirer une règle d'usage professionnel
-
-</div>
-
-## Grille d'évaluation Veille professionnelle (4.2)
 
 
 <div class="zt-grille" markdown>

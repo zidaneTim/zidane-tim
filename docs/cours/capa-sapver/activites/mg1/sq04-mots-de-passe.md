@@ -1,15 +1,13 @@
 # 🔐 SQ04 — Des mots de passe solides
 
-## La situation
-
+## Contexte et problématique
 
 Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps, parce que le mot de passe était partout le même. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait.
 
 !!! question "Problématique"
     Comment créer un mot de passe solide, facile à retenir mais impossible à deviner ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -21,10 +19,11 @@ Ton grand frère utilise le **même mot de passe partout** : `azerty123`. Pour s
 !!! note "Retour de PFMP"
     Tu reviens de stage. As-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
 
-## La notion : le mot de passe
+## Travail à faire
 
+### Notion — le mot de passe
 
-### Ce qui rend un mot de passe faible
+#### Ce qui rend un mot de passe faible
 
 Un mot de passe est **faible** quand il est facile à deviner par une personne **ou** par un logiciel qui teste des milliers de combinaisons par seconde.
 
@@ -34,7 +33,7 @@ Un mot de passe est **faible** quand il est facile à deviner par une personne *
 | `Léa2009` | Ton prénom + ta date de naissance : trouvables sur les réseaux. |
 | `chat` | Trop **court** (moins de 8 caractères). |
 
-### Ce qui rend un mot de passe fort
+#### Ce qui rend un mot de passe fort
 
 D'après la **CNIL** (l'organisme qui protège nos données), un bon mot de passe est **long** (au moins **12 caractères**) et **mélange** plusieurs types de caractères.
 
@@ -42,7 +41,7 @@ D'après la **CNIL** (l'organisme qui protège nos données), un bon mot de pass
 - **Mélange** : des MAJUSCULES, des minuscules, des chiffres, un signe (`!`, `?`, `-`).
 - **Sans info personnelle** : ni prénom, ni date de naissance, ni nom de l'animal.
 
-### L'astuce : la phrase de passe
+#### L'astuce : la phrase de passe
 
 Le plus simple est de partir d'une **phrase facile à retenir**, puis de la transformer :
 
@@ -51,13 +50,12 @@ Le plus simple est de partir d'une **phrase facile à retenir**, puis de la tran
 
 C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 
-### Deux règles en plus
+#### Deux règles en plus
 
 1. **Un mot de passe différent** pour les comptes importants (mail, banque). Comme ça, si un site est piraté, les autres restent protégés.
 2. Trop de mots de passe à retenir ? Un **gestionnaire de mots de passe** (coffre-fort numérique) peut les garder à ta place, protégés par **un seul** mot de passe principal.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre `azerty123` et dire **pourquoi** il est faible (3 raisons). Si seul, compare tes raisons avec la classe dès que possible.
@@ -68,8 +66,7 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 !!! tip "Coup de pouce"
     Je remplace certains mots par des chiffres ou des symboles : *au* → `o`, *avec* → `&`, *et* → `+`. J'ajoute une **majuscule** et un **!** à la fin.
 
-## 🎯 Atelier : le classement des mots de passe
-
+### Atelier : le classement des mots de passe
 
 **Ta mission :** tu es le « conseiller sécurité » de ta famille. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
 
@@ -98,8 +95,15 @@ C'est **long**, **mélangé** et **facile à retenir** pour toi seulement.
 !!! info "Pour aller plus loin (sites officiels)"
     Conseils sur les mots de passe : **cnil.fr** · En cas de piratage : **cybermalveillance.gouv.fr** (site officiel du gouvernement).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

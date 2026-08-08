@@ -1,15 +1,13 @@
 # 💶 SQ10 — Mon premier budget au tableur
 
-## La situation
-
+## Contexte et problématique
 
 Pour les fêtes, ta famille te confie une mission : organiser le **repas de Noël pour 6 personnes** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur, et t'aurait prévenu.
 
 !!! question "Problématique"
     Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,10 +16,11 @@ Pour les fêtes, ta famille te confie une mission : organiser le **repas de Noë
 
 </div>
 
-## La notion : le tableur
+## Travail à faire
 
+### Notion — le tableur
 
-### Lignes, colonnes, cellules
+#### Lignes, colonnes, cellules
 
 Un **tableur** (Excel, LibreOffice Calc, Google Sheets) est un grand quadrillage.
 
@@ -29,7 +28,7 @@ Un **tableur** (Excel, LibreOffice Calc, Google Sheets) est un grand quadrillage
 - Les **lignes** sont des chiffres : 1, 2, 3…
 - Une **cellule** est une case, repérée par sa colonne + sa ligne : **B2**, **C5**.
 
-### Une formule commence toujours par `=`
+#### Une formule commence toujours par `=`
 
 L'ordinateur **calcule** si on commence par le signe **`=`**.
 
@@ -38,7 +37,7 @@ L'ordinateur **calcule** si on commence par le signe **`=`**.
 | `=3+2` | `5` |
 | `=B2+B3` | la somme des cellules B2 et B3 |
 
-### La formule SOMME
+#### La formule SOMME
 
 Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** :
 
@@ -46,12 +45,11 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** :
 
 C'est beaucoup plus rapide que `=B2+B3+B4+B5+B6`.
 
-### Le format monétaire
+#### Le format monétaire
 
 Pour afficher **€** automatiquement, on sélectionne les cellules, puis on clique sur le bouton **format monétaire** (l'icône **€** ou pièce). `12` devient alors `12,00 €`.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul (10 min)"
     Ouvrir un tableur. En **A1** écrire `Produit`, en **B1** écrire `Prix`. Saisir 3 produits et 3 prix dans les lignes en dessous.
@@ -62,8 +60,7 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 !!! tip "Coup de pouce"
     Si le résultat affiche la formule au lieu du nombre, vérifie que tu as bien commencé par le signe **`=`** et qu'il n'y a pas d'espace avant.
 
-## 🎯 Atelier : le budget du repas de fête
-
+### Atelier : le budget du repas de fête
 
 **Ta mission :** préparer, au tableur, le **budget du repas de Noël pour 6 personnes**, sans dépasser **60 €**.
 
@@ -85,8 +82,15 @@ Pour afficher **€** automatiquement, on sélectionne les cellules, puis on cli
 !!! tip "Où répondre ?"
     Dépose ton fichier tableur (ou une capture) et ta réponse à la consigne 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

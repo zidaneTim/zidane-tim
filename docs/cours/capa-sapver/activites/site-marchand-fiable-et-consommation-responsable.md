@@ -1,7 +1,13 @@
 # Reconnaître un site marchand fiable et consommer responsable
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
+
+!!! question "Problématique"
+    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — acheter en sécurité et consommer responsable
+### Notion — acheter en sécurité et consommer responsable
 
 | Indice | Ce que je regarde |
 |---|---|
@@ -37,7 +42,7 @@ Consommer de façon responsable, c'est se demander : en ai-je vraiment besoin ? 
 !!! tip "Coup de pouce"
     Le plus prudent **protège la carte**. Le moins prudent, c'est **donner son numéro** en clair à un inconnu.
 
-### 🎯 Atelier — les 3 sites au banc d'essai
+### Atelier — les 3 sites au banc d'essai
 
 **Ta mission :** tu es le « conseiller achats » du commerce. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
 
@@ -66,24 +71,15 @@ Consommer de façon responsable, c'est se demander : en ai-je vraiment besoin ? 
 !!! tip "Où répondre ?"
     Dépose tes 3 indices et ton classement des moyens de paiement (notion), puis ton tableau des 3 sites et tes arguments du débat (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
-
-## Ressources
-
+## Ressources et outils
 
 - Aucune ressource externe requise — l'activité s'appuie sur des cas fournis en classe.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

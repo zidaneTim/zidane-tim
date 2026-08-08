@@ -1,7 +1,13 @@
 # Comprendre le RGPD et ses droits
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
+
+!!! question "Problématique"
+    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — les 5 droits RGPD
+### Notion — les 5 droits RGPD
 
 Le **RGPD** (Règlement Général sur la Protection des Données) est une loi européenne qui protège les données personnelles (nom, adresse, santé, habitudes...). Elle donne à chacun **5 droits principaux** :
 
@@ -37,7 +42,7 @@ Le **RGPD** (Règlement Général sur la Protection des Données) est une loi eu
 !!! example "Consigne 3 — seul ou en binôme (15 min)"
     Pour 3 situations (correction d'une adresse, suppression totale après décès, récupération d'un dossier pour un nouvel établissement), indiquer quel droit RGPD s'applique.
 
-### 🎯 Atelier — paramétrer la confidentialité d'un compte
+### Atelier — paramétrer la confidentialité d'un compte
 
 **Ta mission :** régler les paramètres de confidentialité du compte de l'association et produire un aide-mémoire RGPD.
 
@@ -59,25 +64,16 @@ Le **RGPD** (Règlement Général sur la Protection des Données) est une loi eu
 !!! tip "Où répondre ?"
     Dépose tes 5 droits reformulés, ta réponse à la famille de Mme Kerdal, tes réglages de confidentialité et ton aide-mémoire RGPD dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Mise en situation
-
-
-Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
-
-## Ressources
-
+## Ressources et outils
 
 - [cnil.fr — Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles)
 - Les paramètres de confidentialité du compte utilisé en classe (réseau social ou messagerie de test)
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

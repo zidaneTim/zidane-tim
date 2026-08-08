@@ -1,7 +1,13 @@
 # 🖊️ Mettre à jour son CV et bilan formatif annuel
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
+
+!!! question "Problématique"
+    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — un CV vivant, qui évolue
+### Notion — un CV vivant, qui évolue
 
 Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle. Deux rubriques évoluent particulièrement cette année : l'**expérience** (chaque PFMP est une ligne, avec la structure, les dates et 1-2 missions réalisées) et les **compétences** (les compétences numériques travaillées en MG1 méritent d'y figurer).
 
@@ -34,7 +39,7 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 !!! example "Consigne 4 — seul ou en binôme (10 min)"
     Relire son CV en entier : orthographe, mise en page homogène, informations à jour. Si seul, relis-toi à voix haute puis fais relire par un camarade dès que possible.
 
-### 🎯 Atelier — bilan formatif annuel CRCN
+### Atelier — bilan formatif annuel CRCN
 
 **Ta mission :** répondre au quiz récapitulatif de l'année et t'auto-évaluer sur une grille CRCN pour préparer ta 2e année.
 
@@ -56,25 +61,16 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 !!! tip "Où répondre ?"
     Dépose ton CV mis à jour, ta grille d'auto-évaluation CRCN et ton bilan personnel dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif annuel** de la matière.
 
-## Mise en situation
-
-
-L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un modèle de CV vierge ou ton CV existant (fourni via l'ENT).
 - La grille d'auto-évaluation CRCN (fournie par l'enseignant).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

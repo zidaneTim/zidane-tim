@@ -1,15 +1,19 @@
 # 🎯 Bilan formatif annuel : quiz et grille CRCN
 
-## La situation
-
+## Contexte et problématique
 
 L'année de CAPa 1 touche à sa fin. Après le positionnement Pix réalisé en décembre (séance 22), c'est le moment de faire le bilan complet de ce qui a été travaillé en numérique cette année, et d'identifier ce qu'il faudra approfondir en CAPa 2.
 
 !!! question "Problématique"
     Quel bilan puis-je tirer de mes compétences numériques après cette première année, et que reste-t-il à approfondir ?
 
-## 🎯 Atelier : mon bilan formatif annuel
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : mon bilan formatif annuel
 
 **Ta mission :** répondre à un quiz récapitulatif des notions vues dans l'année, puis t'auto-évaluer sur une grille de compétences CRCN.
 
@@ -34,8 +38,15 @@ L'année de CAPa 1 touche à sa fin. Après le positionnement Pix réalisé en d
 !!! tip "Où répondre ?"
     Dépose tes réponses au quiz, ta grille d'auto-évaluation CRCN et tes 2 compétences à approfondir dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif** de l'année.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+Cette activité de bilan porte sur l'ensemble des compétences CRCN travaillées dans l'année (1.1, 1.2, 1.3, 2.1, 2.2, 2.4, 3.1, 3.2, 3.3, 4.1, 4.2, 4.3, 5.2) et fait le lien avec le positionnement Pix réalisé en séance 22 (voir consignes détaillées dans la section *Travail à faire*).
+
+## Grille d'évaluation
 
 **Production attendue :** un quiz complété et une auto-évaluation CRCN identifiant 2 compétences à approfondir en CAPa 2.
 

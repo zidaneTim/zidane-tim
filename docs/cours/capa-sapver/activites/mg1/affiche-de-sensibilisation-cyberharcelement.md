@@ -1,15 +1,13 @@
 # 🛡️ Créer une affiche de sensibilisation au cyberharcèlement
 
-## La situation
-
+## Contexte et problématique
 
 Tu connais maintenant les bons réflexes face au cyberharcèlement. Mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
 
 !!! question "Problématique"
     Comment concevoir une affiche de sensibilisation claire et efficace ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -17,8 +15,9 @@ Tu connais maintenant les bons réflexes face au cyberharcèlement. Mets-les au 
 
 </div>
 
-## 🎯 Atelier : l'affiche de sensibilisation
+## Travail à faire
 
+### Atelier : l'affiche de sensibilisation
 
 **Ta mission :** créer une **affiche** qui apprend aux élèves du lycée à réagir face au cyberharcèlement. Elle sera affichée dans le couloir.
 
@@ -40,8 +39,15 @@ Tu connais maintenant les bons réflexes face au cyberharcèlement. Mets-les au 
 !!! tip "Où répondre ?"
     Exporte ton affiche en image (ou PDF) et dépose-la dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

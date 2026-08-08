@@ -1,15 +1,19 @@
 # 🧹 Digital Cleanup Day : nettoyer son espace numérique
 
-## La situation
-
+## Contexte et problématique
 
 Le **Digital Cleanup Day** est une journée mondiale dédiée au nettoyage numérique. Après avoir compris pourquoi le numérique pèse sur l'environnement, place à l'action : tu vas nettoyer réellement ton propre espace.
 
 !!! question "Problématique"
     Comment nettoyer efficacement mon espace numérique et réduire mon empreinte au quotidien ?
 
-## 🎯 Atelier : je nettoie mon espace numérique
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : je nettoie mon espace numérique
 
 **Ta mission :** nettoyer ta boîte mail, ton espace de stockage et tes abonnements inutiles, puis mesurer ce que tu as accompli.
 
@@ -37,8 +41,15 @@ Le **Digital Cleanup Day** est une journée mondiale dédiée au nettoyage numé
 !!! tip "Où répondre ?"
     Dépose ton bilan chiffré (avant/après) et ton habitude proposée dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

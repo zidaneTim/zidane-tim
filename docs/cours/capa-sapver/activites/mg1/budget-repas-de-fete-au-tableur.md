@@ -1,15 +1,13 @@
 # 💶 Construire le budget d'un repas de fête au tableur
 
-## La situation
-
+## Contexte et problématique
 
 Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en pratique sur le vrai budget des résidents.
 
 !!! question "Problématique"
     Comment construire et suivre un budget complet au tableur ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,8 +16,9 @@ Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en
 
 </div>
 
-## 🎯 Atelier : le budget du repas de fête
+## Travail à faire
 
+### Atelier : le budget du repas de fête
 
 **Ta mission :** préparer, au tableur, le **budget du repas de Noël des résidents pour 6 personnes**, sans dépasser **60 €**.
 
@@ -41,8 +40,15 @@ Tu sais maintenant saisir des données et utiliser la formule SOMME. Mets ça en
 !!! tip "Où répondre ?"
     Dépose ton fichier tableur (ou une capture) et ta réponse à la consigne 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

@@ -1,6 +1,30 @@
 # 🏆 Réaliser une simulation orale complète en conditions d'épreuve
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac** en formation. Ta responsable organise une répétition générale avant l'épreuve
+officielle E4.1 : dossier remis, temps chronométré, questions posées — les conditions réelles de l'examen, pour
+que chacun mesure précisément où il en est avant le jour J.
+
+!!! question "Problématique"
+    « Comment se comporte-t-on en conditions réelles d'épreuve orale, et quels réglages reste-t-il à faire avant
+    le jour de l'examen ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
+- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
+
+</div>
+
 ## Travail à faire
+
 
 
 **Se mettre en situation d'épreuve**
@@ -41,31 +65,16 @@
 ## Ressources et outils
 
 
+
 - **Dossier professionnel finalisé (PDF) et diaporama d'appui** : productions des séances précédentes.
 - **Grille d'auto-évaluation** : reprise des critères de la grille d'évaluation ci-dessous.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Épreuve E4.1 (formative)** — Simulation orale complète.
 
-Tu es agent du **SAAD de Loudéac** en formation. Ta responsable organise une répétition générale avant l'épreuve
-officielle E4.1 : dossier remis, temps chronométré, questions posées — les conditions réelles de l'examen, pour
-que chacun mesure précisément où il en est avant le jour J.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment se comporte-t-on en conditions réelles d'épreuve orale, et quels réglages reste-t-il à faire avant
-    le jour de l'examen ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
-- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
-
-</div>
-
-## Grille d'évaluation Simulation orale complète (E4.1, formative)
 
 
 <div class="zt-grille" markdown>

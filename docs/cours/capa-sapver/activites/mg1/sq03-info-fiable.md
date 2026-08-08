@@ -1,7 +1,6 @@
 # 🔎 SQ03 — Trouver une information fiable
 
-## La situation
-
+## Contexte et problématique
 
 Sur ton téléphone, une vidéo affirme : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Ton cousin y croit et veut essayer. Le même jour, tu vois une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**.
 
@@ -10,8 +9,7 @@ Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fab
 !!! question "Problématique"
     Comment vérifier si une information trouvée en ligne est fiable ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -20,10 +18,11 @@ Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fab
 
 </div>
 
-## La notion : chercher et vérifier
+## Travail à faire
 
+### Notion — chercher et vérifier
 
-### Chercher avec les bons mots-clés
+#### Chercher avec les bons mots-clés
 
 Un **moteur de recherche** (Google, Qwant, Bing…) trouve mieux quand on lui donne des **mots-clés précis**, pas une phrase entière.
 
@@ -32,7 +31,7 @@ Un **moteur de recherche** (Google, Qwant, Bing…) trouve mieux quand on lui do
 | « est-ce que le citron fait maigrir ? » | `citron maigrir avis santé publique` |
 | « comment aider une personne âgée » | `aide personne âgée domicile services` |
 
-### Croiser les sources : la règle des 3 questions
+#### Croiser les sources : la règle des 3 questions
 
 Une **source** = l'endroit d'où vient l'information (un site, une personne, une vidéo). Avant de croire une info, je me pose **3 questions** :
 
@@ -40,7 +39,7 @@ Une **source** = l'endroit d'où vient l'information (un site, une personne, une
 2. **Est-ce ailleurs ?** Est-ce que **2 ou 3 autres sources sérieuses** disent la même chose ?
 3. **Pourquoi le dit-on ?** Pour **informer** ou pour me **vendre** quelque chose / me faire réagir ?
 
-### Repérer une infox (fausse information)
+#### Repérer une infox (fausse information)
 
 Une **infox** (ou *fake news*) est une fausse information qui se fait passer pour vraie. Signes qui alertent :
 
@@ -52,8 +51,7 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 !!! info "Un réflexe simple"
     Pour une image douteuse, on peut faire une **recherche d'image inversée** (clic droit → « Rechercher l'image ») pour voir où elle est déjà apparue.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre l'affirmation « le citron chaud fait maigrir de 5 kg en une semaine ». Chercher avec de bons mots-clés, et trouver **une source sérieuse** (site santé, `.gouv.fr`) qui en parle. Si seul, compare ta source avec la classe dès que possible.
@@ -64,8 +62,7 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 !!! tip "Coup de pouce"
     Une info vraie est presque **toujours répétée** par plusieurs sources sérieuses. Une info qui n'existe **que sur une seule vidéo** doit te méfier.
 
-## 🎯 Atelier : le tableau de vérification
-
+### Atelier : le tableau de vérification
 
 **Ta mission :** tu es le « vérificateur » de la classe. Voici **4 informations** trouvées en ligne. Deux sont **fiables**, deux sont **trompeuses**. À toi de faire le tri.
 
@@ -95,8 +92,15 @@ Une **infox** (ou *fake news*) est une fausse information qui se fait passer pou
 !!! note "Avant le stage (PFMP)"
     Pendant ta prochaine période en entreprise, **repère une situation où il a fallu vérifier une information** avant de la croire ou de la transmettre (une consigne orale, une information sur une personne accompagnée, une rumeur entre collègues) : comment la personne s'y est-elle prise pour vérifier ? Note-le : on en reparlera au retour.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

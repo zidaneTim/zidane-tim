@@ -1,15 +1,19 @@
 # 🚌 Calculer un itinéraire et déposer sa fiche pratique
 
-## La situation
-
+## Contexte et problématique
 
 Tu as repéré la semaine dernière l'adresse de ta structure et quelques services utiles. Il reste à comparer précisément **deux itinéraires complets** et à déposer une fiche pratique claire sur l'ENT, que tu pourras consulter depuis ton téléphone le jour J.
 
 !!! question "Problématique"
     Comment comparer deux itinéraires complets et produire une fiche pratique utilisable le jour de mon départ ?
 
-## 🎯 Atelier : mon itinéraire de PFMP
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : mon itinéraire de PFMP
 
 **Ta mission :** calculer un itinéraire complet selon **2 modes de transport**, et déposer une fiche pratique claire sur l'ENT.
 
@@ -34,8 +38,15 @@ Tu as repéré la semaine dernière l'adresse de ta structure et quelques servic
 !!! tip "Où répondre ?"
     Dépose ta fiche pratique finale (fichier nommé selon la convention) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale) et dans ton espace ENT.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** une fiche pratique de trajet PFMP, complète et correctement nommée, déposée sur l'ENT.
 

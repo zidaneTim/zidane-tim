@@ -1,7 +1,16 @@
 # Comprendre l'accessibilité numérique et adapter un document
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne. On te charge maintenant de le corriger.
+
+!!! note "Retour de PFMP"
+    Lors de ta dernière PFMP, as-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
+
+!!! question "Problématique"
+    Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +21,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — l'accessibilité numérique
+### Notion — l'accessibilité numérique
 
 L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **tous**, y compris les personnes qui voient mal, entendent mal, ou ont des difficultés de lecture. Dans les métiers du **service à la personne**, c'est essentiel.
 
@@ -34,7 +42,7 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Coup de pouce"
     Pour tester le contraste : plisse les yeux devant l'écran. Si tu ne lis plus, une personne malvoyante non plus.
 
-### 🎯 Atelier — je rends le document accessible
+### Atelier — je rends le document accessible
 
 **Ta mission :** corriger le document du menu pour qu'il soit lisible par les résidents de l'EHPAD.
 
@@ -56,27 +64,15 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Où répondre ?"
     Dépose tes 3 problèmes repérés (notion), puis ton menu **avant/après**, le texte alternatif et ta check-list des 5 règles (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Mise en situation
-
-
-Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne. On te charge maintenant de le corriger.
-
-!!! note "Retour de PFMP"
-    Lors de ta dernière PFMP, as-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un traitement de texte avec fonction lecteur d'écran (accessible via l'ENT).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

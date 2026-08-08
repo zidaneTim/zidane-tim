@@ -1,15 +1,13 @@
 # ♿ SQ09 — Un numérique accessible à tous
 
-## La situation
-
+## Contexte et problématique
 
 Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne.
 
 !!! question "Problématique"
     Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -21,14 +19,15 @@ Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** 
 !!! note "Retour de PFMP"
     Tu reviens de stage. As-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
 
-## La notion : l'accessibilité numérique
+## Travail à faire
 
+### Notion — l'accessibilité numérique
 
-### C'est quoi ?
+#### C'est quoi ?
 
 L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **tous**, y compris les personnes qui voient mal, entendent mal, ou ont des difficultés de lecture. Dans les métiers du **service à la personne**, c'est essentiel : le public est souvent âgé ou fragile.
 
-### Les aides que l'ordinateur propose déjà
+#### Les aides que l'ordinateur propose déjà
 
 | Aide | À quoi ça sert | Où |
 |---|---|---|
@@ -36,7 +35,7 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 | **Contraste élevé** | Texte foncé sur fond clair, plus lisible | Paramètres d'accessibilité |
 | **Lecteur d'écran** | L'appareil **lit le texte à voix haute** | Narrateur (Windows), VoiceOver (Apple) |
 
-### Rendre MON document accessible : 5 règles
+#### Rendre MON document accessible : 5 règles
 
 1. **Texte assez grand** (au moins taille 14, plus pour les seniors).
 2. **Bon contraste** : texte foncé sur fond clair (pas gris clair sur jaune).
@@ -44,8 +43,7 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 4. **Du vrai texte**, pas une photo de texte (sinon le lecteur d'écran ne peut pas le lire).
 5. **Une image ? Un texte alternatif** : une courte description écrite de l'image, que le lecteur d'écran lira.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (5 min)"
     Reprendre l'affiche du menu (texte gris clair sur fond jaune, écriture fantaisie, en photo) et lister **3 problèmes** d'accessibilité. Si seul, compare avec la classe dès que possible.
@@ -56,8 +54,7 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Coup de pouce"
     Pour tester le contraste : plisse les yeux devant l'écran. Si tu ne lis plus, une personne malvoyante non plus.
 
-## 🎯 Atelier : je rends le document accessible
-
+### Atelier : je rends le document accessible
 
 **Ta mission :** tu es chargé de **corriger** le document du menu pour qu'il soit lisible par les résidents de l'EHPAD.
 
@@ -79,8 +76,15 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Où répondre ?"
     Dépose ton menu **avant / après**, le texte alternatif de ton image et ta check-list des 5 règles dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

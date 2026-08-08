@@ -1,7 +1,13 @@
 # Concevoir un diaporama lisible pour présenter son stage
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en PFMP. Un diaporama surchargé de texte, illisible depuis le fond de la salle, ne sert à rien : il faut apprendre à faire simple et lisible avant de faire beau, puis s'entraîner à en parler sans le lire.
+
+!!! question "Problématique"
+    Comment construire un diaporama lisible et le présenter oralement de façon claire, dans le temps imparti ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — un diaporama, ça se lit de loin
+### Notion — un diaporama, ça se lit de loin
 
 Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des phrases lues à voix haute), **bon contraste** (texte foncé sur fond clair), **une idée par diapositive**.
 
@@ -29,7 +34,7 @@ Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des
 !!! example "Consigne 3 — seul ou en binôme (15 min)"
     Test de lisibilité (reculer ou réduire la fenêtre) et correction si besoin.
 
-### 🎯 Atelier — oral formatif : ma structure, mes missions
+### Atelier — oral formatif : ma structure, mes missions
 
 **Ta mission :** t'entraîner puis présenter ton stage à l'oral en 3 minutes, à l'aide de ton diaporama.
 
@@ -54,24 +59,15 @@ Trois règles simples : **≤ 30 mots par diapositive** (des mots-clés, pas des
 !!! tip "Où répondre ?"
     Dépose ton diaporama, ta fiche de mots-clés et ton auto-évaluation dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif** de la séquence.
 
-## Mise en situation
-
-
-La classe va présenter à l'oral, dans deux séances, ce qu'elle a observé en PFMP. Un diaporama surchargé de texte, illisible depuis le fond de la salle, ne sert à rien : il faut apprendre à faire simple et lisible avant de faire beau, puis s'entraîner à en parler sans le lire.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment construire un diaporama lisible et le présenter oralement de façon claire, dans le temps imparti ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un logiciel de présentation (PowerPoint, Canva ou équivalent, accessible via l'ENT).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un diaporama lisible de 3 à 5 diapositives et une présentation orale de 3 minutes, en bilan formatif de la séquence.
 

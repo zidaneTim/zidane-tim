@@ -1,7 +1,16 @@
 # Reconnaître et créer un mot de passe solide
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
+
+!!! note "Retour de PFMP"
+    Lors de ta dernière PFMP, as-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
+
+!!! question "Problématique"
+    Comment créer un mot de passe solide, facile à retenir mais impossible à deviner, et le reconnaître parmi d'autres ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +21,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — le mot de passe
+### Notion — le mot de passe
 
 Un mot de passe est **faible** quand il est facile à deviner : `123456`/`azerty` (les plus testés au monde), `Léa2009` (prénom + date de naissance trouvables), `chat` (trop court). D'après la **CNIL**, un bon mot de passe est **long** (au moins **12 caractères**) et **mélange** majuscules, minuscules, chiffres et signes, **sans info personnelle**.
 
@@ -28,7 +36,7 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 !!! tip "Astuce technique"
     Technique classique : remplac des mots par des symboles proches (p. ex. « o » pour « au »), puis ajoute des chiffres et des caractères spéciaux. Vérifie : au moins 12 caractères, 1 majuscule, 1 minuscule, 1 chiffre, 1 symbole.
 
-### 🎯 Atelier — le classement des mots de passe
+### Atelier — le classement des mots de passe
 
 **Ta mission :** tu es le « référent sécurité numérique » de l'équipe. Voici **6 mots de passe**. À toi de les classer du plus **faible** au plus **fort**, puis d'en proposer un meilleur.
 
@@ -57,28 +65,16 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 !!! tip "Où répondre ?"
     Dépose tes 3 raisons et ta phrase de passe (notion), ton classement des 6 mots de passe et la vérification de ta phrase de passe personnelle (atelier, jamais le mot de passe lui-même) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
-
-!!! note "Retour de PFMP"
-    Lors de ta dernière PFMP, as-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment créer un mot de passe solide, facile à retenir mais impossible à deviner, et le reconnaître parmi d'autres ?
-
-## Ressources
-
+## Ressources et outils
 
 - [cnil.fr](https://www.cnil.fr/) — conseils officiels sur les mots de passe.
 - [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/) — en cas de piratage.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

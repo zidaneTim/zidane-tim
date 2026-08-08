@@ -1,6 +1,33 @@
 # 🛡️ Analyser un incident de cybersécurité en structure professionnelle
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Ce matin, la secrétaire du service a reçu un courriel qui semblait venir de la
+direction, lui demandant de régler en urgence une facture par virement. Ta responsable de secteur, alertée à temps
+avant tout paiement, te demande d'analyser ce type d'incident pour préparer un rappel des bons réflexes à
+destination de toute l'équipe.
+
+!!! question "Problématique"
+    « Comment analyser un incident de cybersécurité survenu dans une structure professionnelle, et quels réflexes de
+    sécurisation des postes et des données proposer à l'équipe ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Analyser un cas réel d'incident de cybersécurité en structure professionnelle (type fraude au président / au
+  virement) et en identifier les signaux d'alerte
+- Décrire les réflexes de sécurisation des postes et des comptes partagés en structure (verrouillage de session,
+  protection des données des bénéficiaires)
+
+</div>
+
 ## Travail à faire
+
 
 
 **Analyser le cas et produire une fiche de réflexes**
@@ -40,33 +67,15 @@
 ## Ressources et outils
 
 
+
 - **cybermalveillance.gouv.fr** : dispositif national d'assistance et de prévention contre la cybermalveillance — [lien](https://www.cybermalveillance.gouv.fr){ target="_blank" rel="noopener" }.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.1.3** — Sécurité en structure professionnelle.
 
-Tu es agent du **SAAD de Loudéac**. Ce matin, la secrétaire du service a reçu un courriel qui semblait venir de la
-direction, lui demandant de régler en urgence une facture par virement. Ta responsable de secteur, alertée à temps
-avant tout paiement, te demande d'analyser ce type d'incident pour préparer un rappel des bons réflexes à
-destination de toute l'équipe.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment analyser un incident de cybersécurité survenu dans une structure professionnelle, et quels réflexes de
-    sécurisation des postes et des données proposer à l'équipe ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Analyser un cas réel d'incident de cybersécurité en structure professionnelle (type fraude au président / au
-  virement) et en identifier les signaux d'alerte
-- Décrire les réflexes de sécurisation des postes et des comptes partagés en structure (verrouillage de session,
-  protection des données des bénéficiaires)
-
-</div>
-
-## Grille d'évaluation Sécurité en structure professionnelle (4.1.3)
 
 
 <div class="zt-grille" markdown>

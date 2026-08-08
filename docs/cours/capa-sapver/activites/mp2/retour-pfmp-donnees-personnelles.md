@@ -1,6 +1,31 @@
 # 🔒 Décrire sa communication de stage et résoudre des cas de secret professionnel
 
+## Contexte et problématique
+
+
+
+Tu reviens de ta période de formation en milieu professionnel. Ta responsable de secteur du **SAAD de Loudéac**
+te demande de faire le bilan de la communication observée en structure (transmissions entre collègues, cahier de
+liaison) et de vérifier que tu maîtrises les règles de confidentialité qui s'appliquent aux informations des
+bénéficiaires, avant ta prochaine mission sur le terrain.
+
+!!! question "Problématique"
+    « Quelles règles de communication et de confidentialité un agent doit-il respecter avec les informations des
+    personnes accompagnées ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
+- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Retour de PFMP
@@ -54,33 +79,17 @@
 ## Ressources et outils
 
 
+
 - **CNIL — Le secret professionnel** : définition officielle et professions concernées — [Le secret professionnel](https://www.cnil.fr/fr/le-secret-professionnel){ target="_blank" rel="noopener" }.
 - **CNIL — Les droits pour maîtriser vos données personnelles** : droits d'accès, de rectification et d'effacement — [Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles){ target="_blank" rel="noopener" }.
 - **Traitement de texte (Word)** : mise en page de la fiche de retour et de la fiche réflexe.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **CRCN 4.1.3** — Confidentialité et retour de PFMP.
 
-Tu reviens de ta période de formation en milieu professionnel. Ta responsable de secteur du **SAAD de Loudéac**
-te demande de faire le bilan de la communication observée en structure (transmissions entre collègues, cahier de
-liaison) et de vérifier que tu maîtrises les règles de confidentialité qui s'appliquent aux informations des
-bénéficiaires, avant ta prochaine mission sur le terrain.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Quelles règles de communication et de confidentialité un agent doit-il respecter avec les informations des
-    personnes accompagnées ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
-- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
-
-</div>
-
-## Grille d'évaluation Confidentialité et retour de PFMP (4.1.3)
 
 
 <div class="zt-grille" markdown>

@@ -1,7 +1,6 @@
 # 🎣 SQ05 — Phishing et arnaques en ligne
 
-## La situation
-
+## Contexte et problématique
 
 Samedi matin, tu reçois ce SMS sur ton téléphone :
 
@@ -14,8 +13,7 @@ Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, 
 !!! question "Problématique"
     Comment reconnaître un message piège, et que faire quand on en reçoit un ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -24,14 +22,15 @@ Tu n'attends pas de colis… mais ta sœur, si. Elle hésite à payer. Le soir, 
 
 </div>
 
-## La notion : le phishing (hameçonnage)
+## Travail à faire
 
+### Notion — le phishing (hameçonnage)
 
 Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur envoie un faux message (SMS, courriel, message sur un réseau) pour te faire « mordre à l'hameçon », comme à la pêche.
 
 **Son but :** te voler tes mots de passe, ton numéro de carte bancaire ou ton argent.
 
-### Les 5 indices d'un message piège
+#### Les 5 indices d'un message piège
 
 | Indice | Ce qu'il faut regarder |
 |---|---|
@@ -41,14 +40,14 @@ Le **phishing** (en français : **hameçonnage**) est une arnaque : un fraudeur 
 | **4. Le lien** | Adresse du site qui ne ressemble pas au site officiel (ex. : chrono-livraison-fr.info au lieu de chronopost.fr). |
 | **5. La demande** | On te demande de payer, ou de donner un mot de passe, un code, un numéro de carte. **Un organisme sérieux ne demande jamais ça par message.** |
 
-### Les 4 réflexes face à un message piège
+#### Les 4 réflexes face à un message piège
 
 1. **Je ne clique pas** sur le lien, je ne réponds pas.
 2. **Je vérifie** par le vrai canal : je vais moi-même sur le site officiel ou j'appelle le vrai numéro.
 3. **Je signale** : SMS → je le transfère au **33700** (numéro gratuit de signalement) · courriel → signal-spam.fr · en cas de doute → cybermalveillance.gouv.fr.
 4. **Je supprime** le message. Et si j'ai un doute, **j'en parle à un adulte**.
 
-### Naviguer en sécurité : cadenas, HTTPS et cookies
+#### Naviguer en sécurité : cadenas, HTTPS et cookies
 
 Avant de faire confiance à un site, quelques réflexes rapides :
 
@@ -58,8 +57,7 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 | **Les cookies** | De petits fichiers qu'un site dépose sur ton appareil pour se souvenir de toi (connexion, panier, préférences). Un bandeau te demande de les accepter ou de les refuser : tu peux refuser ceux qui ne sont pas nécessaires. |
 | **Juger si un site est fiable** | Je regarde si l'adresse ressemble vraiment au nom de l'entreprise, je cherche des mentions légales (nom, contact), et je me méfie si rien de tout ça n'est présent. |
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre le SMS « Chronopost » ci-dessus et retrouver les indices de piège qu'il contient. Si seul, compare avec la classe dès que possible.
@@ -82,8 +80,7 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 !!! tip "Où répondre ?"
     Note tes réponses des consignes 1 à 4 dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## 🕵️ Atelier : la chasse au phishing
-
+### Atelier : la chasse au phishing
 
 **Ta mission :** tu es le « détective anti-arnaque » de ta famille. Voici 6 messages reçus cette semaine sur les téléphones et boîtes mail de la maison. À toi de trier : lesquels sont des pièges ? Lesquels sont fiables ?
 
@@ -129,8 +126,15 @@ Avant de faire confiance à un site, quelques réflexes rapides :
 !!! info "À retenir — les bons numéros"
     SMS frauduleux → transfert au **33700** · courriel frauduleux → **signal-spam.fr** · victime ou doute → **cybermalveillance.gouv.fr** (site officiel du gouvernement, avec un adulte).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

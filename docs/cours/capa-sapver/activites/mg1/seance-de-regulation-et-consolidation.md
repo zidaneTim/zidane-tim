@@ -1,15 +1,19 @@
 # 🔧 Séance de régulation et de consolidation
 
-## La situation
-
+## Contexte et problématique
 
 C'est la dernière séance de l'année. Plutôt qu'une nouvelle notion, ce créneau de **marge** sert à consolider, chacun à son rythme, ce qui a été identifié comme moins solide lors du bilan annuel de la séance précédente.
 
 !!! question "Problématique"
     Comment consolider, seul et à mon rythme, les compétences numériques que je maîtrise le moins ?
 
-## 🎯 Atelier : je consolide mes points faibles
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : je consolide mes points faibles
 
 **Ta mission :** reprendre tes 2 compétences à approfondir (identifiées en séance 50) et t'entraîner dessus à l'aide des ressources de l'année.
 
@@ -34,8 +38,15 @@ C'est la dernière séance de l'année. Plutôt qu'une nouvelle notion, ce crén
 !!! tip "Où répondre ?"
     Dépose ton travail de consolidation et ta phrase de bilan final dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+Cette séance de consolidation individuelle porte sur les compétences CRCN identifiées comme fragiles lors du bilan annuel de la séance précédente (exemples cités : 1.3 tableur, 4.1 sécurité) — voir consignes détaillées dans la section *Travail à faire*.
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

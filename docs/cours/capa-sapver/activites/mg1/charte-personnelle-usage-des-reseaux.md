@@ -1,15 +1,19 @@
 # 📜 Ma charte personnelle d'usage des réseaux
 
-## La situation
-
+## Contexte et problématique
 
 Après avoir aidé ton collègue bénévole à repenser sa publication, tu te rends compte que tu n'as toi-même jamais posé par écrit tes propres règles d'usage des réseaux sociaux. C'est le moment de les formaliser, pour toi et pour ta future vie professionnelle.
 
 !!! question "Problématique"
     Quelles règles personnelles vais-je me fixer pour un usage responsable des réseaux sociaux ?
 
-## 🎯 Atelier : débat et charte personnelle
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : débat et charte personnelle
 
 **Ta mission :** débattre des usages des réseaux sociaux avec la classe, puis rédiger ta propre charte de bonnes pratiques.
 
@@ -34,8 +38,15 @@ Après avoir aidé ton collègue bénévole à repenser sa publication, tu te re
 !!! tip "Où répondre ?"
     Dépose ta charte personnelle (6 règles) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

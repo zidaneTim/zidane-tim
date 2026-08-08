@@ -1,15 +1,19 @@
 # 🖱️ Simuler une démarche administrative en ligne
 
-## La situation
-
+## Contexte et problématique
 
 Après avoir appris à repérer un site officiel, il est temps de dérouler une démarche **pas à pas**, comme tu le ferais réellement à côté de M. Le Roux : créer un compte, remplir un formulaire dématérialisé, comprendre les pièces à fournir.
 
 !!! question "Problématique"
     Comment dérouler une démarche administrative en ligne du début à la fin, en expliquant chaque étape ?
 
-## 🎯 Atelier : je simule une démarche administrative
+## Objectifs pédagogiques
 
+_Non renseigné._
+
+## Travail à faire
+
+### Atelier : je simule une démarche administrative
 
 **Ta mission :** simuler une démarche officielle (sans la valider réellement) et produire un guide pas à pas pour un usager.
 
@@ -34,8 +38,15 @@ Après avoir appris à repérer un site officiel, il est temps de dérouler une 
 !!! tip "Où répondre ?"
     Dépose ton guide pas à pas (5 à 7 étapes) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** un guide pas à pas d'une démarche administrative en ligne, compréhensible par un usager non initié.
 

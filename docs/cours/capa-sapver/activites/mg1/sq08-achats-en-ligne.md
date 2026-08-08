@@ -1,15 +1,13 @@
 # 🛒 SQ08 — Acheter en ligne sans se faire avoir
 
-## La situation
-
+## Contexte et problématique
 
 À l'approche du **Black Friday**, tu vois une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site que tu ne connais pas. Ta cousine a commandé : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. Au même moment, une amie te dit : « Moi j'achète tout le temps, même ce dont je n'ai pas besoin, parce que c'est pas cher. »
 
 !!! question "Problématique"
     Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,10 +16,11 @@
 
 </div>
 
-## La notion : acheter en sécurité et consommer responsable
+## Travail à faire
 
+### Notion — acheter en sécurité et consommer responsable
 
-### 1) Un site marchand fiable : les indices
+#### 1) Un site marchand fiable : les indices
 
 Tu as déjà vu le cadenas et le `https://` en SQ05 (Phishing) : on les retrouve ici, appliqués cette fois à l'achat en ligne.
 
@@ -36,7 +35,7 @@ Tu as déjà vu le cadenas et le `https://` en SQ05 (Phishing) : on les retrouve
 !!! warning "Le réflexe qui sauve"
     On ne donne **jamais** son numéro de carte sur un site sans cadenas, sans mentions légales, ou trouvé via une pub trop alléchante.
 
-### 2) Consommer de façon responsable
+#### 2) Consommer de façon responsable
 
 Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 
@@ -44,8 +43,7 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 - **Est-ce durable ?** (un objet solide coûte parfois plus cher mais dure plus longtemps).
 - **Quel impact ?** (fabrication, transport, déchets). C'est l'idée du **Green Friday** : consommer moins mais mieux.
 
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul ou en classe entière (10 min)"
     Reprendre l'offre « baskets à 19 € » et lister **3 indices** qui doivent alerter. Si seul, compare avec la classe dès que possible.
@@ -56,8 +54,7 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 !!! tip "Coup de pouce"
     Le plus prudent **protège la carte** (code SMS, site sécurisé). Le moins prudent, c'est **donner son numéro** en clair à un inconnu.
 
-## 🎯 Atelier : les 3 sites au banc d'essai
-
+### Atelier : les 3 sites au banc d'essai
 
 **Ta mission :** tu es le « conseiller achats » de ta famille. On te soumet **3 sites marchands**. À toi de dire lesquels sont fiables, puis d'en débattre.
 
@@ -86,8 +83,15 @@ Acheter, c'est aussi **un choix**. Avant d'acheter, je me demande :
 !!! note "Avant le stage (PFMP)"
     Pendant ta prochaine période en entreprise, **repère un outil numérique professionnel** que tu pourras présenter au retour (logiciel, application, appareil connecté).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

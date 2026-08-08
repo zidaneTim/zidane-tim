@@ -1,7 +1,13 @@
 # Réseaux sociaux : sphère privée et sphère publique
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
+
+!!! question "Problématique"
+    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — sphère privée, sphère publique
+### Notion — sphère privée, sphère publique
 
 La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie de famille, santé, opinions, adresse) : elle mérite protection. La **sphère publique** regroupe ce qu'une personne choisit de rendre visible à tous. Sur un réseau social, la frontière n'est **pas automatique** : c'est **chaque publication** qui doit être pensée en fonction de qui elle concerne et de qui peut la voir. Publier une information concernant **une autre personne** sans son accord peut porter atteinte à sa vie privée et à son **droit à l'image**, même sans mauvaise intention.
 
@@ -29,7 +34,7 @@ La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie 
 !!! example "Consigne 3 — seul (10 min)"
     Rédiger 4 questions à se poser avant toute publication concernant d'autres personnes.
 
-### 🎯 Atelier — débat et charte personnelle
+### Atelier — débat et charte personnelle
 
 **Ta mission :** débattre des usages des réseaux sociaux avec la classe, puis rédiger ta propre charte de bonnes pratiques.
 
@@ -54,24 +59,15 @@ La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie 
 !!! tip "Où répondre ?"
     Dépose ton classement des 4 informations, tes 3 arguments + solution, tes 4 questions et ta charte personnelle dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
-
-## Ressources
-
+## Ressources et outils
 
 - Aucune ressource externe requise — l'activité s'appuie sur les réseaux sociaux et comptes déjà utilisés en classe.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

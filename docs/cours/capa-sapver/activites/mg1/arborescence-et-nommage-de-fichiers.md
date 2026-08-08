@@ -1,7 +1,13 @@
 # 🗂️ Organiser ses fichiers et créer sa fiche de présentation
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**. On te demande ensuite une **fiche de présentation** de toi pour la classe : qu'est-ce que tu peux mettre, et qu'est-ce que tu gardes pour toi ?
+
+!!! question "Problématique"
+    Comment ranger mes fichiers pour les retrouver facilement, et quelles informations sur moi puis-je partager ou dois-je garder privées ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — ranger ses fichiers
+### Notion — ranger ses fichiers
 
 Un **dossier** est une boîte de rangement. On peut mettre des dossiers dans des dossiers (des **sous-dossiers**) : c'est l'**arborescence**.
 
@@ -37,7 +42,7 @@ Un bon nom de fichier permet de **retrouver** et de **trier** sans l'ouvrir. On 
 !!! tip "Coup de pouce"
     Je repère d'abord **de quoi ça parle** (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
 
-### 🎯 Atelier — ma fiche de présentation
+### Atelier — ma fiche de présentation
 
 **Ta mission :** créer une **fiche de présentation** de toi pour la classe (texte + une image), en choisissant bien ce que tu partages.
 
@@ -61,24 +66,15 @@ Quand je me présente en ligne, je choisis ce que je montre. Certaines informati
 !!! tip "Où répondre ?"
     Dépose tes 4 noms de fichiers corrigés et ta fiche de présentation (au bon endroit, au bon nom) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-En fin de semaine, ton prof te demande le compte rendu que tu as fait la semaine dernière. Tu ouvres l'ordinateur… et tu tombes sur **12 fichiers** appelés `Document1`, `sans titre`, `truc`, `image (3)`. Impossible de retrouver le bon ! Pendant ce temps, ta voisine a rangé ses fichiers dans des dossiers clairs : elle retrouve le sien en **5 secondes**. On te demande ensuite une **fiche de présentation** de toi pour la classe : qu'est-ce que tu peux mettre, et qu'est-ce que tu gardes pour toi ?
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment ranger mes fichiers pour les retrouver facilement, et quelles informations sur moi puis-je partager ou dois-je garder privées ?
-
-## Ressources
-
+## Ressources et outils
 
 - Un traitement de texte (accessible via l'ENT).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

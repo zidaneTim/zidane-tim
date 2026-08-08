@@ -1,15 +1,13 @@
 # 📊 SQ11 — Recopier, trier, mettre en forme
 
-## La situation
-
+## Contexte et problématique
 
 Après ton budget de Noël, on te confie une **liste de 15 courses** avec, pour chaque produit, un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Le tableur sait **recopier** une formule d'un seul geste. Et pour t'y retrouver, il sait aussi **trier** et **mettre en couleur**. Ensuite, tu feras le point sur **ce que tu sais déjà faire** avec le numérique, grâce à **Pix**.
 
 !!! question "Problématique"
     Comment aller plus vite au tableur, et comment savoir où j'en suis de mes compétences numériques ?
 
-## Objectifs
-
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -18,29 +16,25 @@ Après ton budget de Noël, on te confie une **liste de 15 courses** avec, pour 
 
 </div>
 
-## La notion : gagner du temps au tableur
+## Travail à faire
 
+### Notion — gagner du temps au tableur
 
-### Recopier une formule
+#### Recopier une formule
 
 Une formule écrite une fois peut être **recopiée** sur toutes les lignes suivantes grâce à la **poignée de recopie** : le petit **carré en bas à droite** de la cellule. On l'attrape et on **tire vers le bas**.
 
 > En **D2** je tape `=B2*C2` (prix × quantité). Je tire la poignée vers le bas : D3 devient `=B3*C3`, D4 devient `=B4*C4`… **automatiquement**.
 
-### Trier un tableau
+#### Trier un tableau
 
 **Trier**, c'est ranger les lignes dans l'ordre : du plus petit au plus grand prix, ou de A à Z. On sélectionne le tableau, puis **Données → Trier**, et on choisit la colonne.
 
-### Mettre en forme
+#### Mettre en forme
 
 La **mise en forme** rend le tableau clair : titres en **gras**, ligne d'en-tête **colorée**, bordures, nombres alignés. Un tableau bien présenté se lit d'un coup d'œil.
 
-### Faire le point : c'est quoi, Pix ?
-
-**Pix** est le service **officiel** français pour **évaluer et certifier** ses compétences numériques (site **pix.fr**). On répond à des défis, et Pix indique **notre niveau** dans chaque domaine, avec des conseils pour progresser. Ce n'est **pas une note** : c'est un **point de repère** pour savoir quoi améliorer.
-
-## ✏️ Je m'entraîne
-
+### Je m'entraîne
 
 !!! example "Consigne 1 — seul (10 min)"
     Créer un tableau : **A = Produit**, **B = Prix**, **C = Quantité**, **D = Total**. Saisir 5 produits. En **D2**, taper `=B2*C2`, valider, puis **recopier** la formule jusqu'en D6 avec la poignée.
@@ -51,8 +45,7 @@ La **mise en forme** rend le tableau clair : titres en **gras**, ligne d'en-têt
 !!! tip "Coup de pouce"
     La poignée de recopie = le **petit carré plein** en bas à droite de la cellule sélectionnée. Le curseur devient une **petite croix noire** : c'est le bon endroit pour tirer.
 
-## 🎯 Atelier : mon positionnement Pix
-
+### Atelier : mon positionnement Pix
 
 **Ta mission :** te connecter à Pix et **répondre au parcours de positionnement** communiqué par ton professeur, pour découvrir ton niveau.
 
@@ -74,8 +67,17 @@ La **mise en forme** rend le tableau clair : titres en **gras**, ligne d'en-têt
 !!! tip "Où répondre ?"
     Dépose une **capture** de ton tableau trié et mis en forme, ainsi que tes 2 + 2 domaines Pix, dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Grille d'évaluation
+## Ressources et outils
 
+_Non renseigné._
+
+## Compétences CRCN et parcours Pix
+
+Faire le point : c'est quoi, Pix ?
+
+**Pix** est le service **officiel** français pour **évaluer et certifier** ses compétences numériques (site **pix.fr**). On répond à des défis, et Pix indique **notre niveau** dans chaque domaine, avec des conseils pour progresser. Ce n'est **pas une note** : c'est un **point de repère** pour savoir quoi améliorer.
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

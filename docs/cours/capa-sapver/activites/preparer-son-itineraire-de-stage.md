@@ -1,7 +1,13 @@
 # Préparer son itinéraire de stage
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
+
+!!! question "Problématique"
+    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +18,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — rechercher et comparer un itinéraire
+### Notion — rechercher et comparer un itinéraire
 
 !!! example "Consigne 1 — seul (10 min)"
     Sur une carte interactive, saisir l'adresse de ta structure de PFMP. Noter la **distance** et la **durée** depuis ton domicile en voiture.
@@ -30,7 +35,7 @@
 !!! example "Consigne 4 — seul (10 min)"
     Rédiger une courte **fiche pratique** provisoire (5-6 lignes) avec : l'adresse exacte de la structure, le mode de transport retenu et sa durée, et les 3 services repérés.
 
-### 🎯 Atelier — comparer les 2 itinéraires et déposer sa fiche
+### Atelier — comparer les 2 itinéraires et déposer sa fiche
 
 **Ta mission :** comparer précisément 2 itinéraires complets et déposer une fiche pratique claire sur l'ENT, consultable depuis ton téléphone le jour J.
 
@@ -55,25 +60,16 @@
 !!! tip "Où répondre ?"
     Dépose ta fiche pratique finale dans ton espace **ENT** selon la convention : `AAAA-MM-JJ_FichePFMP_MonPrénom`. Elle doit être accessible depuis ton téléphone avant le premier jour de PFMP.
 
-## Mise en situation
-
-
-Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
-
-## Ressources
-
+## Ressources et outils
 
 - Une carte interactive en ligne (Google Maps, Mappy ou équivalent), accès libre sans compte pour la recherche d'itinéraire.
 - Ton espace de stockage **ENT** pour déposer la fiche pratique finale.
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 **Production attendue :** une fiche pratique de trajet PFMP, complète et correctement nommée, déposée sur l'ENT.
 

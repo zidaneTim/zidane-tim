@@ -1,7 +1,15 @@
 # 🖥️ Se connecter à l'ENT et respecter la charte numérique
 
-## Objectifs pédagogiques
+## Contexte et problématique
 
+C'est la rentrée. Le lycée te remet une **feuille avec un identifiant et un mot de passe**. Ils servent à te connecter à l'**ENT** (Espace Numérique de Travail) : le site du lycée où tu retrouves ton emploi du temps, tes cours, tes messages et tes documents.
+
+Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolote d'un prof sur la messagerie, tout le monde l'a vue ! » Il rit… mais est-ce vraiment autorisé ?
+
+!!! question "Problématique"
+    Comment me connecter et me repérer seul dans l'ENT, quelles règles dois-je respecter, et comment l'utiliser en autonomie complète ?
+
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -12,8 +20,7 @@
 
 ## Travail à faire
 
-
-### 📘 Notion — l'ENT et ses règles
+### Notion — l'ENT et ses règles
 
 L'**ENT** (Espace Numérique de Travail) est le **site privé du lycée**. Chaque élève a son **compte personnel** (un identifiant + un mot de passe qui n'appartiennent qu'à lui). On y accède avec un navigateur, sur ordinateur ou téléphone.
 
@@ -38,7 +45,7 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! example "Consigne 2 — seul ou en binôme (10 min)"
     Lire les 5 règles de la charte. Pour chaque règle, trouver **un exemple concret** de ce qu'il ne faut **pas** faire. Si seul, compare tes exemples avec un camarade dès que possible.
 
-### 🎯 Atelier — je deviens autonome sur l'ENT
+### Atelier — je deviens autonome sur l'ENT
 
 **Ta mission :** montrer que tu sais utiliser ton espace numérique correctement, comme on te le demandera toute l'année.
 
@@ -60,26 +67,15 @@ La **charte** est le contrat de bon usage que tu signes en début d'année. Elle
 !!! tip "Où répondre ?"
     Note tes réponses (les 3 rubriques, tes exemples de la charte, ton message envoyé, ton fichier retrouvé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
-## Mise en situation
-
-
-C'est la rentrée. Le lycée te remet une **feuille avec un identifiant et un mot de passe**. Ils servent à te connecter à l'**ENT** (Espace Numérique de Travail) : le site du lycée où tu retrouves ton emploi du temps, tes cours, tes messages et tes documents.
-
-Dans le couloir, un camarade se vante : « Moi j'ai déjà mis une photo rigolote d'un prof sur la messagerie, tout le monde l'a vue ! » Il rit… mais est-ce vraiment autorisé ?
-
-## Problématique
-
-
-!!! question "Problématique"
-    Comment me connecter et me repérer seul dans l'ENT, quelles règles dois-je respecter, et comment l'utiliser en autonomie complète ?
-
-## Ressources
-
+## Ressources et outils
 
 - L'ENT du lycée (identifiants distribués en classe).
 
-## Grille d'évaluation
+## Compétences CRCN et parcours Pix
 
+_À compléter._
+
+## Grille d'évaluation
 
 <div class="zt-grille" markdown>
 

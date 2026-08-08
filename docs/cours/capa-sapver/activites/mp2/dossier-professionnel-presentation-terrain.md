@@ -1,6 +1,31 @@
 # ✍️ Rédiger la présentation du terrain et de l'activité de son dossier professionnel
 
+## Contexte et problématique
+
+
+
+Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur attend l'avancée de ton dossier professionnel : les
+deux premières parties (présentation du terrain de stage et description d'une activité) doivent être rédigées
+avec une mise en page soignée. Elle profite de la séance pour rappeler l'importance d'un espace de travail
+numérique propre et léger, en particulier avant une remise de document.
+
+!!! question "Problématique"
+    « Comment rédiger une présentation de structure et une description d'activité claires et bien mises en page,
+    tout en gardant un espace de travail numérique sobre ? »
+
+## Objectifs pédagogiques
+
+
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger la présentation du terrain de PFMP et la description d'une activité en mise en page professionnelle
+- Nettoyer son espace de travail numérique (courriels, doublons, corbeille) avant de poursuivre la rédaction
+
+</div>
+
 ## Travail à faire
+
 
 
 #### A — Digital Cleanup express (15 minutes)
@@ -48,32 +73,16 @@
 ## Ressources et outils
 
 
+
 - **Traitement de texte (Word)** : styles de titres déjà définis dans le modèle de dossier.
 - **Boîte de messagerie et espace de stockage ENT/OneDrive** : nettoyage express.
 
-## Mise en situation
+## Compétences CRCN et parcours Pix
 
+- **Capacité CP4** — Dossier professionnel, parties 1 et 2 (présentation du terrain et de l'activité).
 
-Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur attend l'avancée de ton dossier professionnel : les
-deux premières parties (présentation du terrain de stage et description d'une activité) doivent être rédigées
-avec une mise en page soignée. Elle profite de la séance pour rappeler l'importance d'un espace de travail
-numérique propre et léger, en particulier avant une remise de document.
+## Grille d'évaluation
 
-!!! question "Problématique"
-    « Comment rédiger une présentation de structure et une description d'activité claires et bien mises en page,
-    tout en gardant un espace de travail numérique sobre ? »
-
-## Objectifs
-
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger la présentation du terrain de PFMP et la description d'une activité en mise en page professionnelle
-- Nettoyer son espace de travail numérique (courriels, doublons, corbeille) avant de poursuivre la rédaction
-
-</div>
-
-## Grille d'évaluation Dossier — parties 1 et 2 (CP4)
 
 
 <div class="zt-grille" markdown>
