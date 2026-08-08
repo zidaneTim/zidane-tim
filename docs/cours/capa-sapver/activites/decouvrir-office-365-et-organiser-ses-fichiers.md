@@ -5,6 +5,8 @@
   <div style="color: #7239f6; font-size: 0.85rem; white-space: nowrap;">CRCN 5.2 · CRCN 1.2</div>
 </div>
 
+<div style="color: #7239f6; font-size: 0.8rem; margin-bottom: 1.5rem; font-style: italic;">Parcours Pix associé — Environnement numérique - Socle commun · Information et données - Socle commun</div>
+
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
