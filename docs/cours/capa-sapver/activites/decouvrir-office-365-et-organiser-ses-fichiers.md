@@ -1,22 +1,7 @@
 # 🗂️ Découvrir Office 365 et organiser ses fichiers pour l'année
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Prendre en main Office 365 (OneNote, OneDrive), puis mettre en place un rangement de fichiers qui tient toute l'année, sur l'ordinateur comme en ligne.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 4 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Environnement numérique · Gestion des fichiers</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun · Information et données - Socle commun*</small>
+**CAPa SAPVER 1 — MG1 · Vie sociale**
+CRCN 5.2 · CRCN 1.2
 
 ## Objectifs pédagogiques
 
@@ -43,79 +28,82 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 
 ### A — Se connecter à Office 365 et repérer les outils
 
-!!! example "Étape 1 — seul (10 min)"
-    1. Sur quel site te connectes-tu pour ouvrir Office 365 ? (le lien est donné dans les Ressources de cette fiche)
-    2. Quel identifiant et quel mot de passe utilises-tu ? D'où viennent-ils ?
-    3. Une fois connecté, où cliques-tu pour afficher la liste des applications (le « lanceur d'applications », petite grille de points en haut à gauche de l'écran) ?
-    4. Parmi les applications affichées, lesquelles reconnais-tu déjà (Word, Excel, PowerPoint) ? Lesquelles sont nouvelles pour toi (OneNote, OneDrive, Teams) ?
+Accède au portail Office 365 en utilisant l'identifiant et le mot de passe remis par le lycée (voir le lien dans les Ressources). Une fois connecté, clique sur le **lanceur d'applications** (petite grille de points en haut à gauche) pour voir la liste des outils disponibles.
 
-    !!! tip "Coup de pouce"
-        Si la connexion échoue : vérifie les **majuscules/minuscules**, l'absence d'**espace** avant ou après ton identifiant, et que tu es bien sur le bon site. Toujours bloqué → demande à un adulte.
+1. Parmi les applications affichées, lesquelles reconnais-tu (Word, Excel, PowerPoint) ? Lesquelles découvres-tu pour la première fois (OneNote, OneDrive, Teams) ?
+2. Note les trois outils que tu vas utiliser cette année : OneNote, OneDrive, et Word/Excel.
 
-### B — Découvrir OneNote
+!!! info "Astuce technique"
+    Les identifiants de connexion respectent la casse (majuscules/minuscules). Vérifie qu'il n'y a pas d'espaces avant ou après ton identifiant. Si la connexion échoue, demande à un adulte.
 
-!!! example "Étape 2 — seul (10 min)"
-    1. Dans la liste des applications, quelle icône cliques-tu pour ouvrir **OneNote** ?
-    2. OneNote range ton travail en **blocs-notes**, qui contiennent des **sections**, qui contiennent des **pages**. Un bloc-notes s'affiche-t-il déjà, ou dois-tu en créer un ?
-    3. Quel nom donnes-tu à la section que tu crées pour ce cours ? (utilise l'intitulé du module : « MG1 — Vie sociale »)
-    4. Quel titre donnes-tu à la première page de cette section ?
-    5. Qu'est-ce qui change si tu ouvres ce même bloc-notes depuis un autre ordinateur connecté à ton compte ?
+### B — Découvrir OneNote pour prendre des notes synchronisées
 
-    !!! tip "Coup de pouce"
-        Un bloc-notes OneNote se compare à un vrai classeur : les **sections** sont les intercalaires, les **pages** sont les feuilles à l'intérieur.
+Ouvre **OneNote** depuis le lanceur d'applications.
 
-### C — Découvrir OneDrive et son rôle
+1. OneNote organise ton travail en **blocs-notes** (comme un classeur), contenant des **sections** (intercalaires), elles-mêmes contenant des **pages** (feuilles).
+2. Crée un bloc-notes nommé `CAPa1-2026-2027` ou similaire.
+3. Crée une section intitulée « MG1 — Vie sociale ».
+4. Crée une première page intitulée « Outils et organisation ».
+5. Observe ce qui change si tu fermes OneNote et le rouvres depuis un autre ordinateur du lycée (si possible). Ton bloc-notes est-il synchronisé ?
 
-!!! example "Étape 3 — seul (10 min)"
-    1. Dans la liste des applications, quelle icône cliques-tu pour ouvrir **OneDrive** ?
-    2. D'après ce que tu observes (fichiers déjà présents, bouton « Créer »/« Charger »), à quoi sert OneDrive ?
-    3. Où trouves-tu l'espace de stockage total disponible pour ton compte (regarde en bas de la page ou dans les paramètres) ?
-    4. Si tu déposes un fichier dans OneDrive depuis l'ordinateur de la salle info, peux-tu le retrouver depuis un autre ordinateur du lycée ? Comment le vérifier ?
+### C — Découvrir OneDrive pour ranger tes fichiers à long terme
 
-    !!! tip "Coup de pouce"
-        OneDrive n'est pas un dossier « en plus » : c'est ton espace personnel en ligne, relié à ton compte, pas à un ordinateur précis.
+Ouvre **OneDrive** depuis le lanceur d'applications.
 
-### D — Créer son arborescence OneDrive
+1. Explore l'interface : à quoi sert OneDrive ? (stockage en ligne, accessibilité, partage)
+2. Vérifie l'espace de stockage disponible pour ton compte (consultation en bas de la page ou dans les paramètres).
+3. Comprendre les usages : contrairement au dossier « Documents » d'un PC, OneDrive est **ton** espace personnel, relié à **ton compte**, pas à une machine précise. Un fichier rangé là te suit partout.
 
-!!! example "Étape 4 — seul (15 min)"
-    1. Combien de matières/modules as-tu cette année ? Fais la liste à partir de ton emploi du temps.
-    2. Quel nom donnes-tu au dossier principal qui va tout regrouper ? (par exemple `CAPa1`, sans espace ni accent)
-    3. Dans OneDrive, où cliques-tu pour créer un nouveau dossier ?
-    4. Crée le dossier principal, puis un sous-dossier par matière à l'intérieur (par exemple `MG1-Vie-sociale`, `MP2-Communication`, `Francais`…).
-    5. Un bon nom de fichier permet de le retrouver sans l'ouvrir. Quelle règle vas-tu utiliser pour nommer tes fichiers cette année ? (exemple de règle : `AAAA-MM-JJ_Intitulé_Prénom` — la date à l'envers range les fichiers du plus ancien au plus récent)
-    6. En reprenant cette règle, comment renommerais-tu un fichier appelé `Document1` contenant ton compte rendu de la séance d'aujourd'hui ?
+### D — Créer ton arborescence et appliquer ta règle de nommage
 
-    !!! tip "Coup de pouce"
-        Je repère d'abord **de quoi parle** le fichier (l'intitulé), puis j'ajoute une **date à l'envers** devant et mon **prénom** à la fin. Je remplace chaque espace par un tiret.
+Dans OneDrive, tu vas créer une structure que tu utiliseras toute l'année.
 
-### E — Reproduire l'organisation dans « Documents » du PC et comprendre le local/en ligne
+1. Crée un dossier racine nommé `CAPa1-2026-2027` (sans espaces ni accents).
+2. À l'intérieur, crée un sous-dossier par matière : `MG1-Vie-Sociale`, `MP2-Communication`, `Francais`, etc. (utilise ton emploi du temps comme référence).
+3. Définis ta règle de nommage pour les fichiers. Voici un exemple efficace : `YYYY-MM-DD_Titre-Descriptif_Prenom` 
+   - **Exemple** : `2026-08-08_Decouverte-Office-Driss`
+   - Pourquoi cette ordre ? La date à l'envers range automatiquement du plus ancien au plus récent.
+   - Remplace les espaces par des tirets ; n'utilise pas d'accents.
 
-!!! example "Étape 5 — seul (10 min)"
-    1. Sur l'ordinateur, comment ouvres-tu l'**Explorateur de fichiers** ? Où se trouve le dossier « Documents » ?
-    2. Recrée dans « Documents » la même arborescence que dans OneDrive (dossier principal + un sous-dossier par matière), avec les mêmes noms.
-    3. Si tu enregistres un fichier uniquement dans « Documents » de l'ordinateur de la salle info, puis que tu changes de salle ou d'ordinateur la semaine suivante, que se passe-t-il ?
-    4. Qu'est-ce que la **synchronisation** ? Que se passe-t-il si tu modifies un fichier dans OneDrive depuis le PC du lycée, puis que tu te connectes ensuite depuis un autre appareil ?
-    5. Pour un travail que tu dois absolument retrouver plus tard dans l'année (compte rendu, fiche de présentation, document de stage), vaut-il mieux l'enregistrer uniquement dans « Documents » du PC de la salle info, ou dans OneDrive ? Pourquoi ?
+4. **Applique maintenant cette règle en créant un fichier test** :
+   - Ouvre Word ou Excel.
+   - Écris quelques lignes (ex. : « Découverte d'Office 365, MG1, 08/08/2026 »).
+   - Enregistre ce fichier dans OneDrive, dossier `MG1-Vie-Sociale`, en respectant ta règle de nommage.
+   - Nom proposé : `2026-08-08_Decouverte-Office-365-MG1-VotrePrénom`
+5. Vérifie que le fichier s'affiche bien dans OneDrive en ligne (il devrait apparaître immédiatement).
 
-    !!! tip "Coup de pouce"
-        « Documents » sur un PC de salle informatique n'est pas forcément gardé d'une année sur l'autre (l'ordinateur peut être remis à zéro). OneDrive, lui, est relié à **toi**, pas à une machine.
+### E — Activer la synchronisation locale et vérifier qu'elle fonctionne
 
-!!! success "Défi (pour aller plus loin) ⭐"
-    Ouvre les paramètres de ton compte OneDrive et note l'espace de stockage déjà utilisé et l'espace restant. À ce rythme, combien de fichiers de taille moyenne (une photo, un document) pourrais-tu encore y déposer ?
+La synchronisation permet à OneDrive de se copier automatiquement dans le dossier « Documents » de ton ordinateur.
+
+1. Ouvre l'**Explorateur de fichiers** (Windows + E).
+2. Reproduis dans le dossier « Documents » la même arborescence que dans OneDrive (`CAPa1-2026-2027` + sous-dossiers par matière).
+3. Demande à un adulte comment **activer la synchronisation OneDrive** sur cet ordinateur. (Référence : voir le lien Microsoft en fin de fiche.)
+4. Une fois activée, tu devrais voir apparaître l'arborescence de OneDrive directement dans « Documents ».
+5. **Crée un deuxième fichier test en local** :
+   - Dans le dossier Documents / CAPa1-2026-2027 / MG1-Vie-Sociale, crée un fichier Word.
+   - Nomme-le selon ta règle : `2026-08-08_Test-Synchro-Local-VotrePrénom`
+   - Enregistre-le.
+6. **Vérification** : ouvre OneDrive en ligne. Retrouves-tu ce fichier créé en local ? (Il devrait y être automatiquement.)
+
+!!! info "Note sur la synchronisation"
+    Quand un fichier est synchronisé, une modification en local (Documents du PC) = une modification en ligne (OneDrive) et vice-versa. C'est ce qui te permet de travailler partout sans perdre tes fichiers.
 
 ### Questions de synthèse
 
-- Quelle est la différence entre un fichier enregistré uniquement dans « Documents » du PC de la salle informatique et un fichier enregistré dans OneDrive ?
-- Pourquoi vaut-il mieux ranger tes fichiers de cours dans OneDrive plutôt que sur le disque local de la salle informatique ?
-- Quelle règle vas-tu appliquer toute l'année pour nommer et ranger tes fichiers ?
+1. **Tu dois remettre un travail important en avril.** En utilisant le système que tu viens de mettre en place, explique comment tu vas nommer et ranger ce fichier pour le retrouver facilement dans 6 mois.
 
-??? tip "Vérifier mes réponses"
-    - Un fichier dans « Documents » du PC de la salle info reste sur **cette machine** : si l'ordinateur est remis à zéro ou si tu changes de salle, tu risques de ne plus le retrouver. Un fichier dans OneDrive est **synchronisé en ligne** : il est relié à ton compte et accessible depuis n'importe quel ordinateur connecté.
-    - Parce que OneDrive n'est pas limité à un seul ordinateur de la salle informatique, qui peut être remis à zéro ou utilisé par d'autres élèves : tes fichiers restent accessibles toute l'année, où que tu te connectes.
-    - Un dossier principal, un sous-dossier par matière, et des noms de fichiers construits selon une règle fixe (par exemple `AAAA-MM-JJ_Intitulé_Prénom`), sans espace ni accent.
+2. **OneNote et OneDrive** : tu as créé un bloc-notes OneNote et une arborescence OneDrive. Comment allez-tu les utiliser ensemble toute l'année ? (Exemple : prendre tes notes de cours dans OneNote, ranger les fichiers finalisés dans OneDrive.)
 
-!!! tip "Où répondre ?"
-    Note tes réponses (liste des applications repérées, arborescence créée, règle de nommage choisie, réponses aux questions de synthèse) dans ta trace **OneNote** de la classe, section *MG1 — Vie sociale*.
+3. **Sécurité des données** : l'année dernière, un élève a perdu son compte rendu de stage parce qu'il l'avait enregistré uniquement dans « Documents » d'une salle informatique. Explique pourquoi ce risque n'existe plus avec ton nouveau système.
+
+### Défi — Pour aller plus loin
+
+1. Ouvre les **paramètres de sécurité** de ton compte Office 365 (profil → Paramètres du compte). Note ce que tu observes : quels appareils ont accès à ton compte ? Y a-t-il des sessions actives ?
+
+2. **Modifier un fichier et le vérifier** : prends le fichier test que tu as créé en local, modifie-le (ajoute une phrase), enregistre. Attend 30 secondes, puis regarde ce même fichier dans OneDrive en ligne. Les modifications apparaissent-elles ? Pourquoi ?
+
+3. **Créer un fichier directement en ligne** : depuis OneDrive (en ligne), crée un nouveau fichier Word directement. Retrouves-tu ce fichier dans le dossier Documents de ton ordinateur ? (Après actualisation.)
 
 ## Ressources et outils
 
