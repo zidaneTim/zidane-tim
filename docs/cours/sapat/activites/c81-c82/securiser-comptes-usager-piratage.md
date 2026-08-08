@@ -1,21 +1,16 @@
 # 🔐 Aider Mme Rannou à sécuriser ses comptes après un piratage
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les pratiques à risque d'une usagère à partir de faits observés, avant toute action corrective
+- Sécuriser des comptes (mots de passe robustes, double authentification) en expliquant chaque choix sans jargon
+  technique
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Reconstruire des mots de passe robustes et activer la double authentification après un compte piraté, sans culpabiliser l'usagère</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, mise en place d'une relation de confiance</span>
-  <span>:material-tag-outline: cybermalveillance.gouv.fr · Double authentification</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **Mme Rannou, 76 ans**, bénéficiaire du service, t'appelle affolée : son compte
 Facebook envoie des messages bizarres à toute sa liste de contacts depuis hier, et elle craint d'avoir « fait une
@@ -40,17 +35,7 @@ cliqué la semaine dernière sur un lien reçu par SMS annonçant un colis à r�
     « Comment sécuriser les comptes d'une usagère victime d'un piratage sans la faire culpabiliser, et sans créer un
     nouveau risque en simplifiant à l'excès ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les pratiques à risque d'une usagère à partir de faits observés, avant toute action corrective
-- Sécuriser des comptes (mots de passe robustes, double authentification) en expliquant chaque choix sans jargon
-  technique
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les pratiques à risque de Mme Rannou
 
@@ -123,6 +108,10 @@ plainte éventuelle) : à toi de savoir quoi transmettre et à qui.
   double authentification — [lien](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mots-de-passe){ target="_blank" rel="noopener" }.
 - **Cybermalveillance.gouv.fr — Signaler un acte de cybermalveillance** : procédure officielle de signalement —
   [lien](https://www.cybermalveillance.gouv.fr){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation C8.2 — Sécuriser des comptes après piratage (MP8, prépare l'ECCF E7.4)
 

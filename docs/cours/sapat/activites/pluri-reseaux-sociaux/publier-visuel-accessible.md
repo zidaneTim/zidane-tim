@@ -1,15 +1,5 @@
 # 🖼️ Créer un visuel accessible pour accompagner un message
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Concevoir un visuel accessible (contraste, texte alternatif) associé au message et au public cible travaillés la séance précédente</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — publier des visuels</span>
-  <span>:material-tag-outline: Canva · Accessibilité</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -73,10 +63,7 @@ compréhensible par le plus grand nombre, y compris une personne malvoyante ou u
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
+- **CRCN 3.3** — Adapter les documents à leur finalité
 
 ## Grille d'évaluation Publier un visuel accessible (Pluri MG2)
 

@@ -1,17 +1,5 @@
 # 👵 Une population qui vieillit en Bretagne Centre
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG1 · Approche scientifique</p>
-
-<p class="zt-lede">Que disent les chiffres du recensement sur les communes de Loudéac Communauté – Bretagne Centre ? — Données réelles INSEE</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min (45 min effectives)</span>
-  <span>:material-school-outline: EG1 — Approche scientifique</span>
-  <span>:material-tag-outline: Excel</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Sciences - 2nde pro (Programme 2019, MAJ 2025) · Tableur pour calculer · Tableur pour présenter des données*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -86,12 +74,9 @@ rapport.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
+- **CRCN 1.2** — Gérer des données
+- **CRCN 1.3** — Traiter des données
+- **CRCN 3.3** — Adapter les documents à leur finalité
 
 ## Grille d'évaluation
 

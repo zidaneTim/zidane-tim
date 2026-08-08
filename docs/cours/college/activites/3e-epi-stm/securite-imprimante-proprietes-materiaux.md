@@ -1,21 +1,15 @@
 # 🖨️ Sécurité de l'imprimante 3D et propriétés des matériaux
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Citer les risques et les règles de sécurité propres à l'imprimante 3D de la salle.
+- Réaliser des tests simples sur des matériaux (dureté, conductivité, densité) pour comparer leurs propriétés.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Les matériaux</p>
-
-<p class="zt-lede">Tu vas découvrir les risques propres à l'imprimante 3D de la salle, puis tester concrètement quelques propriétés des matériaux.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Les matériaux</span>
-  <span>:material-tag-outline: Sécurité imprimante · Propriétés des matériaux</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 L'imprimante 3D de la salle (une Creality Ender 6) va servir toute l'année pour fabriquer les objets conçus par
 chaque élève. C'est une machine chauffante, semi-fermée mais avec le dessus ouvert : elle demande des règles de
@@ -26,15 +20,6 @@ fabriquer un objet.
 !!! question "Problématique"
     Quels sont les risques propres à l'imprimante 3D, et comment des tests simples permettent-ils de choisir un
     matériau adapté à un usage ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Citer les risques et les règles de sécurité propres à l'imprimante 3D de la salle.
-- Réaliser des tests simples sur des matériaux (dureté, conductivité, densité) pour comparer leurs propriétés.
-
-</div>
 
 ## Travail à faire
 
@@ -81,6 +66,10 @@ fabriquer un objet.
   technique de la machine et les résultats du groupe pour compléter ta fiche à ton retour.
 - **Fiche technique Creality Ender 6** : affichée en salle (buse jusqu'à 260 °C, plateau jusqu'à 80 °C, volume
   d'impression 250 × 250 × 400 mm).
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.3** — Protéger la santé, le bien-être et l'environnement
 
 ## Grille d'évaluation Sécurité imprimante et propriétés des matériaux
 

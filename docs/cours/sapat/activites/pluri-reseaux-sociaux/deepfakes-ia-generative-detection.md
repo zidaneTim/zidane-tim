@@ -1,15 +1,5 @@
 # 🎭 Distinguer un contenu authentique d'un deepfake
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Construire une grille de détection des deepfakes à partir d'une source officielle et l'appliquer à des cas concrets</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — deepfakes et IA générative</span>
-  <span>:material-tag-outline: CNIL</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -79,10 +69,7 @@ officielle, puis l'appliquer à des cas concrets pour t'entraîner à repérer l
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation Détection des deepfakes (Pluri MG2)
 

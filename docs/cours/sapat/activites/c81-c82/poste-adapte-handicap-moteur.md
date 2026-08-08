@@ -1,21 +1,15 @@
 # 🖱️ Adapter un poste pour M. Le Floch après son AVC
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les contraintes physiques d'un usager en hémiplégie à partir de faits observés, avant tout réglage
+- Adapter la disposition du poste et les réglages système pour un usage à une main, validés par un test réel
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.1 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Adapter un clavier, une souris et un écran pour un usager en hémiplégie, et tester l'adaptation en conditions réelles</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie</span>
-  <span>:material-tag-outline: Accessibilité Windows · Ergonomie</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **M. Le Floch, 59 ans**, a subi un AVC il y a quatre mois qui lui a laissé une
 **hémiplégie droite** (bras et main droite très limités). Il souhaite reprendre l'usage de son ordinateur pour
@@ -40,16 +34,7 @@ utiliser. Il refuse une aide-soignante à côté de lui pendant qu'il tape, par 
     « Quels réglages et quelle disposition du poste permettent à M. Le Floch de retrouver une vraie autonomie
     d'usage avec une seule main, sans qu'on tape à sa place ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les contraintes physiques d'un usager en hémiplégie à partir de faits observés, avant tout réglage
-- Adapter la disposition du poste et les réglages système pour un usage à une main, validés par un test réel
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les contraintes de M. Le Floch
 
@@ -124,6 +109,10 @@ professionnel de santé.
 
 - **Microsoft — Rendez votre PC plus accessible** : réglages d'accessibilité clavier/souris à une main —
   [lien](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 5.2** — Construire un environnement numérique
 
 ## Grille d'évaluation C8.1 — Adapter un poste pour un handicap moteur (MP8, prépare l'ECCF E7.3)
 

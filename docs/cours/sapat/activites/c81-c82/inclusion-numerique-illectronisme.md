@@ -1,24 +1,18 @@
 # 🤝 L'inclusion numérique : comprendre l'illectronisme pour mieux accompagner
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Rechercher et citer des données chiffrées réelles et sourcées sur l'illectronisme en France, et identifier les
+  publics les plus touchés et les facteurs qui l'expliquent
+- Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté, et l'appliquer à un cas
+  réel qui échappe au profil-type de l'illectronisme
+- Construire une carte mentale de synthèse organisant qui est exclu, pourquoi, et ce que fait l'aidant
+
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Avant d'accompagner un usager, comprendre qui est exclu du numérique, pourquoi — et pourquoi ce n'est pas toujours qui l'on croit</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, posture d'accompagnement</span>
-  <span>:material-tag-outline: Insee · ANLCI · carte mentale</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Éducation numérique — émancipation/inclusion*</small>
-
-## Mise en situation
+## Contexte et problématique
 
 **France Services de Loudéac** (15 rue de Moncontour) accueille chaque semaine des usagers en difficulté avec
 leurs démarches administratives dématérialisées. Selon l'Insee (enquête TIC Ménages 2021), **15,4 %** des
@@ -38,19 +32,7 @@ cas de Mme Kervadec bouscule l'idée reçue que seuls les plus âgés sont conce
     « Qui sont les personnes en situation d'illectronisme en France, pourquoi le sont-elles, et que doit faire
     l'aidant numérique quand un cas ne correspond pas au profil attendu ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rechercher et citer des données chiffrées réelles et sourcées sur l'illectronisme en France, et identifier les
-  publics les plus touchés et les facteurs qui l'expliquent
-- Décrire la posture professionnelle de l'aidant numérique face à un usager en difficulté, et l'appliquer à un cas
-  réel qui échappe au profil-type de l'illectronisme
-- Construire une carte mentale de synthèse organisant qui est exclu, pourquoi, et ce que fait l'aidant
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je constitue un mini-dossier chiffré sur l'illectronisme
 
@@ -154,6 +136,11 @@ Organise l'ensemble de ton travail (A à D) en une carte mentale exploitable ava
 - **Coggle** : création de la carte mentale en ligne, gratuit — [coggle.it](https://coggle.it){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en
   situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 2.4** — S'insérer dans le monde numérique
+- **CRCN 1.1** — Mener une recherche et une veille d'information
 
 ## Grille d'évaluation C8.2 — Posture d'accompagnement numérique (MP8, prépare l'ECCF E7.4)
 

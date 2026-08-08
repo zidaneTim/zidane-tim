@@ -1,21 +1,15 @@
 # 🛹 S'initier à SketchUp avec un tutoriel guidé
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Maîtriser les commandes de base de SketchUp (navigation, formes, extrusion, groupes) en suivant un tutoriel pas à pas.
+- Produire un modèle 3D conforme au tutoriel suivi.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Conception 3D</p>
-
-<p class="zt-lede">Avant de modéliser ton propre objet, tu vas apprendre les commandes de base de SketchUp en suivant un tutoriel vidéo, pas à pas.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Conception 3D</span>
-  <span>:material-tag-outline: SketchUp · Modélisation 3D</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 SketchUp est le logiciel de modélisation 3D que tu utiliseras pour concevoir ton propre objet, imprimé ensuite en
 3D. Avant de te lancer sur ton projet personnel, tu dois maîtriser les commandes de base : déplacer la vue, tracer
@@ -25,15 +19,6 @@ projet complet une première fois — c'est ce que tu vas faire aujourd'hui, en 
 !!! question "Problématique"
     Quelles commandes de base de SketchUp me permettent de passer d'une forme simple en deux dimensions à un objet
     en trois dimensions ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Maîtriser les commandes de base de SketchUp (navigation, formes, extrusion, groupes) en suivant un tutoriel pas à pas.
-- Produire un modèle 3D conforme au tutoriel suivi.
-
-</div>
 
 ## Travail à faire
 
@@ -78,6 +63,10 @@ projet complet une première fois — c'est ce que tu vas faire aujourd'hui, en 
 - **SketchUp** : logiciel installé sur ton poste — modélisation 3D.
 - **Tutoriel vidéo — Comment créer un Skate Park sur SketchUp (tuto débutant)** : suis-le du début à la fin, à ton
   rythme — [regarder le tutoriel](https://www.youtube.com/watch?v=TJI1IMuAvOI){ target="_blank" rel="noopener" }
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 3.2** — Développer des documents multimédia
 
 ## Grille d'évaluation Conception 3D — prise en main SketchUp
 

@@ -1,21 +1,15 @@
 # 📔 Formaliser un cahier de liaison numérique pour la famille de Mme Le Roux
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Collaborer">CRCN 2.3</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser une situation de transmission redondante et en identifier la cause avant de proposer un outil
+- Formaliser des fiches de transmission dans un cahier de liaison numérique respectant le secret professionnel
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Transformer des transmissions orales répétitives en fiches de cahier de liaison numérique, dans le respect du secret professionnel</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, mise en place d'une relation de confiance</span>
-  <span>:material-tag-outline: Cahier de liaison numérique</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es agent dans un **EHPAD**. Depuis une semaine, tu suis la situation de
 **Mme Le Roux, 84 ans**, résidente depuis six mois : ses deux enfants, qui vivent à plus de 300 km, appellent
@@ -42,16 +36,7 @@ qui appellent séparément le même jour.
     « Comment transformer des transmissions orales redondantes en un cahier de liaison numérique utile aux familles,
     sans jamais y faire figurer d'information médicale qui ne relève pas de l'agent ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser une situation de transmission redondante et en identifier la cause avant de proposer un outil
-- Formaliser des fiches de transmission dans un cahier de liaison numérique respectant le secret professionnel
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique la redondance des transmissions
 
@@ -121,6 +106,10 @@ La demande d'accès aux données médicales dépasse ton rôle d'agent : à toi 
 ## Ressources et outils
 
 - **OneNote (ou équivalent partagé)** : pour construire le modèle de cahier de liaison numérique.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 2.3** — Collaborer
 
 ## Grille d'évaluation C8.2 — Cahier de liaison numérique (MP8, prépare l'ECCF E7.4)
 

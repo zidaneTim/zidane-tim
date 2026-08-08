@@ -1,33 +1,6 @@
 # 🥕 Manger local en Bretagne Centre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN réinvesties</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème alimentation</p>
-
-<p class="zt-lede">Où sont les producteurs bio du territoire ? — Données réelles de l'Agence Bio, Loudéac Communauté – Bretagne Centre</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (55 min)</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
-</div>
-
-## Mise en situation
-
-L'épicerie sociale et solidaire portée par le **CCAS de Loudéac** veut proposer davantage de produits frais et locaux à ses bénéficiaires. Avant de contacter des fournisseurs, la responsable a besoin d'y voir clair : **combien de professionnels engagés en agriculture biologique** existe-t-il sur le territoire de Loudéac Communauté – Bretagne Centre, que produisent-ils, et où sont-ils installés ?
-
-Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du ministère de l'Agriculture) publie en open data la liste officielle de tous les opérateurs engagés en bio en France, avec le code postal de leur siège social, leurs activités et leur date d'engagement.
-
-**Ton rôle :** tu es agent du CCAS de Loudéac. La responsable de l'épicerie sociale te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour préparer sa recherche de fournisseurs.
-
-!!! question "Problématique"
-    « Quelle est l'offre de producteurs et transformateurs bio sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour aider l'épicerie sociale à s'approvisionner en local ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -51,6 +24,17 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
     | `DATEENGAGEMENT` | date d'engagement en bio |
     | `ACTIVITES` | activités déclarées (production, transformation...) |
     | `ORGANISME CERTIFICATEUR` | organisme certificateur bio |
+
+## Contexte et problématique
+
+L'épicerie sociale et solidaire portée par le **CCAS de Loudéac** veut proposer davantage de produits frais et locaux à ses bénéficiaires. Avant de contacter des fournisseurs, la responsable a besoin d'y voir clair : **combien de professionnels engagés en agriculture biologique** existe-t-il sur le territoire de Loudéac Communauté – Bretagne Centre, que produisent-ils, et où sont-ils installés ?
+
+Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du ministère de l'Agriculture) publie en open data la liste officielle de tous les opérateurs engagés en bio en France, avec le code postal de leur siège social, leurs activités et leur date d'engagement.
+
+**Ton rôle :** tu es agent du CCAS de Loudéac. La responsable de l'épicerie sociale te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour préparer sa recherche de fournisseurs.
+
+!!! question "Problématique"
+    « Quelle est l'offre de producteurs et transformateurs bio sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour aider l'épicerie sociale à s'approvisionner en local ? »
 
 ## Travail à faire
 
@@ -96,6 +80,11 @@ Bonne nouvelle : l'**Agence Bio** (groupement d'intérêt public sous tutelle du
 - **Codes postaux du territoire LCBC** (8 codes, pour le filtrage `Donnees-LCBC`) : 22150, 22210, 22230, 22320, 22330, 22460, 22530, 22600 — établis à partir des 38 communes membres officielles (source : [API Découpage administratif — geo.api.gouv.fr, EPCI Loudéac Communauté – Bretagne Centre](https://geo.api.gouv.fr/epcis/200067460/communes){ target="_blank" rel="noopener" }, base INSEE/Banatic, code EPCI 200067460 — retourne un JSON des 38 communes avec code INSEE et code postal, lien vérifié 23/07).
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité, pour situer le territoire (⚠️ sa liste brute affiche 41 noms car elle mélange des communes déléguées avec les communes membres actuelles ; pour un compte exact, préférer la source INSEE ci-dessus).
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 1.3** — Traiter des données
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

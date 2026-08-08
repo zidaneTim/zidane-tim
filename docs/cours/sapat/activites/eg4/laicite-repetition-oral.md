@@ -1,15 +1,5 @@
 # 🎤 Préparer et répéter la présentation de sa production
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Construire un conducteur d'oral de 4 à 5 minutes, s'enregistrer, s'écouter et corriger avant la présentation au foyer</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Conducteur d'oral · Enregistrement · OneNote</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -117,10 +107,7 @@ mot), on répète, on s'enregistre, on corrige.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
+- **CRCN 2.1** — Interagir
 
 ## Grille d'évaluation CRCN 2.1 — Préparation d'une prise de parole
 

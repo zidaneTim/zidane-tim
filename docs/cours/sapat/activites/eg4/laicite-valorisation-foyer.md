@@ -1,15 +1,5 @@
 # 📢 Diffuser au foyer et évaluer l'impact
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Installer la production dans un lieu de passage, garder une trace numérique de l'action et évaluer ce qu'elle a réellement produit</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Diffusion · Trace numérique · Autoévaluation</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -119,10 +109,7 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
+- **CRCN 2.2** — Partager et publier
 
 ## Grille d'évaluation CRCN 2.2 — Diffusion et valorisation
 

@@ -1,17 +1,5 @@
 # ✉️ Écrire comme un professionnel : courriel, note et diaporama
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Produire les trois écrits professionnels numériques les plus courants d'une structure d'accueil, sur une même situation de travail</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Outlook · Word · PowerPoint · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Communication et collaboration - Socle commun*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -123,11 +111,8 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
+- **CRCN 2.1** — Interagir
+- **CRCN 3.1** — Développer des documents textuels
 
 ## Grille d'évaluation CRCN 2.1 / 3.1 — Écrits professionnels numériques
 

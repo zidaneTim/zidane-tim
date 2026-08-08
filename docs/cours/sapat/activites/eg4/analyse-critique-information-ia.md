@@ -1,17 +1,5 @@
 # 🔎 Vrai, faux, ou généré par une IA ?
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Appliquer une méthode de vérification en 4 gestes à une information circulant en ligne, y compris quand elle a été rédigée ou illustrée par une intelligence artificielle</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Méthode SIFT · IA générative · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA » (non obligatoire en 2nde SAPAT, correspondance thématique directe)*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -124,11 +112,8 @@ rapportent.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 2.4** — S'insérer dans le monde numérique
 
 ## Grille d'évaluation CRCN 1.1 / 2.4 — Analyse critique de l'information
 

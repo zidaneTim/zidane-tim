@@ -1,16 +1,15 @@
 # 🛡️ Découvrir la salle et les familles de matériaux
 
-<p class="zt-kicker">3e EA — EPI STM · Les matériaux</p>
+## Objectifs pédagogiques
 
-<p class="zt-lede">Avant de concevoir et fabriquer ton objet de l'année, tu dois connaître les règles de sécurité de la salle et savoir reconnaître les grandes familles de matériaux.</p>
+<div class="zt-objectifs" markdown>
 
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Les matériaux</span>
-  <span>:material-tag-outline: Sécurité · Familles de matériaux</span>
+- Identifier les risques et les règles de sécurité propres à la salle informatique et à la zone de l'imprimante 3D.
+- Classer des échantillons de matériaux selon leur famille et une propriété observable.
+
 </div>
 
-## Mise en situation
+## Contexte et problématique
 
 Cette année, dans l'atelier « Les matériaux », tu vas concevoir un objet utile puis le faire imprimer en 3D. Avant
 toute manipulation, tu dois connaître la salle dans laquelle tu vas travailler — un poste informatique par élève,
@@ -20,15 +19,6 @@ bois, métaux, plastiques, composites.
 !!! question "Problématique"
     Quelles règles de sécurité s'appliquent dans cette salle, et à quelle famille appartient chaque matériau que je
     vais manipuler cette année ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier les risques et les règles de sécurité propres à la salle informatique et à la zone de l'imprimante 3D.
-- Classer des échantillons de matériaux selon leur famille et une propriété observable.
-
-</div>
 
 ## Travail à faire
 
@@ -77,6 +67,10 @@ bois, métaux, plastiques, composites.
   plastiques, composites) — activité intrinsèquement collective ; si tu es absent ce jour-là, demande à ton
   professeur la liste des échantillons et une photo des zones à risque pour compléter ta fiche à ton retour.
 - **OneNote** : dépôt de ta charte de sécurité et de ton tableau de classement.
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
 
 ## Grille d'évaluation Sécurité et matériaux
 

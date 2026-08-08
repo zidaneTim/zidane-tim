@@ -1,17 +1,5 @@
 # 🎨 Produire l'affiche ou le montage audio du 9 décembre
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Transformer un texte validé en une production numérique sourcée — affiche Canva ou montage audio Audacity — destinée au foyer de l'établissement</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble (avec l'ESC)</span>
-  <span>:material-tag-outline: Canva ou Audacity · Openverse · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -132,12 +120,9 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
+- **CRCN 3.2** — Développer des documents multimédia
+- **CRCN 3.3** — Adapter les documents à leur finalité
+- **CRCN 2.2** — Partager et publier
 
 ## Grille d'évaluation CRCN 3.2 / 3.3 / 2.2 — Production numérique du projet
 

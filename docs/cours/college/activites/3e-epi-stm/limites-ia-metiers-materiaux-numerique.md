@@ -1,22 +1,15 @@
 # 🧠 Les limites de l'IA et les métiers des matériaux
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser pourquoi le modèle d'IA entraîné en séance précédente s'est parfois trompé.
+- Repérer une erreur ou une affirmation fausse dans un texte produit par une IA générative, et identifier des métiers du secteur.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Intelligence artificielle (enrichissement local)</p>
-
-<p class="zt-lede">Pourquoi une IA se trompe-t-elle parfois, et quels métiers se cachent derrière la conception, l'impression et la donnée ?</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — IA · Orientation</span>
-  <span>:material-tag-outline: Limites de l'IA · Métiers du secteur</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu as entraîné un modèle d'IA il y a quelques séances, et tu as sans doute observé qu'il se trompait parfois. C'est
 normal : une IA ne « comprend » pas au sens humain, elle repère des motifs dans les exemples qu'on lui a donnés.
@@ -25,15 +18,6 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
 
 !!! question "Problématique"
     Pourquoi une intelligence artificielle peut-elle se tromper, et comment repérer une erreur qu'elle a produite ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser pourquoi le modèle d'IA entraîné en séance précédente s'est parfois trompé.
-- Repérer une erreur ou une affirmation fausse dans un texte produit par une IA générative, et identifier des métiers du secteur.
-
-</div>
 
 ## Travail à faire
 
@@ -105,6 +89,11 @@ par une IA générative, et découvrir des métiers liés au secteur des matéri
 
 - **Onisep** : présentation des métiers et des formations — [rechercher un métier sur onisep.fr](https://www.onisep.fr/recherche/metiers){ target="_blank" rel="noopener" }
 - **Tes captures du modèle Vittascience** (séance précédente) : base de l'analyse d'erreur.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation Limites de l'IA et métiers (obj. 4)
 

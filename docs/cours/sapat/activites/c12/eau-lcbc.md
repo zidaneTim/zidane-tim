@@ -1,33 +1,6 @@
 # 💧 L'eau du robinet, sur mon territoire : sûre et bien gérée ?
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème eau</p>
-
-<p class="zt-lede">Qualité sanitaire et performance du réseau d'eau potable — Données réelles SISPEA (OFB), Loudéac Communauté – Bretagne Centre</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (55 min)</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du service eau potable de **Loudéac Communauté – Bretagne Centre (LCBC)**. Un élu du territoire, interpellé par un habitant après une alerte vue sur les réseaux sociaux (« l'eau du robinet ne serait plus sûre »), demande au service de préparer un état des lieux factuel : l'eau distribuée sur le territoire respecte-t-elle les normes sanitaires, et le réseau est-il bien entretenu (pas trop de fuites, renouvellement régulier des canalisations) ?
-
-Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assainissement), géré par l'Office Français de la Biodiversité (OFB), publie chaque année en open data les indicateurs officiels de chaque service d'eau potable de France : qualité sanitaire, rendement du réseau, taux de renouvellement des canalisations, etc.
-
-**Ton rôle :** extraire les indicateurs du ou des services d'eau potable qui desservent LCBC, les comparer aux moyennes du département, et rédiger une note factuelle pour l'élu.
-
-!!! question "Problématique"
-    « Le service d'eau potable de Loudéac Communauté – Bretagne Centre respecte-t-il les normes de qualité sanitaire, et son réseau est-il bien entretenu, par rapport aux moyennes du département des Côtes-d'Armor ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -57,6 +30,17 @@ Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assain
     | `p104_3` | rendement du réseau de distribution |
     | `p107_2` | taux moyen de renouvellement des réseaux |
     | `verif_<indicateur>` | statut de fiabilité de l'indicateur (anomalie ou non) |
+
+## Contexte et problématique
+
+Tu es agent du service eau potable de **Loudéac Communauté – Bretagne Centre (LCBC)**. Un élu du territoire, interpellé par un habitant après une alerte vue sur les réseaux sociaux (« l'eau du robinet ne serait plus sûre »), demande au service de préparer un état des lieux factuel : l'eau distribuée sur le territoire respecte-t-elle les normes sanitaires, et le réseau est-il bien entretenu (pas trop de fuites, renouvellement régulier des canalisations) ?
+
+Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assainissement), géré par l'Office Français de la Biodiversité (OFB), publie chaque année en open data les indicateurs officiels de chaque service d'eau potable de France : qualité sanitaire, rendement du réseau, taux de renouvellement des canalisations, etc.
+
+**Ton rôle :** extraire les indicateurs du ou des services d'eau potable qui desservent LCBC, les comparer aux moyennes du département, et rédiger une note factuelle pour l'élu.
+
+!!! question "Problématique"
+    « Le service d'eau potable de Loudéac Communauté – Bretagne Centre respecte-t-il les normes de qualité sanitaire, et son réseau est-il bien entretenu, par rapport aux moyennes du département des Côtes-d'Armor ? »
 
 ## Travail à faire
 
@@ -98,6 +82,11 @@ Le **SISPEA** (Système d'Information sur les Services Publics d'Eau et d'Assain
 - [Services publics d'eau potable — jeux de données SISPEA — data.gouv.fr](https://www.data.gouv.fr/datasets/services-publics-deau-potable-jeux-de-donnees-exploites-pour-les-rapports-nationaux-sispea-1){ target="_blank" rel="noopener" } — fiche officielle : téléchargement des fichiers annuels, producteur OFB.
 - **Code EPCI de Loudéac Communauté – Bretagne Centre : 200067460** — source : [API Découpage administratif — geo.api.gouv.fr](https://geo.api.gouv.fr/epcis/200067460/communes){ target="_blank" rel="noopener" }.
 - **Observatoire Sispea — définitions des indicateurs** : [services.eaufrance.fr/indicateurs](https://www.services.eaufrance.fr/indicateurs){ target="_blank" rel="noopener" } — pour vérifier le sens exact d'un indicateur avant de le citer dans la note.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 1.3** — Traiter des données
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

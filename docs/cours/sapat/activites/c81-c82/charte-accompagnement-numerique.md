@@ -1,21 +1,18 @@
 # 📜 Rédiger la charte de l'accompagnement numérique de la structure
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier les engagements d'une charte professionnelle officielle de médiation numérique, et distinguer les
+  droits RGPD directement mobilisés par un accompagnement numérique d'usager
+- Rédiger collectivement une charte adaptée à la structure d'accueil, sur le modèle d'une charte réelle
+- Mettre la charte à l'épreuve d'un cas réel pour vérifier qu'elle tient face à une demande insistante, et justifier
+  oralement les ajustements apportés après ce test
+
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Fixer par écrit les règles que l'équipe d'aidants numériques s'engage à respecter face aux usagers, avant qu'un incident se reproduise</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, posture d'accompagnement</span>
-  <span>:material-tag-outline: RGPD · ANCT · charte</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Trois semaines après tes débuts à **France Services de Loudéac**, l'équipe s'est agrandie de deux bénévoles. La
 semaine dernière, l'un d'eux a partagé au téléphone avec la fille de **Mme Bourhis** des informations médicales
@@ -43,19 +40,7 @@ cas précis, en binôme.
     « Quelles règles déontologiques un aidant numérique doit-il respecter face aux données et à la confiance d'un
     usager, et tiennent-elles face à une demande insistante d'un proche ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier les engagements d'une charte professionnelle officielle de médiation numérique, et distinguer les
-  droits RGPD directement mobilisés par un accompagnement numérique d'usager
-- Rédiger collectivement une charte adaptée à la structure d'accueil, sur le modèle d'une charte réelle
-- Mettre la charte à l'épreuve d'un cas réel pour vérifier qu'elle tient face à une demande insistante, et justifier
-  oralement les ajustements apportés après ce test
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — J'étudie une charte professionnelle officielle
 
@@ -149,6 +134,10 @@ Reprends le test de la mission D pour finaliser la charte, et prépare-toi à ju
 - **Charte des conseillers numériques** (ANCT, Les Bases du numérique d'intérêt général) : charte professionnelle de référence en 12 engagements — [lesbases.anct.gouv.fr](https://lesbases.anct.gouv.fr/ressources/charte-des-conseillers-numeriques){ target="_blank" rel="noopener" }.
 - **CNIL — Les droits des personnes sur leurs données** : page officielle listant les droits RGPD des usagers — [cnil.fr](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation C8.2 — Charte de l'accompagnement numérique (MP8, prépare l'ECCF E7.4)
 

@@ -1,15 +1,5 @@
 # 🧰 Atelier de consolidation — environnement numérique
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Atelier au choix : reprendre ce qui n'est pas encore acquis sur l'environnement de travail, le rangement des fichiers et la sécurité des accès</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Atelier différencié · OneDrive · OneNote</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -119,12 +109,9 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
+- **CRCN 5.2** — Construire un environnement numérique
+- **CRCN 1.2** — Gérer des données
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation CRCN 5.2 / 1.2 / 4.1 — Consolidation
 

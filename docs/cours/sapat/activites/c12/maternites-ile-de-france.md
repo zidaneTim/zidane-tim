@@ -1,35 +1,6 @@
 # 👶 Maternités en Île-de-France : une capacité en baisse ?
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème santé maternelle · Entraînement ECCF</p>
-
-<p class="zt-lede">Évolution des capacités d'accueil des maternités en Île-de-France entre 2013 et 2023</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (55 min)</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
-</div>
-
-!!! warning "Statut de cette activité — support d'entraînement ECCF"
-    Ce thème **n'est pas enseigné en cours** : il sert de cas pratique pour t'entraîner à l'épreuve certificative ECCF E1.2, sur un sujet que tu découvres le jour même — exactement comme le jour de l'épreuve. Tu mobilises seul les **3 critères** vus toute l'année (Analyse → Traitement → Exposition) sur des données que tu n'as jamais manipulées.
-
-<small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité - Socle commun*</small>
-
-## Mise en situation
-
-Tu travailles au service santé publique d'une municipalité d'Île-de-France. **Mme Le Goff**, enceinte de 7 mois et domiciliée au 78 rue de la Varenne à Paris, contacte le service : elle a entendu dire que le nombre de lits de maternité diminue en Île-de-France, et s'inquiète pour son accouchement.
-
-**Ton rôle :** vérifier cette affirmation à partir de données publiques officielles, et informer Mme Le Goff avec des faits plutôt que des rumeurs.
-
-!!! question "Problématique"
-    « L'Île-de-France connaît-elle une réduction de ses capacités d'accueil en maternité entre 2013 et 2023, et quel est l'impact concret pour une future mère comme Mme Le Goff ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -60,6 +31,15 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
     | `LIT_OBS` | nombre de lits d'obstétrique |
     | `SALTRAV` | nombre de salles de travail |
     | `ACCTOT` | nombre d'accouchements dans l'année |
+
+## Contexte et problématique
+
+Tu travailles au service santé publique d'une municipalité d'Île-de-France. **Mme Le Goff**, enceinte de 7 mois et domiciliée au 78 rue de la Varenne à Paris, contacte le service : elle a entendu dire que le nombre de lits de maternité diminue en Île-de-France, et s'inquiète pour son accouchement.
+
+**Ton rôle :** vérifier cette affirmation à partir de données publiques officielles, et informer Mme Le Goff avec des faits plutôt que des rumeurs.
+
+!!! question "Problématique"
+    « L'Île-de-France connaît-elle une réduction de ses capacités d'accueil en maternité entre 2013 et 2023, et quel est l'impact concret pour une future mère comme Mme Le Goff ? »
 
 ## Travail à faire
 
@@ -107,6 +87,10 @@ Tu travailles au service santé publique d'une municipalité d'Île-de-France. *
 - **Loi Lemaire 2016** : présentation officielle (recherche : « Loi pour une République numérique 2016 open data »)
 - [Générateur de cercles KML (Scott Murray)](https://www.scottmurray.me/kml/circle/index.php){ target="_blank" rel="noopener" } — pour générer le cercle de 10 km autour d'une adresse : centre en coordonnées décimales (latitude, longitude) + rayon en kilomètres, export KML à importer dans MyMaps.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des maternités.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

@@ -1,15 +1,5 @@
 # ♿ Une affiche accessible contre l'illectronisme
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Sensibiliser des jeunes à l'illectronisme avec des chiffres réels, sur une affiche qui applique elle-même les règles d'accessibilité qu'elle défend</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Canva · RGAA</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -143,11 +133,8 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
+- **CRCN 3.3** — Adapter les documents à leur finalité
+- **CRCN 2.4** — S'insérer dans le monde numérique
 
 ## Grille d'évaluation CRCN 3.3 / 2.4 — Sensibilisation et accessibilité numérique
 

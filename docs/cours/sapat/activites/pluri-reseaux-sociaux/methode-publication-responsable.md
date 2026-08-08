@@ -1,15 +1,5 @@
 # 📝 Formaliser sa méthode de publication responsable
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Réunir les acquis du trimestre en une méthode écrite de vérification et de publication, réutilisable pour les prochaines activités</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — synthèse critique</span>
-  <span>:material-tag-outline: Méthode collective</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -78,10 +68,7 @@ réutiliseras directement pour publier un texte puis un visuel dans les prochain
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
+- **CRCN 3.1** — Développer des documents textuels
 
 ## Grille d'évaluation Méthode de publication responsable (Pluri MG2)
 

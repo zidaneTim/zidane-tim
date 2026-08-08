@@ -1,21 +1,15 @@
 # 🚜 Construire une solution de mobilité pour M. Guéguen, isolé en campagne
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Rechercher les dispositifs réels de mobilité solidaire disponibles pour une zone rurale isolée
+- Construire une solution combinant plusieurs dispositifs, respectueuse de la dignité de l'usager
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Trouver une solution de mobilité solidaire pour un agriculteur retraité isolé, privé de permis suite à une suspension médicale</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, anticipation et réalisation des démarches</span>
-  <span>:material-tag-outline: Transport à la demande · Covoiturage solidaire</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **M. Guéguen, 74 ans**, agriculteur retraité, vit seul dans une ferme isolée du
 secteur, à plus de 5 km du bourg le plus proche. Son permis de conduire vient d'être suspendu pour raison médicale
@@ -39,16 +33,7 @@ régulièrement au bourg mais n'a jamais osé lui demander.
     « Quelle solution de mobilité solidaire construire pour M. Guéguen, isolé en zone rurale, qui préserve sa
     dignité plutôt que de le réduire à une simple dépendance ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rechercher les dispositifs réels de mobilité solidaire disponibles pour une zone rurale isolée
-- Construire une solution combinant plusieurs dispositifs, respectueuse de la dignité de l'usager
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique la situation d'isolement de M. Guéguen
 
@@ -121,6 +106,10 @@ dispositif retenu.
 - **BreizhGo — Transport à la demande** : dispositif régional de mobilité pour les zones peu desservies —
   [lien](https://www.breizhgo.bzh/faq/question/comment-reserver-un-transport-la-demande){ target="_blank" rel="noopener" }.
 - **BreizhGo** : recherche de dispositifs et cartes de réduction solidaires — [lien](https://www.breizhgo.bzh){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
 
 ## Grille d'évaluation C8.2 — Mobilité solidaire en zone rurale (MP8, prépare l'ECCF E7.4)
 

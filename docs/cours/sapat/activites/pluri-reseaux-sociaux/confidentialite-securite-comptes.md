@@ -1,15 +1,5 @@
 # 🔒 Auditer et sécuriser les paramètres de confidentialité d'un compte
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Vérifier les paramètres de confidentialité et activer la double authentification sur un compte de test</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — confidentialité et sécurité des comptes</span>
-  <span>:material-tag-outline: cybermalveillance.gouv.fr</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -75,10 +65,7 @@ d'informations.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation Confidentialité et sécurité des comptes (Pluri MG2)
 

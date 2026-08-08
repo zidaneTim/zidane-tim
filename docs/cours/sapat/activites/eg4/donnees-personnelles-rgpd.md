@@ -1,17 +1,5 @@
 # 🔐 Les données des usagers ne t'appartiennent pas
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Comprendre les droits RGPD d'un usager et les traduire en une infographie utilisable par une structure d'accueil</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: CNIL · Canva ou PowerPoint · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité - Socle commun*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -120,11 +108,8 @@ leurs données et quels droits ils peuvent exercer.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-</div>
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
+- **CRCN 3.2** — Développer des documents multimédia
 
 ## Grille d'évaluation CRCN 4.2 / 3.2 — Données personnelles
 

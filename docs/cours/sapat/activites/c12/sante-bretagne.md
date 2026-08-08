@@ -1,35 +1,6 @@
 # 🏥 Vieillir en Bretagne Centre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN réinvesties</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème santé</p>
-
-<p class="zt-lede">Quels établissements pour accueillir les personnes âgées ? — Données réelles FINESS (ministère de la Santé / ANS), Loudéac Communauté – Bretagne Centre</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (55 min)</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Bac Pro — Tronc commun MG1 · Tableur pour calculer · Tableur pour présenter des données*</small>
-
-## Mise en situation
-
-Le **CLIC (Centre Local d'Information et de Coordination gérontologique)** de Loudéac reçoit chaque semaine des familles qui cherchent une place en établissement pour un parent âgé. La coordinatrice veut construire un document d'information clair : combien d'établissements existent sur le territoire, de quels types (EHPAD, résidence autonomie, accueil de jour, services à domicile), et où sont-ils situés ?
-
-Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociaux), géré par l'Agence du Numérique en Santé (ANS) pour le ministère chargé de la Santé et alimenté par les ARS, recense officiellement tous les établissements sanitaires, sociaux et médico-sociaux ouverts en France. Il est publié en open data sur data.gouv.fr.
-
-**Ton rôle :** tu es agent du CLIC de Loudéac. La coordinatrice te demande d'extraire les données du territoire, de les traiter et de lui remettre un état des lieux chiffré avec carte, utilisable en rendez-vous avec les familles.
-
-!!! question "Problématique"
-    « Quelle est l'offre d'établissements et de services pour personnes âgées sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour informer les familles ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -52,6 +23,17 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
     | Commune | commune d'implantation |
     | Code postal | code postal |
     | Adresse | adresse de l'établissement |
+
+## Contexte et problématique
+
+Le **CLIC (Centre Local d'Information et de Coordination gérontologique)** de Loudéac reçoit chaque semaine des familles qui cherchent une place en établissement pour un parent âgé. La coordinatrice veut construire un document d'information clair : combien d'établissements existent sur le territoire, de quels types (EHPAD, résidence autonomie, accueil de jour, services à domicile), et où sont-ils situés ?
+
+Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociaux), géré par l'Agence du Numérique en Santé (ANS) pour le ministère chargé de la Santé et alimenté par les ARS, recense officiellement tous les établissements sanitaires, sociaux et médico-sociaux ouverts en France. Il est publié en open data sur data.gouv.fr.
+
+**Ton rôle :** tu es agent du CLIC de Loudéac. La coordinatrice te demande d'extraire les données du territoire, de les traiter et de lui remettre un état des lieux chiffré avec carte, utilisable en rendez-vous avec les familles.
+
+!!! question "Problématique"
+    « Quelle est l'offre d'établissements et de services pour personnes âgées sur le territoire de Loudéac Communauté – Bretagne Centre, et comment la présenter pour informer les familles ? »
 
 ## Travail à faire
 
@@ -95,6 +77,11 @@ Le fichier **FINESS** (Fichier National des Établissements Sanitaires et Sociau
 - [Jeu de données — FINESS Extraction du fichier des établissements](https://www.data.gouv.fr/datasets/finess-extraction-du-fichier-des-etablissements/){ target="_blank" rel="noopener" } — page officielle data.gouv.fr : description, licence, téléchargement du CSV national (ministère de la Santé / ANS). ⚠️ Ce flux cesse d'être mis à jour depuis le 20/07/2026 (bascule vers « Finess+ ») ; les fichiers restent téléchargeables mais figés à la donnée du 04/05/2026 — à surveiller pour la prochaine rentrée. Les deux flux quotidiens qui le remplacent sont [FINESS — Structures](https://www.data.gouv.fr/datasets/finess-structures-1){ target="_blank" rel="noopener" } et [FINESS — Activités](https://www.data.gouv.fr/datasets/finess-activites-1){ target="_blank" rel="noopener" }.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 1.3** — Traiter des données
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

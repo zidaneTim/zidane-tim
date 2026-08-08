@@ -1,15 +1,5 @@
 # 🔍 Vérifier une information selon une méthode SIFT simplifiée
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Appliquer une méthode simple de vérification pour distinguer une information fiable d'une désinformation partagée sur les réseaux</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — fake news et désinformation</span>
-  <span>:material-tag-outline: Méthode SIFT</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -72,10 +62,7 @@ comportement à réutiliser à chaque partage.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
+- **CRCN 1.1** — Mener une recherche et une veille d'information
 
 ## Grille d'évaluation Vérification de l'information (Pluri MG2)
 

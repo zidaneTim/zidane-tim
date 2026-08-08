@@ -1,22 +1,19 @@
 # 🖥️ Préparer le poste libre-service pour M. Guillard
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Résoudre des problèmes techniques">CRCN 5.1</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les besoins, les capacités conservées et les risques de sécurité de l'environnement d'un usager, à
+  partir de faits observés, avant toute action technique
+- Choisir, paramétrer et ajuster des réglages d'accessibilité justifiés par ce diagnostic et par le retour réel de
+  l'usager, et non appliqués par défaut
+- Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, transmettre correctement, et
+  justifier oralement ses choix devant un interlocuteur professionnel
+
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.1 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Un poste réglé « pour tout le monde » n'est réglé pour personne : adapter un espace numérique aux besoins réels d'un usager, et savoir ce qui n'est pas de son ressort</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie et sécurité de l'environnement</span>
-  <span>:material-tag-outline: Accessibilité Windows · Mises à jour · Posture d'aidant</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent d'accueil à France Services de Loudéac**, en compte utilisateur standard (le compte administrateur
 reste réservé au prestataire informatique). **M. Rouault**, ton conseiller référent, te confie la préparation d'un
@@ -49,20 +46,7 @@ type.
     « Quels réglages un agent d'accueil peut-il mettre en place lui-même pour rendre un poste public utilisable par
     M. Guillard, et que doit-il transmettre à qui de droit ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les besoins, les capacités conservées et les risques de sécurité de l'environnement d'un usager, à
-  partir de faits observés, avant toute action technique
-- Choisir, paramétrer et ajuster des réglages d'accessibilité justifiés par ce diagnostic et par le retour réel de
-  l'usager, et non appliqués par défaut
-- Distinguer ce qui relève de l'agent de ce qui relève du prestataire informatique, transmettre correctement, et
-  justifier oralement ses choix devant un interlocuteur professionnel
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les besoins de M. Guillard
 
@@ -189,6 +173,11 @@ justifier chaque choix à l'oral.
   premier niveau — [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mises-a-jour){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en
   situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 5.1** — Résoudre des problèmes techniques
+- **CRCN 5.2** — Construire un environnement numérique
 
 ## Grille d'évaluation C8.1 — Préparation d'un poste pour un usager (MP8, prépare l'ECCF E7.3)
 

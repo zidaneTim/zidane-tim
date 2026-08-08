@@ -1,17 +1,5 @@
 # 🕊️ Laïcité : cadrer le projet avant de produire
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Chercher à la source ce qu'est la laïcité, choisir un angle, et écrire la fiche de cadrage d'une production destinée au foyer de l'établissement</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble (avec l'ESC)</span>
-  <span>:material-tag-outline: Sources officielles · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — EMI Collège*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -122,10 +110,7 @@ quelles sources, et selon quel plan de travail.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
+- **CRCN 1.1** — Mener une recherche et une veille d'information
 
 ## Grille d'évaluation CRCN 1.1 — Recherche d'information et cadrage de projet
 

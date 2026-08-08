@@ -1,15 +1,5 @@
 # 🫧 Comparer sa bulle de filtres à celle de ses camarades
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Observer comment un algorithme personnalise un fil d'actualité et comparer les résultats entre élèves</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — bulles de filtres</span>
-  <span>:material-tag-outline: Comparatif de classe</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -70,10 +60,7 @@ fils d'actualité respectifs sur un même sujet pour observer concrètement ce p
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
+- **CRCN 1.1** — Mener une recherche et une veille d'information
 
 ## Grille d'évaluation Bulles de filtres (Pluri MG2)
 

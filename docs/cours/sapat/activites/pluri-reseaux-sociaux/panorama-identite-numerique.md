@@ -1,15 +1,5 @@
 # 🗺️ Cartographier ses propres usages des réseaux sociaux
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Faire le point sur ses propres réseaux et usages avant de travailler la publication responsable tout au long de l'année</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — panorama et identité numérique</span>
-  <span>:material-tag-outline: Auto-analyse</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -72,10 +62,7 @@ toujours t'en rendre compte.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
+- **CRCN 2.4** — S'insérer dans le monde numérique
 
 ## Grille d'évaluation Panorama et identité numérique (Pluri MG2)
 

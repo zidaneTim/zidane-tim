@@ -1,15 +1,5 @@
 # ⚖️ Décrire le cadre légal d'une publication avec des personnes identifiables
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Construire une fiche cadre légal du droit à l'image et du RGPD, applicable à des cas de publication concrets</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — droit à l'image et RGPD</span>
-  <span>:material-tag-outline: CNIL</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -70,10 +60,7 @@ cadre légal, applicable à des cas de publication concrets fournis en classe.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation Droit à l'image et RGPD (Pluri MG2)
 

@@ -1,21 +1,15 @@
 # 🤖 L'imprimante 3D, l'IA qui apprend, et le cahier des charges de mon projet
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Décrire les composants et le principe de fonctionnement d'une imprimante 3D à filament (FDM).
+- Entraîner un petit modèle de reconnaissance d'images et en observer les limites ; rédiger le cahier des charges de son objet.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Impression 3D et intelligence artificielle</p>
-
-<p class="zt-lede">Comprends comment fonctionne l'imprimante 3D, entraîne toi-même un petit modèle d'IA, puis lance officiellement ton projet personnel.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Impression 3D · IA (enrichissement local)</span>
-  <span>:material-tag-outline: Imprimante FDM · IA · Cahier des charges</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Trois choses t'attendent aujourd'hui. D'abord comprendre comment fonctionne réellement l'imprimante 3D de la
 salle : ce n'est pas une boîte magique, c'est une machine dont chaque pièce a un rôle précis. Ensuite, découvrir
@@ -26,15 +20,6 @@ charges réaliste, compatible avec la machine et le temps disponible.
 !!! question "Problématique"
     Comment fonctionne une imprimante 3D, comment une IA apprend-elle à reconnaître quelque chose, et quelles
     limites dois-je respecter pour que mon objet soit imprimable dans le temps disponible ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Décrire les composants et le principe de fonctionnement d'une imprimante 3D à filament (FDM).
-- Entraîner un petit modèle de reconnaissance d'images et en observer les limites ; rédiger le cahier des charges de son objet.
-
-</div>
 
 ## Travail à faire
 
@@ -89,6 +74,10 @@ charges réaliste, compatible avec la machine et le temps disponible.
 - **Schéma commenté de la Creality Ender 6** : support présenté en classe — activité intrinsèquement collective ;
   si tu es absent, demande à ton professeur le schéma étudié pour compléter ta fiche à ton retour.
 - **Ton croquis coté** (séance précédente) : base de ton cahier des charges.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.2** — Gérer des données
 
 ## Grille d'évaluation Imprimante 3D, IA et cahier des charges
 

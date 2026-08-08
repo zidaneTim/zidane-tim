@@ -1,22 +1,18 @@
 # 🔍 Préparer le diagnostic numérique de Yanis avant son arrivée
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Anticiper, à partir d'un profil d'usager, ce qu'un diagnostic devra vérifier avant de le mener, puis créer un
+  compte professionnel sur une plateforme de diagnostic numérique reconnue par le secteur de la médiation
+- Réaliser un diagnostic numérique à l'aide d'un exercice en ligne, en observant la prise en main réelle de l'usager
+- Construire une grille de diagnostic papier réutilisable pour un usager sans équipement ni connexion, et justifier
+  oralement ses choix de diagnostic devant un interlocuteur professionnel
+
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Avant de proposer un accompagnement, savoir mesurer précisément le niveau d'autonomie numérique d'un usager avec un outil professionnel reconnu</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, diagnostic numérique</span>
-  <span>:material-tag-outline: Les Bons Clics · grille de diagnostic</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent d'accueil numérique à France Services de Loudéac**. **M. Rouault**, ton conseiller référent,
 t'annonce la venue de **Yanis, 17 ans**, orienté par la mission locale pour une permanence conjointe : sorti du
@@ -48,19 +44,7 @@ comme lui. Vous inverserez les rôles à la prochaine activité de ce type.
     « Comment diagnostiquer précisément le niveau d'autonomie numérique de Yanis avant de lui proposer un
     accompagnement adapté, sans le mettre en échec ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Anticiper, à partir d'un profil d'usager, ce qu'un diagnostic devra vérifier avant de le mener, puis créer un
-  compte professionnel sur une plateforme de diagnostic numérique reconnue par le secteur de la médiation
-- Réaliser un diagnostic numérique à l'aide d'un exercice en ligne, en observant la prise en main réelle de l'usager
-- Construire une grille de diagnostic papier réutilisable pour un usager sans équipement ni connexion, et justifier
-  oralement ses choix de diagnostic devant un interlocuteur professionnel
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique ce que je dois observer chez Yanis
 
@@ -164,6 +148,11 @@ prépare-toi à en justifier chaque choix à l'oral.
 - **Guide Premiers pas sur Les Bons Clics** (PDF) : mode d'emploi de la version papier du diagnostic — [lesrelaisnumeriques.org](https://www.lesrelaisnumeriques.org/wp-content/uploads/2022/02/Guide-Premiers-pas-sur-Les-Bons-Clics.pdf){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en
   situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 5.2** — Construire un environnement numérique
+- **CRCN 2.4** — S'insérer dans le monde numérique
 
 ## Grille d'évaluation C8.2 — Diagnostic numérique d'un usager (MP8, prépare l'ECCF E7.4)
 

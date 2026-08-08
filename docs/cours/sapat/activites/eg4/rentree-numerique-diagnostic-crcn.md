@@ -1,17 +1,5 @@
 # 🚀 Prendre en main son environnement numérique de travail
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Ouvrir, sécuriser et cartographier son espace de travail numérique — puis se situer sur les 16 compétences du cadre national CRCN</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: ENT · Microsoft 365 · OneNote</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -119,11 +107,8 @@ que tu dois travailler en priorité cette année.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
+- **CRCN 5.2** — Construire un environnement numérique
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation CRCN 5.2 / 4.1 — Environnement numérique
 

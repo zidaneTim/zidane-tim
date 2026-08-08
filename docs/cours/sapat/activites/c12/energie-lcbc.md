@@ -1,32 +1,6 @@
 # 🏠 Repérer les foyers exposés à la précarité énergétique
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter un document à sa finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème énergie</p>
-
-<p class="zt-lede">Consommation électrique résidentielle par commune sur le territoire de Loudéac Communauté – Bretagne Centre</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 3 séances (55 min)</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du service Habitat-Énergie de **Loudéac Communauté – Bretagne Centre (LCBC)**, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.
-
-Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage est en précarité énergétique lorsqu'il consacre plus de **8 % de son revenu** aux dépenses d'énergie du logement ; en France, cela concerne environ un ménage sur dix, avec une surexposition des zones rurales et des logements anciens.
-
-**Ton rôle :** à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par site est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.
-
-!!! question "Problématique"
-    « Comment identifier, à partir des données ouvertes de consommation électrique, les communes de Loudéac Communauté – Bretagne Centre les plus exposées à un risque de précarité énergétique, afin d'y cibler une action de sensibilisation ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -56,6 +30,17 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
     | `Conso totale (MWh)` | consommation totale |
     | `Conso moyenne (MWh)` | consommation moyenne par site |
     | `Nombre de mailles secretisées` | nombre de valeurs masquées (secret statistique) |
+
+## Contexte et problématique
+
+Tu es agent du service Habitat-Énergie de **Loudéac Communauté – Bretagne Centre (LCBC)**, qui prépare une campagne de sensibilisation à la précarité énergétique auprès des ménages les plus fragiles du territoire — notamment les personnes âgées vivant seules dans des logements ruraux anciens et mal isolés.
+
+Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage est en précarité énergétique lorsqu'il consacre plus de **8 % de son revenu** aux dépenses d'énergie du logement ; en France, cela concerne environ un ménage sur dix, avec une surexposition des zones rurales et des logements anciens.
+
+**Ton rôle :** à partir des données ouvertes de consommation électrique par commune, identifier les communes de LCBC où la consommation résidentielle moyenne par site est la plus élevée — un indicateur souvent lié à des logements grands, anciens ou mal isolés — pour cibler la campagne et orienter les habitants vers les relais de proximité.
+
+!!! question "Problématique"
+    « Comment identifier, à partir des données ouvertes de consommation électrique, les communes de Loudéac Communauté – Bretagne Centre les plus exposées à un risque de précarité énergétique, afin d'y cibler une action de sensibilisation ? »
 
 ## Travail à faire
 
@@ -106,6 +91,10 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 - **ONPE — précarité énergétique** : définition officielle et chiffres de cadrage (recherche : « ONPE précarité énergétique définition »)
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte des relais de proximité.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité, pour situer le territoire et contacter le service Habitat (⚠️ sa liste brute affiche 41 noms, elle mélange des communes déléguées avec les 38 communes membres actuelles — pour le filtrage de données, utiliser le code EPCI ci-dessus).
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 3.3** — Adapter un document à sa finalité
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

@@ -1,21 +1,15 @@
 # 🧩 Concevoir mon objet utile sous SketchUp
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Modéliser son objet utile sous SketchUp à partir de son croquis coté et de son cahier des charges.
+- Vérifier et préparer le fichier pour l'impression (tranchage) en respectant les contraintes de la machine.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Conception 3D</p>
-
-<p class="zt-lede">À partir de ton croquis coté et de ton cahier des charges, modélise ton propre objet, prêt à être imprimé.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Conception 3D</span>
-  <span>:material-tag-outline: SketchUp · Cura · Impression 3D</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu maîtrises maintenant les commandes de base de SketchUp, et tu as un cahier des charges précis pour ton objet.
 C'est le moment de modéliser ton propre projet, en respectant les contraintes d'imprimabilité : une pièce mal
@@ -24,15 +18,6 @@ l'air correct à l'écran.
 
 !!! question "Problématique"
     Comment transformer mon croquis coté en un modèle 3D réellement imprimable par la machine de la salle ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Modéliser son objet utile sous SketchUp à partir de son croquis coté et de son cahier des charges.
-- Vérifier et préparer le fichier pour l'impression (tranchage) en respectant les contraintes de la machine.
-
-</div>
 
 ## Travail à faire
 
@@ -74,6 +59,10 @@ l'air correct à l'écran.
 - **SketchUp** : logiciel installé sur ton poste — modélisation de ton objet.
 - **Cura** : logiciel installé sur ton poste — tranchage et estimation du temps d'impression avant fabrication.
 - **Ton croquis coté et ton cahier des charges** (séances précédentes) : base de ta modélisation.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 3.2** — Développer des documents multimédia
 
 ## Grille d'évaluation Conception 3D — mon objet utile
 

@@ -1,17 +1,5 @@
 # 🗂️ Organiser et sécuriser son poste de travail numérique
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Un poste de travail bien rangé et bien protégé, c'est un métier fait sans perte de temps ni de données</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: OneDrive</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025) · Information et données - Socle commun*</small>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -130,11 +118,8 @@ retrouvable et protégé.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
+- **CRCN 1.2** — Gérer des données
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation CRCN 1.2 / 4.1 — Environnement numérique
 

@@ -1,21 +1,20 @@
 # 🗂️ Aider la famille Le Gall à classer et conserver ses documents
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Distinguer, dans un ensemble de documents, ce qui relève d'une démarche urgente et ce qui relève d'un archivage de
+  fond, puis construire une arborescence de classement et une convention de nommage exploitables par la famille
+  elle-même
+- Comparer les avantages et les risques d'une clé USB et d'un service cloud pour la conservation de documents
+  personnels, et rechercher une durée légale de conservation à partir d'une source officielle, sans avancer un
+  chiffre non vérifié
+- Justifier oralement ses choix de classement et de support devant un interlocuteur professionnel
+
 </div>
 
-<p class="zt-kicker">1ère Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Un fichier qu'on ne retrouve plus n'existe pas vraiment : construire, avec une famille, un classement qui tiendra encore dans deux ans</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, classement de documents et durées légales de conservation</span>
-  <span>:material-tag-outline: Arborescence de fichiers · USB/cloud · Sauvegarde</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent d'accueil à France Services de Loudéac**. **M. Rouault**, ton conseiller référent, te confie un
 accompagnement : **Mme et M. Le Gall**, 24 ans tous les deux, viennent d'avoir leur premier enfant il y a trois
@@ -46,21 +45,7 @@ Gall (rôle **aidé**). Vous inverserez les rôles à la prochaine activité de 
     « Quels documents de la famille Le Gall faut-il traiter en priorité, comment les classer pour qu'ils s'y
     retrouvent seuls ensuite, et où les conserver en sécurité ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Distinguer, dans un ensemble de documents, ce qui relève d'une démarche urgente et ce qui relève d'un archivage de
-  fond, puis construire une arborescence de classement et une convention de nommage exploitables par la famille
-  elle-même
-- Comparer les avantages et les risques d'une clé USB et d'un service cloud pour la conservation de documents
-  personnels, et rechercher une durée légale de conservation à partir d'une source officielle, sans avancer un
-  chiffre non vérifié
-- Justifier oralement ses choix de classement et de support devant un interlocuteur professionnel
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique l'urgence et les besoins de la famille Le Gall
 
@@ -180,6 +165,10 @@ justifier chaque choix à l'oral.
   [cybermalveillance.gouv.fr/bonnes-pratiques/sauvegardes](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/sauvegardes){ target="_blank" rel="noopener" }.
 - **France Services** : réseau national de points d'accueil aux démarches administratives, structure de la mise en
   situation — [france-services.gouv.fr](https://www.france-services.gouv.fr/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.2** — Gérer des données
 
 ## Grille d'évaluation C8.2 — Classement et conservation de documents (MP8, prépare l'ECCF E7.4)
 

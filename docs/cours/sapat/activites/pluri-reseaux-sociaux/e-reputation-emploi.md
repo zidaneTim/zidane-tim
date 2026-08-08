@@ -1,15 +1,5 @@
 # 💼 Corriger un profil professionnel fictif pour préparer sa recherche d'emploi
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Analyser un profil professionnel fictif du point de vue d'un recruteur et proposer un plan d'amélioration</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — e-réputation et emploi</span>
-  <span>:material-tag-outline: Auto-analyse</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -80,10 +70,7 @@ pour apprendre à les repérer avant qu'un recruteur ne le fasse.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
+- **CRCN 2.4** — S'insérer dans le monde numérique
 
 ## Grille d'évaluation E-réputation et emploi (Pluri MG2)
 

@@ -1,22 +1,15 @@
 # 🎓 Bilan de mon année d'EPI Les matériaux
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Présenter son objet fini au groupe et dresser le bilan de ses compétences de l'année.
+- Porter un regard critique sur l'apport et les limites de l'IA dans son propre projet.
+
 </div>
 
-<p class="zt-kicker">3e EA — EPI STM · Bilan de l'année</p>
-
-<p class="zt-lede">Présente ton objet fini au groupe et fais le bilan de tout ce que tu as appris cette année, y compris sur l'IA.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Bilan de l'année</span>
-  <span>:material-tag-outline: Bilan de compétences · Présentation</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 C'est la dernière séance de l'année dans cet atelier. Tu vas présenter ton objet fini aux autres élèves du groupe,
 puis prendre du recul sur l'ensemble des compétences travaillées depuis la première séance : sécurité, matériaux,
@@ -25,15 +18,6 @@ dessin technique, modélisation 3D, impression, et usage de l'intelligence artif
 !!! question "Problématique"
     Quelles compétences ai-je réellement développées cette année dans cet atelier, et quel regard critique puis-je
     porter sur l'apport de l'IA dans mon propre projet ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Présenter son objet fini au groupe et dresser le bilan de ses compétences de l'année.
-- Porter un regard critique sur l'apport et les limites de l'IA dans son propre projet.
-
-</div>
 
 ## Travail à faire
 
@@ -81,6 +65,11 @@ dessin technique, modélisation 3D, impression, et usage de l'intelligence artif
 ## Ressources et outils
 
 - **Ton objet fini et l'ensemble de tes traces OneNote de l'année** : base de ta présentation et de ton bilan.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.2** — Gérer des données
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
 
 ## Grille d'évaluation Bilan de l'année (obj. 4, obj. 5)
 

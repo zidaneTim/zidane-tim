@@ -1,21 +1,17 @@
 # 👨‍👩‍👧 Conseiller la famille Kerouedan sur les écrans de leurs enfants
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser une situation d'usage numérique familial à partir de repères d'âge officiels, avant toute action
+  technique
+- Paramétrer un contrôle parental différencié et expliquer aux parents la conduite à tenir en cas de contact
+  suspect
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Installer un contrôle parental adapté à l'âge des enfants, sans imposer des règles trop strictes pour la famille</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, mise en place d'une relation de confiance</span>
-  <span>:material-tag-outline: jeprotegemonenfant.gouv.fr</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**, en appui ponctuel d'une **famille accompagnée pour du soutien à la
 parentalité**. **M. et Mme Kerouedan** ont deux enfants, 8 et 12 ans, et s'inquiètent : l'aîné passe des heures sur
@@ -39,18 +35,7 @@ connaissaient pas les repères d'âge recommandés ; ils redoutent d'être perç
     « Comment installer un contrôle parental réellement adapté à l'âge de chaque enfant, sans imposer une coupure
     totale disproportionnée par rapport au risque réel ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser une situation d'usage numérique familial à partir de repères d'âge officiels, avant toute action
-  technique
-- Paramétrer un contrôle parental différencié et expliquer aux parents la conduite à tenir en cas de contact
-  suspect
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les usages des deux enfants
 
@@ -121,6 +106,10 @@ famille sur la conduite à tenir.
 
 - **jeprotegemonenfant.gouv.fr — Écrans** : repères d'âge officiels et conseils de contrôle parental —
   [lien](https://jeprotegemonenfant.gouv.fr/ecrans/){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.3** — Protéger la santé, le bien-être et l'environnement
 
 ## Grille d'évaluation C8.2 — E-parentalité (MP8, prépare l'ECCF E7.4)
 

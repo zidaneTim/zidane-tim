@@ -1,25 +1,6 @@
 # 📐 Lire et réaliser un dessin technique
 
-<p class="zt-kicker">3e EA — EPI STM · Les matériaux</p>
-
-<p class="zt-lede">Avant de modéliser ton objet en 3D, tu dois savoir lire un plan technique et dessiner le tien à la main, avec de vraies cotes.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Les matériaux</span>
-  <span>:material-tag-outline: Dessin technique · Croquis coté</span>
-</div>
-
-## Mise en situation
-
-Ce croquis coté sera la base de ton propre projet : c'est lui que tu retrouveras plus tard pour modéliser ton objet
-sous SketchUp. Un dessin technique doit être compris par n'importe qui, sans explication orale — c'est pour cela
-qu'il utilise des vues, une cotation précise et un vocabulaire technique partagé.
-
-!!! question "Problématique"
-    Comment un dessin technique permet-il de fabriquer un objet sans avoir besoin de voir l'original ?
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -27,6 +8,15 @@ qu'il utilise des vues, une cotation précise et un vocabulaire technique partag
 - Réaliser à la main le croquis coté d'une pièce simple, avec le vocabulaire technique adapté.
 
 </div>
+
+## Contexte et problématique
+
+Ce croquis coté sera la base de ton propre projet : c'est lui que tu retrouveras plus tard pour modéliser ton objet
+sous SketchUp. Un dessin technique doit être compris par n'importe qui, sans explication orale — c'est pour cela
+qu'il utilise des vues, une cotation précise et un vocabulaire technique partagé.
+
+!!! question "Problématique"
+    Comment un dessin technique permet-il de fabriquer un objet sans avoir besoin de voir l'original ?
 
 ## Travail à faire
 
@@ -69,6 +59,10 @@ qu'il utilise des vues, une cotation précise et un vocabulaire technique partag
 - **Plans techniques et matériel de dessin (règle, équerre, crayon)** : supports physiques distribués en classe —
   activité intrinsèquement collective ; si tu es absent, demande à ton professeur le plan étudié en classe et
   réalise ton croquis personnel à ton retour, il reste indispensable pour la suite du projet.
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
 
 ## Grille d'évaluation Dessin technique
 

@@ -1,15 +1,5 @@
 # ✍️ Rédiger un post adapté à un public cible
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Appliquer sa méthode de publication responsable pour réécrire un post et l'adapter à un public cible</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — publier des textes</span>
-  <span>:material-tag-outline: Méthode de publication responsable</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -78,10 +68,7 @@ en l'adaptant à un public cible précis.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
+- **CRCN 3.1** — Développer des documents textuels
 
 ## Grille d'évaluation Publier un texte (Pluri MG2)
 

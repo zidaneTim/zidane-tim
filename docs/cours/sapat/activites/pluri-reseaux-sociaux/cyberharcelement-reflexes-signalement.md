@@ -1,15 +1,5 @@
 # 🆘 Identifier une situation de cyberharcèlement et les recours
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
-
-<p class="zt-lede">Reconnaître les signaux d'une situation de cyberharcèlement et construire une fiche réflexes de signalement</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: Pluri — cyberharcèlement</span>
-  <span>:material-tag-outline: 3018 — e-Enfance</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -78,10 +68,7 @@ réflexes réutilisable, pour toi ou pour un proche confronté à une situation 
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-</div>
+- **CRCN 4.3** — Protéger la santé, le bien-être et l'environnement
 
 ## Grille d'évaluation Cyberharcèlement (Pluri MG2)
 

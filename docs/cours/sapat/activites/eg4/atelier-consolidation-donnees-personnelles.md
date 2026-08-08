@@ -1,15 +1,5 @@
 # 🧰 Atelier de consolidation — données personnelles et traces
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Atelier au choix : reprendre les droits RGPD, le tri des données sensibles et le paramétrage de ses propres comptes</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Atelier différencié · CNIL · OneNote</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -124,11 +114,8 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
+- **CRCN 4.2** — Protéger les données personnelles et la vie privée
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation CRCN 4.2 / 4.1 — Consolidation
 

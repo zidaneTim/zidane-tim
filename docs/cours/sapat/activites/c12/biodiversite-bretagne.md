@@ -1,38 +1,6 @@
 # 🦋 Ces espèces qui ne sont pas d'ici
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN réinvesties</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">1ère Bac Pro SAPAT — C1.2 · Thème biodiversité · Entraînement ECCF</p>
-
-<p class="zt-lede">Les espèces non indigènes recensées commune par commune — Données réelles de l'Observatoire de l'environnement en Bretagne (OEB), Loudéac Communauté – Bretagne Centre</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances (55 min) — entraînement + simulation</span>
-  <span>:material-school-outline: TIM × Mathématiques</span>
-  <span>:material-tag-outline: C1.2 · Excel · Google MyMaps</span>
-</div>
-
-!!! warning "Statut de cette activité — support d'entraînement ECCF"
-    Ce thème **n'est pas enseigné en cours** : il sert de cas pratique pour t'entraîner à l'épreuve certificative ECCF E1.2, sur un sujet que tu découvres le jour même — exactement comme le jour de l'épreuve. Tu mobilises seul les **3 critères** vus toute l'année (Analyse → Traitement → Exposition) sur des données que tu n'as jamais manipulées.
-
-## Mise en situation
-
-Loudéac Communauté – Bretagne Centre (LCBC) engage un **plan de gestion des espèces exotiques envahissantes** (renouée du Japon, jussie, frelon asiatique, ragondin…). Ces espèces, introduites par l'activité humaine, peuvent déséquilibrer les milieux, gêner l'entretien des espaces verts et des cours d'eau, voire poser des problèmes de santé publique.
-
-Avant d'agir, la **chargée de mission biodiversité** du service environnement a besoin d'un état des lieux : combien d'espèces non indigènes sont recensées dans chaque commune du territoire, combien sont réellement **invasives**, et où faut-il concentrer la surveillance et la sensibilisation des agents d'entretien.
-
-L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la liste des espèces non indigènes recensées **commune par commune** en Bretagne, avec pour chacune son statut (invasive avérée, potentielle, à surveiller, ou non invasive).
-
-**Ton rôle :** tu es agent au service environnement de LCBC. La chargée de mission te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour cibler le plan d'action.
-
-!!! question "Problématique"
-    « Quelles espèces non indigènes, et notamment invasives, sont recensées dans les communes de Loudéac Communauté – Bretagne Centre, et comment présenter cet état des lieux pour cibler la surveillance et la sensibilisation sur le territoire ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -59,6 +27,19 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
     | `INVASIVE` | statut d'invasivité (avérée/potentielle/à surveiller/non invasive) |
     | `SOURCE` | source de l'observation |
     | `MAJ` | date de mise à jour |
+
+## Contexte et problématique
+
+Loudéac Communauté – Bretagne Centre (LCBC) engage un **plan de gestion des espèces exotiques envahissantes** (renouée du Japon, jussie, frelon asiatique, ragondin…). Ces espèces, introduites par l'activité humaine, peuvent déséquilibrer les milieux, gêner l'entretien des espaces verts et des cours d'eau, voire poser des problèmes de santé publique.
+
+Avant d'agir, la **chargée de mission biodiversité** du service environnement a besoin d'un état des lieux : combien d'espèces non indigènes sont recensées dans chaque commune du territoire, combien sont réellement **invasives**, et où faut-il concentrer la surveillance et la sensibilisation des agents d'entretien.
+
+L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la liste des espèces non indigènes recensées **commune par commune** en Bretagne, avec pour chacune son statut (invasive avérée, potentielle, à surveiller, ou non invasive).
+
+**Ton rôle :** tu es agent au service environnement de LCBC. La chargée de mission te confie l'étude : extraire les données du territoire, les traiter, et lui remettre une synthèse chiffrée avec carte pour cibler le plan d'action.
+
+!!! question "Problématique"
+    « Quelles espèces non indigènes, et notamment invasives, sont recensées dans les communes de Loudéac Communauté – Bretagne Centre, et comment présenter cet état des lieux pour cibler la surveillance et la sensibilisation sur le territoire ? »
 
 ## Travail à faire
 
@@ -103,6 +84,11 @@ L'**Observatoire de l'environnement en Bretagne (OEB)** publie en open data la l
 - [Tableau de bord « Les espèces non indigènes en Bretagne » — OEB](https://bretagne-environnement.fr/tableau-de-bord/especes-non-indigenes-bretagne){ target="_blank" rel="noopener" } — datavisualisation officielle pour comprendre le contexte avant de traiter les données.
 - [Nos communes — Loudéac Communauté Bretagne Centre](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" } — page officielle de l'intercommunalité : liste des 38 communes membres du territoire.
 - [Google MyMaps](https://www.google.com/mymaps){ target="_blank" rel="noopener" } — pour créer la carte finale.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.1** — Mener une recherche et une veille d'information
+- **CRCN 1.3** — Traiter des données
 
 ## Grille d'évaluation C1.2 (Épreuve E1 — Coeff. 0,5)
 

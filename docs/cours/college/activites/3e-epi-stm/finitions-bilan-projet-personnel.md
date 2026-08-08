@@ -1,16 +1,15 @@
 # 🪛 Finaliser mon objet et bilan de projet
 
-<p class="zt-kicker">3e EA — EPI STM · Mon projet</p>
+## Objectifs pédagogiques
 
-<p class="zt-lede">Ton objet est imprimé : il te reste à le finir proprement, puis à dresser le bilan de ton projet.</p>
+<div class="zt-objectifs" markdown>
 
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Mon projet</span>
-  <span>:material-tag-outline: Finitions · Bilan de projet</span>
+- Finir son objet imprimé avec un outillage simple à main (retrait des supports, ébavurage léger).
+- Dresser le bilan de son projet personnel, du croquis initial à l'objet terminé.
+
 </div>
 
-## Mise en situation
+## Contexte et problématique
 
 Ton objet vient de sortir de l'imprimante 3D (ou en est aux dernières étapes) : il porte encore les traces du
 procédé de fabrication — supports d'impression, petites bavures. Une pièce bien finie se reconnaît à ces détails.
@@ -19,15 +18,6 @@ C'est aussi le moment de prendre du recul sur tout le chemin parcouru depuis ton
 !!! question "Problématique"
     Qu'est-ce qui distingue un objet imprimé « brut » d'un objet fini, et qu'ai-je réellement appris en menant ce
     projet du croquis à l'objet terminé ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Finir son objet imprimé avec un outillage simple à main (retrait des supports, ébavurage léger).
-- Dresser le bilan de son projet personnel, du croquis initial à l'objet terminé.
-
-</div>
 
 ## Travail à faire
 
@@ -71,6 +61,10 @@ C'est aussi le moment de prendre du recul sur tout le chemin parcouru depuis ton
   collective ; si tu es absent, demande à ton professeur de conserver ta pièce pour la finir à ta prochaine
   présence, le bilan écrit reste réalisable à distance à partir des photos des étapes précédentes.
 - **Ton cahier des charges et ton croquis coté** (séances précédentes) : base de comparaison pour le bilan.
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
 
 ## Grille d'évaluation Finitions et bilan de projet (obj. 5)
 

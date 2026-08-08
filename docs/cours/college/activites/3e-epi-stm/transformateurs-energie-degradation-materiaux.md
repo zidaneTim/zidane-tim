@@ -1,16 +1,15 @@
 # ⚙️ Transformateurs d'énergie et dégradation des matériaux
 
-<p class="zt-kicker">3e EA — EPI STM · Les matériaux</p>
+## Objectifs pédagogiques
 
-<p class="zt-lede">Comment un objet technique transforme-t-il l'énergie, et pourquoi certains matériaux s'usent-ils plus vite que d'autres ?</p>
+<div class="zt-objectifs" markdown>
 
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 125 min</span>
-  <span>:material-school-outline: EPI STM — Les matériaux</span>
-  <span>:material-tag-outline: Transformateurs d'énergie · Corrosion et usure</span>
+- Décrire le fonctionnement d'un objet technique qui transforme l'énergie (entrée, transformation, sortie).
+- Identifier des signes de corrosion ou d'usure sur des échantillons dégradés et les traitements de protection associés.
+
 </div>
 
-## Mise en situation
+## Contexte et problématique
 
 Tous les objets techniques transforment de l'énergie : un moteur transforme l'énergie électrique en mouvement, une
 ampoule transforme l'énergie électrique en lumière. Mais les matériaux qui les composent se dégradent avec le
@@ -20,15 +19,6 @@ propre projet, plus tard dans l'année.
 !!! question "Problématique"
     Comment un objet technique transforme-t-il l'énergie, et quels traitements protègent les matériaux contre leur
     dégradation ?
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Décrire le fonctionnement d'un objet technique qui transforme l'énergie (entrée, transformation, sortie).
-- Identifier des signes de corrosion ou d'usure sur des échantillons dégradés et les traitements de protection associés.
-
-</div>
 
 ## Travail à faire
 
@@ -72,6 +62,10 @@ propre projet, plus tard dans l'année.
 - **Objets techniques et échantillons dégradés** : supports physiques présentés en classe — activité
   intrinsèquement collective ; si tu es absent, demande à ton professeur les photos des échantillons dégradés et
   le schéma validé en classe pour compléter ta fiche à ton retour.
+
+## Compétences CRCN et parcours Pix
+
+_À compléter._
 
 ## Grille d'évaluation Énergie et dégradation des matériaux
 

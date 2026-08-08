@@ -1,21 +1,15 @@
 # 🎭 Aider Mme Even à démêler le vrai du faux après un appel suspect
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier les signaux d'alerte d'une arnaque utilisant un contenu généré par IA, à partir d'une source officielle
+- Proposer des réflexes de vérification et de signalement adaptés, sans dissuader l'usagère de tout usage numérique
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Analyser un appel suspect imitant la voix d'un proche et transmettre les bons réflexes de vérification et de signalement</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, mise en place d'une relation de confiance</span>
-  <span>:material-tag-outline: CNIL · cybermalveillance.gouv.fr</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **Mme Even, 83 ans**, bénéficiaire du service, a reçu hier un appel d'une voix
 qu'elle a reconnue comme celle de son petit-fils, en détresse, demandant un virement urgent pour « une caution de
@@ -40,16 +34,7 @@ vidéos de ses petits-enfants sur un réseau social ouvert à tous.
     « Comment expliquer à une usagère comment une voix peut être imitée par l'IA, sans minimiser sa peur ni la
     couper de tout usage numérique par excès de prudence ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier les signaux d'alerte d'une arnaque utilisant un contenu généré par IA, à partir d'une source officielle
-- Proposer des réflexes de vérification et de signalement adaptés, sans dissuader l'usagère de tout usage numérique
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique le mécanisme de l'appel suspect
 
@@ -121,6 +106,10 @@ choix radical.
 - **CNIL — Hypertrucage (deepfake), comment se protéger et signaler** : source officielle sur le mécanisme et le
   signalement — [lien](https://www.cnil.fr/fr/hypertrucage-deepfake){ target="_blank" rel="noopener" }.
 - **Cybermalveillance.gouv.fr** : signalement d'un acte de cybermalveillance — [lien](https://www.cybermalveillance.gouv.fr){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 4.1** — Sécuriser l'environnement numérique
 
 ## Grille d'évaluation C8.2 — Risques en ligne et IA (MP8, prépare l'ECCF E7.4)
 

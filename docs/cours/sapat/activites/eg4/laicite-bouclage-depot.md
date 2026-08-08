@@ -1,15 +1,5 @@
 # ✅ Boucler et déposer la production
 
-<p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
-
-<p class="zt-lede">Contrôler, corriger et déposer une production prête à être diffusée dans un lieu accueillant du public</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 50 min (40 min effectives)</span>
-  <span>:material-school-outline: EG4 — Vivre et agir ensemble</span>
-  <span>:material-tag-outline: Contrôle qualité · ENT · OneNote</span>
-</div>
-
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -120,11 +110,8 @@ terminée, contrôlée et déposée — pas la veille.
 
 ## Compétences CRCN et parcours Pix
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="Collaborer">CRCN 2.3</span>
-</div>
+- **CRCN 3.3** — Adapter les documents à leur finalité
+- **CRCN 2.3** — Collaborer
 
 ## Grille d'évaluation CRCN 3.3 / 2.3 — Finalisation et dépôt
 

@@ -1,21 +1,15 @@
 # 🚌 Organiser les déplacements de Mme Le Bris sans voiture
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Planifier un déplacement multimodal réel en tenant compte d'une contrainte physique temporaire
+- Comparer plusieurs options d'itinéraire et justifier le choix retenu auprès de l'usagère
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.2 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Planifier un déplacement multimodal réel pour une usagère qui ne conduit plus après une opération de la hanche</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.2, anticipation et réalisation des démarches</span>
-  <span>:material-tag-outline: BreizhGo</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **Mme Le Bris, 68 ans**, a été opérée de la hanche il y a un mois et ne peut
 plus conduire pendant sa convalescence, sur avis médical. Elle a un rendez-vous de suivi à l'hôpital de Saint-Brieuc
@@ -39,16 +33,7 @@ fixé à 10h30 précises.
     « Comment construire, avec un outil réel, un itinéraire en transport en commun adapté à une convalescence, en
     limitant la marche et les correspondances serrées ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Planifier un déplacement multimodal réel en tenant compte d'une contrainte physique temporaire
-- Comparer plusieurs options d'itinéraire et justifier le choix retenu auprès de l'usagère
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les contraintes du déplacement
 
@@ -122,6 +107,10 @@ situation.
 - **BreizhGo** : recherche d'itinéraire en transport en commun en Bretagne — [lien](https://www.breizhgo.bzh){ target="_blank" rel="noopener" }.
 - **BreizhGo — Transport à la demande** : conditions de réservation du transport à la demande —
   [lien](https://www.breizhgo.bzh/faq/question/comment-reserver-un-transport-la-demande){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 1.3** — Traiter des données
 
 ## Grille d'évaluation C8.2 — Planifier un déplacement multimodal (MP8, prépare l'ECCF E7.4)
 

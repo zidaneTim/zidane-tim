@@ -1,21 +1,16 @@
 # 🧩 Simplifier l'interface numérique de M. Cadoret
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser les capacités conservées et les difficultés observées de M. Cadoret, avant tout réglage technique
+- Choisir et appliquer des réglages d'accessibilité qui simplifient l'interface sans supprimer les usages qu'il
+  garde
+
 </div>
 
-<p class="zt-kicker">Terminale Bac Pro SAPAT — MP8 · C8.1 — Cadre de vie / Quotidien</p>
-
-<p class="zt-lede">Mobiliser les fonctions d'accessibilité d'un système pour simplifier un poste au début d'une maladie d'Alzheimer</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 55 min</span>
-  <span>:material-school-outline: MP8 — C8.1, organisation de l'espace de vie</span>
-  <span>:material-tag-outline: Accessibilité Windows/Android</span>
-</div>
-
-## Mise en situation
+## Contexte et problématique
 
 Tu es **agent du SAAD de Loudéac**. **M. Cadoret, 81 ans**, débute une maladie d'Alzheimer légère et vit avec son
 épouse, Mme Cadoret, 78 ans. Leur fille, qui vit loin, s'inquiète des oublis de son père et a demandé à la
@@ -41,17 +36,7 @@ de route en disant qu'il « ne se souvient plus de ce qu'il cherchait ».
     « Quels réglages d'accessibilité permettent de simplifier réellement la tablette de M. Cadoret, sans le priver
     des usages auxquels il tient encore ? »
 
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser les capacités conservées et les difficultés observées de M. Cadoret, avant tout réglage technique
-- Choisir et appliquer des réglages d'accessibilité qui simplifient l'interface sans supprimer les usages qu'il
-  garde
-
-</div>
-
-## Missions
+## Travail à faire
 
 ### A — Je diagnostique les besoins de M. Cadoret
 
@@ -126,6 +111,10 @@ M. Cadoret et à l'équipe médico-sociale.
 
 - **Microsoft — Rendez votre PC plus accessible** : réglages d'accessibilité et simplification d'interface —
   [lien](https://www.microsoft.com/fr-fr/windows/tips/accessibility-settings){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+- **CRCN 5.2** — Construire un environnement numérique
 
 ## Grille d'évaluation C8.1 — Simplifier une interface pour un début de maladie cognitive (MP8, prépare l'ECCF E7.3)
 
