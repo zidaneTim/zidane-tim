@@ -1,43 +1,7 @@
 # 🌐 Modifier une page vitrine d'une structure sur un CMS simple
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Mettre à jour une page vitrine du SAAD sur un CMS simple avant le départ en PFMP</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.1 · 4.3</span>
-  <span>:material-tag-outline: Google Sites</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Collaborer en entreprise*</small>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Le site vitrine du service n'a pas été mis à jour depuis plusieurs mois : les
-horaires d'accueil téléphonique affichés ne sont plus les bons. Ta responsable de secteur te confie la mise à jour
-de la page avant ton départ en PFMP la semaine prochaine, pour que l'information soit correcte pendant ton absence.
-
-!!! question "Problématique"
-    « Comment modifier une page existante d'un site vitrine professionnel, avec du texte à jour et une image
-    sourcée, sans casser la mise en page existante ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Modifier une page d'un CMS simple (texte et image sourcée) et la publier
-- Décrire les enjeux de la présence numérique d'une structure de services à la personne (accessibilité de
-  l'information, image professionnelle)
-
-</div>
-
 ## Travail à faire
+
 
 **Mettre à jour la page vitrine et préparer son départ en PFMP**
 
@@ -74,10 +38,34 @@ de la page avant ton départ en PFMP la semaine prochaine, pour que l'informatio
 
 ## Ressources et outils
 
+
 - **Google Sites** : CMS simple pour modifier et publier la page vitrine d'entraînement — [lien](https://sites.google.com){ target="_blank" rel="noopener" }.
 - **Pixabay** : banque d'images libres de droits pour illustrer la page — [lien](https://pixabay.com){ target="_blank" rel="noopener" }.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Le site vitrine du service n'a pas été mis à jour depuis plusieurs mois : les
+horaires d'accueil téléphonique affichés ne sont plus les bons. Ta responsable de secteur te confie la mise à jour
+de la page avant ton départ en PFMP la semaine prochaine, pour que l'information soit correcte pendant ton absence.
+
+!!! question "Problématique"
+    « Comment modifier une page existante d'un site vitrine professionnel, avec du texte à jour et une image
+    sourcée, sans casser la mise en page existante ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Modifier une page d'un CMS simple (texte et image sourcée) et la publier
+- Décrire les enjeux de la présence numérique d'une structure de services à la personne (accessibilité de
+  l'information, image professionnelle)
+
+</div>
+
 ## Grille d'évaluation Vitrine numérique professionnelle (4.3.8)
+
 
 <div class="zt-grille" markdown>
 

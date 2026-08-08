@@ -1,23 +1,7 @@
-# 📊 Recopier, trier, mettre en forme un tableur et se positionner sur Pix
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Gagner du temps au tableur grâce à la recopie de formule, au tri et à la mise en forme, puis se positionner sur un parcours diagnostic Pix.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Tableur · Pix</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix Orga associé (atelier) — Parcours de rentrée - CAP*</small>
+# Recopier, trier, mettre en forme un tableur et se positionner sur Pix
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Tu as aussi déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…) : c'est le moment de faire le point sur ce que tu sais déjà faire, grâce à **Pix**.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment aller plus vite au tableur, et comment savoir où j'en suis de mes compétences numériques ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — gagner du temps au tableur
 
@@ -76,11 +52,24 @@ Une formule écrite une fois peut être **recopiée** sur toutes les lignes suiv
 !!! tip "Où répondre ?"
     Dépose une capture de ton tableau trié et mis en forme (notion), puis tes 2+2 domaines Pix (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Après le budget de Noël des résidents, on te confie la **liste de 15 courses** de l'EHPAD, avec pour chaque produit un **prix unitaire** et une **quantité**. Il faut calculer le total de chaque ligne… Vas-tu vraiment taper **15 fois** la même formule à la main ? Tu as aussi déjà pratiqué plusieurs compétences numériques depuis la rentrée (ENT, fichiers, recherche d'information, mots de passe, tableur…) : c'est le moment de faire le point sur ce que tu sais déjà faire, grâce à **Pix**.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment aller plus vite au tableur, et comment savoir où j'en suis de mes compétences numériques ?
+
 ## Ressources
+
 
 - [pix.fr](https://pix.fr/) — plateforme officielle de positionnement des compétences numériques.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

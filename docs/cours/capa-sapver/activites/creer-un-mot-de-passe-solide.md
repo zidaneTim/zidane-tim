@@ -1,23 +1,7 @@
-# 🔐 Reconnaître et créer un mot de passe solide
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Choisir un mot de passe qu'on retient mais que personne ne devine, puis classer des mots de passe et créer sa propre phrase de passe.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Sécurité numérique</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025)*</small>
+# Reconnaître et créer un mot de passe solide
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,19 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
-
-!!! note "Retour de PFMP"
-    Lors de ta dernière PFMP, as-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment créer un mot de passe solide, facile à retenir mais impossible à deviner, et le reconnaître parmi d'autres ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le mot de passe
 
@@ -52,8 +25,8 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 !!! example "Consigne 2 — seul ou en binôme (10 min)"
     Transformer la phrase « Le samedi je vais au marché avec ma mère » en **phrase de passe** solide (12 caractères minimum, avec chiffres et signes).
 
-!!! tip "Coup de pouce"
-    Je remplace certains mots par des chiffres ou des symboles : *au* → `o`, *avec* → `&`, *et* → `+`. J'ajoute une **majuscule** et un **!** à la fin.
+!!! tip "Astuce technique"
+    Technique classique : remplac des mots par des symboles proches (p. ex. « o » pour « au »), puis ajoute des chiffres et des caractères spéciaux. Vérifie : au moins 12 caractères, 1 majuscule, 1 minuscule, 1 chiffre, 1 symbole.
 
 ### 🎯 Atelier — le classement des mots de passe
 
@@ -84,12 +57,28 @@ L'astuce : partir d'une **phrase facile à retenir**, puis la transformer — *�
 !!! tip "Où répondre ?"
     Dépose tes 3 raisons et ta phrase de passe (notion), ton classement des 6 mots de passe et la vérification de ta phrase de passe personnelle (atelier, jamais le mot de passe lui-même) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Un collègue de l'EHPAD où tu es agent utilise le **même mot de passe partout** : `azerty123`. Pour ses jeux, sa boîte mail, et même son compte bancaire. Un jour, un site où il était inscrit se fait pirater… et **tous ses comptes** sont ouverts en même temps. Résultat : des messages envoyés en son nom et un achat qu'il n'a jamais fait. On te confie ensuite le rôle de « référent sécurité numérique » de l'équipe.
+
+!!! note "Retour de PFMP"
+    Lors de ta dernière PFMP, as-tu observé des mots de passe ou des accès numériques utilisés dans la structure (badge, code, session partagée, tablette professionnelle...) ? Note une pratique que tu as vue.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment créer un mot de passe solide, facile à retenir mais impossible à deviner, et le reconnaître parmi d'autres ?
+
 ## Ressources
+
 
 - [cnil.fr](https://www.cnil.fr/) — conseils officiels sur les mots de passe.
 - [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/) — en cas de piratage.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

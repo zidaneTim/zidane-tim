@@ -1,21 +1,7 @@
-# 🗺️ Préparer son itinéraire de stage
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Utiliser une carte interactive pour préparer son trajet, repérer les services utiles et déposer sa fiche pratique avant sa PFMP 3.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Mobilité numérique</span>
-</div>
+# Préparer son itinéraire de stage
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — rechercher et comparer un itinéraire
 
@@ -75,14 +53,27 @@ Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à
     Chercher s'il existe un **itinéraire de secours** (un 2e mode de transport possible en cas de panne ou de grève) et l'ajouter à la fiche.
 
 !!! tip "Où répondre ?"
-    Dépose ta fiche pratique finale dans ta trace **OneNote** de la classe (section MG1 — Vie sociale) et dans ton espace ENT.
+    Dépose ta fiche pratique finale dans ton espace **ENT** selon la convention : `AAAA-MM-JJ_FichePFMP_MonPrénom`. Elle doit être accessible depuis ton téléphone avant le premier jour de PFMP.
+
+## Mise en situation
+
+
+Ta PFMP 3 commence dans deux semaines. Tu ne connais pas bien le trajet jusqu'à la structure d'accueil, et tu ne sais pas où trouver une pharmacie, un arrêt de bus ou un point restauration à proximité si besoin. Une carte interactive en ligne permet de préparer tout ça avant de partir, plutôt que de le découvrir le premier jour.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment utiliser une carte interactive pour préparer sereinement mon trajet, repérer les services utiles, et garder cette information sous la main le jour J ?
 
 ## Ressources
+
 
 - Une carte interactive en ligne (Google Maps, Mappy ou équivalent), accès libre sans compte pour la recherche d'itinéraire.
 - Ton espace de stockage **ENT** pour déposer la fiche pratique finale.
 
 ## Grille d'évaluation
+
 
 **Production attendue :** une fiche pratique de trajet PFMP, complète et correctement nommée, déposée sur l'ENT.
 

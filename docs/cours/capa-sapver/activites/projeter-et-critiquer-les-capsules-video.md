@@ -1,23 +1,7 @@
 # 👀 Projeter et critiquer les capsules vidéo
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Collaborer">CRCN 2.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Projeter sa capsule vidéo à la classe et formuler une critique constructive entre pairs.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 1 séance</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Création multimédia</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Collaborer en entreprise*</small>
-
 ## La situation
+
 
 Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se termine par une **présentation collective** et des **retours constructifs**, qui permettent de finaliser un projet avant sa diffusion réelle.
 
@@ -25,6 +9,7 @@ Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se t
     Comment donner et recevoir une critique constructive sur un travail créatif ?
 
 ## 🎯 Atelier : projection et critique constructive
+
 
 **Ta mission :** projeter ta capsule à la classe, recevoir des retours, et en donner à tes camarades.
 
@@ -50,6 +35,7 @@ Ta capsule est prête. Comme dans un vrai travail d'équipe, une production se t
     Dépose tes retours donnés, les retours reçus et ton bilan personnel dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

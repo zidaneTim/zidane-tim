@@ -1,21 +1,7 @@
-# 🎣 Reconnaître le phishing et naviguer en sécurité
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Reconnaître un message piégé, connaître les bons réflexes, juger si un site est fiable, puis mener sa propre chasse au phishing.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Sécurité numérique</span>
-</div>
+# Reconnaître le phishing et naviguer en sécurité
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,22 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
-
-!!! quote "SMS reçu"
-    **De :** +33 7 44 XX XX XX
-    « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
-
-Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où. Le soir, une collègue raconte qu'une autre résidente a reçu le même message la semaine dernière et qu'elle a cliqué : 240 € ont disparu de son compte. Dans les jours qui suivent, tu deviens le « référent anti-arnaque » de l'équipe.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment reconnaître un message piège, que faire quand on en reçoit un, et comment trier plusieurs messages reçus ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le phishing (hameçonnage)
 
@@ -96,18 +68,37 @@ Avant de faire confiance à un site : le cadenas et `https://` protègent la con
 !!! tip "Où répondre ?"
     Dépose tes réponses des consignes 1 à 4 (notion), le tableau des 6 verdicts et ta checklist personnelle (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). La checklist sert de base à la mini-évaluation.
 
+## Mise en situation
+
+
+Tu es agent dans un EHPAD. Une résidente te montre ce SMS reçu sur son téléphone :
+
+!!! quote "SMS reçu"
+    **De :** +33 7 44 XX XX XX
+    « Chronopost : votre colis n° FR7241 est bloqué. Réglez 1,95 € sous 24 h pour éviter le retour : chrono-livraison-fr.info/colis »
+
+Elle n'attend pas de colis… mais elle hésite quand même à payer, au cas où. Le soir, une collègue raconte qu'une autre résidente a reçu le même message la semaine dernière et qu'elle a cliqué : 240 € ont disparu de son compte. Dans les jours qui suivent, tu deviens le « référent anti-arnaque » de l'équipe.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment reconnaître un message piège, que faire quand on en reçoit un, et comment trier plusieurs messages reçus ?
+
 ## Ressources
+
 
 - **33700** — signalement SMS frauduleux · **signal-spam.fr** — signalement courriel · [cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr/) — site officiel en cas de doute.
 
 ## Grille d'évaluation
 
+
 <div class="zt-grille" markdown>
 
 | Critère | Indicateurs observables | Niveau |
 |---|---|---|
-| Reconnaissance des indices et navigation sécurisée | Les indices de piège des messages étudiés sont identifiés ; cadenas/https/cookies sont correctement repérés. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-| Tri et checklist | Sur les 6 messages, le verdict est correct et justifié ; la checklist liste les 4 réflexes essentiels. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
-| Conseils de prévention | Les 3 conseils anti-arnaque destinés à un résident ou un collègue sont clairs, adaptés et applicables. | Insatisfaisant / À consolider / Satisfaisant / Très satisfaisant |
+| Reconnaissance des indices et navigation sécurisée | Les indices de piège des messages étudiés sont identifiés ; cadenas/https/cookies sont correctement repérés. | -- / - / + / ++ |
+| Tri et checklist | Sur les 6 messages, le verdict est correct et justifié ; la checklist liste les 4 réflexes essentiels. | -- / - / + / ++ |
+| Conseils de prévention | Les 3 conseils anti-arnaque destinés à un résident ou un collègue sont clairs, adaptés et applicables. | -- / - / + / ++ |
 
 </div>

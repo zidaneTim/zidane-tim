@@ -1,43 +1,7 @@
 # 📅 Concevoir un planning d'interventions accessible
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Construire un planning mensuel d'interventions à domicile et l'adapter en document accessible pour un public fragile</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.2</span>
-  <span>:material-tag-outline: Tableur · Mise en forme conditionnelle</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
-responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
-bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
-souhaite suivre lui-même les jours de passage.
-
-!!! question "Problématique"
-    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
-    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un planning mensuel d'interventions avec repérage automatique des conflits d'horaires par mise en forme
-  conditionnelle
-- Adapter un document en version accessible (contraste, taille de police, structure simplifiée) pour un public
-  fragile
-
-</div>
-
 ## Travail à faire
+
 
 **Construire le planning et sa version accessible**
 
@@ -75,9 +39,35 @@ souhaite suivre lui-même les jours de passage.
 
 ## Ressources et outils
 
+
 - **Tableur (Excel/LibreOffice Calc)** : pour le planning et la mise en forme conditionnelle.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**, à l'approche de la Journée internationale des personnes handicapées. Ta
+responsable de secteur te confie le planning mensuel d'interventions de trois aides à domicile auprès de cinq
+bénéficiaires. Elle te demande aussi une version simplifiée du planning, à remettre à un bénéficiaire malvoyant qui
+souhaite suivre lui-même les jours de passage.
+
+!!! question "Problématique"
+    « Comment construire un planning d'interventions qui repère automatiquement les conflits d'horaires, et comment
+    l'adapter en document accessible pour un bénéficiaire malvoyant ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un planning mensuel d'interventions avec repérage automatique des conflits d'horaires par mise en forme
+  conditionnelle
+- Adapter un document en version accessible (contraste, taille de police, structure simplifiée) pour un public
+  fragile
+
+</div>
+
 ## Grille d'évaluation Planning et accessibilité (3.3)
+
 
 <div class="zt-grille" markdown>
 

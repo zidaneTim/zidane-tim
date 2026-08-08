@@ -1,23 +1,7 @@
-# 🔒 Comprendre le RGPD et ses droits
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Découvrir les 5 droits RGPD, les expliquer à un usager, puis régler la confidentialité d'un compte professionnel.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Données personnelles</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Éducation numérique — espace de droit*</small>
+# Comprendre le RGPD et ses droits
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
-
-## Problématique
-
-!!! question "Problématique"
-    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — les 5 droits RGPD
 
@@ -83,12 +59,25 @@ Le **RGPD** (Règlement Général sur la Protection des Données) est une loi eu
 !!! tip "Où répondre ?"
     Dépose tes 5 droits reformulés, ta réponse à la famille de Mme Kerdal, tes réglages de confidentialité et ton aide-mémoire RGPD dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
+## Mise en situation
+
+
+Tu es agent dans un EHPAD. La fille de Mme Kerdal, résidente, s'inquiète : « On m'a dit que la maison de retraite gardait plein d'informations sur ma mère dans un ordinateur. Est-ce qu'on peut voir ce qu'il y a dedans ? Est-ce qu'on peut demander de l'effacer ? » Tu ne sais pas répondre précisément, mais tu sais que la loi encadre cela : c'est le **RGPD**. Quelques jours plus tard, l'association d'aide à domicile où tu es également agent ouvre une page sur un réseau social pour communiquer avec les familles — on te confie le soin de régler ses paramètres de confidentialité.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Quels sont mes droits sur mes données personnelles, comment les expliquer simplement à quelqu'un, et comment protéger les informations liées à un compte professionnel ?
+
 ## Ressources
+
 
 - [cnil.fr — Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles)
 - Les paramètres de confidentialité du compte utilisé en classe (réseau social ou messagerie de test)
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

@@ -1,44 +1,9 @@
 # 👥 Collaborer à distance et auditer sa présence en ligne avant l'insertion professionnelle
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Collaborer">CRCN 2.3</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Produire à deux sur un document partagé, animer une visio avec partage d'écran, et auditer sa e-réputation avant l'entrée dans la vie active</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.1/4.3</span>
-  <span>:material-tag-outline: Travail collaboratif · Visioconférence · E-réputation</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Une réunion d'équipe doit se tenir à distance avec un binôme en poste sur un
-autre secteur : ta responsable te demande de préparer à deux un compte rendu partagé et de conduire une
-visioconférence de présentation avec partage d'écran. Avant l'entrée définitive dans la vie active, elle te
-recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
-
-!!! question "Problématique"
-    « Comment collaborer efficacement à distance et maîtriser l'image que l'on donne de soi en ligne avant de
-    chercher un emploi ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Produire à deux sur un document partagé en suivant les modifications de chacun
-- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
-
-</div>
-
 ## Travail à faire
 
-### A — Travail collaboratif et visio
+
+#### A — Travail collaboratif et visio
 
 **Collaborer à distance**
 
@@ -56,7 +21,7 @@ recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
     consigne, en simulant les deux rôles (rédaction + relecture croisée de sa propre partie), puis le présentera
     au retour de son binôme.
 
-### B — Audit de sa présence en ligne
+#### B — Audit de sa présence en ligne
 
 **Vérifier son image avant l'insertion professionnelle**
 
@@ -92,11 +57,35 @@ recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
 
 ## Ressources et outils
 
+
 - **Traitement de texte collaboratif de l'ENT** : suivi des modifications et commentaires.
 - **Outil de visioconférence de l'établissement** : fonction de partage d'écran.
 - **CNIL — Maîtriser sa vie privée en ligne** : leviers d'action sur ses données publiées — [Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles){ target="_blank" rel="noopener" }.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Une réunion d'équipe doit se tenir à distance avec un binôme en poste sur un
+autre secteur : ta responsable te demande de préparer à deux un compte rendu partagé et de conduire une
+visioconférence de présentation avec partage d'écran. Avant l'entrée définitive dans la vie active, elle te
+recommande aussi de vérifier ce qu'un employeur pourrait voir de toi en ligne.
+
+!!! question "Problématique"
+    « Comment collaborer efficacement à distance et maîtriser l'image que l'on donne de soi en ligne avant de
+    chercher un emploi ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Produire à deux sur un document partagé en suivant les modifications de chacun
+- Conduire une visioconférence avec partage d'écran et auditer sa présence en ligne
+
+</div>
+
 ## Grille d'évaluation Collaboration et e-réputation (4.3.3 · 4.1.7)
+
 
 <div class="zt-grille" markdown>
 

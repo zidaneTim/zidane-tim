@@ -1,43 +1,9 @@
 # 📊 Faire le bilan de ses compétences et s'entraîner sur ses points faibles
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Évaluer ses compétences MP2 sur une grille bilan et s'entraîner sur les domaines Pix identifiés comme faibles en début d'année</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — consolidation</span>
-  <span>:material-tag-outline: Auto-évaluation · Remédiation · Pix</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Avant d'entamer la préparation de ton dossier professionnel, ta responsable te
-demande de faire le point sur tes compétences numériques du module et de consolider les points encore fragiles,
-en vue de la certification Pix qui approche.
-
-!!! question "Problématique"
-    « Comment identifier précisément ses points forts et ses points faibles pour organiser efficacement sa
-    remédiation avant la certification Pix ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
-- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
-
-</div>
-
 ## Travail à faire
 
-### A — Bilan de compétences MP2
+
+#### A — Bilan de compétences MP2
 
 **Dresser son bilan**
 
@@ -47,7 +13,7 @@ en vue de la certification Pix qui approche.
 2. Identifier les deux compétences du module sur lesquelles le niveau ressenti est le plus bas et rédiger une
    phrase expliquant pourquoi (manque de pratique, difficulté technique précise, incompréhension d'une notion...).
 
-### B — Entraînement Pix différencié
+#### B — Entraînement Pix différencié
 
 **Consolider ses points faibles**
 
@@ -84,10 +50,33 @@ en vue de la certification Pix qui approche.
 
 ## Ressources et outils
 
+
 - **Pix** : plateforme de positionnement et de certification des compétences numériques — [pix.org](https://pix.org/fr-fr){ target="_blank" rel="noopener" }.
 - **Tableur (Excel)** : exercices d'entraînement issus des activités MP2 déjà réalisées.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Avant d'entamer la préparation de ton dossier professionnel, ta responsable te
+demande de faire le point sur tes compétences numériques du module et de consolider les points encore fragiles,
+en vue de la certification Pix qui approche.
+
+!!! question "Problématique"
+    « Comment identifier précisément ses points forts et ses points faibles pour organiser efficacement sa
+    remédiation avant la certification Pix ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Compléter une grille de bilan des compétences travaillées en MP2 depuis la rentrée
+- S'entraîner de façon ciblée sur les domaines identifiés comme faibles lors du positionnement Pix
+
+</div>
+
 ## Grille d'évaluation Bilan et remédiation MP2
+
 
 <div class="zt-grille" markdown>
 

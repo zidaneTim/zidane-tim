@@ -1,25 +1,7 @@
-# 🛒 Reconnaître un site marchand fiable et consommer responsable
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Vérifier qu'un site marchand est fiable et consommer de façon responsable, puis passer trois sites au banc d'essai.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Consommation</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé (notion) — Protection et sécurité - Socle commun*</small><br>
-<small style="color:#7239f6">*Parcours Pix associé (atelier) — Éducation numérique — espace de vigilance*</small>
+# Reconnaître un site marchand fiable et consommer responsable
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -28,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — acheter en sécurité et consommer responsable
 
@@ -92,11 +66,24 @@ Consommer de façon responsable, c'est se demander : en ai-je vraiment besoin ? 
 !!! tip "Où répondre ?"
     Dépose tes 3 indices et ton classement des moyens de paiement (notion), puis ton tableau des 3 sites et tes arguments du débat (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans un commerce de proximité en espace rural. À l'approche du **Black Friday**, une cliente âgée te montre une pub : « Baskets de marque à **19 € au lieu de 120 € — dernier jour !** » sur un site qu'elle ne connaît pas, et te demande si elle peut commander en confiance. Une autre cliente a déjà commandé sur un site du même genre : elle n'a **jamais** reçu son colis, et son numéro de carte a servi à un achat qu'elle n'a pas fait. On te confie ensuite le rôle de « conseiller achats » pour la clientèle.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment reconnaître un site marchand fiable, payer en sécurité, et acheter de façon responsable ?
+
 ## Ressources
+
 
 - Aucune ressource externe requise — l'activité s'appuie sur des cas fournis en classe.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

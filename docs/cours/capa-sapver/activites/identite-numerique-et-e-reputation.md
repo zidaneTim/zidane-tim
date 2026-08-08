@@ -1,21 +1,7 @@
-# 🪞 Identité numérique et e-réputation
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Comprendre l'identité numérique et l'e-réputation, puis vérifier sa propre visibilité en ligne pour le Safer Internet Day.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Identité numérique</span>
-</div>
+# Identité numérique et e-réputation
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
-
-## Problématique
-
-!!! question "Problématique"
-    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — identité numérique, traces, e-réputation
 
@@ -72,11 +50,24 @@ L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'emp
 !!! tip "Où répondre ?"
     Dépose tes 2 définitions, tes 5 traces analysées, ta réponse sur l'image professionnelle et ton **bilan personnel** (sans détail privé) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+L'année prochaine, tu chercheras des stages et un emploi. De plus en plus d'employeurs regardent le nom d'un candidat en ligne avant de le recevoir. Ce que l'on trouve sur toi, ce sont tes **traces numériques** : elles forment ton **identité numérique**, et influencent ta **e-réputation**.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Qu'est-ce que mon identité numérique, quelles traces je laisse en ligne, et que trouve-t-on vraiment de moi ?
+
 ## Ressources
+
 
 - [saferinternetday.fr](https://www.saferinternetday.fr/) — site officiel du Safer Internet Day France
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

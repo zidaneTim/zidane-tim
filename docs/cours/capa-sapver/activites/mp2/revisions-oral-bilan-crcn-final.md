@@ -1,43 +1,9 @@
 # 🎓 S'entraîner une dernière fois à l'oral et dresser son bilan CRCN de fin de cycle
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">S'entraîner individuellement à l'oral E4.1 et dresser un bilan CRCN complet des deux années de formation</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — appui E4.1</span>
-  <span>:material-tag-outline: Entraînement individuel · Bilan CRCN de cycle</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**, à quelques jours de ton épreuve E4.1. Ta responsable de secteur t'accompagne
-une dernière fois avant l'examen : un entraînement individuel ciblé sur tes propres points de vigilance, suivi
-d'un bilan complet de tes compétences numériques sur les deux années de formation.
-
-!!! question "Problématique"
-    « Comment utiliser ce dernier temps de préparation pour cibler précisément ses derniers réglages avant
-    l'épreuve, et faire le bilan de deux années de progression numérique ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
-- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
-
-</div>
-
 ## Travail à faire
 
-### A — Entraînement individuel à l'oral
+
+#### A — Entraînement individuel à l'oral
 
 **Cibler ses derniers réglages**
 
@@ -48,7 +14,7 @@ d'un bilan complet de tes compétences numériques sur les deux années de forma
 3. Se filmer ou s'enregistrer pendant cet entraînement et se réécouter pour évaluer si l'axe ciblé a progressé
    par rapport à la simulation précédente.
 
-### B — Bilan CRCN de fin de cycle
+#### B — Bilan CRCN de fin de cycle
 
 **Dresser son bilan final**
 
@@ -82,10 +48,33 @@ d'un bilan complet de tes compétences numériques sur les deux années de forma
 
 ## Ressources et outils
 
+
 - **Enregistreur audio/vidéo du téléphone ou de l'ordinateur** : entraînement individuel filmé ou enregistré.
 - **Positionnement Pix de début d'année** : profil personnel consulté en début d'année et lors de la remédiation.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**, à quelques jours de ton épreuve E4.1. Ta responsable de secteur t'accompagne
+une dernière fois avant l'examen : un entraînement individuel ciblé sur tes propres points de vigilance, suivi
+d'un bilan complet de tes compétences numériques sur les deux années de formation.
+
+!!! question "Problématique"
+    « Comment utiliser ce dernier temps de préparation pour cibler précisément ses derniers réglages avant
+    l'épreuve, et faire le bilan de deux années de progression numérique ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- S'entraîner individuellement à l'oral E4.1 en ciblant ses propres points de vigilance
+- Dresser un bilan CRCN complet des compétences numériques travaillées sur les deux années
+
+</div>
+
 ## Grille d'évaluation Révisions dirigées et bilan CRCN final (E4.1)
+
 
 <div class="zt-grille" markdown>
 

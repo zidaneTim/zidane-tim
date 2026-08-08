@@ -1,25 +1,7 @@
-# 🤖 Découvrir l'intelligence artificielle générative
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Tester un assistant conversationnel, comprendre ses limites, puis analyser de façon critique ses réponses à un défi de prompts.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Intelligence artificielle</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé (notion) — Décrypter le fonctionnement et les enjeux de l'IA*</small><br>
-<small style="color:#7239f6">*Parcours Pix associé (atelier) — Utiliser l'IA générative de façon éclairée et efficace*</small>
+# Découvrir l'intelligence artificielle générative
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -28,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vraiment ce qu'il y a « derrière » un assistant conversationnel comme ceux que l'on croise de plus en plus, y compris au travail. Avant de t'en servir un jour dans ta vie professionnelle (préparer un écrit, chercher une idée), il faut comprendre comment ça marche, où sont ses limites, et savoir juger la qualité de ce qu'il produit.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment fonctionne un assistant conversationnel, quelles sont ses limites, et comment juger la qualité de ses réponses ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — comment fonctionne un assistant conversationnel ?
 
@@ -80,11 +54,24 @@ Un assistant conversationnel (type ChatGPT, Copilot, ou l'outil mis à dispositi
 !!! tip "Où répondre ?"
     Dépose tes 3 questions/réponses vérifiées, ta règle personnelle, tes deux versions de prompt comparées et ton avis critique dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tout le monde parle d'intelligence artificielle, mais peu de personnes savent vraiment ce qu'il y a « derrière » un assistant conversationnel comme ceux que l'on croise de plus en plus, y compris au travail. Avant de t'en servir un jour dans ta vie professionnelle (préparer un écrit, chercher une idée), il faut comprendre comment ça marche, où sont ses limites, et savoir juger la qualité de ce qu'il produit.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment fonctionne un assistant conversationnel, quelles sont ses limites, et comment juger la qualité de ses réponses ?
+
 ## Ressources
+
 
 - Un assistant conversationnel accessible en établissement (fourni et cadré par l'enseignant).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

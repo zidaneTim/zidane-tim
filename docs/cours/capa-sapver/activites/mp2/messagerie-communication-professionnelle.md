@@ -1,44 +1,7 @@
 # ✉️ Écrire trois courriels professionnels adaptés à trois destinataires
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Adapter le ton, la structure et les pièces jointes d'un courriel selon trois destinataires professionnels différents</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.3</span>
-  <span>:material-tag-outline: Messagerie ENT · Numérisation</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Communication et collaboration - Socle commun*</small>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. En une matinée, ta responsable de secteur te demande de gérer trois échanges
-très différents : prévenir un collègue d'un changement d'horaire, répondre à la famille d'un bénéficiaire qui
-s'inquiète d'un retard d'intervention, et transmettre un justificatif à un fournisseur de matériel médical. Chacun
-de ces trois messages appelle un ton et une forme différents.
-
-!!! question "Problématique"
-    « Comment rédiger, dans la même matinée, trois courriels professionnels au ton et au contenu adaptés à trois
-    destinataires très différents ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger trois courriels professionnels adaptés à trois destinataires (collègue, bénéficiaire/famille,
-  fournisseur), avec objet, formule d'appel et formule de politesse cohérents
-- Numériser un document papier au copieur réseau et le joindre correctement à un courriel
-
-</div>
-
 ## Travail à faire
+
 
 **Rédiger et envoyer trois courriels adaptés**
 
@@ -77,11 +40,36 @@ de ces trois messages appelle un ton et une forme différents.
 
 ## Ressources et outils
 
+
 - **Messagerie ENT** : pour l'envoi des trois courriels — accès depuis le portail établissement.
 - **Application de numérisation du copieur réseau** (ou scanner mobile type Microsoft Lens/Adobe Scan) : pour
   produire le PDF joint au courriel 3.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. En une matinée, ta responsable de secteur te demande de gérer trois échanges
+très différents : prévenir un collègue d'un changement d'horaire, répondre à la famille d'un bénéficiaire qui
+s'inquiète d'un retard d'intervention, et transmettre un justificatif à un fournisseur de matériel médical. Chacun
+de ces trois messages appelle un ton et une forme différents.
+
+!!! question "Problématique"
+    « Comment rédiger, dans la même matinée, trois courriels professionnels au ton et au contenu adaptés à trois
+    destinataires très différents ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger trois courriels professionnels adaptés à trois destinataires (collègue, bénéficiaire/famille,
+  fournisseur), avec objet, formule d'appel et formule de politesse cohérents
+- Numériser un document papier au copieur réseau et le joindre correctement à un courriel
+
+</div>
+
 ## Grille d'évaluation Communication professionnelle (2.1)
+
 
 <div class="zt-grille" markdown>
 

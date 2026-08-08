@@ -1,23 +1,7 @@
-# ♿ Comprendre l'accessibilité numérique et adapter un document
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Comprendre pourquoi un document doit être lisible par tous, puis corriger un document pour le rendre réellement accessible.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Accessibilité</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Éducation numérique — émancipation/inclusion*</small>
+# Comprendre l'accessibilité numérique et adapter un document
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,19 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne. On te charge maintenant de le corriger.
-
-!!! note "Retour de PFMP"
-    Lors de ta dernière PFMP, as-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — l'accessibilité numérique
 
@@ -83,11 +56,27 @@ L'**accessibilité**, c'est faire en sorte qu'un contenu soit utilisable par **t
 !!! tip "Où répondre ?"
     Dépose tes 3 problèmes repérés (notion), puis ton menu **avant/après**, le texte alternatif et ta check-list des 5 règles (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
+## Mise en situation
+
+
+Tu travailles dans un EHPAD. Tu prépares une **affiche du menu de la semaine** pour les résidents. Tu la trouves jolie : petit texte gris clair sur fond jaune, écriture fantaisie. Mais **Mme Renaud**, 88 ans, qui voit mal, n'arrive pas à la lire. Et **M. Le Goff**, qui utilise une tablette qui « lit à voix haute », n'entend rien parce que l'affiche est une simple photo. Ton beau document ne sert à personne. On te charge maintenant de le corriger.
+
+!!! note "Retour de PFMP"
+    Lors de ta dernière PFMP, as-tu croisé une personne qui avait besoin d'un document adapté (gros caractères, fort contraste, lecture à voix haute...) ? Note ce que tu as observé.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment adapter un document pour qu'il soit lisible par **tout le monde** ?
+
 ## Ressources
+
 
 - Un traitement de texte avec fonction lecteur d'écran (accessible via l'ENT).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

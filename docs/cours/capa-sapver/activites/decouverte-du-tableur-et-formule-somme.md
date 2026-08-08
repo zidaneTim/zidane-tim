@@ -1,23 +1,7 @@
-# 💶 Découvrir le tableur et construire un budget de fête
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Découvrir le tableur (lignes, colonnes, formule SOMME), puis construire au tableur le budget complet d'un repas de fête.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Tableur</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Tableur pour calculer*</small>
+# Découvrir le tableur et construire un budget de fête
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le tableur
 
@@ -49,8 +25,8 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 !!! example "Consigne 2 — seul (10 min)"
     Sous les prix, taper `=SOMME(` puis sélectionner les cellules de prix à la souris, fermer avec `)` et valider avec **Entrée**. Vérifier le total.
 
-!!! tip "Coup de pouce"
-    Si le résultat affiche la formule au lieu du nombre, vérifie que tu as bien commencé par le signe **`=`** et qu'il n'y a pas d'espace avant.
+!!! tip "Astuce technique"
+    Une formule commence toujours par **`=`**. Si elle ne fonctionne pas, relire la syntaxe : espace oublié ? Parenthèses appariées ? Cellules existantes ?
 
 ### 🎯 Atelier — le budget du repas de fête
 
@@ -74,11 +50,24 @@ Pour additionner **plusieurs cellules à la suite**, on utilise **SOMME** : `=SO
 !!! tip "Où répondre ?"
     Dépose ton fichier tableur d'entraînement (notion), puis ton budget complet et ta réponse sur le respect du budget (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans un EHPAD. Pour les fêtes, on te confie une mission : organiser le **repas de Noël pour 6 résidents** avec un budget de **60 €**. Tu notes tes achats sur un bout de papier, tu additionnes de tête… et tu te trompes de 15 €. Trop tard, tu as dépassé le budget. Avec un **tableur**, l'ordinateur aurait fait le calcul **à ta place**, sans erreur.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment utiliser un tableur pour calculer et suivre un budget sans se tromper ?
+
 ## Ressources
+
 
 - Un tableur (Excel, Google Sheets ou équivalent, accessible via l'ENT).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

@@ -1,25 +1,7 @@
-# 🛡️ Comprendre le cyberharcèlement et créer une affiche de sensibilisation
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Reconnaître le cyberharcèlement et connaître les recours, puis concevoir une affiche de sensibilisation pour les élèves du lycée.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Citoyenneté numérique</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité (cyberharcèlement, MAJ 2025)*</small>
+# Comprendre le cyberharcèlement et créer une affiche de sensibilisation
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -28,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
-
-## Problématique
-
-!!! question "Problématique"
-    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le cyberharcèlement
 
@@ -67,8 +41,8 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 !!! example "Consigne 2 — seul (20 min)"
     Créer l'affiche avec **Canva** (modèle « affiche » gratuit). Elle doit contenir : le **message principal** bien visible, **les 4 réflexes**, le **numéro 3018**, et **une image libre de droits**.
 
-!!! tip "Coup de pouce"
-    Une bonne affiche = **peu de texte**, **gros titre**, **couleurs contrastées**. On doit la comprendre en 3 secondes, de loin.
+!!! tip "Astuce de conception"
+    Consulte des exemples d'affiches de sensibilisation (cybermalveillance.gouv.fr en a). Repère ce qui les rend efficaces : hiérarchie du texte, impact visuel, clarté du message clé.
 
 !!! example "Consigne 3 — seul ou en binôme (10 min)"
     Échanger son affiche avec un camarade et vérifier : le message est-il **clair de loin** ? Le **3018** est-il présent ? L'image est-elle **libre de droits** ? Si seul, fais la même relecture en te mettant à la place d'un camarade, puis fais vérifier dès que possible.
@@ -79,12 +53,25 @@ Les bons réflexes : je ne réponds pas à l'auteur, je garde les preuves (captu
 !!! tip "Où répondre ?"
     Dépose tes réponses (rôles, classement des réactions) et ton affiche exportée dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Dans un groupe de discussion de la classe, un élève reçoit chaque soir des **messages moqueurs** sur son physique. D'autres ajoutent des images pour rire. Lui ne dit rien, mais il ne dort plus et n'a plus envie de venir au lycée. Ceux qui « likent » pensent que « c'est juste pour rire »… mais pour la personne visée, ce n'est pas drôle du tout. Tu connais maintenant les bons réflexes : mets-les au service des autres élèves du lycée, en les résumant sur une affiche.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Qu'est-ce que le cyberharcèlement, comment réagir quand on le voit ou qu'on le subit, et comment sensibiliser les autres ?
+
 ## Ressources
+
 
 - Canva (modèle « affiche », accessible via l'ENT).
 - **3018** — numéro national contre le cyberharcèlement · **3020** — harcèlement à l'école.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

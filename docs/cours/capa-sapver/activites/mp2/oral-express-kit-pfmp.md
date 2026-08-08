@@ -1,44 +1,9 @@
 # 🎤 Préparer un oral express et un kit de documents pour ta PFMP
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Construire un support d'oral express et un kit de documents professionnels avant de partir en période de formation en milieu professionnel</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.3</span>
-  <span>:material-tag-outline: Oral · Mise en page · Organisation de documents</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Avant les oraux blancs qui préparent l'épreuve E4.1, ta responsable de secteur
-te demande de préparer un support d'oral court pour te présenter à une nouvelle structure d'accueil, puis de
-constituer le kit de documents professionnels que tout agent doit avoir sur lui le premier jour d'une période de
-formation en milieu professionnel (PFMP).
-
-!!! question "Problématique"
-    « Comment préparer en autonomie un support d'oral court et un kit de documents complet avant une période en
-    structure ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un support d'oral express structuré pour se présenter en moins de 3 minutes
-- Constituer et mettre en page un kit de documents professionnels (CV, fiche structure, consigne d'observation)
-
-</div>
-
 ## Travail à faire
 
-### A — Support d'oral express
+
+#### A — Support d'oral express
 
 **Construire le support**
 
@@ -52,7 +17,7 @@ formation en milieu professionnel (PFMP).
 4. S'enregistrer une fois en audio ou en vidéo (téléphone ou ordinateur) et se réécouter pour repérer un point à
    améliorer (débit, formule d'accroche, regard).
 
-### B — Kit de documents pour la PFMP
+#### B — Kit de documents pour la PFMP
 
 **Constituer le kit**
 
@@ -88,11 +53,35 @@ formation en milieu professionnel (PFMP).
 
 ## Ressources et outils
 
+
 - **Traitement de texte (Word)** : styles de titres pour la mise en forme du support et du CV.
 - **Onisep — préparer son entretien de stage** : conseils de présentation orale professionnelle — [Réussir son entretien de stage](https://www.onisep.fr/Choisir-mes-etudes/Trouver-un-stage-un-contrat-d-apprentissage/Reussir-son-entretien-de-stage){ target="_blank" rel="noopener" }.
 - **Enregistreur audio/vidéo du téléphone ou de l'ordinateur** : pour s'entraîner et se réécouter.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Avant les oraux blancs qui préparent l'épreuve E4.1, ta responsable de secteur
+te demande de préparer un support d'oral court pour te présenter à une nouvelle structure d'accueil, puis de
+constituer le kit de documents professionnels que tout agent doit avoir sur lui le premier jour d'une période de
+formation en milieu professionnel (PFMP).
+
+!!! question "Problématique"
+    « Comment préparer en autonomie un support d'oral court et un kit de documents complet avant une période en
+    structure ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un support d'oral express structuré pour se présenter en moins de 3 minutes
+- Constituer et mettre en page un kit de documents professionnels (CV, fiche structure, consigne d'observation)
+
+</div>
+
 ## Grille d'évaluation Oral et documents PFMP (4.3.1 · 1.2)
+
 
 <div class="zt-grille" markdown>
 

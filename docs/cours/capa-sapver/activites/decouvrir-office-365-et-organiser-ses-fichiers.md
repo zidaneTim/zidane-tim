@@ -2,9 +2,9 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 2rem; margin: 1rem 0; padding: 0.5rem 0; border-bottom: 1px solid #f0f0f0;">
   <div><strong style="font-size: 1.1rem;">CAPa SAPVER 1 — MG1 · Vie sociale</strong></div>
-</div>
 
 ## Contexte et problématique
+
 
 C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
 
@@ -16,6 +16,7 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 
 ## Objectifs pédagogiques
 
+
 <div class="zt-objectifs" markdown>
 
 - Être capable de me connecter à Office 365, de repérer ses principaux outils et d'expliquer à quoi servent OneNote et OneDrive.
@@ -25,6 +26,7 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 </div>
 
 ## Travail à faire
+
 
 #### A — Se connecter à Office 365 et repérer les outils
 
@@ -107,11 +109,13 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 
 ## Ressources et outils
 
+
 - **Office 365 (Microsoft 365)** : portail de connexion pour accéder à OneNote, OneDrive et aux autres outils — [se connecter](https://www.office.com){ target="_blank" rel="noopener" }
 - **Explorateur de fichiers Windows** : pour retrouver et organiser le dossier « Documents » de l'ordinateur — icône dans la barre des tâches, ou raccourci clavier touche <kbd>⊞ Windows</kbd> + <kbd>E</kbd>
 - **Support Microsoft — Synchroniser des fichiers avec OneDrive** : fiche d'aide officielle pour comprendre la synchronisation (notion générale à consulter en cas de doute) — [lire la fiche](https://support.microsoft.com/fr-fr/office/synchroniser-des-fichiers-avec-onedrive-sous-windows-615391c4-2bd3-4aae-a42a-858262e42a49){ target="_blank" rel="noopener" }
 
 ## Compétences et parcours
+
 
 <div class="zt-compact" markdown>
 
@@ -128,6 +132,7 @@ Parcours Pix associés :
 </div>
 
 ## Grille d'évaluation (obj. 2.2.1)
+
 
 <div class="zt-grille" markdown>
 

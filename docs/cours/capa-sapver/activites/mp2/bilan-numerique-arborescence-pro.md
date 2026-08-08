@@ -1,45 +1,7 @@
 # 🔄 Faire le bilan de ses compétences numériques et organiser son espace pro
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Faire le point sur une année de pratique numérique et organiser une arborescence professionnelle avant la première mission de l'année</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.1</span>
-  <span>:material-tag-outline: Explorateur de fichiers · Pix Orga</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
-
-## Mise en situation
-
-Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**, pour ta deuxième année de CAPa
-SAPVER. Ta responsable de secteur te demande, avant de te confier ta première mission de l'année, de vérifier que
-ton espace de travail numérique est prêt : dossiers organisés, compétences numériques à jour, points faibles
-identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une famille.
-
-!!! question "Problématique"
-    « Comment vérifier que je maîtrise assez d'outils numériques pour travailler efficacement cette année, et
-    comment organiser mon espace pour retrouver mes documents professionnels sans perdre de temps ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
-  parcours diagnostic Pix
-- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
-
-</div>
-
 ## Travail à faire
+
 
 **Faire le bilan et organiser son espace**
 
@@ -76,10 +38,35 @@ identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une
 
 ## Ressources et outils
 
+
 - **Pix Orga** : parcours de positionnement diagnostic — [lien](https://orga.pix.fr){ target="_blank" rel="noopener" }.
 - **Référentiel CRCN (Pix)** : table des 16 compétences pour documenter le bilan (support fourni en classe).
 
+## Mise en situation
+
+
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**, pour ta deuxième année de CAPa
+SAPVER. Ta responsable de secteur te demande, avant de te confier ta première mission de l'année, de vérifier que
+ton espace de travail numérique est prêt : dossiers organisés, compétences numériques à jour, points faibles
+identifiés pour ne pas te mettre en difficulté devant un bénéficiaire ou une famille.
+
+!!! question "Problématique"
+    « Comment vérifier que je maîtrise assez d'outils numériques pour travailler efficacement cette année, et
+    comment organiser mon espace pour retrouver mes documents professionnels sans perdre de temps ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Faire le bilan de ses acquis numériques de CAPa 1 (texte, messagerie, tableur, Pix) et se positionner sur un
+  parcours diagnostic Pix
+- Organiser une arborescence de dossiers professionnelle, cohérente et réutilisable toute l'année
+
+</div>
+
 ## Grille d'évaluation Environnement numérique professionnel (4.1)
+
 
 <div class="zt-grille" markdown>
 

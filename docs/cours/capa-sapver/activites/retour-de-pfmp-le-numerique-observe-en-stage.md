@@ -1,21 +1,7 @@
 # 🔁 Retour de PFMP : le numérique observé en stage
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Faire le bilan des usages numériques observés en PFMP et échanger avec la classe.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 1 séance</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Retour de stage</span>
-</div>
-
 ## La situation
+
 
 Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre à plat ce que tu as observé côté numérique dans ta structure : quels outils, quelles habitudes, quelles règles ? Ce retour nourrit ta culture professionnelle et prépare les séances suivantes sur les usages numériques en service.
 
@@ -23,6 +9,7 @@ Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre 
     Qu'ai-je observé du numérique dans ma structure de PFMP, et qu'en retenir ?
 
 ## 🎯 Atelier : mon bilan de retour de stage
+
 
 **Ta mission :** dresser le bilan des usages numériques observés en stage et l'échanger avec la classe.
 
@@ -45,6 +32,7 @@ Tu reviens de PFMP après les vacances de printemps. C'est l'occasion de mettre 
     Dépose tes réponses aux 4 questions et ton observation développée dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

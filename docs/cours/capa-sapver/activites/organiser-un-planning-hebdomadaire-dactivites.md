@@ -1,23 +1,7 @@
-# 📅 Organiser un planning hebdomadaire d'activités
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Organiser des activités par jour et par heure, puis construire au tableur un second planning de service.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Organisation</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Communiquer en entreprise*</small>
+# Organiser un planning hebdomadaire d'activités
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **planning hebdomadaire des activités** proposées aux résidents, pour qu'il soit affiché clairement dans le couloir. Elle te demande ensuite, au choix, le planning d'entretien des locaux ou le menu hebdomadaire des résidents.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment organiser un planning hebdomadaire clair, avec des activités réparties par jour et par heure ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — construire un planning
 
@@ -75,11 +51,24 @@ Un planning organise des informations selon deux axes : les jours (colonnes) et 
 !!! tip "Où répondre ?"
     Dépose ton planning hebdomadaire, ton second planning au tableur et le total calculé dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans un EHPAD. L'animatrice te demande de l'aider à préparer le **planning hebdomadaire des activités** proposées aux résidents, pour qu'il soit affiché clairement dans le couloir. Elle te demande ensuite, au choix, le planning d'entretien des locaux ou le menu hebdomadaire des résidents.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment organiser un planning hebdomadaire clair, avec des activités réparties par jour et par heure ?
+
 ## Ressources
+
 
 - Un tableur (Excel, Google Sheets ou équivalent, accessible via l'ENT).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

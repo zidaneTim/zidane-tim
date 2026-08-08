@@ -1,24 +1,7 @@
 # 🖊️ Mettre à jour son CV et bilan formatif annuel
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Intégrer les PFMP et compétences numériques de l'année à son CV, puis faire le bilan formatif annuel des compétences CRCN.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Valorisation du parcours</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix Orga associé (atelier) — Complément parcours rentrée CAP (certification)*</small>
-
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -27,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — un CV vivant, qui évolue
 
@@ -48,8 +23,10 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 !!! example "Consigne 2 — seul (15 min)"
     Ajouter dans la rubrique expérience tes 5 PFMP de l'année (structure, dates, une mission courte pour chacune), en t'appuyant sur tes bilans de retour de stage déposés dans OneNote.
 
-!!! tip "Coup de pouce"
-    Une ligne d'expérience efficace : *« Structure — dates — 1 mission clé (verbe d'action + résultat) »*, par exemple : *« EHPAD Les Tilleuls — nov. 2026 — accompagnement des résidents lors des activités d'animation »*.
+!!! example "Modèle d'une ligne d'expérience"
+    **Structure** — nov. 2026 (dates)  
+    Accompagnement des résidents lors des activités d'animation et gestion des repas en autonomie  
+    (verbes d'action + contexte réel, 1-2 lignes par PFMP)
 
 !!! example "Consigne 3 — seul (15 min)"
     Ajouter dans la rubrique compétences au moins 4 compétences numériques travaillées cette année (tableur, courriel professionnel, formulaire en ligne, création d'affiche/vidéo…).
@@ -79,12 +56,25 @@ Un CV n'est jamais figé : il se **met à jour** à chaque expérience nouvelle.
 !!! tip "Où répondre ?"
     Dépose ton CV mis à jour, ta grille d'auto-évaluation CRCN et ton bilan personnel dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan formatif annuel** de la matière.
 
+## Mise en situation
+
+
+L'année touche à sa fin, avec 5 PFMP réalisées. Ton CV, créé ou esquissé en début d'année, doit maintenant refléter tout ce que tu as vécu et appris depuis. C'est aussi le moment de faire le point sur tes compétences numériques (cadre CRCN) pour savoir sur quoi progresser en CAPa 2.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment mettre à jour mon CV pour qu'il reflète mon année, et où en suis-je de mes compétences numériques ?
+
 ## Ressources
+
 
 - Un modèle de CV vierge ou ton CV existant (fourni via l'ENT).
 - La grille d'auto-évaluation CRCN (fournie par l'enseignant).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

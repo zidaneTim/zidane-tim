@@ -1,21 +1,7 @@
-# 🌱 L'empreinte environnementale du numérique
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Comprendre l'impact environnemental du numérique, puis nettoyer concrètement son espace numérique pour le Digital Cleanup Day.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Numérique responsable</span>
-</div>
+# L'empreinte environnementale du numérique
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
-
-## Problématique
-
-!!! question "Problématique"
-    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le numérique n'est pas immatériel
 
@@ -76,11 +54,24 @@ Trois sources principales d'impact : **la fabrication des appareils** (l'étape 
 !!! tip "Où répondre ?"
     Dépose tes réponses (3 sources, 4 gestes reliés, estimation de ta boîte mail) et ton **bilan chiffré avant/après** dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est le **bilan** de la séquence.
 
+## Mise en situation
+
+
+Tu reviens de PFMP. Pendant ton stage, tu as sûrement observé un ordinateur, une boîte mail professionnelle ou un stockage de fichiers. Ce que l'on voit peu, c'est que chaque courriel conservé, chaque fichier stocké « dans le cloud », chaque appareil consomme de l'énergie et des ressources, quelque part.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Pourquoi le numérique a-t-il un impact environnemental, et que puis-je faire concrètement à mon échelle ?
+
 ## Ressources
+
 
 - [ademe.fr](https://www.ademe.fr/) — Agence de la transition écologique, pour les chiffres sur l'impact du numérique.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

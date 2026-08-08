@@ -1,41 +1,7 @@
 # 🏆 Réaliser une simulation orale complète en conditions d'épreuve
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Passer un oral formatif complet en conditions réelles d'épreuve E4.1 et dresser un bilan individuel</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — appui E4.1</span>
-  <span>:material-tag-outline: Simulation d'épreuve · Auto-évaluation · Bilan individuel</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac** en formation. Ta responsable organise une répétition générale avant l'épreuve
-officielle E4.1 : dossier remis, temps chronométré, questions posées — les conditions réelles de l'examen, pour
-que chacun mesure précisément où il en est avant le jour J.
-
-!!! question "Problématique"
-    « Comment se comporte-t-on en conditions réelles d'épreuve orale, et quels réglages reste-t-il à faire avant
-    le jour de l'examen ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
-- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
-
-</div>
-
 ## Travail à faire
+
 
 **Se mettre en situation d'épreuve**
 
@@ -74,10 +40,33 @@ que chacun mesure précisément où il en est avant le jour J.
 
 ## Ressources et outils
 
+
 - **Dossier professionnel finalisé (PDF) et diaporama d'appui** : productions des séances précédentes.
 - **Grille d'auto-évaluation** : reprise des critères de la grille d'évaluation ci-dessous.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac** en formation. Ta responsable organise une répétition générale avant l'épreuve
+officielle E4.1 : dossier remis, temps chronométré, questions posées — les conditions réelles de l'examen, pour
+que chacun mesure précisément où il en est avant le jour J.
+
+!!! question "Problématique"
+    « Comment se comporte-t-on en conditions réelles d'épreuve orale, et quels réglages reste-t-il à faire avant
+    le jour de l'examen ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Réaliser un oral complet en conditions d'épreuve (dossier rendu, 8 minutes, questions)
+- Dresser un bilan individuel objectif à partir de l'observation de sa propre prestation
+
+</div>
+
 ## Grille d'évaluation Simulation orale complète (E4.1, formative)
+
 
 <div class="zt-grille" markdown>
 

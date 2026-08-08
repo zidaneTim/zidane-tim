@@ -1,45 +1,7 @@
 # 📋 Réaliser une fiche métier composite pour un forum recrutement
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Concevoir une fiche métier structurée à partir d'une fiche ONISEP réelle, pour un stand de recrutement en vente directe</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.2</span>
-  <span>:material-tag-outline: Word/traitement de texte · Export PDF</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
-
-## Mise en situation
-
-Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du
-Pays de Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
-métier imprimable présentant le métier de vendeur/vendeuse en circuit court, pour attirer des jeunes intéressés par
-la vente en espace rural.
-
-!!! question "Problématique"
-    « Comment transformer une fiche métier officielle en un document composite clair, structuré et attractif, prêt
-    à être imprimé et distribué sur un stand ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
-  officielle
-- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
-
-</div>
-
 ## Travail à faire
+
 
 **Construire la fiche métier composite**
 
@@ -79,10 +41,35 @@ la vente en espace rural.
 
 ## Ressources et outils
 
+
 - **Fiche métier ONISEP — Auxiliaire de vie sociale (aide à la personne)** : structure de référence à adapter — [lien](https://www.onisep.fr/les-metiers-animes/services/auxiliaire-de-vie-sociale-aide-a-la-personne){ target="_blank" rel="noopener" }.
 - **Pixabay** : banque d'images libres de droits — [lien](https://pixabay.com){ target="_blank" rel="noopener" }.
 
+## Mise en situation
+
+
+Tu es en mission ponctuelle sur le stand d'une **AMAP (association pour le maintien d'une agriculture paysanne) du
+Pays de Loudéac** pour un forum des métiers. La productrice responsable du stand te confie une mission : préparer une fiche
+métier imprimable présentant le métier de vendeur/vendeuse en circuit court, pour attirer des jeunes intéressés par
+la vente en espace rural.
+
+!!! question "Problématique"
+    « Comment transformer une fiche métier officielle en un document composite clair, structuré et attractif, prêt
+    à être imprimé et distribué sur un stand ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un document composite structuré (titres, puces, image légendée, tableau) à partir d'une source
+  officielle
+- Respecter le droit des images en sourçant chaque visuel utilisé, et exporter le document en PDF prêt à imprimer
+
+</div>
+
 ## Grille d'évaluation Document composite professionnel (4.2.5)
+
 
 <div class="zt-grille" markdown>
 

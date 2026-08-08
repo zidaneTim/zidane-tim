@@ -1,21 +1,7 @@
-# 📝 Concevoir un formulaire en ligne
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Concevoir un questionnaire en ligne avec des types de questions variés, puis l'utiliser pour enquêter sur les usages numériques de la classe.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Formulaire en ligne</span>
-</div>
+# Concevoir un formulaire en ligne
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-L'association où tu es agent organise une sortie pour ses bénéficiaires et veut savoir combien de personnes souhaitent y participer, et si elles ont des besoins particuliers (régime alimentaire, mobilité réduite). Plutôt qu'un papier à faire circuler, un **formulaire en ligne** permettra de recueillir et compter les réponses automatiquement. La classe profite de cette occasion pour concevoir aussi un formulaire sur ses propres usages numériques.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment concevoir un formulaire en ligne efficace, et comment exploiter les résultats d'une enquête ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — les types de questions d'un formulaire
 
@@ -83,11 +61,24 @@ Un formulaire trop long décourage les réponses : il vaut mieux **peu de questi
 !!! tip "Où répondre ?"
     Dépose ton formulaire de sortie, ton formulaire d'enquête de classe et ta synthèse des résultats dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+L'association où tu es agent organise une sortie pour ses bénéficiaires et veut savoir combien de personnes souhaitent y participer, et si elles ont des besoins particuliers (régime alimentaire, mobilité réduite). Plutôt qu'un papier à faire circuler, un **formulaire en ligne** permettra de recueillir et compter les réponses automatiquement. La classe profite de cette occasion pour concevoir aussi un formulaire sur ses propres usages numériques.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment concevoir un formulaire en ligne efficace, et comment exploiter les résultats d'une enquête ?
+
 ## Ressources
+
 
 - Un outil de formulaire en ligne (Google Forms, Microsoft Forms ou équivalent, accessible via l'ENT).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

@@ -1,21 +1,7 @@
-# 🎬 Monter une vidéo simple
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Découvrir les bases du montage vidéo, puis réaliser une courte capsule sur un thème SAPVER.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Création multimédia</span>
-</div>
+# Monter une vidéo simple
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — les bases du montage vidéo
 
@@ -68,7 +46,7 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 !!! example "Consigne 1 — seul (10 min)"
     Choisir un thème SAPVER pour la capsule et lister en 3-4 lignes le déroulé prévu.
 
-!!! example "Consigne 2 — seul (25 min)"
+!!! example "Consigne 2 — seul (30 min)"
     Réaliser la capsule : assembler images/séquences, ajouter texte et musique libre de droits, respecter la durée de 30 secondes à 1 minute.
 
 !!! example "Consigne 3 — seul (10 min)"
@@ -83,12 +61,25 @@ Un logiciel de montage simple (Canva Video, Clipchamp) fonctionne sur le même p
 !!! tip "Où répondre ?"
     Dépose ta vidéo d'entraînement, ta capsule finalisée et sa légende dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+L'association où tu es agent souhaite publier de courtes capsules vidéo sur ses réseaux sociaux pour sensibiliser son public à des thèmes du quotidien (nutrition, bien vieillir, sécurité domestique, lien social). Avant de créer la tienne, il faut apprendre les bases du montage vidéo.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment assembler des images, du texte et de la musique pour créer une courte vidéo, dans le respect du droit d'auteur ?
+
 ## Ressources
+
 
 - Un outil de montage vidéo simple (Canva Video, Clipchamp ou équivalent, accessible via l'ENT).
 - Une banque de musiques et images libres de droits intégrée à l'outil.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

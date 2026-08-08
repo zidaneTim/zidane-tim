@@ -1,21 +1,7 @@
 # 🏁 Retour de PFMP 5 et clôture d'année
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Dresser le bilan des outils numériques observés en dernière PFMP, puis consolider les compétences travaillées dans l'année.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Retour de stage · Clôture</span>
-</div>
-
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
-
-## Problématique
-
-!!! question "Problématique"
-    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — mon dernier retour de stage
 
@@ -71,11 +49,24 @@ C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conc
 !!! tip "Où répondre ?"
     Dépose tes réponses aux 4 questions, ton bilan de fin d'année et ta production de consolidation dans ta trace **OneNote** de la classe (section MG1 — Vie sociale). C'est la **clôture** de l'année en MG1 — Vie sociale.
 
+## Mise en situation
+
+
+C'est ta 5e et dernière PFMP de l'année. Ce dernier retour de stage vient conclure une année riche en observations professionnelles, et permet de mesurer le chemin parcouru depuis ton tout premier retour de PFMP en septembre. La dernière séance de l'année est ensuite consacrée à consolider ce qui a le plus besoin de l'être.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Qu'ai-je observé du numérique lors de cette dernière PFMP, et sur quoi ai-je encore besoin de m'entraîner ?
+
 ## Ressources
+
 
 - Les fiches d'activités déjà réalisées dans l'année (disponibles sur le site de la classe), au choix selon la compétence à consolider.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

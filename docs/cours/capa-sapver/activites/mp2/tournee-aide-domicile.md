@@ -1,64 +1,7 @@
 # 🗺️ Organiser une tournée de partenaires France services
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Construire un itinéraire de visites à partir d'un vrai jeu de données de structures partenaires — Service d'Aide et d'Accompagnement à Domicile de Loudéac</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4</span>
-  <span>:material-tag-outline: Excel · Google MyMaps</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associés — Utiliser un environnement numérique professionnel de manière responsable et autonome · Rechercher et traiter des informations en fonction d'un besoin d'information professionnel · Utiliser les possibilités des outils numériques pour communiquer dans des situations de la vie professionnelle · Tableur pour calculer*</small>
-
-## Mise en situation
-
-Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. De nombreux bénéficiaires du
-service — souvent des personnes âgées isolées — ont aussi besoin d'aide pour leurs démarches administratives
-(retraite, CAF, Assurance Maladie, impôts). Ta responsable de secteur veut nouer un partenariat de proximité avec
-les **points France services** du territoire, pour pouvoir orienter les bénéficiaires du SAAD vers le point le plus
-proche de chez eux.
-
-Elle te confie une mission : identifier tous les points France services du territoire de Loudéac Communauté –
-Bretagne Centre, préparer une tournée de visite (dépôt d'une plaquette de présentation du SAAD auprès de chaque
-point), dans un ordre qui limite les déplacements inutiles entre communes.
-
-!!! question "Problématique"
-    « Comment organiser, à partir d'un vrai jeu de données de structures partenaires, un itinéraire de tournée clair
-    et efficace pour un agent du SAAD ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Récupérer et structurer un tableau de données professionnelles réelles pour produire un document de tournée clair
-  et utilisable sur le terrain (4.2.6 — tables de données)
-- Géolocaliser des adresses réelles et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
-- Expliquer ce qui changerait si le document contenait, au lieu d'adresses professionnelles publiques, des données
-  personnelles de bénéficiaires (secret professionnel)
-
-</div>
-
-!!! abstract "Source de données"
-    **Téléchargement :** [Liste des structures labellisées France services](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }
-
-    | Colonne | Signification |
-    |---|---|
-    | Nom de la structure | Nom du point France services |
-    | Commune | Commune d'implantation |
-    | Adresse postale | Adresse complète de la structure |
-    | Téléphone | Contact téléphonique |
-    | Horaires d'ouverture | Horaires d'accueil du public |
-
 ## Travail à faire
+
 
 **Récupérer les données, organiser la tournée, cartographier**
 
@@ -104,11 +47,54 @@ point), dans un ordre qui limite les déplacements inutiles entre communes.
 
 ## Ressources et outils
 
+
 - **Liste des structures labellisées France services (data.gouv.fr)** : jeu de données réel à télécharger et filtrer — [voir Source de données ci-dessus](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }.
 - **Nos communes — Loudéac Communauté Bretagne Centre** : liste officielle des 38 communes membres du territoire, pour filtrer les données — [lien](https://www.bretagnecentre.bzh/la-communaute/le-territoire/nos-communes){ target="_blank" rel="noopener" }.
 - **Google MyMaps** : pour créer la carte et les repères — [lien](https://www.google.com/mymaps){ target="_blank" rel="noopener" }.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD (Service d'Aide et d'Accompagnement à Domicile) de Loudéac**. De nombreux bénéficiaires du
+service — souvent des personnes âgées isolées — ont aussi besoin d'aide pour leurs démarches administratives
+(retraite, CAF, Assurance Maladie, impôts). Ta responsable de secteur veut nouer un partenariat de proximité avec
+les **points France services** du territoire, pour pouvoir orienter les bénéficiaires du SAAD vers le point le plus
+proche de chez eux.
+
+Elle te confie une mission : identifier tous les points France services du territoire de Loudéac Communauté –
+Bretagne Centre, préparer une tournée de visite (dépôt d'une plaquette de présentation du SAAD auprès de chaque
+point), dans un ordre qui limite les déplacements inutiles entre communes.
+
+!!! question "Problématique"
+    « Comment organiser, à partir d'un vrai jeu de données de structures partenaires, un itinéraire de tournée clair
+    et efficace pour un agent du SAAD ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Récupérer et structurer un tableau de données professionnelles réelles pour produire un document de tournée clair
+  et utilisable sur le terrain (4.2.6 — tables de données)
+- Géolocaliser des adresses réelles et construire un itinéraire avec un outil numérique (4.3.9 — géolocalisation)
+- Expliquer ce qui changerait si le document contenait, au lieu d'adresses professionnelles publiques, des données
+  personnelles de bénéficiaires (secret professionnel)
+
+</div>
+
+!!! abstract "Source de données"
+    **Téléchargement :** [Liste des structures labellisées France services](https://www.data.gouv.fr/datasets/liste-des-structures-labellisees-france-services){ target="_blank" rel="noopener" }
+
+    | Colonne | Signification |
+    |---|---|
+    | Nom de la structure | Nom du point France services |
+    | Commune | Commune d'implantation |
+    | Adresse postale | Adresse complète de la structure |
+    | Téléphone | Contact téléphonique |
+    | Horaires d'ouverture | Horaires d'accueil du public |
+
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

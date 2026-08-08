@@ -1,44 +1,9 @@
 # 🔒 Décrire sa communication de stage et résoudre des cas de secret professionnel
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Analyser la communication observée pendant sa PFMP et résoudre des cas concrets de secret professionnel et de RGPD</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.1/4.3</span>
-  <span>:material-tag-outline: RGPD · Secret professionnel · Retour d'expérience</span>
-</div>
-
-## Mise en situation
-
-Tu reviens de ta période de formation en milieu professionnel. Ta responsable de secteur du **SAAD de Loudéac**
-te demande de faire le bilan de la communication observée en structure (transmissions entre collègues, cahier de
-liaison) et de vérifier que tu maîtrises les règles de confidentialité qui s'appliquent aux informations des
-bénéficiaires, avant ta prochaine mission sur le terrain.
-
-!!! question "Problématique"
-    « Quelles règles de communication et de confidentialité un agent doit-il respecter avec les informations des
-    personnes accompagnées ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
-- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
-
-</div>
-
 ## Travail à faire
 
-### A — Retour de PFMP
+
+#### A — Retour de PFMP
 
 **Décrire sa communication de stage**
 
@@ -48,7 +13,7 @@ bénéficiaires, avant ta prochaine mission sur le terrain.
 3. Noter une différence observée entre la communication interne (entre collègues) et la communication avec la
    personne accompagnée ou sa famille.
 
-### B — Données personnelles en contexte professionnel
+#### B — Données personnelles en contexte professionnel
 
 **Résoudre des cas de secret professionnel**
 
@@ -88,11 +53,35 @@ bénéficiaires, avant ta prochaine mission sur le terrain.
 
 ## Ressources et outils
 
+
 - **CNIL — Le secret professionnel** : définition officielle et professions concernées — [Le secret professionnel](https://www.cnil.fr/fr/le-secret-professionnel){ target="_blank" rel="noopener" }.
 - **CNIL — Les droits pour maîtriser vos données personnelles** : droits d'accès, de rectification et d'effacement — [Les droits pour maîtriser vos données personnelles](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles){ target="_blank" rel="noopener" }.
 - **Traitement de texte (Word)** : mise en page de la fiche de retour et de la fiche réflexe.
 
+## Mise en situation
+
+
+Tu reviens de ta période de formation en milieu professionnel. Ta responsable de secteur du **SAAD de Loudéac**
+te demande de faire le bilan de la communication observée en structure (transmissions entre collègues, cahier de
+liaison) et de vérifier que tu maîtrises les règles de confidentialité qui s'appliquent aux informations des
+bénéficiaires, avant ta prochaine mission sur le terrain.
+
+!!! question "Problématique"
+    « Quelles règles de communication et de confidentialité un agent doit-il respecter avec les informations des
+    personnes accompagnées ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Décrire la communication professionnelle observée en stage (transmissions, cahier de liaison)
+- Résoudre des cas concrets de secret professionnel et de protection des données personnelles
+
+</div>
+
 ## Grille d'évaluation Confidentialité et retour de PFMP (4.1.3)
+
 
 <div class="zt-grille" markdown>
 

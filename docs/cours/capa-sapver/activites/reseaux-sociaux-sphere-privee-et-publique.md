@@ -1,23 +1,7 @@
-# 📱 Réseaux sociaux : sphère privée et sphère publique
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Distinguer sphère privée et sphère publique avant de publier, puis rédiger sa charte personnelle d'usage des réseaux.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Citoyenneté numérique</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Communiquer via les réseaux sociaux*</small>
+# Réseaux sociaux : sphère privée et sphère publique
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — sphère privée, sphère publique
 
@@ -78,11 +54,24 @@ La **sphère privée** regroupe ce qui concerne l'intimité d'une personne (vie 
 !!! tip "Où répondre ?"
     Dépose ton classement des 4 informations, tes 3 arguments + solution, tes 4 questions et ta charte personnelle dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans une association de quartier, en charge d'un coup de main sur les réseaux sociaux de la structure. Un collègue plus jeune, bénévole, s'apprête à publier une photo d'une sortie avec les bénéficiaires, en taguant tout le monde et en écrivant leurs prénoms complets. Tu sens qu'il y a un problème, mais tu dois pouvoir l'expliquer clairement — et te fixer, pour toi-même, des règles claires.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment distinguer ce qui relève de la sphère privée, de la sphère publique, et de celle des autres, avant de publier — et quelles règles personnelles m'en déduire ?
+
 ## Ressources
+
 
 - Aucune ressource externe requise — l'activité s'appuie sur les réseaux sociaux et comptes déjà utilisés en classe.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

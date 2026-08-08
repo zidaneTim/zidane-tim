@@ -1,41 +1,7 @@
 # ✅ Finaliser son dossier professionnel — sommaire, bibliographie et relecture
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Générer un sommaire automatique, finaliser la mise en page et relire son dossier professionnel selon une grille critériée</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — appui E4.1/E4.2</span>
-  <span>:material-tag-outline: Sommaire automatique · Bibliographie · Relecture critériée</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur te demande de finaliser le dossier avant sa remise
-officielle : un document professionnel complet doit être impeccable dans sa forme autant que dans son contenu,
-sommaire compris, pour être présentable à un jury.
-
-!!! question "Problématique"
-    « Quelles étapes techniques et de relecture permettent de transformer un dossier rédigé en un document
-    professionnel prêt à être remis ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
-- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
-
-</div>
-
 ## Travail à faire
+
 
 **Finaliser techniquement, relire, corriger**
 
@@ -76,10 +42,33 @@ sommaire compris, pour être présentable à un jury.
 
 ## Ressources et outils
 
+
 - **Traitement de texte (Word)** : Table des matières automatique, en-têtes/pieds de page, export PDF.
 - **Grille critériée de relecture** : reprise des critères de la grille d'évaluation ci-dessous.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur te demande de finaliser le dossier avant sa remise
+officielle : un document professionnel complet doit être impeccable dans sa forme autant que dans son contenu,
+sommaire compris, pour être présentable à un jury.
+
+!!! question "Problématique"
+    « Quelles étapes techniques et de relecture permettent de transformer un dossier rédigé en un document
+    professionnel prêt à être remis ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Générer un sommaire automatique et finaliser la pagination et l'en-tête du dossier
+- Relire son dossier selon une grille critériée et corriger les erreurs identifiées
+
+</div>
+
 ## Grille d'évaluation Finalisation du dossier professionnel (CP4)
+
 
 <div class="zt-grille" markdown>
 

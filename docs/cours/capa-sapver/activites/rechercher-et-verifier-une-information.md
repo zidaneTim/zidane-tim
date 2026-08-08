@@ -1,23 +1,7 @@
-# 🔎 Rechercher une information et la vérifier
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Chercher une info avec de bons mots-clés et croiser les sources, même à l'ère de l'IA, puis trier des informations fiables et trompeuses.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Recherche d'information</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — EMI Collège*</small>
+# Rechercher une information et la vérifier
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son téléphone : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Il veut l'essayer avant même d'en parler à son médecin. Le même jour, une collègue te montre une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**. Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment vérifier si une information trouvée en ligne est fiable, avant de conseiller quelqu'un ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — chercher et vérifier
 
@@ -84,11 +60,24 @@ Une **infox** (fausse information) s'alerte par : un titre choc qui promet un mi
 !!! tip "Où répondre ?"
     Dépose ta source et ta conclusion (notion), et ton tableau des 4 infos avec tes signes d'alerte (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans un EHPAD. Un résident te montre une vidéo trouvée sur son téléphone : « Boire du citron chaud le matin fait maigrir de 5 kg en une semaine, c'est prouvé ! » Il veut l'essayer avant même d'en parler à son médecin. Le même jour, une collègue te montre une image d'une star qui « recommande » un produit — mais l'image a l'air bizarre, comme fabriquée par une **intelligence artificielle**. Aujourd'hui, n'importe qui (et n'importe quelle IA) peut écrire un texte ou fabriquer une image.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment vérifier si une information trouvée en ligne est fiable, avant de conseiller quelqu'un ?
+
 ## Ressources
+
 
 - Un moteur de recherche accessible via l'ENT.
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 

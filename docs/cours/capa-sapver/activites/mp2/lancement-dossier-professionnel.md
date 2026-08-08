@@ -1,41 +1,7 @@
 # 📁 Choisir son sujet et construire le plan de son dossier professionnel
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Cadrer les épreuves E4.1/E4.2, choisir un sujet ancré en PFMP et préparer un modèle de rapport avec styles et pagination</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — appui E4.1/E4.2</span>
-  <span>:material-tag-outline: Dossier professionnel · Styles · Pagination</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur t'invite à préparer, comme chaque année pour les
-agents en formation, le dossier qui accompagne l'entretien professionnel de fin de parcours. Ce dossier
-professionnel appuie directement les épreuves E4.1 (orale) et E4.2 de ton diplôme : c'est le moment de lancer sa
-construction en t'appuyant sur ce que tu as observé en période de formation en milieu professionnel.
-
-!!! question "Problématique"
-    « Comment structurer un dossier professionnel en 4 parties et préparer un modèle de rapport avant de
-    commencer à rédiger ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Choisir un sujet de dossier professionnel ancré dans une période de formation en milieu professionnel réelle
-- Construire un plan en 4 parties et un modèle de rapport avec styles et pagination
-
-</div>
-
 ## Travail à faire
+
 
 **Cadrer, choisir, structurer**
 
@@ -75,10 +41,34 @@ construction en t'appuyant sur ce que tu as observé en période de formation en
 
 ## Ressources et outils
 
+
 - **Traitement de texte (Word)** : styles de titres, pagination automatique, page de garde.
 - **Cadre des épreuves E4.1/E4.2** : document transmis par les disciplines professionnelles (support de classe).
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur t'invite à préparer, comme chaque année pour les
+agents en formation, le dossier qui accompagne l'entretien professionnel de fin de parcours. Ce dossier
+professionnel appuie directement les épreuves E4.1 (orale) et E4.2 de ton diplôme : c'est le moment de lancer sa
+construction en t'appuyant sur ce que tu as observé en période de formation en milieu professionnel.
+
+!!! question "Problématique"
+    « Comment structurer un dossier professionnel en 4 parties et préparer un modèle de rapport avant de
+    commencer à rédiger ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Choisir un sujet de dossier professionnel ancré dans une période de formation en milieu professionnel réelle
+- Construire un plan en 4 parties et un modèle de rapport avec styles et pagination
+
+</div>
+
 ## Grille d'évaluation Lancement du dossier professionnel (CP4)
+
 
 <div class="zt-grille" markdown>
 

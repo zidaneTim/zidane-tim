@@ -1,23 +1,7 @@
-# 📈 Filtrer des données et créer un graphique de dépenses
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Traiter des données">CRCN 1.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Utiliser un filtre pour n'afficher qu'une partie des données, puis créer et commenter un graphique de dépenses.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Tableur · Données</span>
-</div>
-
-<small style="color:#7239f6">*Parcours Pix associé — Tableur pour présenter des données*</small>
+# Filtrer des données et créer un graphique de dépenses
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -26,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — le filtre
 
@@ -86,11 +62,24 @@ Un **graphique** transforme des chiffres en **dessin** (barres, camembert) : **I
 !!! tip "Où répondre ?"
     Dépose ton tableau et le poste le plus élevé de mars (notion), puis ton graphique titré et ton commentaire en 3 phrases (atelier) dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+Tu es agent dans une association d'aide à domicile. Tu accompagnes la famille Morel, qui n'arrive jamais à mettre d'argent de côté. Elle te montre ses **dépenses des 3 derniers mois** et te demande : « Où part notre argent ? » Avec une simple liste de chiffres, difficile de répondre — un graphique va rendre la réponse bien plus parlante.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment retrouver rapidement une partie précise des données d'un tableau, et comment faire parler des chiffres avec un graphique ?
+
 ## Ressources
+
 
 - Un tableur (Excel, Google Sheets ou équivalent, accessible via l'ENT).
 
 ## Grille d'évaluation
+
 
 **Production attendue :** un graphique titré des dépenses par poste de la famille Morel, accompagné d'un commentaire de 3 phrases avec un conseil.
 

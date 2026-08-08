@@ -1,42 +1,7 @@
 # 🖥️ Présenter sa PFMP à l'oral avec un diaporama efficace
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 2 — MP2 · Communication professionnelle</p>
-
-<p class="zt-lede">Concevoir un diaporama respectant la règle 6×6 et présenter sa période en structure en 5 minutes</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 70 min (60 min effectives)</span>
-  <span>:material-school-outline: MP2 — obj. 4.3</span>
-  <span>:material-tag-outline: Diaporama · Prise de parole · Auto-évaluation</span>
-</div>
-
-## Mise en situation
-
-Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur organise un temps d'échange d'équipe où chaque
-agent revenant de mission présente en quelques minutes ce qu'il a observé, pour partager les bonnes pratiques
-entre collègues. Tu dois préparer un diaporama clair et t'entraîner à présenter ta période de formation en milieu
-professionnel en 5 minutes.
-
-!!! question "Problématique"
-    « Comment concevoir un diaporama lisible et mener une présentation orale de 5 minutes qui tienne le temps
-    imparti sans surcharger l'écoute ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Concevoir un diaporama respectant la règle 6×6 et un contraste suffisant
-- Mener une présentation orale de 5 minutes et s'auto-évaluer sur une grille
-
-</div>
-
 ## Travail à faire
+
 
 **Concevoir, répéter, présenter**
 
@@ -77,11 +42,35 @@ professionnel en 5 minutes.
 
 ## Ressources et outils
 
+
 - **Diaporama (PowerPoint ou équivalent)** : outil de vérification d'accessibilité intégré (menu Révision >
   Vérifier l'accessibilité).
 - **Chronomètre du téléphone ou de l'ordinateur** : pour minuter l'entraînement.
 
+## Mise en situation
+
+
+Tu es agent du **SAAD de Loudéac**. Ta responsable de secteur organise un temps d'échange d'équipe où chaque
+agent revenant de mission présente en quelques minutes ce qu'il a observé, pour partager les bonnes pratiques
+entre collègues. Tu dois préparer un diaporama clair et t'entraîner à présenter ta période de formation en milieu
+professionnel en 5 minutes.
+
+!!! question "Problématique"
+    « Comment concevoir un diaporama lisible et mener une présentation orale de 5 minutes qui tienne le temps
+    imparti sans surcharger l'écoute ? »
+
+## Objectifs
+
+
+<div class="zt-objectifs" markdown>
+
+- Concevoir un diaporama respectant la règle 6×6 et un contraste suffisant
+- Mener une présentation orale de 5 minutes et s'auto-évaluer sur une grille
+
+</div>
+
 ## Grille d'évaluation Présentation orale et diaporama (4.3.2)
+
 
 <div class="zt-grille" markdown>
 

@@ -1,21 +1,7 @@
-# 🏛️ Les démarches administratives en ligne
-
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
-<p class="zt-kicker">CAPa SAPVER 1 — MG1 · Vie sociale</p>
-
-<p class="zt-lede">Identifier les sites officiels pour une démarche administrative, puis simuler une démarche du quotidien.</p>
-
-<div class="zt-meta" markdown>
-  <span>:material-clock-outline: 2 séances</span>
-  <span>:material-school-outline: MG1 — Vie sociale</span>
-  <span>:material-tag-outline: Citoyenneté numérique</span>
-</div>
+# Les démarches administratives en ligne
 
 ## Objectifs pédagogiques
+
 
 <div class="zt-objectifs" markdown>
 
@@ -24,16 +10,8 @@
 
 </div>
 
-## Mise en situation
-
-M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
-
-## Problématique
-
-!!! question "Problématique"
-    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
-
 ## Travail à faire
+
 
 ### 📘 Notion — reconnaître un site administratif officiel
 
@@ -76,12 +54,25 @@ Les sites officiels de l'administration française se reconnaissent à quelques 
 !!! tip "Où répondre ?"
     Dépose tes verdicts sur les recherches, tes 4 conseils pour M. Le Roux, les 3 étapes de service-public.fr et ton mode d'emploi en 5 étapes dans ta trace **OneNote** de la classe (section MG1 — Vie sociale).
 
+## Mise en situation
+
+
+M. Le Roux, 79 ans, bénéficiaire suivi par l'association d'aide à domicile où tu es agent, doit renouveler sa carte d'identité mais n'a « jamais rien fait sur internet ». Il te demande de l'aider. Avant d'intervenir, tu dois savoir reconnaître un **site officiel** parmi les nombreux sites qui imitent l'administration pour facturer des services gratuits — puis t'entraîner toi-même à réaliser une démarche en ligne.
+
+## Problématique
+
+
+!!! question "Problématique"
+    Comment identifier les sites officiels pour une démarche administrative, et réaliser une démarche en ligne en toute confiance ?
+
 ## Ressources
+
 
 - [service-public.fr](https://www.service-public.fr/) — portail officiel des démarches administratives.
 - Un environnement d'entraînement aux démarches administratives (fourni par l'enseignant, sans données réelles).
 
 ## Grille d'évaluation
+
 
 <div class="zt-grille" markdown>
 
