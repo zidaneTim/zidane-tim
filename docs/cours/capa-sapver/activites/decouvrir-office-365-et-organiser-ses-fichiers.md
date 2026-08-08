@@ -113,7 +113,8 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 
 ## Compétences et parcours
 
-**Cadre de Référence pour les Compétences Numériques (CRCN)**
+Cadre de Référence pour les Compétences Numériques (CRCN) :
+
 - CRCN 5.2 : Construire un environnement numérique
 - CRCN 1.2 : Gérer des données
 
