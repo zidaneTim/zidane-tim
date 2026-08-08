@@ -1,11 +1,5 @@
 # 🔎 Vrai, faux, ou généré par une IA ?
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Appliquer une méthode de vérification en 4 gestes à une information circulant en ligne, y compris quand elle a été rédigée ou illustrée par une intelligence artificielle</p>
@@ -18,7 +12,17 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Parcours Pix IA — « Décrypter le fonctionnement et les enjeux de l'IA » (non obligatoire en 2nde SAPAT, correspondance thématique directe)*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Appliquer les quatre gestes de la méthode SIFT à une information non vérifiée
+- Distinguer un fait vérifiable, une opinion et une affirmation invérifiable dans un même contenu
+- Repérer des indices de génération automatique dans un texte ou une image et formuler une conclusion prudente
+
+</div>
+
+## Contexte et problématique
 
 Une **maison de santé** du centre Bretagne reçoit régulièrement des patients qui arrivent avec une capture d'écran :
 un « remède », une alerte sanitaire, un conseil de santé lu sur un réseau social. Depuis que les outils d'IA
@@ -36,16 +40,6 @@ rapportent.
 !!! question "Problématique"
     « Comment vérifier en quelques minutes si une information trouvée en ligne est fiable, et repérer les indices
     qu'un texte ou une image a été produit par une intelligence artificielle ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Appliquer les quatre gestes de la méthode SIFT à une information non vérifiée
-- Distinguer un fait vérifiable, une opinion et une affirmation invérifiable dans un même contenu
-- Repérer des indices de génération automatique dans un texte ou une image et formuler une conclusion prudente
-
-</div>
 
 ## Travail à faire
 
@@ -127,6 +121,14 @@ rapportent.
 - **CLEMI — Repérer les sources de l'info** : distinguer source primaire et reprise — [clemi.fr](https://www.clemi.fr/ressources/ressources-pedagogiques/reperer-les-sources-de-linfo){ target="_blank" rel="noopener" }.
 - **Google Images (recherche inversée)** : retrouver la date et le contexte d'origine d'une image — [images.google.com](https://images.google.com){ target="_blank" rel="noopener" }.
 - **IA générative disponible en classe** : à utiliser comme objet d'analyse (vérification obligatoire de chaque source citée), jamais comme source d'autorité.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
+</div>
 
 ## Grille d'évaluation CRCN 1.1 / 2.4 — Analyse critique de l'information
 

@@ -1,10 +1,5 @@
 # 🔒 Auditer et sécuriser les paramètres de confidentialité d'un compte
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Vérifier les paramètres de confidentialité et activer la double authentification sur un compte de test</p>
@@ -15,7 +10,16 @@
   <span>:material-tag-outline: cybermalveillance.gouv.fr</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Vérifier les paramètres de confidentialité d'un compte de test et identifier ceux exposant le plus d'informations
+- Activer une protection renforcée (double authentification) et en expliquer l'intérêt
+
+</div>
+
+## Contexte et problématique
 
 Tu vas auditer les paramètres de confidentialité et de sécurité d'un **compte de test** (créé pour l'exercice, pas
 ton compte personnel), pour repérer les réglages laissés par défaut et corriger ceux qui exposent trop
@@ -30,15 +34,6 @@ d'informations.
 !!! question "Problématique"
     « Quels réglages par défaut d'un compte de réseau social exposent le plus d'informations, et comment les
     corriger sans perdre les fonctionnalités utiles ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Vérifier les paramètres de confidentialité d'un compte de test et identifier ceux exposant le plus d'informations
-- Activer une protection renforcée (double authentification) et en expliquer l'intérêt
-
-</div>
 
 ## Travail à faire
 
@@ -77,6 +72,13 @@ d'informations.
 - **Cybermalveillance.gouv.fr — Bien gérer ses mots de passe** : méthode de mot de passe robuste et double
   authentification — [lien](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mots-de-passe){ target="_blank" rel="noopener" }.
 - **Compte de test** : fourni pour l'exercice, réglages de confidentialité par défaut à auditer.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+</div>
 
 ## Grille d'évaluation Confidentialité et sécurité des comptes (Pluri MG2)
 

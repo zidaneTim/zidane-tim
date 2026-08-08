@@ -1,11 +1,5 @@
 # ✉️ Écrire comme un professionnel : courriel, note et diaporama
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Produire les trois écrits professionnels numériques les plus courants d'une structure d'accueil, sur une même situation de travail</p>
@@ -18,7 +12,17 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Communication et collaboration - Socle commun*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Rédiger un courriel professionnel complet et correctement adressé
+- Structurer une note de service brève, factuelle et affichable
+- Construire un diaporama de 6 diapositives respectant la règle 6×6
+
+</div>
+
+## Contexte et problématique
 
 Une **résidence autonomie** organise un après-midi intergénérationnel avec une classe de l'école voisine. Trois
 écrits doivent circuler pour que l'après-midi ait lieu : un **courriel** à l'enseignante de l'école, une **note de
@@ -34,16 +38,6 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 !!! question "Problématique"
     « Comment adapter un même message professionnel à trois supports numériques et trois destinataires
     différents ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rédiger un courriel professionnel complet et correctement adressé
-- Structurer une note de service brève, factuelle et affichable
-- Construire un diaporama de 6 diapositives respectant la règle 6×6
-
-</div>
 
 ## Travail à faire
 
@@ -126,6 +120,14 @@ préparation des trois écrits liés à cet après-midi intergénérationnel.
 - **PowerPoint (Microsoft 365)** : construction du diaporama et notes de présentation — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
 - **Modèle de squelette de courriel** : fourni dans le coup de pouce de l'étape A, à recopier et compléter.
 - **OneNote (Microsoft 365)** : dépôt des trois productions — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Interagir">CRCN 2.1</span>
+  <span title="Développer des documents textuels">CRCN 3.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 2.1 / 3.1 — Écrits professionnels numériques
 

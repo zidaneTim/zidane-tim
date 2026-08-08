@@ -1,10 +1,5 @@
 # 🗺️ Cartographier ses propres usages des réseaux sociaux
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Faire le point sur ses propres réseaux et usages avant de travailler la publication responsable tout au long de l'année</p>
@@ -15,16 +10,7 @@
   <span>:material-tag-outline: Auto-analyse</span>
 </div>
 
-## Mise en situation
-
-Avant d'entamer un travail sur la publication responsable, tu vas d'abord faire le point sur **ta propre pratique**
-des réseaux sociaux : lesquels tu utilises, pour quoi faire, et quelles traces tu laisses déjà en ligne sans
-toujours t'en rendre compte.
-
-!!! question "Problématique"
-    « Quelle image de moi les traces déjà laissées sur mes réseaux sociaux donnent-elles à voir, et à qui ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -33,6 +19,15 @@ toujours t'en rendre compte.
 - Repérer, par une recherche de ses propres traces en ligne, ce qui est visible publiquement et par qui
 
 </div>
+
+## Contexte et problématique
+
+Avant d'entamer un travail sur la publication responsable, tu vas d'abord faire le point sur **ta propre pratique**
+des réseaux sociaux : lesquels tu utilises, pour quoi faire, et quelles traces tu laisses déjà en ligne sans
+toujours t'en rendre compte.
+
+!!! question "Problématique"
+    « Quelle image de moi les traces déjà laissées sur mes réseaux sociaux donnent-elles à voir, et à qui ? »
 
 ## Travail à faire
 
@@ -74,6 +69,13 @@ toujours t'en rendre compte.
 ## Ressources et outils
 
 - **Moteur de recherche** : pour la recherche de ses propres traces en ligne.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
+</div>
 
 ## Grille d'évaluation Panorama et identité numérique (Pluri MG2)
 

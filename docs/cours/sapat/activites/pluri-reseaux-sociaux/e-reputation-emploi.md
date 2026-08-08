@@ -1,10 +1,5 @@
 # 💼 Corriger un profil professionnel fictif pour préparer sa recherche d'emploi
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Analyser un profil professionnel fictif du point de vue d'un recruteur et proposer un plan d'amélioration</p>
@@ -15,7 +10,17 @@
   <span>:material-tag-outline: Auto-analyse</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Analyser un profil professionnel fictif du point de vue d'un recruteur et repérer ses points faibles
+- Proposer un plan d'amélioration concret de l'e-réputation, sans confondre présence professionnelle et effacement
+  total
+
+</div>
+
+## Contexte et problématique
 
 Tu vas bientôt chercher un stage ou un premier emploi. Avant de travailler ta propre présence en ligne, tu
 t'entraînes sur un **profil professionnel fictif** (nom d'emprunt) présentant plusieurs points faibles typiques,
@@ -32,16 +37,6 @@ pour apprendre à les repérer avant qu'un recruteur ne le fasse.
 !!! question "Problématique"
     « Quels éléments d'un profil en ligne un recruteur retient-il en premier, et comment corriger ceux qui nuisent
     à l'image professionnelle sans effacer toute trace personnelle ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Analyser un profil professionnel fictif du point de vue d'un recruteur et repérer ses points faibles
-- Proposer un plan d'amélioration concret de l'e-réputation, sans confondre présence professionnelle et effacement
-  total
-
-</div>
 
 ## Travail à faire
 
@@ -82,6 +77,13 @@ pour apprendre à les repérer avant qu'un recruteur ne le fasse.
 ## Ressources et outils
 
 - **Profil professionnel fictif** : support fourni en classe pour l'exercice.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
+</div>
 
 ## Grille d'évaluation E-réputation et emploi (Pluri MG2)
 

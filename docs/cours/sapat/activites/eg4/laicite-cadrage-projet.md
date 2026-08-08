@@ -1,10 +1,5 @@
 # 🕊️ Laïcité : cadrer le projet avant de produire
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Chercher à la source ce qu'est la laïcité, choisir un angle, et écrire la fiche de cadrage d'une production destinée au foyer de l'établissement</p>
@@ -17,7 +12,17 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — EMI Collège*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Rechercher et sélectionner une information sur la laïcité dans des sources institutionnelles de référence
+- Distinguer ce que la laïcité impose à l'École de ce qu'elle n'interdit pas, en citant un article de la Charte
+- Rédiger une fiche de cadrage de projet précisant message, public, format, sources et jalons
+
+</div>
+
+## Contexte et problématique
 
 Le **9 décembre** est la journée nationale de la laïcité : la date fait référence à la **loi du 9 décembre 1905**
 de séparation des Églises et de l'État, qui affirme que « la République assure la liberté de conscience ». À
@@ -35,16 +40,6 @@ quelles sources, et selon quel plan de travail.
 !!! question "Problématique"
     « Quel message sur la laïcité veut-on faire passer aux élèves du lycée, à partir de quelles sources fiables, et
     sous quelle forme numérique le rendre lisible au foyer ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rechercher et sélectionner une information sur la laïcité dans des sources institutionnelles de référence
-- Distinguer ce que la laïcité impose à l'École de ce qu'elle n'interdit pas, en citant un article de la Charte
-- Rédiger une fiche de cadrage de projet précisant message, public, format, sources et jalons
-
-</div>
 
 ## Travail à faire
 
@@ -124,6 +119,13 @@ quelles sources, et selon quel plan de travail.
 - **Charte de la laïcité — version affiche A3 (PDF)** : même texte, mise en page d'affichage, utile pour voir comment un message institutionnel est hiérarchisé — [eduscol.education.gouv.fr (PDF)](https://eduscol.education.gouv.fr/sites/default/files/document/2025-educationnationalecharte-de-la-laicite-l-ecole-format-a3pdf-82053.pdf){ target="_blank" rel="noopener" }.
 - **éduscol — Laïcité** : dossier institutionnel complet (ressources, textes de référence) — [eduscol.education.gouv.fr/6096/laicite](https://eduscol.education.gouv.fr/6096/laicite){ target="_blank" rel="noopener" }.
 - **OneNote (Microsoft 365)** : rédaction et dépôt de la fiche de cadrage — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 1.1 — Recherche d'information et cadrage de projet
 

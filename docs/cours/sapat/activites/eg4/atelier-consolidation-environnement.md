@@ -1,12 +1,5 @@
 # 🧰 Atelier de consolidation — environnement numérique
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Atelier au choix : reprendre ce qui n'est pas encore acquis sur l'environnement de travail, le rangement des fichiers et la sécurité des accès</p>
@@ -17,7 +10,17 @@
   <span>:material-tag-outline: Atelier différencié · OneDrive · OneNote</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier ses propres points fragiles à partir de son autodiagnostic CRCN
+- Consolider au moins deux compétences ciblées parmi environnement de travail, gestion de fichiers et sécurité
+- Produire une preuve vérifiable de ce qui a été consolidé
+
+</div>
+
+## Contexte et problématique
 
 Dans une structure, personne ne travaille avec le même niveau de maîtrise du poste informatique : certains agents
 retrouvent un document en dix secondes, d'autres perdent un quart d'heure. Les structures organisent donc des temps
@@ -32,16 +35,6 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 !!! question "Problématique"
     « Qu'est-ce qui n'est pas encore acquis dans mon environnement numérique de travail, et comment le vérifier
     autrement qu'à l'impression ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier ses propres points fragiles à partir de son autodiagnostic CRCN
-- Consolider au moins deux compétences ciblées parmi environnement de travail, gestion de fichiers et sécurité
-- Produire une preuve vérifiable de ce qui a été consolidé
-
-</div>
 
 ## Travail à faire
 
@@ -123,6 +116,15 @@ environnement de travail numérique et combler ce que tu sais ne pas encore maî
 - **Paramètres Windows — Comptes / Options de connexion** : verrouillage de session et mot de passe — application Paramètres du poste.
 - **Pix — Les compétences évaluées** : intitulés exacts des compétences pour mettre à jour ton autodiagnostic — [pix.fr/competences](https://pix.fr/competences){ target="_blank" rel="noopener" }.
 - **Pix — application** : parcours d'entraînement autonome sur les compétences travaillées — [app.pix.fr](https://app.pix.fr){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Construire un environnement numérique">CRCN 5.2</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 5.2 / 1.2 / 4.1 — Consolidation
 

@@ -1,11 +1,5 @@
 # 🗂️ Organiser et sécuriser son poste de travail numérique
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Gérer des données">CRCN 1.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Un poste de travail bien rangé et bien protégé, c'est un métier fait sans perte de temps ni de données</p>
@@ -18,7 +12,19 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Cybersécurité (MAJ 2025) · Information et données - Socle commun*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Structurer un espace de stockage numérique avec une arborescence de dossiers cohérente et nommée selon une
+  convention explicite
+- Distinguer stockage local et stockage cloud, et paramétrer une synchronisation OneDrive fiable
+- Appliquer des règles de sécurité de base sur son poste (mot de passe robuste, verrouillage de session, gestion des
+  partages)
+
+</div>
+
+## Contexte et problématique
 
 Tu es **agent d'une structure d'accueil (EHPAD, SAAD, crèche...)**. Dès ton arrivée, ta responsable de service te
 confie un ordinateur professionnel et un espace **OneDrive** partagé par l'établissement. Elle te prévient : « L'an
@@ -36,18 +42,6 @@ retrouvable et protégé.
 !!! question "Problématique"
     « Comment organiser et sécuriser mon poste de travail numérique pour que mes documents professionnels soient
     toujours retrouvables, sauvegardés et protégés ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Structurer un espace de stockage numérique avec une arborescence de dossiers cohérente et nommée selon une
-  convention explicite
-- Distinguer stockage local et stockage cloud, et paramétrer une synchronisation OneDrive fiable
-- Appliquer des règles de sécurité de base sur son poste (mot de passe robuste, verrouillage de session, gestion des
-  partages)
-
-</div>
 
 ## Travail à faire
 
@@ -133,6 +127,14 @@ retrouvable et protégé.
 - **OneDrive (onedrive.com)** : vérification en ligne des fichiers et gestion des partages — accès via navigateur avec le compte de l'établissement.
 - **Paramètres Windows — Comptes/Options de connexion** : réglage du verrouillage automatique de session.
 - **CNIL — Sécurité du poste de travail** : recherche « CNIL sécurité poste de travail » — fiche pratique officielle sur les bons réflexes de sécurité numérique en entreprise.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Gérer des données">CRCN 1.2</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 1.2 / 4.1 — Environnement numérique
 

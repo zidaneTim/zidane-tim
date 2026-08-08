@@ -1,10 +1,5 @@
 # 🎭 Distinguer un contenu authentique d'un deepfake
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Construire une grille de détection des deepfakes à partir d'une source officielle et l'appliquer à des cas concrets</p>
@@ -15,7 +10,16 @@
   <span>:material-tag-outline: CNIL</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier, à partir d'une source officielle, les indices de détection d'un contenu généré par IA
+- Appliquer cette grille de détection à des cas concrets et proposer une conduite à tenir en cas de doute
+
+</div>
+
+## Contexte et problématique
 
 Des vidéos et images générées ou modifiées par intelligence artificielle circulent de plus en plus sur les réseaux
 sociaux, parfois indétectables à l'œil nu. Tu vas construire une grille de détection à partir d'une source
@@ -24,15 +28,6 @@ officielle, puis l'appliquer à des cas concrets pour t'entraîner à repérer l
 !!! question "Problématique"
     « Quels indices permettent de repérer un contenu généré ou modifié par IA, et que faire quand le doute
     persiste ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier, à partir d'une source officielle, les indices de détection d'un contenu généré par IA
-- Appliquer cette grille de détection à des cas concrets et proposer une conduite à tenir en cas de doute
-
-</div>
 
 ## Travail à faire
 
@@ -81,6 +76,13 @@ officielle, puis l'appliquer à des cas concrets pour t'entraîner à repérer l
 
 - **CNIL — Hypertrucage (deepfake), comment se protéger et signaler** : source officielle sur les indices de
   détection — [lien](https://www.cnil.fr/fr/hypertrucage-deepfake){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
 
 ## Grille d'évaluation Détection des deepfakes (Pluri MG2)
 

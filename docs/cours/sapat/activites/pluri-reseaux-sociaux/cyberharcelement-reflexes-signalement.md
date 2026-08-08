@@ -1,10 +1,5 @@
 # 🆘 Identifier une situation de cyberharcèlement et les recours
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Reconnaître les signaux d'une situation de cyberharcèlement et construire une fiche réflexes de signalement</p>
@@ -15,7 +10,16 @@
   <span>:material-tag-outline: 3018 — e-Enfance</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier, à partir d'un cas donné, les signes qui caractérisent une situation de cyberharcèlement
+- Décrire les gestes et démarches de signalement adaptés à une victime ou à un témoin
+
+</div>
+
+## Contexte et problématique
 
 Un cas fictif te sera présenté en classe (échange de messages et commentaires sur un réseau social entre plusieurs
 élèves d'un lycée). Tu vas l'analyser pour identifier ce qui relève du cyberharcèlement et construire une fiche
@@ -32,15 +36,6 @@ réflexes réutilisable, pour toi ou pour un proche confronté à une situation 
 !!! question "Problématique"
     « Quels signes permettent de reconnaître une situation de cyberharcèlement, et quels sont les bons réflexes de
     signalement ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier, à partir d'un cas donné, les signes qui caractérisent une situation de cyberharcèlement
-- Décrire les gestes et démarches de signalement adaptés à une victime ou à un témoin
-
-</div>
 
 ## Travail à faire
 
@@ -80,6 +75,13 @@ réflexes réutilisable, pour toi ou pour un proche confronté à une situation 
 ## Ressources et outils
 
 - **3018 — Numéro national de lutte contre le harcèlement** : recours officiel de signalement — [lien](https://www.3018.fr){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Protéger la santé, le bien-être et l'environnement">CRCN 4.3</span>
+</div>
 
 ## Grille d'évaluation Cyberharcèlement (Pluri MG2)
 

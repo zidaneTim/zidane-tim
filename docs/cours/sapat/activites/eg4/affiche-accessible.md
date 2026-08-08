@@ -1,11 +1,5 @@
 # ♿ Une affiche accessible contre l'illectronisme
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Sensibiliser des jeunes à l'illectronisme avec des chiffres réels, sur une affiche qui applique elle-même les règles d'accessibilité qu'elle défend</p>
@@ -16,7 +10,19 @@
   <span>:material-tag-outline: Canva · RGAA</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Rechercher et citer une donnée chiffrée réelle et sourcée sur l'illectronisme en France
+- Rédiger un message de sensibilisation clair et impactant, destiné à un public de jeunes, sur les enjeux de
+  l'illectronisme dans le secteur SAPAT
+- Appliquer au moins 5 règles d'accessibilité (contraste, police, pictogrammes, sobriété du texte, hiérarchie
+  visuelle) pour que l'affiche illustre elle-même sa propre leçon
+
+</div>
+
+## Contexte et problématique
 
 Le **CCAS de Loudéac** constate, sur le terrain, que de nombreux usagers accompagnés par ses services (aide à
 domicile, EHPAD, accueil social) ne parviennent plus à réaliser seuls des démarches devenues presque entièrement
@@ -39,18 +45,6 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 !!! question "Problématique"
     « Comment sensibiliser des jeunes à la réalité de l'illectronisme en France et dans le secteur SAPAT, avec une
     affiche qui applique elle-même les règles d'accessibilité qu'elle défend ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Rechercher et citer une donnée chiffrée réelle et sourcée sur l'illectronisme en France
-- Rédiger un message de sensibilisation clair et impactant, destiné à un public de jeunes, sur les enjeux de
-  l'illectronisme dans le secteur SAPAT
-- Appliquer au moins 5 règles d'accessibilité (contraste, police, pictogrammes, sobriété du texte, hiérarchie
-  visuelle) pour que l'affiche illustre elle-même sa propre leçon
-
-</div>
 
 ## Travail à faire
 
@@ -146,6 +140,14 @@ l'affiche doit elle-même être un exemple d'accessibilité, pas seulement en pa
 - **RGAA — Référentiel général d'amélioration de l'accessibilité** : méthode et critères officiels d'accessibilité
   numérique (DINUM) — [accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/){ target="_blank" rel="noopener" }.
 - **Canva** : création de l'affiche, modèles accessibles disponibles — [canva.com](https://www.canva.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+  <span title="S'insérer dans le monde numérique">CRCN 2.4</span>
+</div>
 
 ## Grille d'évaluation CRCN 3.3 / 2.4 — Sensibilisation et accessibilité numérique
 

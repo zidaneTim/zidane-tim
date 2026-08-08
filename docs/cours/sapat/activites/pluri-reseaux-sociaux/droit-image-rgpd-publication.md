@@ -1,10 +1,5 @@
 # ⚖️ Décrire le cadre légal d'une publication avec des personnes identifiables
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Construire une fiche cadre légal du droit à l'image et du RGPD, applicable à des cas de publication concrets</p>
@@ -15,17 +10,7 @@
   <span>:material-tag-outline: CNIL</span>
 </div>
 
-## Mise en situation
-
-Publier une photo ou une vidéo où d'autres personnes apparaissent n'est pas un acte anodin : le droit à l'image et
-le RGPD encadrent ce que tu peux publier, notamment quand des mineurs sont concernés. Tu vas construire une fiche
-cadre légal, applicable à des cas de publication concrets fournis en classe.
-
-!!! question "Problématique"
-    « Que dit la loi sur la publication d'une image où apparaît une autre personne, en particulier un mineur, et
-    quelles sont les limites du droit à l'oubli ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -34,6 +19,16 @@ cadre légal, applicable à des cas de publication concrets fournis en classe.
 - Appliquer ce cadre à des cas concrets de publication pour juger de leur conformité
 
 </div>
+
+## Contexte et problématique
+
+Publier une photo ou une vidéo où d'autres personnes apparaissent n'est pas un acte anodin : le droit à l'image et
+le RGPD encadrent ce que tu peux publier, notamment quand des mineurs sont concernés. Tu vas construire une fiche
+cadre légal, applicable à des cas de publication concrets fournis en classe.
+
+!!! question "Problématique"
+    « Que dit la loi sur la publication d'une image où apparaît une autre personne, en particulier un mineur, et
+    quelles sont les limites du droit à l'oubli ? »
 
 ## Travail à faire
 
@@ -72,6 +67,13 @@ cadre légal, applicable à des cas de publication concrets fournis en classe.
 
 - **CNIL — Utilisation des photos des élèves** : consentement des parents pour la publication d'une image de mineur — [lien](https://www.cnil.fr/fr/cnil-direct/question/utilisation-des-photos-des-eleves-faut-il-laccord-des-parents){ target="_blank" rel="noopener" }.
 - **CNIL — Droit au déréférencement** : ce qu'est le droit à l'oubli et ses limites — [lien](https://www.cnil.fr/fr/comprendre-mes-droits/droit-au-dereferencement){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+</div>
 
 ## Grille d'évaluation Droit à l'image et RGPD (Pluri MG2)
 

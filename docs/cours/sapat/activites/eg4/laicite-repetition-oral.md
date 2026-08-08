@@ -1,10 +1,5 @@
 # 🎤 Préparer et répéter la présentation de sa production
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Interagir">CRCN 2.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Construire un conducteur d'oral de 4 à 5 minutes, s'enregistrer, s'écouter et corriger avant la présentation au foyer</p>
@@ -15,7 +10,17 @@
   <span>:material-tag-outline: Conducteur d'oral · Enregistrement · OneNote</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Construire un conducteur d'oral minuté en cinq temps
+- S'enregistrer, s'écouter et identifier trois points d'amélioration précis dans sa propre prise de parole
+- Anticiper deux questions du public et préparer une réponse courte à chacune
+
+</div>
+
+## Contexte et problématique
 
 Le jour de la diffusion au foyer, personne ne lira ta fiche de cadrage : on te demandera, en quelques minutes,
 d'expliquer **ce que tu as produit, pourquoi, et à partir de quelles sources**. C'est une situation qui revient
@@ -31,16 +36,6 @@ mot), on répète, on s'enregistre, on corrige.
 !!! question "Problématique"
     « Comment préparer une présentation orale courte qui reste claire, tenue dans le temps imparti, et qui donne
     envie d'écouter jusqu'au bout ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Construire un conducteur d'oral minuté en cinq temps
-- S'enregistrer, s'écouter et identifier trois points d'amélioration précis dans sa propre prise de parole
-- Anticiper deux questions du public et préparer une réponse courte à chacune
-
-</div>
 
 ## Travail à faire
 
@@ -119,6 +114,13 @@ mot), on répète, on s'enregistre, on corrige.
 - **Audacity** : enregistrement et réécoute avec repérage précis des durées — [audacityteam.org](https://www.audacityteam.org/){ target="_blank" rel="noopener" }.
 - **Ta production et ta fiche de cadrage** : matière première du conducteur (message, sources, licences) — dans tes pages OneNote *Projet laïcité*.
 - **OneNote (Microsoft 365)** : rédaction du conducteur et dépôt des enregistrements — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Interagir">CRCN 2.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 2.1 — Préparation d'une prise de parole
 

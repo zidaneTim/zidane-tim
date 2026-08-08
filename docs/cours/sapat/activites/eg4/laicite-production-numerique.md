@@ -1,12 +1,5 @@
 # 🎨 Produire l'affiche ou le montage audio du 9 décembre
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Transformer un texte validé en une production numérique sourcée — affiche Canva ou montage audio Audacity — destinée au foyer de l'établissement</p>
@@ -19,7 +12,17 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Création de contenu - Socle commun*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Produire un support numérique (affiche PAO ou montage audio) porteur d'un message unique
+- Sélectionner des ressources sous licence libre et en citer correctement la provenance
+- Adapter le support à ses conditions réelles de diffusion (lisibilité à distance, durée d'écoute, format d'export)
+
+</div>
+
+## Contexte et problématique
 
 Le contenu écrit de ta production sur la laïcité a été préparé en **ESC** ; ta fiche de cadrage fixe déjà le
 message, le public et le format. Il reste le travail proprement numérique : mettre en forme, illustrer ou
@@ -35,16 +38,6 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 !!! question "Problématique"
     « Comment produire un support numérique qui porte un message clair, reste lisible ou audible dans un lieu de
     passage, et n'utilise que des ressources légalement diffusables ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Produire un support numérique (affiche PAO ou montage audio) porteur d'un message unique
-- Sélectionner des ressources sous licence libre et en citer correctement la provenance
-- Adapter le support à ses conditions réelles de diffusion (lisibilité à distance, durée d'écoute, format d'export)
-
-</div>
 
 ## Travail à faire
 
@@ -136,6 +129,15 @@ diffusable de ton support, avec des ressources dont la licence est vérifiée et
 - **PowerPoint (Microsoft 365)** : alternative à Canva pour la mise en page et l'export PDF — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
 - **Audacity** : enregistrement et montage audio, logiciel libre — [audacityteam.org](https://www.audacityteam.org/){ target="_blank" rel="noopener" }.
 - **Ta fiche de cadrage** : message, public, format et sources déjà arrêtés — dans ta page OneNote *Projet laïcité — cadrage*.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Développer des documents multimédia">CRCN 3.2</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
 
 ## Grille d'évaluation CRCN 3.2 / 3.3 / 2.2 — Production numérique du projet
 

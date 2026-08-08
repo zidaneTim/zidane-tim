@@ -1,10 +1,5 @@
 # ✍️ Rédiger un post adapté à un public cible
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Appliquer sa méthode de publication responsable pour réécrire un post et l'adapter à un public cible</p>
@@ -15,7 +10,16 @@
   <span>:material-tag-outline: Méthode de publication responsable</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Appliquer sa méthode de publication responsable à la réécriture d'un post concret
+- Adapter le message et le ton d'un texte à un public cible donné
+
+</div>
+
+## Contexte et problématique
 
 Un post brouillon te sera fourni, écrit sans attention particulière (fautes, ton inadapté, source non vérifiée).
 Tu vas le réécrire en appliquant la méthode de publication responsable construite lors de l'activité précédente,
@@ -31,15 +35,6 @@ en l'adaptant à un public cible précis.
 !!! question "Problématique"
     « Comment réécrire un post pour qu'il soit à la fois vérifié, respectueux des personnes concernées, et adapté
     au public visé ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Appliquer sa méthode de publication responsable à la réécriture d'un post concret
-- Adapter le message et le ton d'un texte à un public cible donné
-
-</div>
 
 ## Travail à faire
 
@@ -80,6 +75,13 @@ en l'adaptant à un public cible précis.
 - **Méthode de publication responsable** : production personnelle de l'activité précédente, conservée dans
   OneNote.
 - **Post brouillon** : support fourni en classe pour l'exercice.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Développer des documents textuels">CRCN 3.1</span>
+</div>
 
 ## Grille d'évaluation Publier un texte (Pluri MG2)
 

@@ -1,11 +1,5 @@
 # 🚀 Prendre en main son environnement numérique de travail
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Construire un environnement numérique">CRCN 5.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Ouvrir, sécuriser et cartographier son espace de travail numérique — puis se situer sur les 16 compétences du cadre national CRCN</p>
@@ -18,7 +12,18 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Environnement numérique - Socle commun*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Configurer son environnement numérique de travail (ENT, messagerie, espace de stockage, OneNote) et vérifier son
+  fonctionnement réel
+- Appliquer trois règles de sécurité d'accès sur ses comptes scolaires
+- Se positionner sur les 5 domaines du CRCN et formuler 3 objectifs personnels de progression pour l'année
+
+</div>
+
+## Contexte et problématique
 
 Le **foyer socio-éducatif** du lycée cherche un·e élève de 2nde pour tenir, cette année, le rôle de **relais
 numérique** auprès des autres élèves : quelqu'un capable d'expliquer où déposer un document, comment récupérer un
@@ -36,17 +41,6 @@ que tu dois travailler en priorité cette année.
 !!! question "Problématique"
     « Comment prendre en main un environnement numérique de travail en toute sécurité, et savoir précisément quelles
     compétences numériques il me reste à construire cette année ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Configurer son environnement numérique de travail (ENT, messagerie, espace de stockage, OneNote) et vérifier son
-  fonctionnement réel
-- Appliquer trois règles de sécurité d'accès sur ses comptes scolaires
-- Se positionner sur les 5 domaines du CRCN et formuler 3 objectifs personnels de progression pour l'année
-
-</div>
 
 ## Travail à faire
 
@@ -122,6 +116,14 @@ que tu dois travailler en priorité cette année.
 - **Microsoft 365 (OneNote, OneDrive, Outlook)** : espace de travail et de dépôt de toutes tes traces — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
 - **Pix — Les compétences évaluées** : liste officielle des 5 domaines et 16 compétences du CRCN, avec les thématiques associées — [pix.fr/competences](https://pix.fr/competences){ target="_blank" rel="noopener" }.
 - **Pix — application** : plateforme d'entraînement et de certification, où tu joueras les parcours de l'année — [app.pix.fr](https://app.pix.fr){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Construire un environnement numérique">CRCN 5.2</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 5.2 / 4.1 — Environnement numérique
 

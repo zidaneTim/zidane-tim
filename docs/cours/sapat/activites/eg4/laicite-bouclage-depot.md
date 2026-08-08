@@ -1,11 +1,5 @@
 # ✅ Boucler et déposer la production
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-  <span title="Collaborer">CRCN 2.3</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Contrôler, corriger et déposer une production prête à être diffusée dans un lieu accueillant du public</p>
@@ -16,7 +10,17 @@
   <span>:material-tag-outline: Contrôle qualité · ENT · OneNote</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Contrôler une production numérique à l'aide d'une grille de conformité explicite
+- Formuler une remarque de relecture utile, précise et exploitable par son auteur
+- Finaliser et déposer un fichier au bon format, correctement nommé et documenté
+
+</div>
+
+## Contexte et problématique
 
 Dans une structure, un support de communication n'est jamais diffusé par la personne qui l'a produit sans passage
 par une étape de contrôle : quelqu'un relit, vérifie les mentions obligatoires, teste le fichier, et seulement
@@ -32,16 +36,6 @@ terminée, contrôlée et déposée — pas la veille.
 !!! question "Problématique"
     « À quelles conditions une production numérique est-elle réellement prête à être diffusée dans un lieu
     accueillant du public ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Contrôler une production numérique à l'aide d'une grille de conformité explicite
-- Formuler une remarque de relecture utile, précise et exploitable par son auteur
-- Finaliser et déposer un fichier au bon format, correctement nommé et documenté
-
-</div>
 
 ## Travail à faire
 
@@ -123,6 +117,14 @@ terminée, contrôlée et déposée — pas la veille.
 - **ENT de l'établissement** : espace de dépôt du projet et messagerie pour transmettre la grille de contrôle — accès avec tes identifiants personnels.
 - **Canva / PowerPoint / Audacity** : reprise des corrections et réexport — [canva.com/education/students](https://www.canva.com/education/students/){ target="_blank" rel="noopener" } · [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" } · [audacityteam.org](https://www.audacityteam.org/){ target="_blank" rel="noopener" }.
 - **OneNote (Microsoft 365)** : grille de contrôle et fiche technique — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+  <span title="Collaborer">CRCN 2.3</span>
+</div>
 
 ## Grille d'évaluation CRCN 3.3 / 2.3 — Finalisation et dépôt
 

@@ -1,10 +1,5 @@
 # 🫧 Comparer sa bulle de filtres à celle de ses camarades
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Observer comment un algorithme personnalise un fil d'actualité et comparer les résultats entre élèves</p>
@@ -15,7 +10,16 @@
   <span>:material-tag-outline: Comparatif de classe</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Observer, par comparaison directe, la personnalisation d'un fil d'actualité entre deux comptes différents
+- Décrire sa propre bulle de filtres et ses effets possibles sur l'information reçue
+
+</div>
+
+## Contexte et problématique
 
 Deux personnes qui recherchent le même mot-clé sur un réseau social n'obtiennent pas forcément les mêmes résultats
 : un algorithme personnalise ce qui s'affiche selon l'historique de chacun. Tu vas comparer, avec un camarade, vos
@@ -24,15 +28,6 @@ fils d'actualité respectifs sur un même sujet pour observer concrètement ce p
 !!! question "Problématique"
     « En quoi ma bulle de filtres est-elle différente de celle d'un camarade, et qu'est-ce que cela signifie pour
     l'information que je reçois sans la chercher ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Observer, par comparaison directe, la personnalisation d'un fil d'actualité entre deux comptes différents
-- Décrire sa propre bulle de filtres et ses effets possibles sur l'information reçue
-
-</div>
 
 ## Travail à faire
 
@@ -72,6 +67,13 @@ fils d'actualité respectifs sur un même sujet pour observer concrètement ce p
 
 - **Son propre compte de réseau social** : pour l'observation du fil d'actualité (pas de compte fictif requis pour
   cette activité, aucune donnée personnelle n'est déposée, seule l'observation de contenus publics est demandée).
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+</div>
 
 ## Grille d'évaluation Bulles de filtres (Pluri MG2)
 

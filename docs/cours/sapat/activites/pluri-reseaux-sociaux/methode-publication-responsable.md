@@ -1,10 +1,5 @@
 # 📝 Formaliser sa méthode de publication responsable
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Développer des documents textuels">CRCN 3.1</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Réunir les acquis du trimestre en une méthode écrite de vérification et de publication, réutilisable pour les prochaines activités</p>
@@ -15,17 +10,7 @@
   <span>:material-tag-outline: Méthode collective</span>
 </div>
 
-## Mise en situation
-
-Depuis le début de l'année, tu as travaillé la vérification de l'information, la détection des deepfakes, le droit
-à l'image et la sécurité des comptes. Il est temps de réunir ces acquis en une **méthode écrite unique**, que tu
-réutiliseras directement pour publier un texte puis un visuel dans les prochaines activités.
-
-!!! question "Problématique"
-    « Quelle méthode simple et complète peut résumer tout ce qu'il faut vérifier avant de publier un contenu sur les
-    réseaux sociaux ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -34,6 +19,16 @@ réutiliseras directement pour publier un texte puis un visuel dans les prochain
 - Tester cette méthode sur un exemple de publication pour vérifier qu'elle est complète et applicable
 
 </div>
+
+## Contexte et problématique
+
+Depuis le début de l'année, tu as travaillé la vérification de l'information, la détection des deepfakes, le droit
+à l'image et la sécurité des comptes. Il est temps de réunir ces acquis en une **méthode écrite unique**, que tu
+réutiliseras directement pour publier un texte puis un visuel dans les prochaines activités.
+
+!!! question "Problématique"
+    « Quelle méthode simple et complète peut résumer tout ce qu'il faut vérifier avant de publier un contenu sur les
+    réseaux sociaux ? »
 
 ## Travail à faire
 
@@ -80,6 +75,13 @@ réutiliseras directement pour publier un texte puis un visuel dans les prochain
 
 - **Fiches produites depuis le début de l'année** : vérification de l'information, deepfakes, droit à l'image,
   sécurité des comptes — conservées dans OneNote.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Développer des documents textuels">CRCN 3.1</span>
+</div>
 
 ## Grille d'évaluation Méthode de publication responsable (Pluri MG2)
 

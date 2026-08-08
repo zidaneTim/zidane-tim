@@ -1,10 +1,5 @@
 # 🖼️ Créer un visuel accessible pour accompagner un message
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Concevoir un visuel accessible (contraste, texte alternatif) associé au message et au public cible travaillés la séance précédente</p>
@@ -15,16 +10,7 @@
   <span>:material-tag-outline: Canva · Accessibilité</span>
 </div>
 
-## Mise en situation
-
-Tu vas associer un visuel au post rédigé lors de l'activité précédente, en veillant à ce qu'il reste lisible et
-compréhensible par le plus grand nombre, y compris une personne malvoyante ou utilisant un lecteur d'écran.
-
-!!! question "Problématique"
-    « Comment créer un visuel qui accompagne efficacement un message, tout en restant accessible à une personne
-    malvoyante ou utilisant un lecteur d'écran ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -32,6 +18,15 @@ compréhensible par le plus grand nombre, y compris une personne malvoyante ou u
 - Associer visuel et message de façon cohérente pour le public cible déjà défini
 
 </div>
+
+## Contexte et problématique
+
+Tu vas associer un visuel au post rédigé lors de l'activité précédente, en veillant à ce qu'il reste lisible et
+compréhensible par le plus grand nombre, y compris une personne malvoyante ou utilisant un lecteur d'écran.
+
+!!! question "Problématique"
+    « Comment créer un visuel qui accompagne efficacement un message, tout en restant accessible à une personne
+    malvoyante ou utilisant un lecteur d'écran ? »
 
 ## Travail à faire
 
@@ -75,6 +70,13 @@ compréhensible par le plus grand nombre, y compris une personne malvoyante ou u
 
 - **Canva** : création du visuel — [lien](https://www.canva.com){ target="_blank" rel="noopener" }.
 - **Pixabay** : banque d'images libres de droits — [lien](https://pixabay.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Adapter les documents à leur finalité">CRCN 3.3</span>
+</div>
 
 ## Grille d'évaluation Publier un visuel accessible (Pluri MG2)
 

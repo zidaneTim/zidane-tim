@@ -1,10 +1,5 @@
 # 🔍 Vérifier une information selon une méthode SIFT simplifiée
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
-</div>
-
 <p class="zt-kicker">Terminale Bac Pro SAPAT — Pluri · Réseaux sociaux numériques</p>
 
 <p class="zt-lede">Appliquer une méthode simple de vérification pour distinguer une information fiable d'une désinformation partagée sur les réseaux</p>
@@ -15,17 +10,7 @@
   <span>:material-tag-outline: Méthode SIFT</span>
 </div>
 
-## Mise en situation
-
-Une information (fictive, construite pour l'exercice) circule sur un réseau social : elle semble crédible, partagée
-massivement, mais son origine est incertaine. Tu vas la vérifier avec une méthode simple et en tirer une règle de
-comportement à réutiliser à chaque partage.
-
-!!! question "Problématique"
-    « Comment vérifier rapidement une information qui circule sur les réseaux, avant de la croire ou de la
-    partager ? »
-
-## Objectifs
+## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
 
@@ -34,6 +19,16 @@ comportement à réutiliser à chaque partage.
 - Comparer plusieurs sources sur le même sujet pour évaluer la fiabilité de l'information
 
 </div>
+
+## Contexte et problématique
+
+Une information (fictive, construite pour l'exercice) circule sur un réseau social : elle semble crédible, partagée
+massivement, mais son origine est incertaine. Tu vas la vérifier avec une méthode simple et en tirer une règle de
+comportement à réutiliser à chaque partage.
+
+!!! question "Problématique"
+    « Comment vérifier rapidement une information qui circule sur les réseaux, avant de la croire ou de la
+    partager ? »
 
 ## Travail à faire
 
@@ -74,6 +69,13 @@ comportement à réutiliser à chaque partage.
 
 - **Moteur de recherche d'images inversée** (Google Images ou équivalent) : pour tracer l'origine d'un visuel.
 - **Moteur de recherche** : pour comparer les sources sur le même sujet.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Mener une recherche et une veille d'information">CRCN 1.1</span>
+</div>
 
 ## Grille d'évaluation Vérification de l'information (Pluri MG2)
 

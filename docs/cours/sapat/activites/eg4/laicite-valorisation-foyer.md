@@ -1,10 +1,5 @@
 # 📢 Diffuser au foyer et évaluer l'impact
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Partager et publier">CRCN 2.2</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Installer la production dans un lieu de passage, garder une trace numérique de l'action et évaluer ce qu'elle a réellement produit</p>
@@ -15,7 +10,17 @@
   <span>:material-tag-outline: Diffusion · Trace numérique · Autoévaluation</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Installer ou diffuser une production dans un lieu accueillant du public, en respectant les contraintes du lieu
+- Produire une trace numérique exploitable de l'action (photo, fichier archivé, courte légende sourcée)
+- Évaluer sa production à l'aide de critères de réussite définis par le groupe et formuler deux pistes d'amélioration
+
+</div>
+
+## Contexte et problématique
 
 C'est le moment où le projet quitte l'ordinateur. La production que tu as cadrée, fabriquée, contrôlée et déposée
 est installée ou diffusée au **foyer des élèves** pour la journée nationale de la laïcité du **9 décembre**.
@@ -31,16 +36,6 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 
 !!! question "Problématique"
     « Une production diffusée a-t-elle atteint son public — et comment le savoir autrement qu'à l'impression ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Installer ou diffuser une production dans un lieu accueillant du public, en respectant les contraintes du lieu
-- Produire une trace numérique exploitable de l'action (photo, fichier archivé, courte légende sourcée)
-- Évaluer sa production à l'aide de critères de réussite définis par le groupe et formuler deux pistes d'amélioration
-
-</div>
 
 ## Travail à faire
 
@@ -121,6 +116,13 @@ trace numérique de l'action et tu évalues ce qu'elle a produit auprès du publ
 - **OneDrive (Microsoft 365)** : archivage du dossier `Projet-Laicite-2026-2027` — [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
 - **Critères de réussite co-construits par la classe** : grille établie collectivement en amont, reprise ici pour l'autoévaluation — dans la page OneNote de la classe.
 - **CNIL — droit à l'image et données personnelles** : rappel des règles applicables à la photo d'une action — [cnil.fr](https://www.cnil.fr/fr/mes-demarches/les-droits-pour-maitriser-vos-donnees-personnelles){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Partager et publier">CRCN 2.2</span>
+</div>
 
 ## Grille d'évaluation CRCN 2.2 — Diffusion et valorisation
 

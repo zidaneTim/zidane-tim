@@ -1,11 +1,5 @@
 # 🧰 Atelier de consolidation — données personnelles et traces
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Atelier au choix : reprendre les droits RGPD, le tri des données sensibles et le paramétrage de ses propres comptes</p>
@@ -16,7 +10,17 @@
   <span>:material-tag-outline: Atelier différencié · CNIL · OneNote</span>
 </div>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Reformuler sans support les droits qu'un usager peut exercer sur ses données
+- Distinguer données courantes et données sensibles dans une situation professionnelle inédite
+- Paramétrer concrètement la confidentialité d'au moins un compte personnel et en garder la preuve
+
+</div>
+
+## Contexte et problématique
 
 Les règles de protection des données ne s'appliquent pas seulement aux dossiers des usagers : elles valent aussi
 pour tes propres comptes. Un agent qui laisse son profil personnel entièrement public, ou qui accepte tous les
@@ -32,16 +36,6 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 !!! question "Problématique"
     « Qu'est-ce que je sais réellement faire en matière de protection des données — et qu'est-ce que je crois
     seulement savoir ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Reformuler sans support les droits qu'un usager peut exercer sur ses données
-- Distinguer données courantes et données sensibles dans une situation professionnelle inédite
-- Paramétrer concrètement la confidentialité d'au moins un compte personnel et en garder la preuve
-
-</div>
 
 ## Travail à faire
 
@@ -127,6 +121,14 @@ devras appliquer chaque jour au guichet — et d'abord sur tes propres comptes.
 - **CNIL — Modèles de courrier** : lettres types d'exercice des droits — [cnil.fr/fr/modeles/courrier](https://www.cnil.fr/fr/modeles/courrier){ target="_blank" rel="noopener" }.
 - **CNIL — Enfants et ados** : fiches pratiques sur les usages personnels et les réglages de confidentialité — [cnil.fr/fr/thematiques/enfants-et-ados](https://www.cnil.fr/fr/thematiques/enfants-et-ados){ target="_blank" rel="noopener" }.
 - **Ton autodiagnostic CRCN** : à mettre à jour en fin de séance — page OneNote *Environnement numérique*.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+  <span title="Sécuriser l'environnement numérique">CRCN 4.1</span>
+</div>
 
 ## Grille d'évaluation CRCN 4.2 / 4.1 — Consolidation
 

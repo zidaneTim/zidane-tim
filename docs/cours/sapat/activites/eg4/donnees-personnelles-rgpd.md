@@ -1,11 +1,5 @@
 # 🔐 Les données des usagers ne t'appartiennent pas
 
-<div class="zt-pix" markdown>
-  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
-  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
-  <span title="Développer des documents multimédia">CRCN 3.2</span>
-</div>
-
 <p class="zt-kicker">2nde Bac Pro SAPAT — EG4 · Vivre et agir ensemble</p>
 
 <p class="zt-lede">Comprendre les droits RGPD d'un usager et les traduire en une infographie utilisable par une structure d'accueil</p>
@@ -18,7 +12,17 @@
 
 <small style="color:#7239f6">*Parcours Pix associé — Protection et sécurité - Socle commun*</small>
 
-## Mise en situation
+## Objectifs pédagogiques
+
+<div class="zt-objectifs" markdown>
+
+- Identifier les droits qu'un usager peut exercer sur ses données personnelles auprès d'une structure
+- Distinguer donnée personnelle courante et donnée sensible dans un dossier d'aide sociale
+- Produire une infographie A4 claire, sourcée et destinée à un public non spécialiste
+
+</div>
+
+## Contexte et problématique
 
 Le **CCAS** (Centre communal d'action sociale) d'une commune du centre Bretagne accueille chaque semaine des
 habitants qui remplissent des dossiers d'aide : nom, adresse, revenus, composition de la famille, parfois des
@@ -36,16 +40,6 @@ leurs données et quels droits ils peuvent exercer.
 !!! question "Problématique"
     « Comment expliquer, en une seule page compréhensible par tous, les droits d'un usager sur ses données
     personnelles et ce qu'une structure a le devoir de faire pour les protéger ? »
-
-## Objectifs
-
-<div class="zt-objectifs" markdown>
-
-- Identifier les droits qu'un usager peut exercer sur ses données personnelles auprès d'une structure
-- Distinguer donnée personnelle courante et donnée sensible dans un dossier d'aide sociale
-- Produire une infographie A4 claire, sourcée et destinée à un public non spécialiste
-
-</div>
 
 ## Travail à faire
 
@@ -123,6 +117,14 @@ leurs données et quels droits ils peuvent exercer.
 - **CNIL — Le RGPD** : cadre général du règlement européen (dates, principes) — [cnil.fr/fr/reglement-europeen-protection-donnees](https://www.cnil.fr/fr/reglement-europeen-protection-donnees){ target="_blank" rel="noopener" }.
 - **CNIL — Modèles de courrier** : lettres types pour exercer un droit, à connaître pour orienter un usager — [cnil.fr/fr/modeles/courrier](https://www.cnil.fr/fr/modeles/courrier){ target="_blank" rel="noopener" }.
 - **Canva (compte établissement) ou PowerPoint** : création de l'infographie A4 et export PDF — [canva.com/education/students](https://www.canva.com/education/students/){ target="_blank" rel="noopener" } ou PowerPoint via [portal.office.com](https://portal.office.com){ target="_blank" rel="noopener" }.
+
+## Compétences CRCN et parcours Pix
+
+<div class="zt-pix" markdown>
+  <span class="zt-pix-label">:material-certificate-outline: Compétences CRCN</span>
+  <span title="Protéger les données personnelles et la vie privée">CRCN 4.2</span>
+  <span title="Développer des documents multimédia">CRCN 3.2</span>
+</div>
 
 ## Grille d'évaluation CRCN 4.2 / 3.2 — Données personnelles
 
