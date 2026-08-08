@@ -111,10 +111,10 @@ Selon l'Observatoire National de la Précarité Énergétique (ONPE), un ménage
 
 <div class="zt-grille" markdown>
 
-| Critère | Indicateurs observables | Niveau |
-|---|---|---|
-| 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié. | -- / - / + / ++ |
-| 2 — Traitement des données adapté au contexte et à la problématique étudiée | Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | -- / - / + / ++ |
-| 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | -- / - / + / ++ |
+| Critère | Indicateurs observables | -- (insuffisant) | - (fragile) | + (satisfaisant) | ++ (très bonne maîtrise) |
+|---|---|---|---|---|---|
+| 1 — Analyse du contexte et de la problématique | Le lien entre logement, consommation d'électricité et précarité énergétique est reformulé avec ses propres mots ; la problématique est resituée sur LCBC ; le filtrage (EPCI, secteur résidentiel, filière électricité) est correct et justifié. | Le contexte n'est pas compris ou est mal reformulé ; le filtrage des données reste flou ou incorrect. | Le contexte est reformulé de façon approximative ; le filtrage est fait mais avec des oublis. | Le lien logement/consommation/précarité est reformulé clairement ; le filtrage est correct. | L'analyse est précise et argumentée ; l'élève prend du recul sur les limites du filtrage ou de la donnée. |
+| 2 — Traitement des données adapté au contexte et à la problématique étudiée | Le sous-ensemble est nettoyé (secret statistique géré, doublons de commune regroupés si présents) ; NB.SI, SOMME.SI.ENS, MOYENNE.SI.ENS, SI et le TCD sont fonctionnels et pertinents. | Le traitement (nettoyage, formules, TCD) est absent ou ne fonctionne pas. | Le traitement fonctionne partiellement, avec des erreurs qui faussent le résultat. | Le traitement est correct et cohérent avec la consigne. | Le traitement est rigoureux et vérifié ; l'élève repère et corrige lui-même une erreur ou une incohérence. |
+| 3 — Exposition des données adaptée au contexte et représentative de la problématique étudiée | Graphique, carte MyMaps et fiche-conseil sont lisibles, cohérents avec les données traitées et adaptés au public visé. | La production (graphique, carte, fiche) est absente ou ne permet pas de comprendre la situation. | La production est incomplète ou peu adaptée au public visé. | Le graphique, la carte et la fiche sont clairs, complets et adaptés au public visé. | La production est directement exploitable sur le terrain, avec des repères pertinents et argumentés. |
 
 </div>

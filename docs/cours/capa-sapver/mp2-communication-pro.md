@@ -96,6 +96,118 @@ Communiquer en situation professionnelle : accueil, transmission d'informations,
 
     [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/publipostage-avance-bilan-trimestre.md)
 
+-   :material-microphone-outline:{ .lg .middle } <span class="zt-step">12</span> **Préparer un oral express et un kit de documents pour ta PFMP**
+
+    ---
+
+    Construire un support d'oral court et un kit de documents professionnels avant de partir en période de formation en milieu professionnel.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/oral-express-kit-pfmp.md)
+
+-   :material-lock-outline:{ .lg .middle } <span class="zt-step">13</span> **Décrire sa communication de stage et résoudre des cas de secret professionnel**
+
+    ---
+
+    Analyser la communication observée en PFMP et résoudre des cas concrets de secret professionnel et de RGPD.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/retour-pfmp-donnees-personnelles.md)
+
+-   :material-monitor-star:{ .lg .middle } <span class="zt-step">14</span> **Présenter sa PFMP à l'oral avec un diaporama efficace**
+
+    ---
+
+    Concevoir un diaporama respectant la règle 6×6 et présenter sa période en structure en 5 minutes.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/presentation-orale-diaporama-pfmp.md)
+
+-   :material-account-group-outline:{ .lg .middle } <span class="zt-step">15</span> **Collaborer à distance et auditer sa présence en ligne avant l'insertion professionnelle**
+
+    ---
+
+    Produire à deux sur un document partagé, animer une visio avec partage d'écran, et vérifier sa e-réputation.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/collaboratif-visio-e-reputation.md)
+
+-   :material-chart-bar:{ .lg .middle } <span class="zt-step">16</span> **Faire le bilan de ses compétences et s'entraîner sur ses points faibles**
+
+    ---
+
+    Évaluer ses compétences MP2 sur une grille bilan et s'entraîner de façon ciblée sur son positionnement Pix.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/bilan-competences-remediation-differenciee.md)
+
+-   :material-folder-text-outline:{ .lg .middle } <span class="zt-step">17</span> **Choisir son sujet et construire le plan de son dossier professionnel**
+
+    ---
+
+    Cadrer les épreuves E4.1/E4.2, choisir un sujet ancré en PFMP et préparer un modèle de rapport.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/lancement-dossier-professionnel.md)
+
+-   :material-file-edit-outline:{ .lg .middle } <span class="zt-step">18</span> **Rédiger la présentation du terrain et de l'activité de son dossier professionnel**
+
+    ---
+
+    Rédiger les deux premières parties du dossier professionnel et nettoyer son espace de travail numérique.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/dossier-professionnel-presentation-terrain.md)
+
+-   :material-chart-line:{ .lg .middle } <span class="zt-step">19</span> **Rédiger l'analyse et les perspectives de son dossier professionnel**
+
+    ---
+
+    Rédiger l'analyse et les perspectives du dossier professionnel en insérant des images et tableaux légendés.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/dossier-professionnel-analyse-perspectives.md)
+
+-   :material-file-check-outline:{ .lg .middle } <span class="zt-step">20</span> **Finaliser son dossier professionnel — sommaire, bibliographie et relecture**
+
+    ---
+
+    Générer un sommaire automatique, finaliser la mise en page et relire son dossier selon une grille critériée.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/dossier-professionnel-finalisation.md)
+
+-   :material-bullseye-arrow:{ .lg .middle } <span class="zt-step">21</span> **Préparer son oral de dossier professionnel en binôme**
+
+    ---
+
+    Concevoir un diaporama d'appui et s'entraîner face à des questions de jury.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/preparation-oral-dossier-professionnel.md)
+
+-   :material-trophy-outline:{ .lg .middle } <span class="zt-step">22</span> **Réaliser une simulation orale complète en conditions d'épreuve**
+
+    ---
+
+    Passer un oral formatif complet en conditions réelles d'épreuve E4.1 et dresser un bilan individuel.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/simulation-orale-complete-e41.md)
+
+-   :material-swap-horizontal:{ .lg .middle } <span class="zt-step">23</span> **Intégrer les apports de sa dernière PFMP dans le dossier professionnel**
+
+    ---
+
+    Analyser sa dernière période de formation en milieu professionnel et ajuster son dossier et son oral.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/retour-pfmp3-ajustements-dossier.md)
+
+-   :material-briefcase-outline:{ .lg .middle } <span class="zt-step">24</span> **Compiler son portfolio numérique et actualiser son CV de sortie**
+
+    ---
+
+    Rassembler ses meilleures productions des deux années dans un portfolio et actualiser son CV.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/portfolio-numerique-cv-sortie.md)
+
+-   :material-school-outline:{ .lg .middle } <span class="zt-step">25</span> **S'entraîner une dernière fois à l'oral et dresser son bilan CRCN de fin de cycle**
+
+    ---
+
+    S'entraîner individuellement à l'oral E4.1 et dresser un bilan CRCN complet des deux années de formation.
+
+    [:octicons-arrow-right-24: Ouvrir l'activité](activites/mp2/revisions-oral-bilan-crcn-final.md)
+
 </div>
 
 !!! tip "Où répondre ?"
