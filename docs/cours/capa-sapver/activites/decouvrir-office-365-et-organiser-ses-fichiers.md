@@ -4,15 +4,15 @@
   <div><strong style="font-size: 1.1rem;">CAPa SAPVER 1 — MG1 · Vie sociale</strong></div>
 </div>
 
-## Compétences et parcours
+## Contexte et problématique
 
-**Cadre de Référence pour les Compétences Numériques (CRCN)**
-- CRCN 5.2 : Construire un environnement numérique
-- CRCN 1.2 : Gérer des données
+C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
 
-**Parcours Pix associés**
-- Environnement numérique - Socle commun
-- Information et données - Socle commun
+L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait enregistré « quelque part » sur l'ordinateur d'une salle informatique, remise à zéro pendant l'été. Il a dû tout refaire. Pour ne pas revivre ça, tu vas construire dès aujourd'hui un système de rangement qui te suit partout, que tu sois sur l'ordinateur de la salle info, sur celui du CDI ou chez toi.
+
+!!! question "Comment se connecter à Office 365, comprendre à quoi servent OneNote et OneDrive, et mettre en place un rangement de fichiers qui dure toute l'année ?"
+
+*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
 
 ## Objectifs pédagogiques
 
@@ -23,16 +23,6 @@
 - Être capable d'expliquer la différence entre un fichier stocké en local et un fichier synchronisé en ligne, et d'appliquer une méthode de classement que je réutiliserai toute l'année.
 
 </div>
-
-## Contexte et problématique
-
-C'est la rentrée. Le lycée te remet un identifiant et un mot de passe : ce sont ceux de ton compte **Office 365**, l'espace numérique que tu vas utiliser toute l'année pour prendre des notes (**OneNote**), stocker et retrouver tes fichiers (**OneDrive**), et rédiger tes documents (Word, Excel, PowerPoint).
-
-L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait enregistré « quelque part » sur l'ordinateur d'une salle informatique, remise à zéro pendant l'été. Il a dû tout refaire. Pour ne pas revivre ça, tu vas construire dès aujourd'hui un système de rangement qui te suit partout, que tu sois sur l'ordinateur de la salle info, sur celui du CDI ou chez toi.
-
-!!! question "Comment se connecter à Office 365, comprendre à quoi servent OneNote et OneDrive, et mettre en place un rangement de fichiers qui dure toute l'année ?"
-
-*(Pas de jeu de données pour cette activité : les seules ressources nécessaires — portail Office 365 et fiche d'aide sur la synchronisation — sont listées en fin de fiche.)*
 
 ## Travail à faire
 
@@ -120,6 +110,16 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 - **Office 365 (Microsoft 365)** : portail de connexion pour accéder à OneNote, OneDrive et aux autres outils — [se connecter](https://www.office.com){ target="_blank" rel="noopener" }
 - **Explorateur de fichiers Windows** : pour retrouver et organiser le dossier « Documents » de l'ordinateur — icône dans la barre des tâches, ou raccourci clavier touche <kbd>⊞ Windows</kbd> + <kbd>E</kbd>
 - **Support Microsoft — Synchroniser des fichiers avec OneDrive** : fiche d'aide officielle pour comprendre la synchronisation (notion générale à consulter en cas de doute) — [lire la fiche](https://support.microsoft.com/fr-fr/office/synchroniser-des-fichiers-avec-onedrive-sous-windows-615391c4-2bd3-4aae-a42a-858262e42a49){ target="_blank" rel="noopener" }
+
+## Compétences et parcours
+
+**Cadre de Référence pour les Compétences Numériques (CRCN)**
+- CRCN 5.2 : Construire un environnement numérique
+- CRCN 1.2 : Gérer des données
+
+**Parcours Pix associés**
+- Environnement numérique - Socle commun
+- Information et données - Socle commun
 
 ## Grille d'évaluation (obj. 2.2.1)
 
