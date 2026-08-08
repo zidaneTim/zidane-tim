@@ -33,7 +33,7 @@ L'an dernier, un élève de CAPa1 a perdu son compte rendu de stage : il l'avait
 
 ## Travail à faire
 
-### A — Se connecter à Office 365 et repérer les outils
+#### A — Se connecter à Office 365 et repérer les outils
 
 Accède au portail Office 365 en utilisant l'identifiant et le mot de passe remis par le lycée (voir le lien dans les Ressources). Une fois connecté, clique sur le **lanceur d'applications** (petite grille de points en haut à gauche) pour voir la liste des outils disponibles.
 
@@ -43,7 +43,7 @@ Accède au portail Office 365 en utilisant l'identifiant et le mot de passe remi
 !!! info "Astuce technique"
     Les identifiants de connexion respectent la casse (majuscules/minuscules). Vérifie qu'il n'y a pas d'espaces avant ou après ton identifiant. Si la connexion échoue, demande à un adulte.
 
-### B — Découvrir OneNote pour prendre des notes synchronisées
+#### B — Découvrir OneNote pour prendre des notes synchronisées
 
 Ouvre **OneNote** depuis le lanceur d'applications.
 
@@ -53,7 +53,7 @@ Ouvre **OneNote** depuis le lanceur d'applications.
 4. Crée une première page intitulée « Outils et organisation ».
 5. Observe ce qui change si tu fermes OneNote et le rouvres depuis un autre ordinateur du lycée (si possible). Ton bloc-notes est-il synchronisé ?
 
-### C — Découvrir OneDrive pour ranger tes fichiers à long terme
+#### C — Découvrir OneDrive pour ranger tes fichiers à long terme
 
 Ouvre **OneDrive** depuis le lanceur d'applications.
 
@@ -61,7 +61,7 @@ Ouvre **OneDrive** depuis le lanceur d'applications.
 2. Vérifie l'espace de stockage disponible pour ton compte (consultation en bas de la page ou dans les paramètres).
 3. Comprendre les usages : contrairement au dossier « Documents » d'un PC, OneDrive est **ton** espace personnel, relié à **ton compte**, pas à une machine précise. Un fichier rangé là te suit partout.
 
-### D — Créer ton arborescence et appliquer ta règle de nommage
+#### D — Créer ton arborescence et appliquer ta règle de nommage
 
 Dans OneDrive, tu vas créer une structure que tu utiliseras toute l'année.
 
@@ -79,7 +79,7 @@ Dans OneDrive, tu vas créer une structure que tu utiliseras toute l'année.
    - Nom proposé : `2026-08-08_Decouverte-Office-365-MG1-VotrePrénom`
 5. Vérifie que le fichier s'affiche bien dans OneDrive en ligne (il devrait apparaître immédiatement).
 
-### E — Activer la synchronisation locale et vérifier qu'elle fonctionne
+#### E — Activer la synchronisation locale et vérifier qu'elle fonctionne
 
 La synchronisation permet à OneDrive de se copier automatiquement dans le dossier « Documents » de ton ordinateur.
 
