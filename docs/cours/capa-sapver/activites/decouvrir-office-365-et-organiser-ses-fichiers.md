@@ -113,6 +113,8 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 
 ## Compétences et parcours
 
+<div class="zt-compact" markdown>
+
 Cadre de Référence pour les Compétences Numériques (CRCN) :
 
 - CRCN 5.2 : Construire un environnement numérique
@@ -122,6 +124,8 @@ Parcours Pix associés :
 
 - Environnement numérique - Socle commun
 - Information et données - Socle commun
+
+</div>
 
 ## Grille d'évaluation (obj. 2.2.1)
 

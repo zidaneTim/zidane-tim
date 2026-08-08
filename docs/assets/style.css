@@ -573,3 +573,13 @@
 .md-typeset .tip > summary::before {
   background-color: var(--md-accent-fg-color);
 }
+
+/* Sections compactes : interligne réduit pour les listes courtes
+   (ex. Compétences et parcours avec 2 listes de 2 items). */
+.md-typeset .zt-compact {
+  line-height: 1.35;
+}
+
+.md-typeset .zt-compact li {
+  margin-bottom: 0.08rem;
+}
