@@ -7,6 +7,10 @@
 
 <div style="color: #7239f6; font-size: 0.8rem; margin-bottom: 1rem; font-style: italic;">Parcours Pix associé — Environnement numérique - Socle commun · Information et données - Socle commun</div>
 
+## Parcours Pix associé
+
+Ce parcours couvre les compétences numériques transversales du Socle commun en environnement numérique et gestion des données.
+
 ## Objectifs pédagogiques
 
 <div class="zt-objectifs" markdown>
@@ -92,7 +96,7 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 !!! info "Note sur la synchronisation"
     Quand un fichier est synchronisé, une modification en local (Documents du PC) = une modification en ligne (OneDrive) et vice-versa. C'est ce qui te permet de travailler partout sans perdre tes fichiers.
 
-### Questions de synthèse
+#### Questions de synthèse
 
 1. **Tu dois remettre un travail important en avril.** En utilisant le système que tu viens de mettre en place, explique comment tu vas nommer et ranger ce fichier pour le retrouver facilement dans 6 mois.
 
@@ -100,7 +104,7 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 
 3. **Sécurité des données** : l'année dernière, un élève a perdu son compte rendu de stage parce qu'il l'avait enregistré uniquement dans « Documents » d'une salle informatique. Explique pourquoi ce risque n'existe plus avec ton nouveau système.
 
-### Défi — Pour aller plus loin
+#### Défi — Pour aller plus loin
 
 1. Ouvre les **paramètres de sécurité** de ton compte Office 365 (profil → Paramètres du compte). Note ce que tu observes : quels appareils ont accès à ton compte ? Y a-t-il des sessions actives ?
 
