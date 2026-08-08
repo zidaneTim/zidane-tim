@@ -117,7 +117,8 @@ La synchronisation permet à OneDrive de se copier automatiquement dans le dossi
 - CRCN 5.2 : Construire un environnement numérique
 - CRCN 1.2 : Gérer des données
 
-**Parcours Pix associés**
+Parcours Pix associés :
+
 - Environnement numérique - Socle commun
 - Information et données - Socle commun
 
