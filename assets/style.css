@@ -248,6 +248,7 @@
   font-size: 1.2rem;
   color: var(--md-primary-fg-color);
   margin-top: 1.5em;
+  margin-bottom: 1.2em;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   padding-bottom: 0.22em;
 }
